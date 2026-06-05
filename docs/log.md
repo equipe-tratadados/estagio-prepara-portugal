@@ -1,4 +1,4 @@
-# Log de Fontes
+# Log de Coleta
 
 > **📖 Como usar este log**
 >
