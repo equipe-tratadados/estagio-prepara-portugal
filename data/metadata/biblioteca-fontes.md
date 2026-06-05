@@ -1,4 +1,4 @@
-# LOG DE FONTES (PROVISÓRIO)
+# BIBLIOTECA DE FONTES (PROVISÓRIO)
 
 # Tabela exemplo 👇
 
