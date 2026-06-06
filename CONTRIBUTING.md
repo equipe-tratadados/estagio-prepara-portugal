@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing - Como Trabalhar Neste Repositório
 
 Guia de trabalho para membros do Grupo 1 — Coleta e Tratamento de Dados.
 
@@ -10,10 +10,11 @@ Guia de trabalho para membros do Grupo 1 — Coleta e Tratamento de Dados.
 2. [Branches](#branches)
 3. [Commits](#commits)
 4. [Tasks e IDs](#tasks-e-ids)
-5. [Fluxo de trabalho](#fluxo-de-trabalho)
-6. [Padrão de arquivos CSV](#padrao-de-arquivos-csv)
-7. [Regras gerais](#regras-gerais)
-8. [Mais Detalhes](#mais-detalhes)
+5. [Pull Requests](#pull-requests)
+6. [Fluxo de trabalho](#fluxo-de-trabalho)
+7. [Padrão de arquivos CSV](#padrao-de-arquivos-csv)
+8. [Regras gerais](#regras-gerais)
+9. [Mais Detalhes](#mais-detalhes)
 
 ---
 
@@ -92,36 +93,36 @@ Antes de fazer merge em `main`, pelo menos um membro da equipa deve rever o Pull
 ## <a name="commits"></a>Commits
 
 ### Formato
-
+ 
 ```
-[tipo] descrição curta no presente
+tipo: descrição curta no presente
 ```
-
-A descrição deve ser curta (até ~60 caracteres), clara, e escrita no presente.
-
+ 
+A descrição deve ser curta e clara, referenciar a task relacionada quando relevante.
+ 
 ### Tipos disponíveis
-
+ 
 | Tipo | Quando usar |
 | --- | --- |
-| `[dados]` | Adicionar ou atualizar ficheiros em `data/` |
-| `[limpeza]` | Scripts ou alterações em `data/2-clean/` |
-| `[script]` | Adicionar ou modificar scripts em `scripts/` |
-| `[docs]` | Alterações em arquivos `.md` como`docs/`, `reports/`, `README.md` ou `CONTRIBUTING.md` |
-| `[notebook]` | Adicionar ou modificar notebooks |
-| `[fix]` | Correção de erros |
-| `[entrega]` | Mover ficheiros para `data/3-delivery/` |
-
+| `dados` | Adicionar ou atualizar ficheiros em `data/` |
+| `limpeza` | Scripts ou alterações em `data/2-clean/` |
+| `script` | Adicionar ou modificar scripts em `scripts/` |
+| `docs` | Alterações em arquivos `.md` como `docs/`, `reports/`, `README.md` ou `CONTRIBUTING.md` |
+| `fix` | Correção de erros |
+| `entrega` | Mover ficheiros para `data/3-delivery/` |
+ 
 ### Exemplos
-
+ 
 ```
-[dados] adiciona dataset INE população por município 2024
-[limpeza] remove linhas duplicadas no ficheiro PORDATA
-[script] cria script de download automático INE
-[docs] actualiza log com download de 2024-06-05
-[fix] corrige encoding UTF-8 no CSV de saúde
-[entrega] move dataset emprego para 3-delivery
+dados: adiciona dataset INE população por município 2024
+limpeza: remove linhas duplicadas no ficheiro PORDATA
+script: cria script de download automático INE
+docs: atualiza log com download de 2024-06-05
+fix: corrige encoding UTF-8 no CSV de saúde
+entrega: move dataset emprego para 3-delivery
+dados: DP-012 adiciona dataset INE população 2024
 ```
-
+ 
 ---
 
 ## <a name="tasks-e-ids"></a>Tasks e IDs
@@ -142,6 +143,30 @@ O Grupo 1 **recebe** os IDs, não os cria. Ao referenciar uma task num commit ou
 [dados] DP-012 adiciona dataset INE população 2024
 ```
 
+---
+ 
+## <a name="pull-requests"></a>Pull Requests
+ 
+Antes de pedir review, garante que o teu trabalho está pronto. Ao abrir uma Pull Request no GitHub, o campo de descrição é preenchido automaticamente com um template, é só preencher os campos e marcar as caixas de seleção ou escrever "Não se aplica" à frente.
+ 
+### Título
+ 
+O título da PR deve seguir o mesmo formato dos commits:
+ 
+```
+tipo: descrição curta do que foi feito
+```
+ 
+Exemplos:
+```
+dados: adiciona dataset INE população por município 2024
+limpeza: padroniza colunas do ficheiro PORDATA emprego
+```
+ 
+### Revisão
+ 
+Pelo menos um membro da equipa deve aprovar a PR antes do merge em `main`. Quem revê deve verificar se o checklist foi preenchido e se os ficheiros estão conforme o padrão.
+ 
 ---
 
 ## <a name="fluxo-de-trabalho"></a>Fluxo de trabalho
