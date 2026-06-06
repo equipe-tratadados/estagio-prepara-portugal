@@ -17,8 +17,8 @@ O projeto está dividido em três grupos com responsabilidades sequenciais:
 | Grupo | Responsabilidade |
 |---|---|
 | **Grupo 1 — Coleta e Tratamento** | Identificar fontes, recolher dados, tratá-los e entregá-los limpos e documentados |
-| Grupo 2 | *(a definir)* |
-| Grupo 3 | *(a definir)* |
+| Grupo 2 - Visualização dos Dados | Criação de dashboards e gráficos interativos |
+| Grupo 3 - Produção de Conteúdo Analítico | Criação de artigos, textos e conteúdos a partir das análises realizadas. |
 
 Este repositório é o espaço de trabalho do **Grupo 1**. Os dados que produzimos alimentam as etapas seguintes, por isso a qualidade, rastreabilidade e documentação de todo o processo é prioridade.
 
@@ -29,16 +29,16 @@ Este repositório é o espaço de trabalho do **Grupo 1**. Os dados que produzim
 Os dados percorrem três etapas dentro do repositório, correspondendo às fases do CRISP-DM:
 
 ```
-data/1-raw/  →  data/2-clean/  →  data/3-delivery/
-    ↑                  ↑                  ↑
-Data Understanding  Data Preparation    Entrega
-(fonte original,    (limpeza e         (CSVs validados
- nunca editar)       padronização)      para os outros grupos)
+data/1-raw/   →   data/2-clean/   →   data/3-delivery/
+    ↑                  ↑                   ↑
+Data Understanding  Data Preparation     Entrega
+(fonte original,    (limpeza e          (CSVs validados
+ nunca editar)       padronização)       para os outros grupos)
 ```
 
 ---
 
-## O que encontras aqui
+## Estrutura do Repositório
 
 ```
 repositorio/
@@ -100,12 +100,13 @@ Os dados são recolhidos exclusivamente de fontes oficiais portuguesas e europé
 
 | Nome | GitHub |
 |---|---|
-| *(Nome)* | *(@ GitHub)* |
-| *(Nome)* | *(@ GitHub)* |
-| *(Nome)* | *(@ GitHub)* |
-| *(Nome)* | *(@ GitHub)* |
-| *(Nome)* | *(@ GitHub)* |
-| *(Nome)* | *(@ GitHub)* |
+| **Ana Cláudia Sevalho** | *[@anaclaudiasevalho](https://github.com/anaclaudiasevalho-creator)* | 
+| **Antony Ferreira** | *[@antonyfferreira](https://github.com/antonyfferreira)* |
+| **Germano Silva** | *[@Germano-Silva](https://github.com/Germano-Silva)* |
+| **Nubia Almeida** | *[@asalmenubia](https://github.com/asalmenubia)* |
+| **Patricia Duarte** | *[@patriciaduarte-hub](https://github.com/patriciaduarte-hub)* |
+| **Tabata Zardi** | *[@zarditab](https://github.com/zarditab)* |
+| **Grupo 1** | *[@equipe-tratadados](https://github.com/equipe-tratadados)* |
 
 Para questões internas da equipa, usa o canal no Notion ou este repositório.
 Para questões relacionadas com o programa: **dadoseti@preparaportugal.com**
