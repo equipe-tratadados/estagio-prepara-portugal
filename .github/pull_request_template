@@ -11,20 +11,20 @@
 
 ## Checklist de qualidade
 
-### Obrigatório para TODAS as PRs:
+#### Obrigatório para TODAS as PRs:
 - [ ] A branch está atualizada com `main`
 
-### Aplicável apenas para **dados** (CSV, Excel, etc.):
+#### Aplicável apenas para **dados** (CSV, Excel, etc.):
 - [ ] Os arquivos em `data/1-raw/` permanecem **inalterados**
 - [ ] O CSV segue o padrão: UTF-8, separador `;`, datas `AAAA-MM-DD`
 
-### Aplicável apenas para **scripts**:
+#### Aplicável apenas para **scripts**:
 - [ ] Testei localmente o funcionamento do script
 
-### Aplicável apenas para **downloads/novas fontes**:
+#### Aplicável apenas para **downloads/novas fontes**:
 - [ ] Atualizei `docs/log.md`
 
-### Aplicável apenas para **dados que vão para `delivery/`**:
+#### Aplicável apenas para **dados que vão para `delivery/`**:
 - [ ] Atualizei `docs/dicionario.md`
 
 ## Tarefa relacionada:
