@@ -15,9 +15,9 @@
 
 > ### Tabela de Exemplo:
 >
-> | Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
-> | :------- | :---- | :------ | :----------------- | :----- | :---------- |
-> | [residents_by_nationality_2024.csv](data/raw/aima/residents_by_nationality_2024.csv) | AIMA | 2015–2024 | year, nationality, resident_count | ✅ Pronto | [nome do estagiário] |
+>| Fonte Id | Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
+>| :------- | :------- | :---- | :------ | :----------------- | :----- | :---------- |
+>| F001 | [residents_by_nationality_2024.csv](data/raw/aima/residents_by_nationality_2024.csv) | AIMA | 2015–2024 | year, nationality, resident_count | ✅ Pronto | [nome do estagiário] |
 
 ---
 
@@ -34,6 +34,6 @@
 
 ## 📝 Dicionário de Dados (a preencher)
 
-| Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
-| :------- | :---- | :------ | :----------------- | :----- | :---------- |
-|          |       |         |                    |        |             |
+| Fonte Id | Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
+| :------- | :------- | :---- | :------ | :----------------- | :----- | :---------- |
+|          |          |       |         |                    |        |             |
