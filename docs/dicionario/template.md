@@ -1,0 +1,29 @@
+# Dicionário de Dados - [CÓDIGO DA SUBTAREFA, ex: DU002.1]
+
+> **Instruções:**
+> 1. Uma linha por CSV arrumado nesta subtarefa.
+> 2. **Não edite o `dicionario.md` diretamente.** Este ficheiro é consolidado pela líder.
+> 3. Antes de adicionar uma linha aqui, confirme que o ficheiro já tem uma entrada correspondente no `log.md`. Se não tiver, registe-a primeiro.
+> 4. Só entram aqui ficheiros que cumprem todas as regras da `biblioteca.md`. Um CSV que não esteja arrumado segundo essas regras não deve ser listado.
+> 5. **Nunca apague linhas.** Se um ficheiro deixar de ser utilizado, mude o estado para ⏸️ Bloqueado e acrescente uma nota na coluna Estado (ex: `substituído por residents_v2.csv`).
+> 6. Faça commit assim que acrescentar ou atualizar uma linha.
+> 7. Mensagem de commit sugerida: `docs(DU002.1): adiciona dicionário [nome.csv]`
+>
+> **Notas por coluna:**
+> 1. **Ficheiro:** nome do CSV como link para onde está no GitHub (ex: `[nome.csv](caminho/no/github)`).
+> 2. **Estado:** use apenas os valores da legenda abaixo. Atualize sempre que o estado mudar.
+> 3. **Responsável:** nome completo + link GitHub (ex: `[Nome Sobrenome](https://github.com/username)`).
+> 4. Se uma coluna não se aplicar, escreva `Não aplicável`. Nunca deixe em branco.
+
+### Legenda dos estados
+
+| Legenda | Significado |
+| --- | --- |
+| ✅ Pronto | Recolhido, arrumado segundo a `biblioteca.md` e registado no `log.md` |
+| 🟡 Em revisão | Recolhido mas ainda a validar |
+| 🔄 Em coleta | Ainda a ser recolhido |
+| ⏸️ Bloqueado | À espera de acesso à fonte ou substituído |
+
+| Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
