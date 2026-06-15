@@ -24,6 +24,6 @@
 | 🔄 Em coleta | Ainda a ser recolhido |
 | ⏸️ Bloqueado | À espera de acesso à fonte ou substituído |
 
-| Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| Fonte Id | Ficheiro | Fonte | Período | Colunas principais | Estado | Responsável |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
