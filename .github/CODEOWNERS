@@ -1,2 +1,9 @@
-# biblioteca.md exige aprovação de um dos code owners abaixo antes do merge
-biblioteca.md @patriciaduarte-hub @zarditab
+# Ficheiros consolidados — exigem aprovação de um code owner antes do merge
+biblioteca.md @patriciaduarte-hub @zarditab @equipe-tratadados
+log.md @patriciaduarte-hub @zarditab @equipe-tratadados
+dicionario.md @patriciaduarte-hub @zarditab @equipe-tratadados
+
+# Pastas de trabalho individual — sem owner (PR livre ou commit direto)
+docs/biblioteca/
+docs/log/
+docs/dicionario/
