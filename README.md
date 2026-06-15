@@ -44,28 +44,35 @@ Data Understanding  Data Preparation     Entrega
 repositorio/
 │
 ├── data/
-│   ├── 1-raw/          ← dados originais, tal como chegam da fonte (nunca editar)
-│   ├── 2-clean/        ← dados em tratamento
-│   ├── 3-delivery/     ← CSVs validados e prontos a entregar
+│   ├── 1-raw/              ← dados originais, tal como chegam da fonte (nunca editar)
+│   ├── 2-clean/            ← dados em tratamento
+│   ├── 3-delivery/         ← CSVs validados e prontos a entregar
 │   └── metadata/
 │
-├── scripts/
-│   ├── coleta/         ← scripts de recolha de dados
-│   └── limpeza/        ← scripts de tratamento e padronização
-│
 ├── docs/
-│   ├── biblioteca.md   ← catálogo de fontes identificadas (antes da coleta)
-│   ├── log.md          ← registo de cada ficheiro descarregado
-│   └── dicionario.md   ← descrição dos datasets entregues
+│   ├── biblioteca/         ← arquivos .md individuais por subtarefa
+│   │   └── template.md
+│   ├── dicionario/         ← arquivos .md individuais por subtarefa
+│   │   └── template.md
+│   ├── log/                ← arquivos .md individuais por subtarefa
+│   │   └── template.md
+│   ├── biblioteca.md       ← catálogo de fontes identificadas (antes da coleta)
+│   ├── dicionario.md       ← descrição dos datasets entregues
+│   └── log.md              ← registo de cada arquivo descarregado
 │
-├── notebooks/          ← exploração e prototipagem
+├── notebooks/              ← exploração e prototipagem
 ├── reports/
 │   ├── analise-exploratoria/
 │   └── validacao/
 │
-├── CONTRIBUTING        ← como trabalhar neste repositório
-└── README.md           ← este ficheiro
+├── scripts/
+│   ├── coleta/             ← scripts de recolha de dados
+│   └── limpeza/            ← scripts de tratamento e padronização
+│
+├── CONTRIBUTING            ← como trabalhar neste repositório
+└── README.md               ← este ficheiro
 ```
+
 
 ### Documentação essencial
 
