@@ -32,6 +32,25 @@ jobs:
           pr: '${{ github.event.pull_request.number }}'
           verbose: true
           quiet: ${{ github.event.pull_request.draft }}
+          
+        # =============================================
+      # ADICIONAR REVISORES EM TODOS OS PRs
+      # =============================================
+      - name: 'Add reviewers to all PRs'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const reviewers = ['patriciaduarte-hub', 'zarditab'];
+            
+            await github.rest.pulls.requestReviewers({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+              reviewers: reviewers
+            });
+            
+            console.log(`✅ Revisores adicionados: ${reviewers.join(', ')}`);
 
       # =============================================
       # BUSCA OS ARQUIVOS DO PR UMA ÚNICA VEZ E CALCULA
