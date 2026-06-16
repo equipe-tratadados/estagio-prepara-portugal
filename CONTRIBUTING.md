@@ -110,6 +110,7 @@ A descrição deve ser curta e clara, referenciar a task relacionada quando rele
 | `docs` | Alterações em arquivos `.md` como `docs/`, `reports/`, `README.md` ou `CONTRIBUTING.md` |
 | `fix` | Correção de erros |
 | `entrega` | Mover ficheiros para `data/3-delivery/` |
+| `feat` | Adiciona um novo recurso, funcionalidade ou melhoria |
  
 ### Exemplos
  
