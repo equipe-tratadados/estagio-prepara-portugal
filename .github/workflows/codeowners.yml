@@ -53,24 +53,20 @@ jobs:
             }
 
       # =============================================
-      # 3: Adicionar labels automáticas
+      # LABELS AUTOMÁTICAS
       # =============================================
       - name: 'Add labels for protected files'
-        if: always()  # Roda mesmo se o Codeowners Plus falhar
+        if: always()
         uses: actions/github-script@v7
         with:
           script: |
-            // Pega a lista de arquivos alterados no PR
             const { data: files } = await github.rest.pulls.listFiles({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number
             });
 
-            // Lista de arquivos protegidos (igual ao .codeowners)
             const protectedFiles = ['biblioteca.md', 'log.md', 'dicionario.md'];
-            
-            // Verifica se algum arquivo protegido foi alterado
             const hasProtected = files.some(file => 
               protectedFiles.some(protectedFile => 
                 file.filename.includes(protectedFile) || 
@@ -79,7 +75,6 @@ jobs:
             );
 
             if (hasProtected) {
-              // Adiciona as labels no PR
               await github.rest.issues.addLabels({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -89,10 +84,35 @@ jobs:
             }
 
       # =============================================
-      # 4: Comentário de instruções
+      # VERIFICA SE ARQUIVOS PROTEGIDOS FORAM ALTERADOS
+      # =============================================
+      - name: 'Check if protected files were changed'
+        id: check-protected
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number
+            });
+
+            const protectedFiles = ['biblioteca.md', 'log.md', 'dicionario.md'];
+            const hasProtected = files.some(file => 
+              protectedFiles.some(protectedFile => 
+                file.filename.includes(protectedFile) || 
+                file.filename.endsWith(protectedFile)
+              )
+            );
+
+            core.setOutput('hasProtected', hasProtected);
+
+      # =============================================
+      # COMENTÁRIO DE INSTRUÇÕES (SÓ SE ALTERAR .md)
       # =============================================
       - name: 'Add instructions comment if blocked'
-        if: failure()  # Só roda se o Codeowners Plus falhou
+        if: failure() && steps.check-protected.outputs.hasProtected == 'true'
         uses: actions/github-script@v7
         with:
           script: |
@@ -106,15 +126,7 @@ jobs:
             2. Owners: @patriciaduarte-hub, @zarditab, @equipe-tratadados
             3. Depois da aprovação, o status check vai passar e o merge será liberado
             
-            ### 📁 Arquivos protegidos alterados:
-            - biblioteca.md
-            - log.md  
-            - dicionario.md
-            
             📖 Consulte o [guia de contribuição](CONTRIBUTING.md) para mais detalhes.
-            
-            ---
-            *Esta mensagem foi gerada automaticamente pelo GitHub Actions.*
             `;
             
             await github.rest.issues.createComment({
