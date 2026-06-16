@@ -1,17 +1,9 @@
-# Nome do workflow
-name: 'Code Owners Check'
+name: 'Code Owners Check + Auto Reviewers'
 
-# Evita execuções simultâneas
-concurrency:
-  group: codeowners-${{ github.ref }}
-  cancel-in-progress: true
-
-# Define quando o workflow vai rodar
 on:
   pull_request:
     types: [opened, reopened, synchronize, ready_for_review]
 
-# Permissões necessárias
 permissions:
   contents: read
   issues: write
@@ -34,6 +26,25 @@ jobs:
           pr: '${{ github.event.pull_request.number }}'
           verbose: true
           quiet: ${{ github.event.pull_request.draft }}
+
+      # =============================================
+      # ADICIONAR REVISORES EM TODOS OS PRs
+      # =============================================
+      - name: 'Add reviewers to all PRs'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const reviewers = ['patriciaduarte-hub', 'zarditab'];
+            
+            await github.rest.pulls.requestReviewers({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+              reviewers: reviewers
+            });
+            
+            console.log(`✅ Revisores adicionados: ${reviewers.join(', ')}`);
 
       # =============================================
       # 3: Adicionar labels automáticas
