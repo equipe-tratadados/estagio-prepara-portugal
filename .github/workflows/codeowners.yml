@@ -128,7 +128,7 @@ jobs:
             core.setOutput('hasProtected', hasProtected);
 
       # =============================================
-      # COMENTÁRIO DE INSTRUÇÕES (SÓ SE ALTERAR .md)
+      # COMENTÁRIO DE INSTRUÇÕES (SÓ SE ALTERAR .md) 
       # =============================================
       - name: 'Add instructions comment if blocked'
         if: failure() && steps.check-protected.outputs.hasProtected == 'true'
