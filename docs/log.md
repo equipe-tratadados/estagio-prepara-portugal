@@ -21,3 +21,4 @@
 | Fonte Id | Ficheiro | Fonte | URL | Data de coleta | Período dos dados | Transformações aplicadas | Limitações conhecidas | Responsável |
 | :------- | :------- | :---- | :-- | :------------- | :---------------- | :----------------------- | :-------------------- | :---------- |
 |          |          |       |     |                |                   |                          |                       |             |
+
