@@ -19,6 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
+      # =============================================
+      # GATE DE MERGE: continua sendo o Codeowners Plus.
+      # O resultado deste step NÃO é usado por nenhum step
+      # abaixo — ele só existe para reportar o status check
+      # que o branch protection já usa para travar o merge.
+      # =============================================
       - name: 'Run Codeowners Plus'
         uses: multimediallc/codeowners-plus@v1.9.1
         with:
@@ -47,110 +53,124 @@ jobs:
             console.log(`✅ Revisores adicionados: ${reviewers.join(', ')}`);
 
       # =============================================
-      # REVISORES AUTOMÁTICOS EM TODOS OS PRs
+      # BUSCA OS ARQUIVOS DO PR UMA ÚNICA VEZ E CALCULA
+      # hasProtected COMPARANDO O NOME-BASE (não substring),
+      # PARA EVITAR FALSOS POSITIVOS (ex: changelog.md).
+      # if: always() garante que roda mesmo se o Codeowners
+      # Plus tiver falhado acima.
       # =============================================
-      - name: 'Add reviewers to all PRs'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const prNumber = context.payload.pull_request.number;
-            const prAuthor = context.payload.pull_request.user.login;
-            
-            const allReviewers = ['patriciaduarte-hub', 'zarditab', 'equipe-tratadados'];
-            const reviewers = allReviewers.filter(r => r !== prAuthor);
-            
-            if (reviewers.length > 0) {
-              await github.rest.pulls.requestReviewers({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: prNumber,
-                reviewers: reviewers
-              });
-              console.log(`✅ Revisores adicionados: ${reviewers.join(', ')}`);
-            } else {
-              console.log(`⚠️ Nenhum revisor disponível (autor é o único owner)`);
-            }
-
-      # =============================================
-      # LABELS AUTOMÁTICAS
-      # =============================================
-      - name: 'Add labels for protected files'
+      - name: 'Inspect changed files'
+        id: changed-files
         if: always()
         uses: actions/github-script@v7
         with:
           script: |
+            const protectedFiles = ['biblioteca.md', 'log.md', 'dicionario.md'];
+
             const { data: files } = await github.rest.pulls.listFiles({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: context.payload.pull_request.number
+              pull_number: context.payload.pull_request.number,
+              per_page: 100
             });
 
-            const protectedFiles = ['biblioteca.md', 'log.md', 'dicionario.md'];
-            const hasProtected = files.some(file => 
-              protectedFiles.some(protectedFile => 
-                file.filename.includes(protectedFile) || 
-                file.filename.endsWith(protectedFile)
-              )
-            );
+            const changedProtected = [...new Set(
+              files
+                .map(f => f.filename.split('/').pop())
+                .filter(basename => protectedFiles.includes(basename))
+            )];
 
-            if (hasProtected) {
-              await github.rest.issues.addLabels({
+            core.setOutput('hasProtected', changedProtected.length > 0);
+            core.setOutput('changedProtected', JSON.stringify(changedProtected));
+
+      # =============================================
+      # REVISORES AUTOMÁTICOS EM TODOS OS PRs
+      # =============================================
+      - name: 'Add reviewers to all PRs'
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prAuthor = context.payload.pull_request.user.login;
+            const allReviewers = ['zarditab', 'equipe-tratadados'];
+            const reviewers = allReviewers.filter(r => r !== prAuthor);
+
+            if (reviewers.length === 0) {
+              console.log('⚠️ Nenhum revisor disponível (autor é o único da lista)');
+              return;
+            }
+
+            try {
+              await github.rest.pulls.requestReviewers({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.payload.pull_request.number,
-                labels: ['🔒 arquivo-protegido', '🔍 revisao-necessaria']
+                pull_number: context.payload.pull_request.number,
+                reviewers: reviewers
               });
+              console.log(`✅ Revisores adicionados: ${reviewers.join(', ')}`);
+            } catch (error) {
+              console.log(`⚠️ Não foi possível solicitar revisores: ${error.message}`);
             }
 
       # =============================================
-      # VERIFICA SE ARQUIVOS PROTEGIDOS FORAM ALTERADOS
+      # LABELS + COMENTÁRIO PARA ARQUIVOS PROTEGIDOS.
+      # Depende só de hasProtected (calculado acima a partir
+      # do diff real), nunca do resultado do Codeowners Plus.
+      # Evita comentário duplicado a cada novo push (synchronize).
       # =============================================
-      - name: 'Check if protected files were changed'
-        id: check-protected
-        if: failure()
+      - name: 'Label and comment on protected file changes'
+        if: always() && steps.changed-files.outputs.hasProtected == 'true'
         uses: actions/github-script@v7
+        env:
+          CHANGED_PROTECTED: ${{ steps.changed-files.outputs.changedProtected }}
         with:
           script: |
-            const { data: files } = await github.rest.pulls.listFiles({
+            const prNumber = context.payload.pull_request.number;
+            const changedProtected = JSON.parse(process.env.CHANGED_PROTECTED);
+
+            await github.rest.issues.addLabels({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: context.payload.pull_request.number
+              issue_number: prNumber,
+              labels: ['🔒 arquivo-protegido', '🔍 revisao-necessaria']
             });
 
-            const protectedFiles = ['biblioteca.md', 'log.md', 'dicionario.md'];
-            const hasProtected = files.some(file => 
-              protectedFiles.some(protectedFile => 
-                file.filename.includes(protectedFile) || 
-                file.filename.endsWith(protectedFile)
-              )
-            );
+            const marker = '<!-- protected-file-notice -->';
 
-            core.setOutput('hasProtected', hasProtected);
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              per_page: 100
+            });
 
-      # =============================================
-      # COMENTÁRIO DE INSTRUÇÕES (SÓ SE ALTERAR .md)
-      # =============================================
-      - name: 'Add instructions comment if blocked'
-        if: failure() && steps.check-protected.outputs.hasProtected == 'true'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const comment = `
-            ## ⚠️ Este Pull Request precisa de aprovação!
-            
-            Você alterou um **arquivo protegido** (.md). Para fazer o merge, siga os passos abaixo:
-            
-            ### 📋 Passos necessários:
-            1. Um dos **owners** precisa revisar e aprovar este PR
-            2. Owners: @patriciaduarte-hub, @zarditab, @equipe-tratadados
-            3. Depois da aprovação, o status check vai passar e o merge será liberado
-            
-            📖 Consulte o [guia de contribuição](CONTRIBUTING.md) para mais detalhes.
-            `;
-            
+            if (comments.some(c => c.body && c.body.includes(marker))) {
+              console.log('ℹ️ Comentário de aviso já existe neste PR, não duplicando.');
+              return;
+            }
+
+            const fileList = changedProtected.map(f => `- ${f}`).join('\n');
+
+            const comment = [
+              marker,
+              '## ⚠️ Este Pull Request precisa de aprovação!',
+              '',
+              'Você alterou um **arquivo protegido**. Para fazer o merge, siga os passos abaixo:',
+              '',
+              '### 📋 Passos necessários:',
+              '1. Um dos **owners** precisa revisar e aprovar este PR',
+              '2. Owners: @equipe-tratadados, @zarditab',
+              '3. Depois da aprovação, o status check vai passar e o merge será liberado',
+              '',
+              '### 📁 Arquivos protegidos alterados:',
+              fileList,
+              '',
+              '📖 Consulte o [guia de contribuição](CONTRIBUTING.md) para mais detalhes.'
+            ].join('\n');
+
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.pull_request.number,
+              issue_number: prNumber,
               body: comment
             });
