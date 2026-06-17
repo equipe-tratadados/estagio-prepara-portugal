@@ -141,7 +141,7 @@ Exemplo: `DP-012` — tarefa 12 da fase de Data Preparation.
 O Grupo 1 **recebe** os IDs, não os cria. Ao referenciar uma task num commit ou Pull Request, incluir o ID no início da descrição quando relevante:
 
 ```
-[dados] DP-012 adiciona dataset INE população 2024
+dados(DP-012): adiciona dataset INE população 2024
 ```
 
 ---
