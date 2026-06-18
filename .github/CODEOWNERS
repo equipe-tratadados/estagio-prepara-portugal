@@ -1,7 +1,7 @@
 # Ficheiros consolidados — exigem aprovação de um code owner antes do merge
-biblioteca.md @patriciaduarte-hub @zarditab @equipe-tratadados
-log.md @patriciaduarte-hub @zarditab @equipe-tratadados
-dicionario.md @patriciaduarte-hub @zarditab @equipe-tratadados
+biblioteca.md @zarditab @equipe-tratadados
+log.md @zarditab @equipe-tratadados
+dicionario.md @zarditab @equipe-tratadados
 
 # Pastas de trabalho individual — sem owner (PR livre ou commit direto)
 docs/biblioteca/
