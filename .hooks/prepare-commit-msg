@@ -1,0 +1,231 @@
+#!/bin/bash
+# .hooks/prepare-commit-msg
+# Hook principal - assistente completo de commits
+
+# ============================================
+# CONFIGURAÇÃO INICIAL
+# ============================================
+
+# Só executa para commits normais
+if [ "$2" != "" ] || [ "$3" != "" ]; then
+    exit 0
+fi
+
+# Encontra o diretório dos módulos
+HOOKS_COMMON_DIR="$(cd "$(dirname "$0")/modules" 2>/dev/null && pwd)"
+
+if [ -z "$HOOKS_COMMON_DIR" ] || [ ! -d "$HOOKS_COMMON_DIR" ]; then
+    echo "❌ Erro: Diretório modules não encontrado!"
+    echo "   Esperado em: $(dirname "$0")/modules"
+    exit 1
+fi
+
+# Carrega todos os módulos
+for modulo in "$HOOKS_COMMON_DIR"/*.sh; do
+    if [ -f "$modulo" ]; then
+        source "$modulo"
+    fi
+done
+
+# ============================================
+# INÍCIO - LOG
+# ============================================
+
+if declare -F log_info &>/dev/null; then
+    log_info "Iniciando hook de commit"
+fi
+
+if declare -F registrar_auditoria &>/dev/null; then
+    registrar_auditoria "INICIO" "Usuário $(whoami) iniciou commit"
+fi
+
+# ============================================
+# APRESENTAÇÃO
+# ============================================
+
+clear
+echo ""
+echo -e "${BLUE}╔════════════════════════════════════════════════════════════════════════════╗${NC}"
+echo -e "${BLUE}║                                                                             ║${NC}"
+echo -e "${BLUE}║  ${BOLD}🎓 ASSISTENTE DE COMMITS PARA CIÊNCIA DE DADOS 🎓${NC}                 ║${NC}"
+echo -e "${BLUE}║                                                                             ║${NC}"
+echo -e "${BLUE}║  ${UNDERLINE}Recursos disponíveis:${NC}                                          ║${NC}"
+echo -e "${BLUE}║  ✅ Gerenciamento de arquivos         ✅ Git LFS automático                  ║${NC}"
+echo -e "${BLUE}║  ✅ Validação de dados                ✅ MLflow/DVC                         ║${NC}"
+echo -e "${BLUE}║  ✅ Backup automático                 ✅ Notificações (Slack/Teams)         ║${NC}"
+echo -e "${BLUE}║  ✅ Modo rápido                       ✅ Sistema de plugins                 ║${NC}"
+echo -e "${BLUE}║  ✅ Logs e auditoria                  ✅ Rollback automático                 ║${NC}"
+echo -e "${BLUE}║                                                                             ║${NC}"
+echo -e "${BLUE}╚════════════════════════════════════════════════════════════════════════════╝${NC}"
+echo ""
+
+# ============================================
+# PASSO 0: GERENCIAMENTO DE ARQUIVOS
+# ============================================
+
+if declare -F analisar_arquivos &>/dev/null; then
+    analisar_arquivos
+    exibir_resumo_analise
+    verificar_bloqueados
+    oferecer_lfs
+    selecionar_arquivos
+    atualizar_stage
+else
+    echo_warning "Módulo file-manager não encontrado. Pulando análise de arquivos."
+fi
+
+# ============================================
+# VALIDAÇÃO DE ARQUIVOS
+# ============================================
+
+if declare -F validar_arquivos_completo &>/dev/null; then
+    validar_arquivos_completo
+fi
+
+# ============================================
+# MODO RÁPIDO
+# ============================================
+
+if declare -F verificar_modo_rapido &>/dev/null; then
+    if verificar_modo_rapido; then
+        executar_modo_rapido "$1"
+    fi
+fi
+
+# ============================================
+# MLFLOW/DVC
+# ============================================
+
+if declare -F registrar_experimento_mlflow &>/dev/null; then
+    registrar_experimento_mlflow
+    verificar_dados_dvc
+fi
+
+# ============================================
+# BACKUP
+# ============================================
+
+if declare -F criar_backup &>/dev/null; then
+    criar_backup
+    criar_ponto_restauracao
+fi
+
+# ============================================
+# CONSTRUÇÃO DO COMMIT
+# ============================================
+
+if declare -F perguntar_tipo &>/dev/null; then
+    perguntar_tipo
+    perguntar_id_tarefa
+    perguntar_escopo
+    perguntar_resumo
+    perguntar_corpo
+else
+    echo_warning "Módulo commit-builder não encontrado. Usando modo básico."
+    echo ""
+    read -p "Digite sua mensagem de commit: " mensagem_basica
+    echo "$mensagem_basica" > "$1"
+    exit 0
+fi
+
+# ============================================
+# PREPARAÇÃO DA PR
+# ============================================
+
+if declare -F perguntar_tipo_pr &>/dev/null; then
+    perguntar_tipo_pr
+    perguntar_descricao_pr
+    perguntar_screenshots_pr
+    perguntar_dependencias_pr
+fi
+
+# ============================================
+# CARREGAR PLUGINS
+# ============================================
+
+if declare -F carregar_plugins &>/dev/null; then
+    carregar_plugins
+    executar_plugin_hook "pre_commit"
+fi
+
+# ============================================
+# MONTAGEM FINAL
+# ============================================
+
+if declare -F titulo &>/dev/null; then
+    titulo "✨ REVISÃO FINAL"
+else
+    echo ""
+    echo -e "${BLUE}=== REVISÃO FINAL ===${NC}"
+fi
+
+if declare -F montar_mensagem &>/dev/null; then
+    MENSAGEM_COMMIT=$(montar_mensagem)
+else
+    MENSAGEM_COMMIT="$1"
+fi
+
+if declare -F montar_template_pr &>/dev/null; then
+    TEMPLATE_PR=$(montar_template_pr)
+fi
+
+echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+echo -e "${GREEN}${BOLD}📝 MENSAGEM DE COMMIT:${NC}"
+echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+echo "$MENSAGEM_COMMIT"
+echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+echo ""
+
+if [ -n "$TEMPLATE_PR" ]; then
+    echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+    echo -e "${GREEN}${BOLD}📋 TEMPLATE DA PULL REQUEST:${NC}"
+    echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+    echo "$TEMPLATE_PR"
+    echo -e "${BLUE}════════════════════════════════════════════════════════════════════════════${NC}"
+    echo ""
+fi
+
+# ============================================
+# SALVAR TEMPLATE E NOTIFICAR
+# ============================================
+
+if declare -F salvar_template_pr &>/dev/null && [ -n "$TEMPLATE_PR" ]; then
+    salvar_template_pr "$TEMPLATE_PR"
+fi
+
+echo ""
+echo -e "${YELLOW}🤔 Deseja revisar manualmente antes de commit?${NC}"
+echo "  (s) Sim → Abrirá o editor para você ajustar"
+echo "  (n) Não → Commitará diretamente"
+echo ""
+read -p "Escolha (s/n): " confirmacao
+
+# ============================================
+# FINALIZAÇÃO
+# ============================================
+
+echo "$MENSAGEM_COMMIT" > "$1"
+
+if [ "$confirmacao" = "s" ] || [ "$confirmacao" = "S" ]; then
+    if declare -F log_info &>/dev/null; then
+        log_info "Commit enviado para revisão manual"
+    fi
+    echo -e "${GREEN}📝 Editor aberto para revisão.${NC}"
+    exit 0
+else
+    if declare -F log_success &>/dev/null; then
+        log_success "Commit finalizado com sucesso"
+    fi
+    if declare -F registrar_auditoria &>/dev/null; then
+        registrar_auditoria "COMMIT" "Commit realizado"
+    fi
+    if declare -F notificar_completo &>/dev/null; then
+        notificar_completo "$MENSAGEM_COMMIT"
+    fi
+    if declare -F executar_plugin_hook &>/dev/null; then
+        executar_plugin_hook "post_commit"
+    fi
+    
+    echo -e "${GREEN}🎉 Commit sendo criado...${NC}"
+    exit 0
+fi

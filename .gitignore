@@ -38,3 +38,9 @@ venv.bak/
 *.pem
 *.key
 *.crt
+
+# Git hooks - logs e backups
+.hooks/logs/
+.hooks/backups/
+.hooks/*.log
+.hooks/post-commit
