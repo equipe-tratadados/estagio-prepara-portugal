@@ -22,7 +22,8 @@
 - [ ] Testei localmente o funcionamento do script
 
 #### Aplicável apenas para **downloads/novas fontes**:
-- [ ] Atualizei `docs/log.md`
+- [ ] Atualizei `docs/log/DP003_X.md` (log individual — responsabilidade do colaborador)
+- [ ] Atualizei `docs/log.md` (log consolidado — responsabilidade da líder, não marcar aqui)
 
 #### Aplicável apenas para **dados que vão para `delivery/`**:
 - [ ] Atualizei `docs/dicionario.md`
