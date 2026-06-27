@@ -1,1 +1,0 @@
-print "(baixando a fonte de dados do MTSSS)"
