@@ -1,4 +1,40 @@
-.DS_store
-*/.DS_store
-**/.DS_store
-*/.DS_store?
+# ==========================================
+# SISTEMA OPERACIONAL & IDEs
+# ==========================================
+.vscode/
+.history/
+*.code-workspace
+**/.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# JUPYTER NOTEBOOKS
+# ==========================================
+**/.ipynb_checkpoints/
+**/profile_default/
+**/ipython_config.py
+
+# ==========================================
+# PYTHON - Caches e Ambientes
+# ==========================================
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# SEGURANÇA
+# ==========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.crt
