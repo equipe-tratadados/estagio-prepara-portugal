@@ -1,0 +1,17 @@
+Age_Group,Value,source
+>= 75,25671,annotated
+70 - 74,24173,annotated
+65 - 69,32746,annotated
+60 - 64,38442,annotated
+55 - 59,46361,annotated
+50 - 54,58610,annotated
+45 - 49,79636,annotated
+40 - 44,109946,annotated
+35 - 39,135341,annotated
+30 - 34,148530,annotated
+25 - 29,138397,annotated
+20 - 24,85541,annotated
+15 - 19,45599,annotated
+10 - 14,37439,annotated
+5 - 9,28567,annotated
+0 - 4,9607,annotated

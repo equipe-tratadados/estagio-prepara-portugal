@@ -1,0 +1,17 @@
+Age Group,Gender,Population,source
+>= 75,Masculino,15484,annotated
+>= 75,Feminino,15112,annotated
+65-74,Masculino,32234,annotated
+65-74,Feminino,33775,annotated
+55-64,Masculino,48723,annotated
+55-64,Feminino,55781,annotated
+45-54,Masculino,101227,annotated
+45-54,Feminino,91997,annotated
+35-44,Masculino,222212,annotated
+35-44,Feminino,158994,annotated
+18-34,Masculino,380603,annotated
+18-34,Feminino,260311,annotated
+10-17,Masculino,40970,annotated
+10-17,Feminino,38445,annotated
+0-9,Masculino,24428,annotated
+0-9,Feminino,23401,annotated

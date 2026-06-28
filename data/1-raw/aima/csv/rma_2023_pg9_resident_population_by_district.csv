@@ -1,0 +1,41 @@
+District,Year,Value,source
+Viana do Castelo,2023,13145,annotated
+Viana do Castelo,2022,9187,annotated
+Braga,2023,41809,annotated
+Braga,2022,28127,annotated
+Porto,2023,97157,annotated
+Porto,2022,66434,annotated
+Aveiro,2023,35260,annotated
+Aveiro,2022,23696,annotated
+Viseu,2023,13061,annotated
+Viseu,2022,8394,annotated
+Guarda,2023,4016,annotated
+Guarda,2022,2866,annotated
+Coimbra,2023,27958,annotated
+Coimbra,2022,19818,annotated
+Leiria,2023,43494,annotated
+Leiria,2022,30713,annotated
+Lisboa,2023,431919,annotated
+Lisboa,2022,325319,annotated
+Santarém,2023,43494,annotated
+Santarém,2022,30713,annotated
+Setúbal,2023,106352,annotated
+Setúbal,2022,77182,annotated
+Faro,2023,125428,annotated
+Faro,2022,109640,annotated
+Évora,2023,7369,annotated
+Évora,2022,5421,annotated
+Beja,2023,20979,annotated
+Beja,2022,17813,annotated
+Bragança,2023,6823,annotated
+Bragança,2022,4744,annotated
+Castelo Branco,2023,12170,annotated
+Castelo Branco,2022,8413,annotated
+Portalegre,2023,3937,annotated
+Portalegre,2022,3175,annotated
+Vila Real,2023,4789,added
+Vila Real,2022,3249,added
+Região Autônoma dos Açores,2023,6273,added
+Região Autônoma dos Açores,2022,5123,added
+Região Autônoma da Madeira,2023,14061,added
+Região Autônoma da Madeira,2022,11794,added
