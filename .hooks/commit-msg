@@ -1,0 +1,90 @@
+#!/bin/bash
+# .hooks/commit-msg
+# Hook de validação da mensagem de commit (executado após o editor)
+
+# ============================================
+# CONFIGURAÇÃO INICIAL
+# ============================================
+
+# Carrega módulos se disponíveis
+HOOKS_COMMON_DIR="$(cd "$(dirname "$0")/modules" 2>/dev/null && pwd)"
+
+if [ -d "$HOOKS_COMMON_DIR" ]; then
+    for modulo in "$HOOKS_COMMON_DIR"/*.sh; do
+        [ -f "$modulo" ] && source "$modulo"
+    done
+fi
+
+# ============================================
+# CORES (fallback se módulos não carregados)
+# ============================================
+
+if [ -z "$RED" ]; then
+    RED='\033[0;31m'
+    GREEN='\033[0;32m'
+    YELLOW='\033[1;33m'
+    BLUE='\033[0;34m'
+    NC='\033[0m'
+fi
+
+# ============================================
+# VALIDAÇÃO DA MENSAGEM
+# ============================================
+
+validate_commit_message() {
+    local msg_file="$1"
+    local msg=$(cat "$msg_file")
+    
+    # Remove linhas em branco do início/fim
+    msg=$(echo "$msg" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+    
+    # Verifica se a mensagem não está vazia
+    if [ -z "$msg" ]; then
+        echo -e "${RED}❌ Erro: Mensagem de commit vazia!${NC}"
+        echo "  Por favor, escreva uma mensagem descritiva."
+        exit 1
+    fi
+    
+    # Verifica o formato: tipo(escopo): descrição
+    if ! echo "$msg" | grep -qE "^(feat|fix|docs|style|refactor|perf|test|chore|data|model|experiment|deploy)(\([a-z0-9-]+\))?: .+"; then
+        echo -e "${YELLOW}⚠️  Aviso: Mensagem não segue o padrão de commit semântico.${NC}"
+        echo "  Formato esperado: tipo(escopo): descrição"
+        echo "  Exemplo: feat(hooks): adiciona validação de dados"
+        echo ""
+        read -p "Deseja continuar mesmo assim? (s/n): " continuar
+        if [ "$continuar" != "s" ] && [ "$continuar" != "S" ]; then
+            echo -e "${RED}❌ Commit cancelado.${NC}"
+            exit 1
+        fi
+    fi
+    
+    # Verifica o tamanho da primeira linha (título)
+    local first_line=$(echo "$msg" | head -n1)
+    local length=${#first_line}
+    
+    if [ $length -gt 72 ]; then
+        echo -e "${YELLOW}⚠️  Aviso: Título muito longo (${length} caracteres).${NC}"
+        echo "  Máximo recomendado: 72 caracteres"
+        echo "  Atual: $first_line"
+        echo ""
+        read -p "Deseja continuar mesmo assim? (s/n): " continuar
+        if [ "$continuar" != "s" ] && [ "$continuar" != "S" ]; then
+            echo -e "${RED}❌ Commit cancelado.${NC}"
+            exit 1
+        fi
+    fi
+    
+    echo -e "${GREEN}✅ Mensagem de commit válida!${NC}"
+    return 0
+}
+
+# ============================================
+# EXECUÇÃO PRINCIPAL
+# ============================================
+
+# Só executa se for um commit normal
+if [ "$2" = "" ] && [ "$3" = "" ]; then
+    validate_commit_message "$1"
+fi
+
+exit 0
