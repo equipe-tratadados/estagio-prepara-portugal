@@ -1,0 +1,29 @@
+
+├── .hooks/
+│   ├── install.sh                    # Instalador universal baixado
+│   ├── prepare-commit-msg            # Hook principal baixado
+│   ├── commit-msg                    # Hook alternativo (validação) baixado
+│   ├── post-commit                   # Hook pós-commit baixado
+│   ├── modules/
+│   │   ├── config.sh                 # Configurações baixado
+│   │   ├── ui.sh                     # Interface baixado
+│   │   ├── file-manager.sh           # Gerenciamento de arquivos baixado
+│   │   ├── file-validator.sh         # Validação de dados baixado
+│   │   ├── commit-builder.sh         # Construção do commit baixado
+│   │   ├── pr-builder.sh             # Template da PR baixado
+│   │   ├── lfs-helper.sh             # Git LFS baixado
+│   │   ├── mlflow-helper.sh          # MLflow/DVC baixado
+│   │   ├── backup-manager.sh         # Backup baixado
+│   │   ├── notifier.sh               # Notificações baixado
+│   │   ├── quick-mode.sh             # Modo rápido baixado
+│   │   ├── plugin-system.sh          # Sistema de plugins baixado
+│   │   ├── logger.sh                 # Logs baixado
+│   │   └── rollback.sh               # Rollback baixado
+│   ├── plugins/
+│   │   └── example-plugin.sh         # Plugin exemplo baixado
+│   ├── logs/                          # (criado na instalação)
+│   └── backups/                       # (criado na instalação)
+├── .github/
+│   └── pull_request_template.md      # Template da PR baixado
+├── .gitignore                         # Atualizado com logs/backups
+└── README.md                          # Documentação baixado
