@@ -20,7 +20,7 @@ export CORPO=""
 # ============================================
 
 perguntar_tipo() {
-    titulo "📌 PASSO 1 DE 4: ESCOLHA O TIPO DE COMMIT"
+    titulo "📌 PASSO 1 DE 3: ESCOLHA O TIPO DE COMMIT"
     
     info "O tipo de commit classifica a NATUREZA da sua alteração."
     echo ""
@@ -41,46 +41,29 @@ perguntar_tipo() {
 }
 
 perguntar_id_tarefa() {
-    titulo "🆔 PASSO 2 DE 4: ID DA TAREFA (OPCIONAL)"
-    
-    info "Código da tarefa no JIRA, Trello, GitHub Issues, etc."
-    echo "  Exemplos: TL-100, PROJ-42, #15"
-    echo ""
-    info "Por que usar? Conecta o commit à tarefa correspondente."
-    echo ""
-    
-    read -p "Digite o ID (ou ENTER para pular): " ID_TAREFA
-    
-    if [ -n "$ID_TAREFA" ]; then
-        success "ID registrado: ${BOLD}${ID_TAREFA}${NC}"
-    else
-        warning "Nenhum ID informado."
-    fi
-    pause
-}
+    titulo "🆔 PASSO 2 DE 3: ID DA TAREFA (OBRIGATÓRIO)"
 
-perguntar_escopo() {
-    titulo "📂 PASSO 3 DE 4: ESCOPO (OPCIONAL)"
-    
-    info "Parte do projeto afetada."
-    echo "  Exemplos: dados, pipeline, api, frontend, auth, database"
+    info "Número da issue no GitHub que identifica quem está fazendo o quê."
+    echo "  Exemplos: #15, #42, #100"
     echo ""
-    info "Quando usar: Quando a mudança afeta um módulo específico."
+    info "A mensagem ficará: ${TIPO_COMMIT}(#id): descrição"
     echo ""
-    
-    read -p "Digite o escopo (ou ENTER para pular): " ESCOPO
-    
-    if [ -n "$ESCOPO" ]; then
-        success "Escopo definido: ${BOLD}${ESCOPO}${NC}"
-        info "A mensagem ficará: ${TIPO_COMMIT}(${ESCOPO}): ..."
-    else
-        warning "Escopo pulado."
-    fi
+
+    while true; do
+        read -p "Digite o ID da tarefa (ex: #15): " ID_TAREFA
+        if [ -z "$ID_TAREFA" ]; then
+            error "O ID da tarefa é OBRIGATÓRIO. Digite o número da issue."
+            continue
+        fi
+        break
+    done
+
+    success "ID registrado: ${BOLD}${ID_TAREFA}${NC}"
     pause
 }
 
 perguntar_resumo() {
-    titulo "📝 PASSO 4 DE 4: RESUMO (OBRIGATÓRIO)"
+    titulo "📝 PASSO 3 DE 3: RESUMO (OBRIGATÓRIO)"
     
     info "Frase CURTA descrevendo O QUE foi feito."
     echo "  ✅ Máximo de 72 caracteres"
@@ -116,8 +99,8 @@ perguntar_resumo() {
     
     echo ""
     destaque "📌 Sua mensagem parcial:"
-    if [ -n "$ESCOPO" ]; then
-        echo -e "  ${CYAN}${TIPO_COMMIT}(${ESCOPO}): ${RESUMO}${NC}"
+    if [ -n "$ID_TAREFA" ]; then
+        echo -e "  ${CYAN}${TIPO_COMMIT}(${ID_TAREFA}): ${RESUMO}${NC}"
     else
         echo -e "  ${CYAN}${TIPO_COMMIT}: ${RESUMO}${NC}"
     fi
@@ -179,11 +162,11 @@ ${linha}"
 
 montar_mensagem() {
     local mensagem="${TIPO_COMMIT}"
-    
-    if [ -n "$ESCOPO" ]; then
-        mensagem="${mensagem}(${ESCOPO})"
+
+    if [ -n "$ID_TAREFA" ]; then
+        mensagem="${mensagem}(${ID_TAREFA})"
     fi
-    
+
     mensagem="${mensagem}: ${RESUMO}"
     
     if [ -n "$CORPO" ]; then
@@ -195,5 +178,5 @@ ${CORPO}"
     echo "$mensagem"
 }
 
-export -f perguntar_tipo perguntar_id_tarefa perguntar_escopo
+export -f perguntar_tipo perguntar_id_tarefa
 export -f perguntar_resumo perguntar_corpo montar_mensagem

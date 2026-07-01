@@ -11,6 +11,10 @@ if [ "$2" != "" ] || [ "$3" != "" ]; then
     exit 0
 fi
 
+# Garante que todos os 'read' do hook lêem do terminal, mesmo quando
+# o git chama o hook com stdin fechado ou redirecionado (ex: IDE, scripts).
+exec < /dev/tty
+
 # Encontra o diretório dos módulos
 HOOKS_COMMON_DIR="$(cd "$(dirname "$0")/modules" 2>/dev/null && pwd)"
 
@@ -124,7 +128,6 @@ fi
 if declare -F perguntar_tipo &>/dev/null; then
     perguntar_tipo
     perguntar_id_tarefa
-    perguntar_escopo
     perguntar_resumo
     perguntar_corpo
 else

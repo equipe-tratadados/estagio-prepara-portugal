@@ -13,19 +13,23 @@ verificar_modo_rapido() {
     if [ "$QUICK_MODE_ENABLED" != "true" ]; then
         return 1
     fi
-    
-    # Ativa se poucos arquivos
+
+    echo "" >&2
     if [ ${#ARQUIVOS_SELECIONADOS[@]} -le "$QUICK_MODE_THRESHOLD" ]; then
-        return 0
+        info "Modo rápido disponível (${#ARQUIVOS_SELECIONADOS[@]} arquivo(s) — apenas tipo + resumo)." >&2
+    else
+        info "Modo rápido disponível (apenas tipo + resumo, sem PR template)." >&2
     fi
-    
-    echo ""
-    read -p "Deseja usar o modo rápido? (s/n): " usar_quick
-    
+
+    local usar_quick=""
+    while [[ "$usar_quick" != "s" && "$usar_quick" != "S" && "$usar_quick" != "n" && "$usar_quick" != "N" ]]; do
+        read -p "Deseja usar o modo rápido? (s/n): " usar_quick
+    done
+
     if [ "$usar_quick" = "s" ] || [ "$usar_quick" = "S" ]; then
         return 0
     fi
-    
+
     return 1
 }
 
@@ -39,18 +43,30 @@ executar_modo_rapido() {
     
     # Pergunta apenas o essencial
     perguntar_tipo
-    
-    echo ""
-    echo -e "${YELLOW}📌 Resumo do commit (máx 72 caracteres):${NC}"
+
+    echo "" >&2
+    echo -e "${YELLOW}🆔 ID da tarefa no GitHub (ex: #15):${NC}" >&2
+    while true; do
+        read -p "> " ID_TAREFA
+        if [ -z "$ID_TAREFA" ]; then
+            error "O ID da tarefa é obrigatório." >&2
+            continue
+        fi
+        break
+    done
+    export ID_TAREFA
+
+    echo "" >&2
+    echo -e "${YELLOW}📌 Resumo do commit (máx 72 caracteres):${NC}" >&2
     read -p "> " RESUMO
-    
+
     if [ -z "$RESUMO" ]; then
         error "Resumo obrigatório. Commit cancelado."
         exit 1
     fi
-    
+
     # Monta mensagem direta
-    local mensagem="$TIPO_COMMIT: $RESUMO"
+    local mensagem="${TIPO_COMMIT}(${ID_TAREFA}): $RESUMO"
     
     success "✅ Mensagem gerada:"
     echo -e "${BLUE}═══════════════════════════════════════════════════════════════════${NC}"

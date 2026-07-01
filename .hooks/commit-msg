@@ -6,6 +6,9 @@
 # CONFIGURAÇÃO INICIAL
 # ============================================
 
+# Garante leitura do teclado mesmo em terminais não-interativos
+exec < /dev/tty
+
 # Carrega módulos se disponíveis
 HOOKS_COMMON_DIR="$(cd "$(dirname "$0")/modules" 2>/dev/null && pwd)"
 
@@ -45,11 +48,11 @@ validate_commit_message() {
         exit 1
     fi
     
-    # Verifica o formato: tipo(escopo): descrição
-    if ! echo "$msg" | grep -qE "^(feat|fix|docs|style|refactor|perf|test|chore|data|model|experiment|deploy)(\([a-z0-9-]+\))?: .+"; then
+    # Verifica o formato: tipo(#id): descrição
+    if ! echo "$msg" | grep -qE "^(feat|fix|docs|style|refactor|perf|test|chore|dados|limpeza|script|entrega|data|model|experiment|deploy)(\(#?[a-z0-9-]+\))?: .+"; then
         echo -e "${YELLOW}⚠️  Aviso: Mensagem não segue o padrão de commit semântico.${NC}"
-        echo "  Formato esperado: tipo(escopo): descrição"
-        echo "  Exemplo: feat(hooks): adiciona validação de dados"
+        echo "  Formato esperado: tipo(#id-tarefa): descrição"
+        echo "  Exemplo: dados(#42): adiciona CSV de beneficiários"
         echo ""
         read -p "Deseja continuar mesmo assim? (s/n): " continuar
         if [ "$continuar" != "s" ] && [ "$continuar" != "S" ]; then
