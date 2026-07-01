@@ -38,11 +38,3 @@ venv.bak/
 *.pem
 *.key
 *.crt
-
-# Git hooks - logs, backups e rascunhos de PR
-.hooks/logs/
-.hooks/backups/
-.hooks/*.log
-.github/pr-drafts/
-.clinerules
-.clineignore
