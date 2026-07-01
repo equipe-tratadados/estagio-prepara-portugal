@@ -1,2 +1,4 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-.csv filter=lfs diff=lfs merge=lfs -text
+data/1-raw/eurostat/*.csv filter=lfs diff=lfs merge=lfs -text
+data/1-raw/oecd/*.csv filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
