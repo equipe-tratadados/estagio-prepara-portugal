@@ -20,4 +20,4 @@
 
 | Fonte Id | Ficheiro | Fonte | URL | Data de coleta | Período dos dados | Transformações aplicadas | Limitações conhecidas | Responsável |
 | :------- | :------- | :---- | :-- | :------------- | :---------------- | :----------------------- | :-------------------- | :---------- |
-|          |          |       |     |                |                   |                          |                       |             |
+|      F010    |   pessoas_estrangeiras_na_seg_social.csv       |   Segurança Social/MTSSS    |  https://www.seg-social.pt/estatisticas   |    2026-07-04            |         2015 - 2025          |          Ficheiro original em .xlsx com 8 sheets convertido para CSV,Removidas linhas de títulos, cabeçalhos, em branco e somas/subtotais,Colunas renomeadas para padrão inglês: year, district, resident_foreign_population, social_security_contributions, social_security_beneficiaries, gender, age_group, value.Sheets consolidadas num único CSV com coluna "sheet",Unidade de medida: número de pessoas (valores absolutos)  |     Dados por tipo de nacionalidade não disponíveis; Possível impacto da COVID-19 em 2020-2021      |Anaclaudiasevalho_creator
