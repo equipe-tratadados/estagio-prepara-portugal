@@ -52,24 +52,48 @@ GEOGRAPHY_MAPPING = {
     "Continente": "continent",
 }
 
-# 5. Dados Económicos, Trabalho e Sociedade (Atualizado)
+# 5. Dados Económicos, Trabalho e Segurança Social
 ECONOMY_MAPPING = {
-    "Masculino": "male",
-    "Feminino": "female",
-    "Género": "gender",
-    "Sexo": "gender",
     "Setor de atividade": "economic_sector",
     "Estatuto profissional": "employment_status",
     "Valor de contribuições": "social_security_contributions",
     "N.º de contribuintes": "social_security_contributors",
     "Beneficiários": "social_security_beneficiaries",
-    "Estado civil": "marital_status",
+
     "Ano de chegada": "arrival_year",
     "País de residência anterior": "previous_country_of_residence",
     "Reagrupamento familiar": "family_reunification",
     "Estatuto de refugiado": "refugee_status"
 }
 
+#6. Dados de Migração, fluxos migratórios e demografia
+MIGRATION_MAPPING = {
+# Termos Gerais e Demográficos
+    "Masculino": "male",
+    "Feminino": "female",
+    "Género": "gender",
+    "Sexo": "gender",
+    "Estado civil": "marital_status",
+    
+    # População Residente / Stock 
+    "Stock_Homens": "resident_count_male",
+    "Stock_Mulheres": "resident_count_female",
+    "Pop_Residente_Masculino": "resident_count_male",
+    "Pop_Residente_Feminino": "resident_count_female",
+    
+    # Entradas e Concessões de Títulos
+    "Fluxos_Homens": "flow_male",
+    "Fluxos_Mulheres": "flow_female",
+    "Concessao_Masculino": "permit_grant_male",
+    "Concessao_Feminino": "permit_grant_female",
+    
+    # Metadados Administrativos
+    "Ano de chegada": "arrival_year",
+    "País de residência anterior": "previous_country_of_residence",
+    "Reagrupamento familiar": "family_reunification",
+    "Estatuto de refugiado": "refugee_status"
+}
+    
 # ==============================================================================
 # DICIONÁRIO MASTER UNIFICADO
 # ==============================================================================
@@ -79,9 +103,9 @@ MAPA_GLOBAL_COLUNAS = {
     **INE_MAPPING,
     **AIMA_MAPPING,
     **GEOGRAPHY_MAPPING,
-    **ECONOMY_MAPPING
+    **ECONOMY_MAPPING,
+    **MIGRATION_MAPPING
 }
-
 
 def padronizar_colunas(df):
     """
