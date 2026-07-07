@@ -29,6 +29,8 @@ Este documento estabelece o padrão obrigatório para nomes de colunas, tipos de
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
 | Género / Sexo | `gender` | `str` | **Valores permitidos nas linhas:** padronizar para `male` e `female` pós-unpivot. |
+| Masculino | `male` | `str` | Usar se mapeado diretamente para valores de linha. |
+| Feminino | `female` | `str` | Usar se mapeado diretamente para valores de linha. |
 | Motivo / Finalidade | `application_reason` | `str` | Razão do pedido (ex: `work`, `study`, `family_reunification`). Evitar `type` ou `category`. |
 | Estatuto Profissional | `employment_status` | `str` | Estado laboral (ex: `employed`, `unemployed`, `self_employed`). |
 | Escalão Etário / Idade | `age_group` / `age` | `str` / `int` | Grupos (ex: `0-14`, `15-64`) ou idades absolutas. |
@@ -38,19 +40,32 @@ Este documento estabelece o padrão obrigatório para nomes de colunas, tipos de
 
 ---
 
-## 3. Contagens Volumétricas (Valores Absolutos)
+## 3. Contagens Volumétricas e Demográficas (Stock / Estado Atual)
 
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
 | População Estrangeira | `resident_foreign_population` | `int` | Contagem absoluta de residentes estrangeiros. |
 | População Total | `total_population` | `int` | População total da região (evitar usar apenas `total`). |
 | N.º de Pessoas / Contagem | `resident_count` | `int` | Termo genérico para contagens absolutas de indivíduos. |
-| Imigrantes (Fluxo) | `immigrants` | `int` | Entradas absolutas num determinado ano. |
-| Emigrantes (Fluxo) | `emigrants` | `int` | Saídas absolutas num determinado ano. |
+| Pop_Residente_Masculino / Stock_Homens | `resident_count_male` | `int` | **Unificado:** Volume de população residente/stock do sexo masculino. |
+| Pop_Residente_Feminino / Stock_Mulheres | `resident_count_female` | `int` | **Unificado:** Volume de população residente/stock do sexo feminino. |
 
 ---
 
-## 4. Economia, Trabalho e Segurança Social
+## 4. Fluxos Migratórios e Eventos Administrativos (AIMA / INE)
+
+| Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
+| :--- | :--- | :--- | :--- |
+| Imigrantes (Fluxo) | `immigrants` | `int` | Entradas absolutas num determinado ano. |
+| Emigrantes (Fluxo) | `emigrants` | `int` | Saídas absolutas num determinado ano. |
+| Fluxos_Homens | `flow_male` | `int` | Entradas/Fluxos de indivíduos do sexo masculino num ano (singular). |
+| Fluxos_Mulheres | `flow_female` | `int` | Entradas/Fluxos de indivíduos do sexo feminino num ano (singular). |
+| Concessao_Masculino | `permit_grant_male` | `int` | Títulos de residência/vistos emitidos a homens (AIMA). Evitar *concession*. |
+| Concessao_Feminino | `permit_grant_female` | `int` | Títulos de residência/vistos emitidos a mulheres (AIMA). Evitar *concession*. |
+
+---
+
+## 5. Economia, Trabalho e Segurança Social
 
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
@@ -62,7 +77,7 @@ Este documento estabelece o padrão obrigatório para nomes de colunas, tipos de
 
 ---
 
-## 5. Taxas e Proporções
+## 6. Taxas e Proporções
 
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
@@ -72,7 +87,7 @@ Este documento estabelece o padrão obrigatório para nomes de colunas, tipos de
 
 ---
 
-## 6. Estatuto Legal, Documentação e Fronteiras
+## 7. Estatuto Legal, Documentação e Fronteiras
 
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
@@ -85,10 +100,10 @@ Este documento estabelece o padrão obrigatório para nomes de colunas, tipos de
 
 ---
 
-## 7. Rota e Percurso Migratório
+## 8. Rota e Percurso Migratório
 
 | Termo Original (PT) | Coluna Padrão (EN) | Tipo | Notas / Boas Práticas |
 | :--- | :--- | :--- | :--- |
-| País de Nascimento | `country_of_birth` | `str` | Sítio de nascimento (pode diferir da nacionalidade). |
+| País de Nascimento | `country_of_birth` | `str` | Local de nascimento (pode diferir da nacionalidade). |
 | Último País de Residência | `previous_country_of_residence` | `str` | Útil para identificar rotas migratórias e escalas. |
 | Reagrupamento Familiar | `family_reunification` | `str`/`int` | Indica se a entrada está associada a vínculo familiar. |
