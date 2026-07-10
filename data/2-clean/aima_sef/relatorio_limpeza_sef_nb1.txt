@@ -1,0 +1,273 @@
+================================================================================
+RELATÓRIO DE LIMPEZA DE DADOS — NOTEBOOK 1
+Data: 2026-07-10 13:02:01
+Pipeline: RAW → Limpeza → Padronização Colunas → Padronização Países
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2015_pg65_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            185
+  Linhas após limpeza                         185   (removidas: 0 | 0.0%)
+  Linhas após padronização países             185
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      171 registos
+       custom                         10 registos
+       coco                            4 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      188,645   nulos:    7
+       resident_count_female                   soma:      200,086   nulos:    8
+       permits_granted_male                    soma:       19,655   nulos:   45
+       permits_granted_female                  soma:       18,196   nulos:   39
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2016_pg71_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            187
+  Linhas após limpeza                         187   (removidas: 0 | 0.0%)
+  Linhas após padronização países             187
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      173 registos
+       custom                         10 registos
+       coco                            4 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      192,801   nulos:    8
+       resident_count_female                   soma:      204,930   nulos:    6
+       permits_granted_male                    soma:       23,977   nulos:   36
+       permits_granted_female                  soma:       22,944   nulos:   41
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2017_pg71_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            185
+  Linhas após limpeza                         185   (removidas: 0 | 0.0%)
+  Linhas após padronização países             185
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      171 registos
+       custom                         10 registos
+       coco                            4 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      205,868   nulos:   11
+       resident_count_female                   soma:      215,843   nulos:    0
+       permits_granted_male                    soma:       31,674   nulos:   24
+       permits_granted_female                  soma:       29,739   nulos:   31
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2018_pg81_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            187
+  Linhas após limpeza                         187   (removidas: 0 | 0.0%)
+  Linhas após padronização países             187
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      172 registos
+       custom                         10 registos
+       coco                            5 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      237,463   nulos:   11
+       resident_count_female                   soma:      242,837   nulos:    2
+       permits_granted_male                    soma:       49,612   nulos:   27
+       permits_granted_female                  soma:       43,542   nulos:   40
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2019_pg84_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            191
+  Linhas após limpeza                         191   (removidas: 0 | 0.0%)
+  Linhas após padronização países             191
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      177 registos
+       custom                         10 registos
+       coco                            4 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      296,417   nulos:    9
+       resident_count_female                   soma:      293,931   nulos:    8
+       permits_granted_male                    soma:       68,363   nulos:   31
+       permits_granted_female                  soma:       60,792   nulos:   34
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2020_pg86_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            191
+  Linhas após limpeza                         191   (removidas: 0 | 0.0%)
+  Linhas após padronização países             191
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      178 registos
+       custom                          8 registos
+       coco                            4 registos
+       nao_resolvido                   1 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      336,124   nulos:    7
+       resident_count_female                   soma:      325,973   nulos:    5
+       permits_granted_male                    soma:       63,109   nulos:   32
+       permits_granted_female                  soma:       55,110   nulos:   32
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2021_pg96_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            187
+  Linhas após limpeza                         187   (removidas: 0 | 0.0%)
+  Linhas após padronização países             187
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      175 registos
+       custom                          9 registos
+       coco                            3 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      359,862   nulos:    3
+       resident_count_female                   soma:      339,025   nulos:    4
+       permits_granted_male                    soma:       59,885   nulos:   20
+       permits_granted_female                  soma:       51,426   nulos:   29
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rifa_2022_pg56_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            189
+  Linhas após limpeza                         189   (removidas: 0 | 0.0%)
+  Linhas após padronização países             189
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Stock_Total                             # coluna de total
+       - Fluxos_Total                            # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Stock_Homens                           → resident_count_male
+       Stock_Mulheres                         → resident_count_female
+       Fluxos_Homens                          → permits_granted_male
+       Fluxos_Mulheres                        → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      177 registos
+       custom                          9 registos
+       coco                            3 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      409,523   nulos:    3
+       resident_count_female                   soma:      372,392   nulos:    4
+       permits_granted_male                    soma:       79,149   nulos:   22
+       permits_granted_female                  soma:       63,932   nulos:   23
+
+================================================================================
+📊 SUMÁRIO GERAL
+────────────────────────────────────────────────────────────────────────────────
+  Arquivos processados                     8
+  Total linhas originais                   1,502
+  Total linhas após limpeza                1,502
+  Total linhas padronizadas                1,502
+  Total linhas removidas                   0  (0.0%)
+
+  🌍 Métodos de padronização (todos os ficheiros):
+       canonico                      1394
+       custom                          76
+       coco                            31
+       nao_resolvido                    1
+
+================================================================================
+FIM DO RELATÓRIO — NOTEBOOK 1
+================================================================================

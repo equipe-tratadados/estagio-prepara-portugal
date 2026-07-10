@@ -1,0 +1,3761 @@
+year;nationality;genero;permits_granted;resident_count
+2015;Afeganistão;Feminino;2;15
+2015;Afeganistão;Masculino;5;26
+2015;Albânia;Feminino;3;26
+2015;Albânia;Masculino;2;16
+2015;Alemanha;Feminino;499;4410
+2015;Alemanha;Masculino;525;4625
+2015;Andorra;Feminino;0;0
+2015;Andorra;Masculino;0;3
+2015;Angola;Feminino;637;9760
+2015;Angola;Masculino;640;8487
+2015;Antígua e Barbuda;Feminino;0;1
+2015;Antígua e Barbuda;Masculino;0;0
+2015;Apátrida;Feminino;0;4
+2015;Apátrida;Masculino;0;5
+2015;Argentina;Feminino;25;230
+2015;Argentina;Masculino;15;217
+2015;Argélia;Feminino;18;133
+2015;Argélia;Masculino;20;183
+2015;Arménia;Feminino;4;42
+2015;Arménia;Masculino;4;32
+2015;Arábia Saudita;Feminino;1;9
+2015;Arábia Saudita;Masculino;2;11
+2015;Austrália;Feminino;21;136
+2015;Austrália;Masculino;22;133
+2015;Azerbaijão;Feminino;6;24
+2015;Azerbaijão;Masculino;6;22
+2015;Bahrein;Feminino;0;1
+2015;Bahrein;Masculino;0;3
+2015;Bangladesh;Feminino;78;380
+2015;Bangladesh;Masculino;579;2191
+2015;Barbados;Feminino;0;3
+2015;Barbados;Masculino;0;1
+2015;Belize;Feminino;0;4
+2015;Belize;Masculino;0;2
+2015;Benin;Feminino;0;1
+2015;Benin;Masculino;2;11
+2015;Bermudas;Feminino;0;1
+2015;Bermudas;Masculino;0;2
+2015;Bielorrússia;Feminino;23;408
+2015;Bielorrússia;Masculino;8;224
+2015;Bolívia;Feminino;9;81
+2015;Bolívia;Masculino;1;28
+2015;Botswana;Feminino;0;4
+2015;Botswana;Masculino;0;3
+2015;Brasil;Feminino;3336;50890
+2015;Brasil;Masculino;2380;31700
+2015;Bulgária;Feminino;489;3313
+2015;Bulgária;Masculino;368;3409
+2015;Burkina Faso;Feminino;2;4
+2015;Burkina Faso;Masculino;1;9
+2015;Burundi;Feminino;0;2
+2015;Burundi;Masculino;1;4
+2015;Butão;Feminino;1;1
+2015;Butão;Masculino;0;0
+2015;Bélgica;Feminino;180;1100
+2015;Bélgica;Masculino;232;1288
+2015;Bósnia e Herzegovina;Feminino;5;39
+2015;Bósnia e Herzegovina;Masculino;2;18
+2015;Cabo Verde;Feminino;1112;20667
+2015;Cabo Verde;Masculino;913;18007
+2015;Camarões;Feminino;12;49
+2015;Camarões;Masculino;18;78
+2015;Camboja;Feminino;1;7
+2015;Camboja;Masculino;1;3
+2015;Canadá;Feminino;37;349
+2015;Canadá;Masculino;27;389
+2015;Cazaquistão;Feminino;23;311
+2015;Cazaquistão;Masculino;14;226
+2015;Chade;Feminino;0;2
+2015;Chade;Masculino;1;2
+2015;Chile;Feminino;17;104
+2015;Chile;Masculino;15;79
+2015;China;Feminino;1328;10489
+2015;China;Masculino;1248;10850
+2015;Chipre;Feminino;2;8
+2015;Chipre;Masculino;1;4
+2015;Colômbia;Feminino;57;570
+2015;Colômbia;Masculino;37;337
+2015;Comores;Feminino;0;0
+2015;Comores;Masculino;0;1
+2015;Congo;Feminino;2;44
+2015;Congo;Masculino;0;20
+2015;Coreia do Sul;Feminino;14;112
+2015;Coreia do Sul;Masculino;8;70
+2015;Costa Rica;Feminino;4;31
+2015;Costa Rica;Masculino;5;22
+2015;Costa do Marfim;Feminino;4;33
+2015;Costa do Marfim;Masculino;8;88
+2015;Croácia;Feminino;23;100
+2015;Croácia;Masculino;26;74
+2015;Cuba;Feminino;37;499
+2015;Cuba;Masculino;26;402
+2015;Desconhecido;Feminino;0;5
+2015;Desconhecido;Masculino;0;9
+2015;Dinamarca;Feminino;41;253
+2015;Dinamarca;Masculino;42;322
+2015;Dominica;Feminino;0;4
+2015;Dominica;Masculino;0;3
+2015;Egipto;Feminino;5;85
+2015;Egipto;Masculino;16;213
+2015;El Salvador;Feminino;2;18
+2015;El Salvador;Masculino;2;18
+2015;Emiratos Árabes Unidos;Feminino;0;1
+2015;Emiratos Árabes Unidos;Masculino;0;4
+2015;Equador;Feminino;16;171
+2015;Equador;Masculino;19;121
+2015;Eritreia;Feminino;4;16
+2015;Eritreia;Masculino;4;24
+2015;Eslováquia;Feminino;21;121
+2015;Eslováquia;Masculino;13;43
+2015;Eslovénia;Feminino;14;53
+2015;Eslovénia;Masculino;18;43
+2015;Espanha;Feminino;820;4988
+2015;Espanha;Masculino;842;5031
+2015;Essuatíni;Feminino;1;6
+2015;Essuatíni;Masculino;0;2
+2015;Estados Unidos da América;Feminino;155;1279
+2015;Estados Unidos da América;Masculino;174;1340
+2015;Estónia;Feminino;18;90
+2015;Estónia;Masculino;11;31
+2015;Etiópia;Feminino;2;28
+2015;Etiópia;Masculino;6;23
+2015;Filipinas;Feminino;69;527
+2015;Filipinas;Masculino;63;229
+2015;Finlândia;Feminino;134;382
+2015;Finlândia;Masculino;192;452
+2015;França;Feminino;1061;3950
+2015;França;Masculino;1434;4490
+2015;Gabão;Feminino;1;3
+2015;Gabão;Masculino;0;14
+2015;Gana;Feminino;6;58
+2015;Gana;Masculino;15;79
+2015;Geórgia;Feminino;27;317
+2015;Geórgia;Masculino;18;410
+2015;Granada;Feminino;0;2
+2015;Granada;Masculino;0;2
+2015;Grécia;Feminino;41;129
+2015;Grécia;Masculino;30;119
+2015;Guatemala;Feminino;4;26
+2015;Guatemala;Masculino;3;25
+2015;Guiana;Feminino;0;1
+2015;Guiana;Masculino;0;3
+2015;Guiné;Feminino;62;448
+2015;Guiné;Masculino;66;1078
+2015;Guiné Equatorial;Feminino;5;24
+2015;Guiné Equatorial;Masculino;1;27
+2015;Guiné-Bissau;Feminino;576;7846
+2015;Guiné-Bissau;Masculino;553;9245
+2015;Gâmbia;Feminino;3;36
+2015;Gâmbia;Masculino;6;116
+2015;Haiti;Feminino;0;2
+2015;Haiti;Masculino;1;3
+2015;Honduras;Feminino;4;18
+2015;Honduras;Masculino;3;12
+2015;Hungria;Feminino;52;328
+2015;Hungria;Masculino;25;152
+2015;Ilhas Cook;Feminino;0;0
+2015;Ilhas Cook;Masculino;0;1
+2015;Ilhas Fiji;Feminino;1;5
+2015;Ilhas Fiji;Masculino;0;2
+2015;Ilhas Maurícias;Feminino;1;8
+2015;Ilhas Maurícias;Masculino;1;9
+2015;Indonésia;Feminino;9;64
+2015;Indonésia;Masculino;8;76
+2015;Iraque;Feminino;8;61
+2015;Iraque;Masculino;6;65
+2015;Irlanda;Feminino;76;412
+2015;Irlanda;Masculino;114;480
+2015;Irão;Feminino;32;240
+2015;Irão;Masculino;33;305
+2015;Islândia;Feminino;4;36
+2015;Islândia;Masculino;2;26
+2015;Israel;Feminino;8;50
+2015;Israel;Masculino;10;58
+2015;Itália;Feminino;705;2622
+2015;Itália;Masculino;872;3508
+2015;Iémen;Feminino;1;5
+2015;Iémen;Masculino;1;13
+2015;Jamaica;Feminino;1;7
+2015;Jamaica;Masculino;0;5
+2015;Japão;Feminino;24;224
+2015;Japão;Masculino;16;173
+2015;Jordânia;Feminino;28;58
+2015;Jordânia;Masculino;31;80
+2015;Kosovo;Feminino;3;12
+2015;Kosovo;Masculino;3;15
+2015;Kuwait;Feminino;0;0
+2015;Kuwait;Masculino;1;1
+2015;Laos;Feminino;0;5
+2015;Laos;Masculino;1;4
+2015;Lesoto;Feminino;2;3
+2015;Lesoto;Masculino;0;0
+2015;Letónia;Feminino;33;239
+2015;Letónia;Masculino;19;94
+2015;Libéria;Feminino;1;2
+2015;Libéria;Masculino;0;14
+2015;Liechtenstein;Feminino;1;2
+2015;Liechtenstein;Masculino;0;1
+2015;Lituânia;Feminino;48;364
+2015;Lituânia;Masculino;21;171
+2015;Luxemburgo;Feminino;7;61
+2015;Luxemburgo;Masculino;14;83
+2015;Líbano;Feminino;18;62
+2015;Líbano;Masculino;18;100
+2015;Líbia;Feminino;10;41
+2015;Líbia;Masculino;5;155
+2015;Macau;Feminino;0;0
+2015;Macau;Masculino;0;1
+2015;Macedónia do Norte;Feminino;5;12
+2015;Macedónia do Norte;Masculino;5;15
+2015;Madagáscar;Feminino;4;8
+2015;Madagáscar;Masculino;0;1
+2015;Maldivas;Feminino;0;1
+2015;Maldivas;Masculino;0;2
+2015;Mali;Feminino;1;6
+2015;Mali;Masculino;2;39
+2015;Malta;Feminino;1;14
+2015;Malta;Masculino;2;11
+2015;Malásia;Feminino;4;35
+2015;Malásia;Masculino;5;24
+2015;Maláui;Feminino;2;10
+2015;Maláui;Masculino;0;2
+2015;Marrocos;Feminino;80;829
+2015;Marrocos;Masculino;56;852
+2015;Mauritânia;Feminino;0;3
+2015;Mauritânia;Masculino;1;21
+2015;Mianmar;Feminino;0;3
+2015;Mianmar;Masculino;1;4
+2015;Moldávia;Feminino;144;3744
+2015;Moldávia;Masculino;91;3204
+2015;Mongólia;Feminino;2;18
+2015;Mongólia;Masculino;1;14
+2015;Montenegro;Feminino;1;4
+2015;Montenegro;Masculino;0;5
+2015;Moçambique;Feminino;155;1589
+2015;Moçambique;Masculino;163;1220
+2015;México;Feminino;25;256
+2015;México;Masculino;23;177
+2015;Namíbia;Feminino;1;12
+2015;Namíbia;Masculino;0;6
+2015;Nepal;Feminino;413;1506
+2015;Nepal;Masculino;956;3292
+2015;Nicarágua;Feminino;1;12
+2015;Nicarágua;Masculino;0;4
+2015;Nigéria;Feminino;25;176
+2015;Nigéria;Masculino;34;252
+2015;Noruega;Feminino;25;228
+2015;Noruega;Masculino;42;287
+2015;Nova Zelândia;Feminino;3;16
+2015;Nova Zelândia;Masculino;6;23
+2015;Níger;Feminino;0;1
+2015;Níger;Masculino;2;5
+2015;Omã;Feminino;0;0
+2015;Omã;Masculino;0;3
+2015;Palau;Feminino;0;1
+2015;Palau;Masculino;0;0
+2015;Palestina;Feminino;6;25
+2015;Palestina;Masculino;4;27
+2015;Panamá;Feminino;1;22
+2015;Panamá;Masculino;0;5
+2015;Paquistão;Feminino;165;984
+2015;Paquistão;Masculino;403;2058
+2015;Paraguai;Feminino;8;69
+2015;Paraguai;Masculino;6;23
+2015;Países Baixos;Feminino;393;2744
+2015;Países Baixos;Masculino;441;3113
+2015;Peru;Feminino;16;170
+2015;Peru;Masculino;8;86
+2015;Polónia;Feminino;234;987
+2015;Polónia;Masculino;81;395
+2015;Quirguistão;Feminino;0;20
+2015;Quirguistão;Masculino;0;11
+2015;Quénia;Feminino;9;46
+2015;Quénia;Masculino;4;18
+2015;Reino Unido;Feminino;813;8186
+2015;Reino Unido;Masculino;1053;9051
+2015;República Centro-Africana;Feminino;0;3
+2015;República Centro-Africana;Masculino;1;4
+2015;República Checa;Feminino;44;184
+2015;República Checa;Masculino;29;92
+2015;República Democrática do Congo;Feminino;6;107
+2015;República Democrática do Congo;Masculino;3;128
+2015;República Dominicana;Feminino;10;96
+2015;República Dominicana;Masculino;4;36
+2015;Reunião;Feminino;0;0
+2015;Reunião;Masculino;0;1
+2015;Roménia;Feminino;1004;13809
+2015;Roménia;Masculino;1565;16714
+2015;Ruanda;Feminino;8;14
+2015;Ruanda;Masculino;0;6
+2015;Rússia;Feminino;200;2746
+2015;Rússia;Masculino;93;1517
+2015;Samoa;Feminino;0;1
+2015;Samoa;Masculino;0;0
+2015;Santa Lúcia;Feminino;0;1
+2015;Santa Lúcia;Masculino;0;0
+2015;Senegal;Feminino;45;489
+2015;Senegal;Masculino;60;1026
+2015;Serra Leoa;Feminino;3;24
+2015;Serra Leoa;Masculino;2;39
+2015;Seychelles;Feminino;0;2
+2015;Seychelles;Masculino;0;4
+2015;Singapura;Feminino;1;20
+2015;Singapura;Masculino;3;8
+2015;Somália;Feminino;4;23
+2015;Somália;Masculino;3;31
+2015;Sri Lanka;Feminino;3;18
+2015;Sri Lanka;Masculino;6;42
+2015;Sudão;Feminino;5;8
+2015;Sudão;Masculino;3;30
+2015;Suécia;Feminino;255;853
+2015;Suécia;Masculino;388;1136
+2015;Suíça;Feminino;96;585
+2015;Suíça;Masculino;119;678
+2015;São Cristóvão e Nevis;Feminino;5;9
+2015;São Cristóvão e Nevis;Masculino;1;6
+2015;São Tomé e Príncipe;Feminino;278;5264
+2015;São Tomé e Príncipe;Masculino;227;4282
+2015;São Vicente e Granadinas;Feminino;0;0
+2015;São Vicente e Granadinas;Masculino;0;1
+2015;Sérvia;Feminino;11;118
+2015;Sérvia;Masculino;8;74
+2015;Síria;Feminino;21;66
+2015;Síria;Masculino;36;98
+2015;Tailândia;Feminino;125;405
+2015;Tailândia;Masculino;271;1023
+2015;Taiwan;Feminino;2;19
+2015;Taiwan;Masculino;3;17
+2015;Tajiquistão;Feminino;3;7
+2015;Tajiquistão;Masculino;2;8
+2015;Tanzânia;Feminino;0;14
+2015;Tanzânia;Masculino;3;18
+2015;Timor-Leste;Feminino;17;58
+2015;Timor-Leste;Masculino;27;111
+2015;Togo;Feminino;4;19
+2015;Togo;Masculino;1;16
+2015;Tonga;Feminino;1;1
+2015;Tonga;Masculino;0;0
+2015;Trindade e Tobago;Feminino;1;4
+2015;Trindade e Tobago;Masculino;0;4
+2015;Tunísia;Feminino;9;64
+2015;Tunísia;Masculino;14;112
+2015;Turquemenistão;Feminino;2;5
+2015;Turquemenistão;Masculino;3;7
+2015;Turquia;Feminino;20;291
+2015;Turquia;Masculino;18;305
+2015;Ucrânia;Feminino;632;18343
+2015;Ucrânia;Masculino;466;17436
+2015;Uganda;Feminino;0;6
+2015;Uganda;Masculino;1;12
+2015;Uruguai;Feminino;9;61
+2015;Uruguai;Masculino;10;61
+2015;Uzbequistão;Feminino;28;425
+2015;Uzbequistão;Masculino;20;567
+2015;Venezuela;Feminino;156;1156
+2015;Venezuela;Masculino;85;854
+2015;Vietname;Feminino;8;40
+2015;Vietname;Masculino;7;37
+2015;Zimbabwe;Feminino;5;23
+2015;Zimbabwe;Masculino;2;15
+2015;Zâmbia;Feminino;0;6
+2015;Zâmbia;Masculino;0;1
+2015;África do Sul;Feminino;54;358
+2015;África do Sul;Masculino;55;277
+2015;Áustria;Feminino;61;296
+2015;Áustria;Masculino;55;311
+2015;Índia;Feminino;346;2113
+2015;Índia;Masculino;775;4822
+2016;Afeganistão;Feminino;1;13
+2016;Afeganistão;Masculino;4;25
+2016;Albânia;Feminino;7;26
+2016;Albânia;Masculino;5;21
+2016;Alemanha;Feminino;766;4888
+2016;Alemanha;Masculino;821;5142
+2016;Andorra;Feminino;3;3
+2016;Andorra;Masculino;4;6
+2016;Angola;Feminino;742;9203
+2016;Angola;Masculino;737;7791
+2016;Apátrida;Feminino;4;6
+2016;Apátrida;Masculino;2;6
+2016;Argentina;Feminino;11;226
+2016;Argentina;Masculino;26;212
+2016;Argélia;Feminino;22;134
+2016;Argélia;Masculino;22;181
+2016;Arménia;Feminino;5;49
+2016;Arménia;Masculino;7;40
+2016;Arábia Saudita;Feminino;34;45
+2016;Arábia Saudita;Masculino;38;53
+2016;Austrália;Feminino;19;149
+2016;Austrália;Masculino;25;149
+2016;Azerbaijão;Feminino;2;18
+2016;Azerbaijão;Masculino;4;17
+2016;Bahamas;Feminino;0;0
+2016;Bahamas;Masculino;1;1
+2016;Bahrein;Feminino;0;1
+2016;Bahrein;Masculino;1;10
+2016;Bangladesh;Feminino;155;490
+2016;Bangladesh;Masculino;282;2309
+2016;Barbados;Feminino;0;4
+2016;Barbados;Masculino;0;1
+2016;Belize;Feminino;0;3
+2016;Belize;Masculino;0;3
+2016;Benin;Feminino;0;1
+2016;Benin;Masculino;0;11
+2016;Bermudas;Feminino;0;1
+2016;Bermudas;Masculino;0;2
+2016;Bielorrússia;Feminino;20;412
+2016;Bielorrússia;Masculino;13;214
+2016;Bolívia;Feminino;9;78
+2016;Bolívia;Masculino;6;26
+2016;Botswana;Feminino;0;3
+2016;Botswana;Masculino;0;1
+2016;Brasil;Feminino;4063;50313
+2016;Brasil;Masculino;2996;30938
+2016;Bulgária;Feminino;502;3530
+2016;Bulgária;Masculino;355;3489
+2016;Burkina Faso;Feminino;1;5
+2016;Burkina Faso;Masculino;3;12
+2016;Burundi;Feminino;0;2
+2016;Burundi;Masculino;0;4
+2016;Butão;Feminino;1;2
+2016;Butão;Masculino;1;1
+2016;Bélgica;Feminino;272;1315
+2016;Bélgica;Masculino;322;1538
+2016;Bósnia e Herzegovina;Feminino;1;38
+2016;Bósnia e Herzegovina;Masculino;2;16
+2016;Cabo Verde;Feminino;1067;19679
+2016;Cabo Verde;Masculino;924;16899
+2016;Camarões;Feminino;11;51
+2016;Camarões;Masculino;42;118
+2016;Camboja;Feminino;4;12
+2016;Camboja;Masculino;0;7
+2016;Canadá;Feminino;37;343
+2016;Canadá;Masculino;39;395
+2016;Cazaquistão;Feminino;21;308
+2016;Cazaquistão;Masculino;14;220
+2016;Chade;Feminino;0;2
+2016;Chade;Masculino;0;2
+2016;Chile;Feminino;21;123
+2016;Chile;Masculino;10;93
+2016;China;Feminino;1497;11189
+2016;China;Masculino;1342;11314
+2016;Chipre;Feminino;9;16
+2016;Chipre;Masculino;8;13
+2016;Colômbia;Feminino;57;569
+2016;Colômbia;Masculino;46;317
+2016;Comores;Feminino;0;0
+2016;Comores;Masculino;0;1
+2016;Congo;Feminino;13;50
+2016;Congo;Masculino;12;33
+2016;Coreia do Sul;Feminino;10;124
+2016;Coreia do Sul;Masculino;11;91
+2016;Costa Rica;Feminino;8;38
+2016;Costa Rica;Masculino;3;23
+2016;Costa do Marfim;Feminino;11;38
+2016;Costa do Marfim;Masculino;8;94
+2016;Croácia;Feminino;36;129
+2016;Croácia;Masculino;22;93
+2016;Cuba;Feminino;48;538
+2016;Cuba;Masculino;41;427
+2016;Desconhecido;Feminino;1;6
+2016;Desconhecido;Masculino;0;9
+2016;Dinamarca;Feminino;60;289
+2016;Dinamarca;Masculino;89;369
+2016;Djibuti;Feminino;0;2
+2016;Djibuti;Masculino;0;3
+2016;Dominica;Feminino;0;4
+2016;Dominica;Masculino;0;1
+2016;Egipto;Feminino;24;87
+2016;Egipto;Masculino;20;192
+2016;El Salvador;Feminino;1;17
+2016;El Salvador;Masculino;3;21
+2016;Emiratos Árabes Unidos;Feminino;1;2
+2016;Emiratos Árabes Unidos;Masculino;2;7
+2016;Equador;Feminino;37;182
+2016;Equador;Masculino;56;160
+2016;Eritreia;Feminino;35;37
+2016;Eritreia;Masculino;132;93
+2016;Eslováquia;Feminino;37;146
+2016;Eslováquia;Masculino;25;61
+2016;Eslovénia;Feminino;22;62
+2016;Eslovénia;Masculino;16;55
+2016;Espanha;Feminino;1032;5514
+2016;Espanha;Masculino;1182;5619
+2016;Essuatíni;Feminino;0;4
+2016;Essuatíni;Masculino;0;0
+2016;Estados Unidos da América;Feminino;227;1305
+2016;Estados Unidos da América;Masculino;274;1400
+2016;Estónia;Feminino;33;122
+2016;Estónia;Masculino;12;35
+2016;Etiópia;Feminino;3;25
+2016;Etiópia;Masculino;15;28
+2016;Filipinas;Feminino;46;526
+2016;Filipinas;Masculino;35;224
+2016;Finlândia;Feminino;103;457
+2016;Finlândia;Masculino;113;541
+2016;França;Feminino;1642;5288
+2016;França;Masculino;1833;6005
+2016;Gabão;Feminino;6;10
+2016;Gabão;Masculino;2;12
+2016;Gana;Feminino;6;54
+2016;Gana;Masculino;14;87
+2016;Geórgia;Feminino;14;285
+2016;Geórgia;Masculino;13;332
+2016;Granada;Feminino;0;2
+2016;Granada;Masculino;0;2
+2016;Grécia;Feminino;53;168
+2016;Grécia;Masculino;54;159
+2016;Guatemala;Feminino;2;23
+2016;Guatemala;Masculino;1;20
+2016;Guiana;Feminino;0;3
+2016;Guiana;Masculino;1;4
+2016;Guiné;Feminino;85;420
+2016;Guiné;Masculino;113;943
+2016;Guiné Equatorial;Feminino;2;25
+2016;Guiné Equatorial;Masculino;0;30
+2016;Guiné-Bissau;Feminino;524;7299
+2016;Guiné-Bissau;Masculino;427;8354
+2016;Gâmbia;Feminino;10;41
+2016;Gâmbia;Masculino;13;110
+2016;Haiti;Feminino;0;2
+2016;Haiti;Masculino;2;4
+2016;Honduras;Feminino;5;21
+2016;Honduras;Masculino;1;11
+2016;Hong Kong;Feminino;1;5
+2016;Hong Kong;Masculino;1;6
+2016;Hungria;Feminino;52;342
+2016;Hungria;Masculino;39;178
+2016;Ilhas Cook;Feminino;0;0
+2016;Ilhas Cook;Masculino;0;1
+2016;Ilhas Fiji;Feminino;0;3
+2016;Ilhas Fiji;Masculino;1;1
+2016;Ilhas Maurícias;Feminino;3;10
+2016;Ilhas Maurícias;Masculino;5;12
+2016;Indonésia;Feminino;16;70
+2016;Indonésia;Masculino;25;87
+2016;Iraque;Feminino;52;100
+2016;Iraque;Masculino;79;128
+2016;Irlanda;Feminino;92;464
+2016;Irlanda;Masculino;141;567
+2016;Irão;Feminino;67;290
+2016;Irão;Masculino;68;362
+2016;Islândia;Feminino;6;38
+2016;Islândia;Masculino;7;28
+2016;Israel;Feminino;11;63
+2016;Israel;Masculino;19;72
+2016;Itália;Feminino;1206;3496
+2016;Itália;Masculino;1900;5027
+2016;Iémen;Feminino;0;3
+2016;Iémen;Masculino;5;15
+2016;Jamaica;Feminino;0;6
+2016;Jamaica;Masculino;3;9
+2016;Japão;Feminino;23;250
+2016;Japão;Masculino;20;190
+2016;Jordânia;Feminino;38;78
+2016;Jordânia;Masculino;52;111
+2016;Kosovo;Feminino;1;11
+2016;Kosovo;Masculino;0;10
+2016;Kuwait;Feminino;0;2
+2016;Kuwait;Masculino;3;4
+2016;Laos;Feminino;0;3
+2016;Laos;Masculino;1;3
+2016;Lesoto;Feminino;0;3
+2016;Lesoto;Masculino;0;0
+2016;Letónia;Feminino;35;251
+2016;Letónia;Masculino;13;98
+2016;Libéria;Feminino;0;2
+2016;Libéria;Masculino;0;11
+2016;Liechtenstein;Feminino;2;4
+2016;Liechtenstein;Masculino;3;4
+2016;Lituânia;Feminino;65;401
+2016;Lituânia;Masculino;32;184
+2016;Luxemburgo;Feminino;9;68
+2016;Luxemburgo;Masculino;18;98
+2016;Líbano;Feminino;36;87
+2016;Líbano;Masculino;41;131
+2016;Líbia;Feminino;8;42
+2016;Líbia;Masculino;6;54
+2016;Macau;Feminino;1;1
+2016;Macau;Masculino;0;1
+2016;Macedónia do Norte;Feminino;9;22
+2016;Macedónia do Norte;Masculino;0;11
+2016;Madagáscar;Feminino;1;7
+2016;Madagáscar;Masculino;0;0
+2016;Maldivas;Feminino;0;1
+2016;Maldivas;Masculino;0;2
+2016;Mali;Feminino;6;11
+2016;Mali;Masculino;4;46
+2016;Malta;Feminino;3;12
+2016;Malta;Masculino;3;12
+2016;Malásia;Feminino;5;35
+2016;Malásia;Masculino;5;25
+2016;Maláui;Feminino;3;14
+2016;Maláui;Masculino;1;3
+2016;Marrocos;Feminino;48;793
+2016;Marrocos;Masculino;44;783
+2016;Mauritânia;Feminino;0;4
+2016;Mauritânia;Masculino;3;21
+2016;Mianmar;Feminino;2;4
+2016;Mianmar;Masculino;2;5
+2016;Moldávia;Feminino;150;3339
+2016;Moldávia;Masculino;99;2786
+2016;Mongólia;Feminino;4;19
+2016;Mongólia;Masculino;0;8
+2016;Montenegro;Feminino;0;5
+2016;Montenegro;Masculino;1;7
+2016;Moçambique;Feminino;176;1602
+2016;Moçambique;Masculino;166;1246
+2016;México;Feminino;45;291
+2016;México;Masculino;36;183
+2016;Namíbia;Feminino;0;13
+2016;Namíbia;Masculino;1;3
+2016;Nepal;Feminino;563;1972
+2016;Nepal;Masculino;785;3863
+2016;Nicarágua;Feminino;1;13
+2016;Nicarágua;Masculino;0;2
+2016;Nigéria;Feminino;39;177
+2016;Nigéria;Masculino;82;301
+2016;Noruega;Feminino;51;258
+2016;Noruega;Masculino;53;315
+2016;Nova Zelândia;Feminino;7;23
+2016;Nova Zelândia;Masculino;4;22
+2016;Níger;Feminino;0;1
+2016;Níger;Masculino;0;0
+2016;Omã;Feminino;0;0
+2016;Omã;Masculino;0;2
+2016;Palau;Feminino;0;0
+2016;Palau;Masculino;0;1
+2016;Palestina;Feminino;8;32
+2016;Palestina;Masculino;11;41
+2016;Panamá;Feminino;4;25
+2016;Panamá;Masculino;5;7
+2016;Paquistão;Feminino;158;1042
+2016;Paquistão;Masculino;310;2133
+2016;Paraguai;Feminino;9;73
+2016;Paraguai;Masculino;9;30
+2016;Países Baixos;Feminino;533;3196
+2016;Países Baixos;Masculino;632;3644
+2016;Peru;Feminino;14;176
+2016;Peru;Masculino;14;108
+2016;Polónia;Feminino;282;1104
+2016;Polónia;Masculino;144;472
+2016;Qatar;Feminino;1;1
+2016;Qatar;Masculino;0;3
+2016;Quirguistão;Feminino;0;17
+2016;Quirguistão;Masculino;1;10
+2016;Quénia;Feminino;10;47
+2016;Quénia;Masculino;10;28
+2016;Reino Unido;Feminino;1402;9185
+2016;Reino Unido;Masculino;1664;10206
+2016;República Centro-Africana;Feminino;2;4
+2016;República Centro-Africana;Masculino;3;4
+2016;República Checa;Feminino;60;208
+2016;República Checa;Masculino;25;102
+2016;República Democrática do Congo;Feminino;9;102
+2016;República Democrática do Congo;Masculino;15;123
+2016;República Dominicana;Feminino;9;93
+2016;República Dominicana;Masculino;7;43
+2016;Roménia;Feminino;999;13838
+2016;Roménia;Masculino;1480;16591
+2016;Ruanda;Feminino;8;19
+2016;Ruanda;Masculino;1;7
+2016;Rússia;Feminino;199;2789
+2016;Rússia;Masculino;115;1494
+2016;Samoa;Feminino;0;1
+2016;Samoa;Masculino;0;0
+2016;Santa Lúcia;Feminino;0;1
+2016;Santa Lúcia;Masculino;0;0
+2016;Senegal;Feminino;59;479
+2016;Senegal;Masculino;54;877
+2016;Serra Leoa;Feminino;8;24
+2016;Serra Leoa;Masculino;7;36
+2016;Seychelles;Feminino;0;2
+2016;Seychelles;Masculino;1;5
+2016;Singapura;Feminino;4;24
+2016;Singapura;Masculino;6;14
+2016;Somália;Feminino;1;22
+2016;Somália;Masculino;1;29
+2016;Sri Lanka;Feminino;10;26
+2016;Sri Lanka;Masculino;9;51
+2016;Sudão;Feminino;3;13
+2016;Sudão;Masculino;6;37
+2016;Suécia;Feminino;326;1136
+2016;Suécia;Masculino;423;1497
+2016;Suíça;Feminino;157;734
+2016;Suíça;Masculino;157;823
+2016;São Cristóvão e Nevis;Feminino;3;5
+2016;São Cristóvão e Nevis;Masculino;3;12
+2016;São Tomé e Príncipe;Feminino;311;4965
+2016;São Tomé e Príncipe;Masculino;237;4003
+2016;Sérvia;Feminino;13;114
+2016;Sérvia;Masculino;13;74
+2016;Síria;Feminino;187;211
+2016;Síria;Masculino;240;259
+2016;Tailândia;Feminino;110;453
+2016;Tailândia;Masculino;187;1022
+2016;Taiwan;Feminino;7;22
+2016;Taiwan;Masculino;2;17
+2016;Tajiquistão;Feminino;2;7
+2016;Tajiquistão;Masculino;3;9
+2016;Tanzânia;Feminino;0;11
+2016;Tanzânia;Masculino;1;16
+2016;Timor-Leste;Feminino;19;64
+2016;Timor-Leste;Masculino;40;124
+2016;Togo;Feminino;0;18
+2016;Togo;Masculino;6;19
+2016;Tonga;Feminino;0;1
+2016;Tonga;Masculino;0;0
+2016;Trindade e Tobago;Feminino;2;4
+2016;Trindade e Tobago;Masculino;0;3
+2016;Tunísia;Feminino;9;82
+2016;Tunísia;Masculino;13;121
+2016;Turquemenistão;Feminino;0;3
+2016;Turquemenistão;Masculino;0;2
+2016;Turquia;Feminino;42;349
+2016;Turquia;Masculino;29;347
+2016;Ucrânia;Feminino;672;17790
+2016;Ucrânia;Masculino;568;16700
+2016;Uganda;Feminino;1;11
+2016;Uganda;Masculino;4;14
+2016;Uruguai;Feminino;9;64
+2016;Uruguai;Masculino;11;63
+2016;Uzbequistão;Feminino;33;430
+2016;Uzbequistão;Masculino;25;538
+2016;Vanuatu;Feminino;0;0
+2016;Vanuatu;Masculino;1;1
+2016;Venezuela;Feminino;274;1386
+2016;Venezuela;Masculino;179;970
+2016;Vietname;Feminino;36;71
+2016;Vietname;Masculino;32;53
+2016;Zimbabwe;Feminino;3;21
+2016;Zimbabwe;Masculino;4;16
+2016;Zâmbia;Feminino;2;5
+2016;Zâmbia;Masculino;0;0
+2016;África do Sul;Feminino;115;450
+2016;África do Sul;Masculino;112;389
+2016;Áustria;Feminino;95;363
+2016;Áustria;Masculino;101;394
+2016;Índia;Feminino;386;2313
+2016;Índia;Masculino;638;4931
+2017;Afeganistão;Feminino;1;14
+2017;Afeganistão;Masculino;13;36
+2017;Albânia;Feminino;6;35
+2017;Albânia;Masculino;4;24
+2017;Alemanha;Feminino;897;5405
+2017;Alemanha;Masculino;1016;5755
+2017;Andorra;Feminino;0;3
+2017;Andorra;Masculino;2;8
+2017;Angola;Feminino;1013;9250
+2017;Angola;Masculino;818;7604
+2017;Apátrida;Feminino;5;12
+2017;Apátrida;Masculino;7;19
+2017;Argentina;Feminino;25;224
+2017;Argentina;Masculino;22;200
+2017;Argélia;Feminino;30;150
+2017;Argélia;Masculino;18;176
+2017;Arménia;Feminino;8;63
+2017;Arménia;Masculino;5;39
+2017;Arábia Saudita;Feminino;47;52
+2017;Arábia Saudita;Masculino;48;63
+2017;Austrália;Feminino;27;160
+2017;Austrália;Masculino;40;172
+2017;Azerbaijão;Feminino;10;29
+2017;Azerbaijão;Masculino;8;21
+2017;Bahamas;Feminino;0;1
+2017;Bahamas;Masculino;0;0
+2017;Bahrein;Feminino;2;2
+2017;Bahrein;Masculino;6;8
+2017;Bangladesh;Feminino;258;708
+2017;Bangladesh;Masculino;479;2742
+2017;Barbados;Feminino;0;3
+2017;Barbados;Masculino;0;1
+2017;Belize;Feminino;1;4
+2017;Belize;Masculino;1;4
+2017;Benin;Feminino;1;1
+2017;Benin;Masculino;1;10
+2017;Bermudas;Feminino;0;1
+2017;Bermudas;Masculino;0;0
+2017;Bielorrússia;Feminino;31;377
+2017;Bielorrússia;Masculino;8;188
+2017;Bolívia;Feminino;7;75
+2017;Bolívia;Masculino;5;30
+2017;Botswana;Feminino;0;3
+2017;Botswana;Masculino;2;4
+2017;Brasil;Feminino;6518;52526
+2017;Brasil;Masculino;5056;32900
+2017;Bulgária;Feminino;433;3562
+2017;Bulgária;Masculino;369;3471
+2017;Burkina Faso;Feminino;1;6
+2017;Burkina Faso;Masculino;5;18
+2017;Burundi;Feminino;1;2
+2017;Burundi;Masculino;1;4
+2017;Butão;Feminino;1;2
+2017;Butão;Masculino;2;2
+2017;Bélgica;Feminino;350;1583
+2017;Bélgica;Masculino;463;1925
+2017;Bósnia e Herzegovina;Feminino;7;41
+2017;Bósnia e Herzegovina;Masculino;2;18
+2017;Cabo Verde;Feminino;1062;18826
+2017;Cabo Verde;Masculino;998;16160
+2017;Camarões;Feminino;6;51
+2017;Camarões;Masculino;15;97
+2017;Camboja;Feminino;0;7
+2017;Camboja;Masculino;1;2
+2017;Canadá;Feminino;60;390
+2017;Canadá;Masculino;82;440
+2017;Cazaquistão;Feminino;21;300
+2017;Cazaquistão;Masculino;15;216
+2017;Chade;Feminino;0;1
+2017;Chade;Masculino;2;4
+2017;Chile;Feminino;11;111
+2017;Chile;Masculino;16;103
+2017;China;Feminino;1356;11584
+2017;China;Masculino;1244;11613
+2017;Chipre;Feminino;10;24
+2017;Chipre;Masculino;5;19
+2017;Colômbia;Feminino;80;573
+2017;Colômbia;Masculino;50;349
+2017;Comores;Feminino;0;1
+2017;Comores;Masculino;0;0
+2017;Congo;Feminino;9;48
+2017;Congo;Masculino;7;25
+2017;Coreia do Sul;Feminino;10;107
+2017;Coreia do Sul;Masculino;20;99
+2017;Costa Rica;Feminino;17;45
+2017;Costa Rica;Masculino;11;35
+2017;Costa do Marfim;Feminino;12;43
+2017;Costa do Marfim;Masculino;7;86
+2017;Croácia;Feminino;35;154
+2017;Croácia;Masculino;62;146
+2017;Cuba;Feminino;38;525
+2017;Cuba;Masculino;36;404
+2017;Desconhecido;Feminino;0;4
+2017;Desconhecido;Masculino;1;9
+2017;Dinamarca;Feminino;98;363
+2017;Dinamarca;Masculino;174;516
+2017;Djibuti;Feminino;1;1
+2017;Djibuti;Masculino;0;0
+2017;Dominica;Feminino;2;4
+2017;Dominica;Masculino;4;5
+2017;Egipto;Feminino;28;105
+2017;Egipto;Masculino;43;210
+2017;El Salvador;Feminino;3;18
+2017;El Salvador;Masculino;5;26
+2017;Emiratos Árabes Unidos;Feminino;8;9
+2017;Emiratos Árabes Unidos;Masculino;10;16
+2017;Equador;Feminino;59;187
+2017;Equador;Masculino;86;184
+2017;Eritreia;Feminino;12;36
+2017;Eritreia;Masculino;59;120
+2017;Eslováquia;Feminino;45;166
+2017;Eslováquia;Masculino;26;82
+2017;Eslovénia;Feminino;24;73
+2017;Eslovénia;Masculino;14;63
+2017;Espanha;Feminino;1291;6157
+2017;Espanha;Masculino;1447;6369
+2017;Essuatíni;Feminino;0;5
+2017;Essuatíni;Masculino;0;0
+2017;Estados Unidos da América;Feminino;318;1423
+2017;Estados Unidos da América;Masculino;296;1465
+2017;Estónia;Feminino;38;147
+2017;Estónia;Masculino;14;45
+2017;Etiópia;Feminino;4;26
+2017;Etiópia;Masculino;5;22
+2017;Filipinas;Feminino;60;548
+2017;Filipinas;Masculino;15;215
+2017;Finlândia;Feminino;120;553
+2017;Finlândia;Masculino;89;610
+2017;França;Feminino;2170;7173
+2017;França;Masculino;2492;8146
+2017;Gabão;Feminino;1;11
+2017;Gabão;Masculino;0;10
+2017;Gana;Feminino;9;46
+2017;Gana;Masculino;22;100
+2017;Geórgia;Feminino;18;252
+2017;Geórgia;Masculino;14;279
+2017;Granada;Feminino;0;2
+2017;Granada;Masculino;0;2
+2017;Grécia;Feminino;70;211
+2017;Grécia;Masculino;69;214
+2017;Guatemala;Feminino;3;27
+2017;Guatemala;Masculino;2;16
+2017;Guiana;Feminino;1;4
+2017;Guiana;Masculino;2;5
+2017;Guiné;Feminino;67;393
+2017;Guiné;Masculino;91;882
+2017;Guiné Equatorial;Feminino;0;31
+2017;Guiné Equatorial;Masculino;3;31
+2017;Guiné-Bissau;Feminino;578;7166
+2017;Guiné-Bissau;Masculino;542;8032
+2017;Gâmbia;Feminino;8;39
+2017;Gâmbia;Masculino;12;110
+2017;Haiti;Feminino;0;2
+2017;Haiti;Masculino;0;5
+2017;Honduras;Feminino;7;26
+2017;Honduras;Masculino;1;10
+2017;Hong Kong;Feminino;0;9
+2017;Hong Kong;Masculino;2;4
+2017;Hungria;Feminino;87;389
+2017;Hungria;Masculino;56;208
+2017;Ilhas Cook;Feminino;0;1
+2017;Ilhas Cook;Masculino;0;0
+2017;Ilhas Fiji;Feminino;1;5
+2017;Ilhas Fiji;Masculino;0;2
+2017;Ilhas Maurícias;Feminino;2;8
+2017;Ilhas Maurícias;Masculino;2;11
+2017;Indonésia;Feminino;14;76
+2017;Indonésia;Masculino;35;106
+2017;Iraque;Feminino;76;121
+2017;Iraque;Masculino;96;164
+2017;Irlanda;Feminino;157;589
+2017;Irlanda;Masculino;223;748
+2017;Irão;Feminino;66;322
+2017;Irão;Masculino;80;377
+2017;Islândia;Feminino;2;35
+2017;Islândia;Masculino;9;35
+2017;Israel;Feminino;32;85
+2017;Israel;Masculino;20;93
+2017;Itália;Feminino;2128;5248
+2017;Itália;Masculino;3139;7677
+2017;Iémen;Feminino;1;3
+2017;Iémen;Masculino;4;11
+2017;Jamaica;Feminino;2;6
+2017;Jamaica;Masculino;1;7
+2017;Japão;Feminino;20;265
+2017;Japão;Masculino;20;185
+2017;Jordânia;Feminino;58;128
+2017;Jordânia;Masculino;64;165
+2017;Kosovo;Feminino;7;21
+2017;Kosovo;Masculino;9;22
+2017;Kuwait;Feminino;9;9
+2017;Kuwait;Masculino;14;20
+2017;Laos;Feminino;0;5
+2017;Laos;Masculino;0;6
+2017;Lesoto;Feminino;0;2
+2017;Lesoto;Masculino;0;0
+2017;Letónia;Feminino;48;273
+2017;Letónia;Masculino;30;118
+2017;Libéria;Feminino;0;2
+2017;Libéria;Masculino;0;10
+2017;Liechtenstein;Feminino;0;4
+2017;Liechtenstein;Masculino;0;4
+2017;Lituânia;Feminino;74;449
+2017;Lituânia;Masculino;33;200
+2017;Luxemburgo;Feminino;25;88
+2017;Luxemburgo;Masculino;15;105
+2017;Líbano;Feminino;64;143
+2017;Líbano;Masculino;68;182
+2017;Líbia;Feminino;25;57
+2017;Líbia;Masculino;31;69
+2017;Macau;Feminino;0;2
+2017;Macau;Masculino;0;1
+2017;Macedónia do Norte;Feminino;5;27
+2017;Macedónia do Norte;Masculino;4;16
+2017;Madagáscar;Feminino;1;8
+2017;Madagáscar;Masculino;0;1
+2017;Maldivas;Feminino;2;3
+2017;Maldivas;Masculino;1;3
+2017;Mali;Feminino;1;9
+2017;Mali;Masculino;5;40
+2017;Malta;Feminino;4;19
+2017;Malta;Masculino;8;23
+2017;Malásia;Feminino;5;38
+2017;Malásia;Masculino;4;24
+2017;Maláui;Feminino;2;15
+2017;Maláui;Masculino;1;4
+2017;Marrocos;Feminino;80;769
+2017;Marrocos;Masculino;63;742
+2017;Mauritânia;Feminino;0;4
+2017;Mauritânia;Masculino;3;21
+2017;Mianmar;Feminino;1;4
+2017;Mianmar;Masculino;1;6
+2017;Moldávia;Feminino;162;2877
+2017;Moldávia;Masculino;94;2333
+2017;Mongólia;Feminino;0;18
+2017;Mongólia;Masculino;3;9
+2017;Montenegro;Feminino;2;5
+2017;Montenegro;Masculino;2;7
+2017;Moçambique;Feminino;171;1607
+2017;Moçambique;Masculino;158;1247
+2017;México;Feminino;42;304
+2017;México;Masculino;42;212
+2017;Namíbia;Feminino;6;14
+2017;Namíbia;Masculino;2;4
+2017;Nepal;Feminino;748;2719
+2017;Nepal;Masculino;998;4718
+2017;Nicarágua;Feminino;3;13
+2017;Nicarágua;Masculino;1;3
+2017;Nigéria;Feminino;27;182
+2017;Nigéria;Masculino;61;326
+2017;Noruega;Feminino;83;313
+2017;Noruega;Masculino;85;367
+2017;Nova Zelândia;Feminino;7;25
+2017;Nova Zelândia;Masculino;8;30
+2017;Níger;Feminino;0;1
+2017;Níger;Masculino;1;1
+2017;Omã;Feminino;2;3
+2017;Omã;Masculino;2;4
+2017;Palau;Feminino;0;1
+2017;Palau;Masculino;0;0
+2017;Palestina;Feminino;2;27
+2017;Palestina;Masculino;4;35
+2017;Panamá;Feminino;21;41
+2017;Panamá;Masculino;16;20
+2017;Paquistão;Feminino;214;1081
+2017;Paquistão;Masculino;411;2299
+2017;Paraguai;Feminino;13;83
+2017;Paraguai;Masculino;3;35
+2017;Países Baixos;Feminino;602;3633
+2017;Países Baixos;Masculino;743;4204
+2017;Peru;Feminino;25;166
+2017;Peru;Masculino;12;85
+2017;Polónia;Feminino;336;1310
+2017;Polónia;Masculino;162;588
+2017;Quirguistão;Feminino;3;19
+2017;Quirguistão;Masculino;2;12
+2017;Quénia;Feminino;11;50
+2017;Quénia;Masculino;10;28
+2017;Reino Unido;Feminino;1650;10495
+2017;Reino Unido;Masculino;2184;11946
+2017;República Centro-Africana;Feminino;0;4
+2017;República Centro-Africana;Masculino;0;5
+2017;República Checa;Feminino;68;246
+2017;República Checa;Masculino;54;139
+2017;República Democrática do Congo;Feminino;16;111
+2017;República Democrática do Congo;Masculino;9;123
+2017;República Dominicana;Feminino;9;93
+2017;República Dominicana;Masculino;17;54
+2017;Roménia;Feminino;965;13918
+2017;Roménia;Masculino;1456;16832
+2017;Ruanda;Feminino;5;26
+2017;Ruanda;Masculino;0;7
+2017;Rússia;Feminino;265;2774
+2017;Rússia;Masculino;156;1490
+2017;Samoa;Feminino;0;1
+2017;Samoa;Masculino;0;0
+2017;Santa Lúcia;Feminino;0;1
+2017;Santa Lúcia;Masculino;0;0
+2017;Senegal;Feminino;51;436
+2017;Senegal;Masculino;62;805
+2017;Serra Leoa;Feminino;1;22
+2017;Serra Leoa;Masculino;11;42
+2017;Seychelles;Feminino;1;3
+2017;Seychelles;Masculino;3;4
+2017;Singapura;Feminino;5;24
+2017;Singapura;Masculino;2;8
+2017;Somália;Feminino;0;19
+2017;Somália;Masculino;4;28
+2017;Sri Lanka;Feminino;6;30
+2017;Sri Lanka;Masculino;3;42
+2017;Sudão;Feminino;2;11
+2017;Sudão;Masculino;6;17
+2017;Suécia;Feminino;458;1537
+2017;Suécia;Masculino;575;2027
+2017;Suíça;Feminino;164;851
+2017;Suíça;Masculino;221;990
+2017;São Cristóvão e Nevis;Feminino;4;15
+2017;São Cristóvão e Nevis;Masculino;5;16
+2017;São Tomé e Príncipe;Feminino;406;4689
+2017;São Tomé e Príncipe;Masculino;366;3916
+2017;Sérvia;Feminino;17;116
+2017;Sérvia;Masculino;24;89
+2017;Síria;Feminino;165;318
+2017;Síria;Masculino;206;398
+2017;Tailândia;Feminino;111;526
+2017;Tailândia;Masculino;239;1165
+2017;Taiwan;Feminino;1;19
+2017;Taiwan;Masculino;2;13
+2017;Tajiquistão;Feminino;1;9
+2017;Tajiquistão;Masculino;1;9
+2017;Tanzânia;Feminino;1;8
+2017;Tanzânia;Masculino;3;18
+2017;Timor-Leste;Feminino;25;80
+2017;Timor-Leste;Masculino;24;127
+2017;Togo;Feminino;1;12
+2017;Togo;Masculino;1;18
+2017;Trindade e Tobago;Feminino;2;4
+2017;Trindade e Tobago;Masculino;3;8
+2017;Tunísia;Feminino;23;95
+2017;Tunísia;Masculino;28;137
+2017;Turquemenistão;Feminino;0;4
+2017;Turquemenistão;Masculino;0;3
+2017;Turquia;Feminino;100;355
+2017;Turquia;Masculino;94;388
+2017;Ucrânia;Feminino;698;16923
+2017;Ucrânia;Masculino;549;15530
+2017;Uganda;Feminino;4;12
+2017;Uganda;Masculino;1;14
+2017;Uruguai;Feminino;9;64
+2017;Uruguai;Masculino;12;69
+2017;Uzbequistão;Feminino;33;443
+2017;Uzbequistão;Masculino;41;574
+2017;Vanuatu;Feminino;0;1
+2017;Vanuatu;Masculino;0;0
+2017;Venezuela;Feminino;574;1888
+2017;Venezuela;Masculino;350;1216
+2017;Vietname;Feminino;54;101
+2017;Vietname;Masculino;58;93
+2017;Zimbabwe;Feminino;8;28
+2017;Zimbabwe;Masculino;9;24
+2017;Zâmbia;Feminino;1;6
+2017;Zâmbia;Masculino;1;3
+2017;África do Sul;Feminino;188;540
+2017;África do Sul;Masculino;199;480
+2017;Áustria;Feminino;126;460
+2017;Áustria;Masculino;115;495
+2017;Índia;Feminino;592;2500
+2017;Índia;Masculino;1209;5490
+2018;Afeganistão;Feminino;1;19
+2018;Afeganistão;Masculino;4;41
+2018;Albânia;Feminino;6;36
+2018;Albânia;Masculino;9;49
+2018;Alemanha;Feminino;1109;6127
+2018;Alemanha;Masculino;1360;6690
+2018;Andorra;Feminino;2;5
+2018;Andorra;Masculino;3;11
+2018;Angola;Feminino;1523;10090
+2018;Angola;Masculino;1354;8292
+2018;Antígua e Barbuda;Feminino;2;2
+2018;Antígua e Barbuda;Masculino;3;3
+2018;Apátrida;Feminino;1;11
+2018;Apátrida;Masculino;1;19
+2018;Argentina;Feminino;35;257
+2018;Argentina;Masculino;47;229
+2018;Argélia;Feminino;24;143
+2018;Argélia;Masculino;48;196
+2018;Arménia;Feminino;5;46
+2018;Arménia;Masculino;3;32
+2018;Arábia Saudita;Feminino;19;81
+2018;Arábia Saudita;Masculino;21;84
+2018;Austrália;Feminino;33;185
+2018;Austrália;Masculino;39;187
+2018;Azerbaijão;Feminino;7;28
+2018;Azerbaijão;Masculino;4;19
+2018;Bahamas;Feminino;1;1
+2018;Bahamas;Masculino;0;0
+2018;Bahrein;Feminino;0;6
+2018;Bahrein;Masculino;4;7
+2018;Bangladesh;Feminino;401;1114
+2018;Bangladesh;Masculino;1553;4211
+2018;Barbados;Feminino;0;3
+2018;Barbados;Masculino;0;1
+2018;Belize;Feminino;0;4
+2018;Belize;Masculino;0;3
+2018;Benin;Feminino;0;0
+2018;Benin;Masculino;3;12
+2018;Bielorrússia;Feminino;27;378
+2018;Bielorrússia;Masculino;14;179
+2018;Bolívia;Feminino;8;86
+2018;Bolívia;Masculino;9;39
+2018;Botswana;Feminino;2;4
+2018;Botswana;Masculino;1;3
+2018;Brasil;Feminino;14777;62575
+2018;Brasil;Masculino;13433;42848
+2018;Brunei;Feminino;1;1
+2018;Brunei;Masculino;0;0
+2018;Bulgária;Feminino;323;3540
+2018;Bulgária;Masculino;217;3391
+2018;Burkina Faso;Feminino;3;7
+2018;Burkina Faso;Masculino;3;17
+2018;Burundi;Feminino;0;2
+2018;Burundi;Masculino;0;4
+2018;Butão;Feminino;0;2
+2018;Butão;Masculino;1;3
+2018;Bélgica;Feminino;381;1868
+2018;Bélgica;Masculino;487;2279
+2018;Bósnia e Herzegovina;Feminino;7;42
+2018;Bósnia e Herzegovina;Masculino;3;16
+2018;Cabo Verde;Feminino;1347;18549
+2018;Cabo Verde;Masculino;1218;16114
+2018;Camarões;Feminino;26;75
+2018;Camarões;Masculino;21;97
+2018;Camboja;Feminino;5;13
+2018;Camboja;Masculino;3;4
+2018;Canadá;Feminino;69;425
+2018;Canadá;Masculino;76;457
+2018;Cazaquistão;Feminino;16;291
+2018;Cazaquistão;Masculino;13;204
+2018;Chade;Feminino;0;1
+2018;Chade;Masculino;0;1
+2018;Chile;Feminino;23;120
+2018;Chile;Masculino;23;116
+2018;China;Feminino;1194;12735
+2018;China;Masculino;1141;12622
+2018;Chipre;Feminino;10;31
+2018;Chipre;Masculino;10;28
+2018;Colômbia;Feminino;109;609
+2018;Colômbia;Masculino;79;364
+2018;Congo;Feminino;8;45
+2018;Congo;Masculino;5;35
+2018;Coreia do Sul;Feminino;29;102
+2018;Coreia do Sul;Masculino;17;70
+2018;Costa Rica;Feminino;8;51
+2018;Costa Rica;Masculino;9;35
+2018;Costa do Marfim;Feminino;12;52
+2018;Costa do Marfim;Masculino;14;96
+2018;Croácia;Feminino;49;172
+2018;Croácia;Masculino;53;178
+2018;Cuba;Feminino;59;540
+2018;Cuba;Masculino;55;435
+2018;Desconhecido;Feminino;0;3
+2018;Desconhecido;Masculino;0;6
+2018;Dinamarca;Feminino;79;395
+2018;Dinamarca;Masculino;104;584
+2018;Djibuti;Feminino;0;2
+2018;Djibuti;Masculino;0;3
+2018;Dominica;Feminino;0;4
+2018;Dominica;Masculino;1;4
+2018;Egipto;Feminino;41;138
+2018;Egipto;Masculino;44;217
+2018;El Salvador;Feminino;2;21
+2018;El Salvador;Masculino;2;25
+2018;Emiratos Árabes Unidos;Feminino;1;7
+2018;Emiratos Árabes Unidos;Masculino;3;12
+2018;Equador;Feminino;33;179
+2018;Equador;Masculino;59;151
+2018;Eritreia;Feminino;4;41
+2018;Eritreia;Masculino;40;165
+2018;Eslováquia;Feminino;51;202
+2018;Eslováquia;Masculino;25;85
+2018;Eslovénia;Feminino;34;90
+2018;Eslovénia;Masculino;11;61
+2018;Espanha;Feminino;1414;6895
+2018;Espanha;Masculino;1485;7171
+2018;Essuatíni;Feminino;0;4
+2018;Essuatíni;Masculino;1;1
+2018;Estados Unidos da América;Feminino;362;1620
+2018;Estados Unidos da América;Masculino;352;1634
+2018;Estónia;Feminino;31;167
+2018;Estónia;Masculino;20;61
+2018;Etiópia;Feminino;7;28
+2018;Etiópia;Masculino;6;22
+2018;Filipinas;Feminino;85;621
+2018;Filipinas;Masculino;29;231
+2018;Finlândia;Feminino;81;607
+2018;Finlândia;Masculino;79;656
+2018;França;Feminino;2411;9175
+2018;França;Masculino;2895;10596
+2018;Gabão;Feminino;2;13
+2018;Gabão;Masculino;2;11
+2018;Gana;Feminino;2;42
+2018;Gana;Masculino;20;100
+2018;Geórgia;Feminino;24;227
+2018;Geórgia;Masculino;22;226
+2018;Granada;Feminino;0;2
+2018;Granada;Masculino;0;1
+2018;Grécia;Feminino;76;267
+2018;Grécia;Masculino;61;249
+2018;Guatemala;Feminino;6;32
+2018;Guatemala;Masculino;6;18
+2018;Guiana;Feminino;0;4
+2018;Guiana;Masculino;1;5
+2018;Guiné;Feminino;96;432
+2018;Guiné;Masculino;119;913
+2018;Guiné Equatorial;Feminino;5;33
+2018;Guiné Equatorial;Masculino;2;25
+2018;Guiné-Bissau;Feminino;896;7664
+2018;Guiné-Bissau;Masculino;1011;8522
+2018;Gâmbia;Feminino;4;40
+2018;Gâmbia;Masculino;13;116
+2018;Haiti;Feminino;0;1
+2018;Haiti;Masculino;1;4
+2018;Honduras;Feminino;8;30
+2018;Honduras;Masculino;6;11
+2018;Hong Kong;Feminino;2;9
+2018;Hong Kong;Masculino;6;11
+2018;Hungria;Feminino;118;482
+2018;Hungria;Masculino;81;266
+2018;Ilhas Cook;Feminino;0;1
+2018;Ilhas Cook;Masculino;0;0
+2018;Ilhas Fiji;Feminino;1;2
+2018;Ilhas Fiji;Masculino;0;2
+2018;Ilhas Marshall;Feminino;0;1
+2018;Ilhas Marshall;Masculino;0;0
+2018;Ilhas Maurícias;Feminino;4;14
+2018;Ilhas Maurícias;Masculino;4;19
+2018;Indonésia;Feminino;20;92
+2018;Indonésia;Masculino;89;188
+2018;Iraque;Feminino;19;147
+2018;Iraque;Masculino;28;205
+2018;Irlanda;Feminino;189;751
+2018;Irlanda;Masculino;290;1001
+2018;Irão;Feminino;83;385
+2018;Irão;Masculino;101;453
+2018;Islândia;Feminino;10;43
+2018;Islândia;Masculino;13;45
+2018;Israel;Feminino;17;91
+2018;Israel;Masculino;31;107
+2018;Itália;Feminino;2973;7740
+2018;Itália;Masculino;4016;11122
+2018;Iémen;Feminino;0;4
+2018;Iémen;Masculino;2;12
+2018;Jamaica;Feminino;0;5
+2018;Jamaica;Masculino;1;8
+2018;Japão;Feminino;32;277
+2018;Japão;Masculino;24;183
+2018;Jordânia;Feminino;33;137
+2018;Jordânia;Masculino;46;184
+2018;Kosovo;Feminino;4;21
+2018;Kosovo;Masculino;3;18
+2018;Kuwait;Feminino;1;6
+2018;Kuwait;Masculino;1;15
+2018;Laos;Feminino;0;2
+2018;Laos;Masculino;0;1
+2018;Lesoto;Feminino;0;1
+2018;Lesoto;Masculino;0;0
+2018;Letónia;Feminino;41;308
+2018;Letónia;Masculino;20;135
+2018;Libéria;Feminino;0;2
+2018;Libéria;Masculino;1;12
+2018;Liechtenstein;Feminino;0;4
+2018;Liechtenstein;Masculino;0;4
+2018;Lituânia;Feminino;96;516
+2018;Lituânia;Masculino;46;232
+2018;Luxemburgo;Feminino;33;112
+2018;Luxemburgo;Masculino;31;125
+2018;Líbano;Feminino;54;189
+2018;Líbano;Masculino;60;251
+2018;Líbia;Feminino;4;51
+2018;Líbia;Masculino;9;64
+2018;Macau;Feminino;2;2
+2018;Macau;Masculino;0;0
+2018;Macedónia do Norte;Feminino;7;32
+2018;Macedónia do Norte;Masculino;4;23
+2018;Madagáscar;Feminino;1;9
+2018;Madagáscar;Masculino;1;1
+2018;Maldivas;Feminino;0;6
+2018;Maldivas;Masculino;3;3
+2018;Mali;Feminino;1;10
+2018;Mali;Masculino;3;42
+2018;Malta;Feminino;2;21
+2018;Malta;Masculino;5;26
+2018;Malásia;Feminino;13;43
+2018;Malásia;Masculino;5;24
+2018;Maláui;Feminino;0;13
+2018;Maláui;Masculino;2;6
+2018;Marrocos;Feminino;96;782
+2018;Marrocos;Masculino;105;757
+2018;Mauritânia;Feminino;0;4
+2018;Mauritânia;Masculino;3;23
+2018;Mianmar;Feminino;0;2
+2018;Mianmar;Masculino;0;3
+2018;Moldávia;Feminino;208;2697
+2018;Moldávia;Masculino;158;2137
+2018;Mongólia;Feminino;0;20
+2018;Mongólia;Masculino;1;3
+2018;Montenegro;Feminino;0;6
+2018;Montenegro;Masculino;2;5
+2018;Moçambique;Feminino;274;1743
+2018;Moçambique;Masculino;193;1262
+2018;México;Feminino;60;312
+2018;México;Masculino;34;208
+2018;Namíbia;Feminino;4;15
+2018;Namíbia;Masculino;3;5
+2018;Nepal;Feminino;1468;4176
+2018;Nepal;Masculino;2743;7313
+2018;Nicarágua;Feminino;6;17
+2018;Nicarágua;Masculino;4;6
+2018;Nigéria;Feminino;44;212
+2018;Nigéria;Masculino;52;331
+2018;Noruega;Feminino;62;355
+2018;Noruega;Masculino;93;429
+2018;Nova Zelândia;Feminino;10;36
+2018;Nova Zelândia;Masculino;6;37
+2018;Níger;Feminino;0;0
+2018;Níger;Masculino;0;1
+2018;Omã;Feminino;0;2
+2018;Omã;Masculino;0;4
+2018;Palestina;Feminino;8;34
+2018;Palestina;Masculino;6;36
+2018;Panamá;Feminino;12;51
+2018;Panamá;Masculino;7;24
+2018;Paquistão;Feminino;408;1396
+2018;Paquistão;Masculino;861;2977
+2018;Paraguai;Feminino;0;84
+2018;Paraguai;Masculino;10;18
+2018;Países Baixos;Feminino;677;4159
+2018;Países Baixos;Masculino;800;4825
+2018;Peru;Feminino;34;184
+2018;Peru;Masculino;28;101
+2018;Polónia;Feminino;392;1579
+2018;Polónia;Masculino;234;741
+2018;Qatar;Feminino;1;1
+2018;Qatar;Masculino;0;0
+2018;Quirguistão;Feminino;3;16
+2018;Quirguistão;Masculino;3;10
+2018;Quénia;Feminino;4;57
+2018;Quénia;Masculino;8;40
+2018;Reino Unido;Feminino;2235;12246
+2018;Reino Unido;Masculino;2844;14209
+2018;República Centro-Africana;Feminino;2;5
+2018;República Centro-Africana;Masculino;0;4
+2018;República Checa;Feminino;89;303
+2018;República Checa;Masculino;54;160
+2018;República Democrática do Congo;Feminino;10;113
+2018;República Democrática do Congo;Masculino;17;127
+2018;República Dominicana;Feminino;11;88
+2018;República Dominicana;Masculino;10;59
+2018;Roménia;Feminino;751;14033
+2018;Roménia;Masculino;1367;16875
+2018;Ruanda;Feminino;1;19
+2018;Ruanda;Masculino;1;9
+2018;Rússia;Feminino;302;2839
+2018;Rússia;Masculino;193;1526
+2018;Samoa;Feminino;0;1
+2018;Samoa;Masculino;0;0
+2018;Santa Lúcia;Feminino;0;1
+2018;Santa Lúcia;Masculino;0;0
+2018;Senegal;Feminino;40;431
+2018;Senegal;Masculino;78;817
+2018;Serra Leoa;Feminino;5;31
+2018;Serra Leoa;Masculino;10;45
+2018;Seychelles;Feminino;0;3
+2018;Seychelles;Masculino;0;7
+2018;Singapura;Feminino;7;28
+2018;Singapura;Masculino;3;12
+2018;Somália;Feminino;9;22
+2018;Somália;Masculino;23;42
+2018;Sri Lanka;Feminino;3;30
+2018;Sri Lanka;Masculino;10;53
+2018;Sudão;Feminino;4;18
+2018;Sudão;Masculino;17;42
+2018;Suécia;Feminino;461;1903
+2018;Suécia;Masculino;463;2371
+2018;Suíça;Feminino;255;1023
+2018;Suíça;Masculino;266;1167
+2018;São Cristóvão e Nevis;Feminino;1;18
+2018;São Cristóvão e Nevis;Masculino;4;23
+2018;São Tomé e Príncipe;Feminino;629;5057
+2018;São Tomé e Príncipe;Masculino;534;4096
+2018;São Vicente e Granadinas;Feminino;0;1
+2018;São Vicente e Granadinas;Masculino;0;0
+2018;Sérvia;Feminino;24;120
+2018;Sérvia;Masculino;10;81
+2018;Síria;Feminino;56;370
+2018;Síria;Masculino;65;478
+2018;Tailândia;Feminino;121;546
+2018;Tailândia;Masculino;161;1047
+2018;Taiwan;Feminino;12;30
+2018;Taiwan;Masculino;6;11
+2018;Tajiquistão;Feminino;6;14
+2018;Tajiquistão;Masculino;3;10
+2018;Tanzânia;Feminino;6;13
+2018;Tanzânia;Masculino;6;22
+2018;Timor-Leste;Feminino;58;113
+2018;Timor-Leste;Masculino;55;150
+2018;Togo;Feminino;0;12
+2018;Togo;Masculino;3;19
+2018;Trindade e Tobago;Feminino;1;2
+2018;Trindade e Tobago;Masculino;3;8
+2018;Tunísia;Feminino;26;110
+2018;Tunísia;Masculino;45;176
+2018;Turquemenistão;Feminino;0;6
+2018;Turquemenistão;Masculino;2;5
+2018;Turquia;Feminino;277;535
+2018;Turquia;Masculino;286;555
+2018;Ucrânia;Feminino;860;15783
+2018;Ucrânia;Masculino;687;13435
+2018;Uganda;Feminino;2;12
+2018;Uganda;Masculino;2;14
+2018;Uruguai;Feminino;12;66
+2018;Uruguai;Masculino;14;66
+2018;Uzbequistão;Feminino;35;428
+2018;Uzbequistão;Masculino;42;558
+2018;Vanuatu;Feminino;0;1
+2018;Vanuatu;Masculino;0;0
+2018;Venezuela;Feminino;962;2826
+2018;Venezuela;Masculino;731;1914
+2018;Vietname;Feminino;91;171
+2018;Vietname;Masculino;81;153
+2018;Zimbabwe;Feminino;7;33
+2018;Zimbabwe;Masculino;7;31
+2018;Zâmbia;Feminino;0;6
+2018;Zâmbia;Masculino;1;2
+2018;África do Sul;Feminino;144;704
+2018;África do Sul;Masculino;183;675
+2018;Áustria;Feminino;117;539
+2018;Áustria;Masculino;132;580
+2018;Índia;Feminino;962;3255
+2018;Índia;Masculino;3132;8138
+2019;Afeganistão;Feminino;3;21
+2019;Afeganistão;Masculino;3;41
+2019;Albânia;Feminino;7;40
+2019;Albânia;Masculino;6;44
+2019;Alemanha;Feminino;1257;6962
+2019;Alemanha;Masculino;1568;7707
+2019;Andorra;Feminino;1;6
+2019;Andorra;Masculino;0;7
+2019;Angola;Feminino;2506;12603
+2019;Angola;Masculino;1972;10088
+2019;Antígua e Barbuda;Feminino;0;0
+2019;Antígua e Barbuda;Masculino;1;1
+2019;Apátrida;Feminino;1;14
+2019;Apátrida;Masculino;1;19
+2019;Argentina;Feminino;68;302
+2019;Argentina;Masculino;56;258
+2019;Argélia;Feminino;76;225
+2019;Argélia;Masculino;109;292
+2019;Arménia;Feminino;7;47
+2019;Arménia;Masculino;5;34
+2019;Arábia Saudita;Feminino;5;87
+2019;Arábia Saudita;Masculino;10;95
+2019;Austrália;Feminino;41;216
+2019;Austrália;Masculino;58;243
+2019;Azerbaijão;Feminino;7;38
+2019;Azerbaijão;Masculino;6;29
+2019;Bahamas;Feminino;0;1
+2019;Bahamas;Masculino;0;0
+2019;Bahrein;Feminino;0;5
+2019;Bahrein;Masculino;1;7
+2019;Bangladesh;Feminino;584;1671
+2019;Bangladesh;Masculino;1812;6293
+2019;Barbados;Feminino;0;3
+2019;Barbados;Masculino;0;1
+2019;Belize;Feminino;0;5
+2019;Belize;Masculino;0;3
+2019;Benin;Feminino;0;1
+2019;Benin;Masculino;0;10
+2019;Bermudas;Feminino;1;1
+2019;Bermudas;Masculino;0;0
+2019;Bielorrússia;Feminino;33;373
+2019;Bielorrússia;Masculino;15;191
+2019;Bolívia;Feminino;7;86
+2019;Bolívia;Masculino;3;34
+2019;Botswana;Feminino;1;2
+2019;Botswana;Masculino;0;2
+2019;Brasil;Feminino;25221;86158
+2019;Brasil;Masculino;23575;65146
+2019;Brunei;Feminino;1;2
+2019;Brunei;Masculino;0;0
+2019;Bulgária;Feminino;162;3495
+2019;Bulgária;Masculino;139;3344
+2019;Burkina Faso;Feminino;2;7
+2019;Burkina Faso;Masculino;7;23
+2019;Burundi;Feminino;1;3
+2019;Burundi;Masculino;1;3
+2019;Butão;Feminino;0;2
+2019;Butão;Masculino;2;3
+2019;Bélgica;Feminino;385;2138
+2019;Bélgica;Masculino;529;2643
+2019;Bósnia e Herzegovina;Feminino;3;41
+2019;Bósnia e Herzegovina;Masculino;6;18
+2019;Cabo Verde;Feminino;2384;19984
+2019;Cabo Verde;Masculino;1996;17452
+2019;Camarões;Feminino;18;77
+2019;Camarões;Masculino;27;106
+2019;Camboja;Feminino;10;21
+2019;Camboja;Masculino;5;8
+2019;Canadá;Feminino;71;471
+2019;Canadá;Masculino;97;541
+2019;Cazaquistão;Feminino;43;322
+2019;Cazaquistão;Masculino;58;259
+2019;Chade;Feminino;0;0
+2019;Chade;Masculino;1;2
+2019;Chile;Feminino;50;163
+2019;Chile;Masculino;39;143
+2019;China;Feminino;1126;13917
+2019;China;Masculino;1038;13922
+2019;Chipre;Feminino;9;37
+2019;Chipre;Masculino;20;47
+2019;Colômbia;Feminino;203;778
+2019;Colômbia;Masculino;139;486
+2019;Comores;Feminino;1;1
+2019;Comores;Masculino;0;0
+2019;Congo;Feminino;9;47
+2019;Congo;Masculino;3;32
+2019;Coreia do Sul;Feminino;28;117
+2019;Coreia do Sul;Masculino;33;83
+2019;Costa Rica;Feminino;4;48
+2019;Costa Rica;Masculino;5;33
+2019;Costa do Marfim;Feminino;13;63
+2019;Costa do Marfim;Masculino;17;106
+2019;Croácia;Feminino;43;183
+2019;Croácia;Masculino;36;192
+2019;Cuba;Feminino;79;622
+2019;Cuba;Masculino;72;494
+2019;Desconhecido;Feminino;0;4
+2019;Desconhecido;Masculino;1;7
+2019;Dinamarca;Feminino;93;471
+2019;Dinamarca;Masculino;141;694
+2019;Djibuti;Feminino;0;2
+2019;Djibuti;Masculino;0;4
+2019;Dominica;Feminino;1;4
+2019;Dominica;Masculino;3;9
+2019;Egipto;Feminino;55;182
+2019;Egipto;Masculino;73;293
+2019;El Salvador;Feminino;6;26
+2019;El Salvador;Masculino;7;28
+2019;Emiratos Árabes Unidos;Feminino;1;12
+2019;Emiratos Árabes Unidos;Masculino;1;19
+2019;Equador;Feminino;83;243
+2019;Equador;Masculino;106;252
+2019;Eritreia;Feminino;7;49
+2019;Eritreia;Masculino;10;160
+2019;Eslováquia;Feminino;53;224
+2019;Eslováquia;Masculino;22;98
+2019;Eslovénia;Feminino;32;102
+2019;Eslovénia;Masculino;25;71
+2019;Espanha;Feminino;1543;7746
+2019;Espanha;Masculino;1703;8102
+2019;Essuatíni;Feminino;0;5
+2019;Essuatíni;Masculino;0;1
+2019;Estados Unidos da América;Feminino;579;2100
+2019;Estados Unidos da América;Masculino;536;2034
+2019;Estónia;Feminino;29;180
+2019;Estónia;Masculino;24;79
+2019;Etiópia;Feminino;5;31
+2019;Etiópia;Masculino;7;26
+2019;Filipinas;Feminino;114;733
+2019;Filipinas;Masculino;45;264
+2019;Finlândia;Feminino;99;646
+2019;Finlândia;Masculino;66;625
+2019;França;Feminino;2361;10810
+2019;França;Masculino;2569;12315
+2019;Gabão;Feminino;2;15
+2019;Gabão;Masculino;4;13
+2019;Gana;Feminino;12;48
+2019;Gana;Masculino;23;125
+2019;Geórgia;Feminino;23;220
+2019;Geórgia;Masculino;37;230
+2019;Granada;Feminino;0;2
+2019;Granada;Masculino;1;2
+2019;Grécia;Feminino;83;314
+2019;Grécia;Masculino;88;319
+2019;Guatemala;Feminino;6;34
+2019;Guatemala;Masculino;9;25
+2019;Guiana;Feminino;0;4
+2019;Guiana;Masculino;1;5
+2019;Guiné;Feminino;82;452
+2019;Guiné;Masculino;120;963
+2019;Guiné Equatorial;Feminino;3;37
+2019;Guiné Equatorial;Masculino;2;32
+2019;Guiné-Bissau;Feminino;1525;8819
+2019;Guiné-Bissau;Masculino;1932;10067
+2019;Gâmbia;Feminino;6;42
+2019;Gâmbia;Masculino;29;144
+2019;Haiti;Feminino;0;2
+2019;Haiti;Masculino;5;7
+2019;Honduras;Feminino;4;30
+2019;Honduras;Masculino;7;18
+2019;Hong Kong;Feminino;4;14
+2019;Hong Kong;Masculino;7;15
+2019;Hungria;Feminino;116;565
+2019;Hungria;Masculino;89;316
+2019;Ilhas Fiji;Feminino;0;2
+2019;Ilhas Fiji;Masculino;0;2
+2019;Ilhas Marshall;Feminino;0;0
+2019;Ilhas Marshall;Masculino;0;1
+2019;Ilhas Maurícias;Feminino;5;17
+2019;Ilhas Maurícias;Masculino;2;17
+2019;Indonésia;Feminino;19;104
+2019;Indonésia;Masculino;184;321
+2019;Iraque;Feminino;61;184
+2019;Iraque;Masculino;45;220
+2019;Irlanda;Feminino;230;942
+2019;Irlanda;Masculino;350;1307
+2019;Irão;Feminino;135;494
+2019;Irão;Masculino;174;605
+2019;Islândia;Feminino;15;50
+2019;Islândia;Masculino;20;58
+2019;Israel;Feminino;34;125
+2019;Israel;Masculino;37;143
+2019;Itália;Feminino;3360;10530
+2019;Itália;Masculino;4505;14878
+2019;Iémen;Feminino;4;7
+2019;Iémen;Masculino;11;22
+2019;Jamaica;Feminino;0;6
+2019;Jamaica;Masculino;0;8
+2019;Japão;Feminino;32;269
+2019;Japão;Masculino;32;186
+2019;Jordânia;Feminino;32;196
+2019;Jordânia;Masculino;57;260
+2019;Kosovo;Feminino;1;19
+2019;Kosovo;Masculino;0;17
+2019;Kuwait;Feminino;8;23
+2019;Kuwait;Masculino;9;34
+2019;Laos;Feminino;0;1
+2019;Laos;Masculino;0;0
+2019;Lesoto;Feminino;1;2
+2019;Lesoto;Masculino;0;0
+2019;Letónia;Feminino;47;351
+2019;Letónia;Masculino;21;142
+2019;Libéria;Feminino;1;3
+2019;Libéria;Masculino;1;11
+2019;Liechtenstein;Feminino;0;4
+2019;Liechtenstein;Masculino;0;4
+2019;Lituânia;Feminino;95;582
+2019;Lituânia;Masculino;31;251
+2019;Luxemburgo;Feminino;39;135
+2019;Luxemburgo;Masculino;52;160
+2019;Líbano;Feminino;62;254
+2019;Líbano;Masculino;69;311
+2019;Líbia;Feminino;22;78
+2019;Líbia;Masculino;22;90
+2019;Macau;Feminino;0;1
+2019;Macau;Masculino;0;0
+2019;Macedónia do Norte;Feminino;8;38
+2019;Macedónia do Norte;Masculino;11;28
+2019;Madagáscar;Feminino;2;10
+2019;Madagáscar;Masculino;0;1
+2019;Maldivas;Feminino;1;6
+2019;Maldivas;Masculino;0;2
+2019;Mali;Feminino;0;7
+2019;Mali;Masculino;7;45
+2019;Malta;Feminino;6;26
+2019;Malta;Masculino;14;35
+2019;Malásia;Feminino;17;56
+2019;Malásia;Masculino;10;34
+2019;Maláui;Feminino;0;13
+2019;Maláui;Masculino;0;5
+2019;Marrocos;Feminino;129;820
+2019;Marrocos;Masculino;163;864
+2019;Mauritânia;Feminino;0;3
+2019;Mauritânia;Masculino;1;20
+2019;Mianmar;Feminino;0;0
+2019;Mianmar;Masculino;0;3
+2019;Moldávia;Feminino;315;2752
+2019;Moldávia;Masculino;346;2346
+2019;Mongólia;Feminino;3;16
+2019;Mongólia;Masculino;1;4
+2019;Montenegro;Feminino;1;7
+2019;Montenegro;Masculino;6;9
+2019;Moçambique;Feminino;336;2036
+2019;Moçambique;Masculino;297;1465
+2019;México;Feminino;65;357
+2019;México;Masculino;60;238
+2019;Namíbia;Feminino;3;19
+2019;Namíbia;Masculino;2;9
+2019;Nauru;Feminino;0;0
+2019;Nauru;Masculino;1;1
+2019;Nepal;Feminino;1839;6088
+2019;Nepal;Masculino;3171;10761
+2019;Nicarágua;Feminino;5;23
+2019;Nicarágua;Masculino;3;12
+2019;Nigéria;Feminino;51;235
+2019;Nigéria;Masculino;118;433
+2019;Noruega;Feminino;54;375
+2019;Noruega;Masculino;111;499
+2019;Nova Zelândia;Feminino;8;45
+2019;Nova Zelândia;Masculino;5;39
+2019;Níger;Feminino;0;0
+2019;Níger;Masculino;0;1
+2019;Omã;Feminino;0;2
+2019;Omã;Masculino;3;7
+2019;Palestina;Feminino;10;36
+2019;Palestina;Masculino;11;43
+2019;Panamá;Feminino;9;46
+2019;Panamá;Masculino;5;20
+2019;Papua-Nova Guiné;Feminino;1;1
+2019;Papua-Nova Guiné;Masculino;1;1
+2019;Paquistão;Feminino;268;1522
+2019;Paquistão;Masculino;769;3788
+2019;Paraguai;Feminino;14;93
+2019;Paraguai;Masculino;10;31
+2019;Países Baixos;Feminino;697;4649
+2019;Países Baixos;Masculino;822;5389
+2019;Peru;Feminino;59;217
+2019;Peru;Masculino;26;108
+2019;Polónia;Feminino;413;1876
+2019;Polónia;Masculino;209;883
+2019;Qatar;Feminino;0;2
+2019;Qatar;Masculino;1;1
+2019;Quirguistão;Feminino;1;17
+2019;Quirguistão;Masculino;2;10
+2019;Quénia;Feminino;9;68
+2019;Quénia;Masculino;5;39
+2019;Reino Unido;Feminino;3708;15809
+2019;Reino Unido;Masculino;4645;18558
+2019;República Centro-Africana;Feminino;0;5
+2019;República Centro-Africana;Masculino;0;4
+2019;República Checa;Feminino;81;336
+2019;República Checa;Masculino;50;173
+2019;República Democrática do Congo;Feminino;21;122
+2019;República Democrática do Congo;Masculino;12;121
+2019;República Dominicana;Feminino;18;104
+2019;República Dominicana;Masculino;6;57
+2019;Roménia;Feminino;763;14206
+2019;Roménia;Masculino;1099;16859
+2019;Ruanda;Feminino;3;18
+2019;Ruanda;Masculino;4;11
+2019;Rússia;Feminino;393;3117
+2019;Rússia;Masculino;253;1768
+2019;Samoa;Feminino;0;1
+2019;Samoa;Masculino;0;0
+2019;Senegal;Feminino;51;453
+2019;Senegal;Masculino;235;993
+2019;Serra Leoa;Feminino;5;35
+2019;Serra Leoa;Masculino;7;53
+2019;Seychelles;Feminino;0;2
+2019;Seychelles;Masculino;0;3
+2019;Singapura;Feminino;11;37
+2019;Singapura;Masculino;7;15
+2019;Somália;Feminino;5;19
+2019;Somália;Masculino;3;23
+2019;Sri Lanka;Feminino;5;33
+2019;Sri Lanka;Masculino;8;56
+2019;Sudão;Feminino;14;37
+2019;Sudão;Masculino;25;68
+2019;Sudão do Sul;Feminino;13;23
+2019;Sudão do Sul;Masculino;13;16
+2019;Suriname;Feminino;1;1
+2019;Suriname;Masculino;0;0
+2019;Suécia;Feminino;391;2210
+2019;Suécia;Masculino;479;2702
+2019;Suíça;Feminino;226;1225
+2019;Suíça;Masculino;247;1357
+2019;São Cristóvão e Nevis;Feminino;6;30
+2019;São Cristóvão e Nevis;Masculino;9;37
+2019;São Tomé e Príncipe;Feminino;812;5655
+2019;São Tomé e Príncipe;Masculino;713;4586
+2019;São Vicente e Granadinas;Feminino;0;0
+2019;São Vicente e Granadinas;Masculino;0;1
+2019;Sérvia;Feminino;24;128
+2019;Sérvia;Masculino;16;91
+2019;Síria;Feminino;99;495
+2019;Síria;Masculino;107;610
+2019;Tailândia;Feminino;46;622
+2019;Tailândia;Masculino;15;1104
+2019;Taiwan;Feminino;7;23
+2019;Taiwan;Masculino;4;13
+2019;Tajiquistão;Feminino;1;14
+2019;Tajiquistão;Masculino;2;12
+2019;Tanzânia;Feminino;2;14
+2019;Tanzânia;Masculino;7;26
+2019;Timor-Leste;Feminino;62;172
+2019;Timor-Leste;Masculino;43;172
+2019;Togo;Feminino;3;17
+2019;Togo;Masculino;3;20
+2019;Trindade e Tobago;Feminino;2;5
+2019;Trindade e Tobago;Masculino;0;9
+2019;Tunísia;Feminino;48;144
+2019;Tunísia;Masculino;60;214
+2019;Turquemenistão;Feminino;1;7
+2019;Turquemenistão;Masculino;1;5
+2019;Turquia;Feminino;199;653
+2019;Turquia;Masculino;194;640
+2019;Ucrânia;Feminino;1008;16114
+2019;Ucrânia;Masculino;821;13604
+2019;Uganda;Feminino;5;16
+2019;Uganda;Masculino;3;16
+2019;Uruguai;Feminino;21;88
+2019;Uruguai;Masculino;14;83
+2019;Uzbequistão;Feminino;37;462
+2019;Uzbequistão;Masculino;89;647
+2019;Vanuatu;Feminino;0;0
+2019;Vanuatu;Masculino;1;2
+2019;Venezuela;Feminino;1100;3912
+2019;Venezuela;Masculino;788;2639
+2019;Vietname;Feminino;102;273
+2019;Vietname;Masculino;87;242
+2019;Zimbabwe;Feminino;12;35
+2019;Zimbabwe;Masculino;5;29
+2019;Zâmbia;Feminino;3;8
+2019;Zâmbia;Masculino;2;5
+2019;África do Sul;Feminino;156;826
+2019;África do Sul;Masculino;155;779
+2019;Áustria;Feminino;131;627
+2019;Áustria;Masculino;158;690
+2019;Índia;Feminino;1271;4384
+2019;Índia;Masculino;4996;13235
+2020;Afeganistão;Feminino;3;18
+2020;Afeganistão;Masculino;20;55
+2020;Albânia;Feminino;7;35
+2020;Albânia;Masculino;17;50
+2020;Alemanha;Feminino;1206;7591
+2020;Alemanha;Masculino;1352;8450
+2020;Andorra;Feminino;0;6
+2020;Andorra;Masculino;1;9
+2020;Angola;Feminino;2773;13876
+2020;Angola;Masculino;2056;10573
+2020;Antígua e Barbuda;Feminino;3;5
+2020;Antígua e Barbuda;Masculino;4;7
+2020;Apátrida;Feminino;0;14
+2020;Apátrida;Masculino;1;16
+2020;Argentina;Feminino;61;353
+2020;Argentina;Masculino;70;324
+2020;Argélia;Feminino;63;260
+2020;Argélia;Masculino;109;373
+2020;Arménia;Feminino;6;48
+2020;Arménia;Masculino;6;35
+2020;Arábia Saudita;Feminino;7;86
+2020;Arábia Saudita;Masculino;11;89
+2020;Austrália;Feminino;42;241
+2020;Austrália;Masculino;49;279
+2020;Azerbaijão;Feminino;3;36
+2020;Azerbaijão;Masculino;14;29
+2020;Bahamas;Feminino;0;1
+2020;Bahamas;Masculino;0;0
+2020;Bahrein;Feminino;1;7
+2020;Bahrein;Masculino;2;5
+2020;Bangladesh;Feminino;572;2265
+2020;Bangladesh;Masculino;1582;7651
+2020;Barbados;Feminino;0;3
+2020;Barbados;Masculino;1;2
+2020;Belize;Feminino;0;4
+2020;Belize;Masculino;0;3
+2020;Benin;Feminino;0;1
+2020;Benin;Masculino;0;9
+2020;Bermudas;Feminino;0;1
+2020;Bermudas;Masculino;0;0
+2020;Bielorrússia;Feminino;27;382
+2020;Bielorrússia;Masculino;13;182
+2020;Bolívia;Feminino;7;86
+2020;Bolívia;Masculino;9;44
+2020;Botswana;Feminino;1;4
+2020;Botswana;Masculino;1;4
+2020;Brasil;Feminino;22043;102673
+2020;Brasil;Masculino;20202;81320
+2020;Brunei;Feminino;1;3
+2020;Brunei;Masculino;1;1
+2020;Bulgária;Feminino;128;3450
+2020;Bulgária;Masculino;97;3295
+2020;Burkina Faso;Feminino;1;8
+2020;Burkina Faso;Masculino;1;22
+2020;Burundi;Feminino;3;6
+2020;Burundi;Masculino;2;5
+2020;Butão;Feminino;0;4
+2020;Butão;Masculino;1;3
+2020;Bélgica;Feminino;354;2321
+2020;Bélgica;Masculino;433;2862
+2020;Bósnia e Herzegovina;Feminino;3;40
+2020;Bósnia e Herzegovina;Masculino;3;18
+2020;Cabo Verde;Feminino;2278;19378
+2020;Cabo Verde;Masculino;1946;17231
+2020;Camarões;Feminino;17;90
+2020;Camarões;Masculino;30;131
+2020;Camboja;Feminino;13;32
+2020;Camboja;Masculino;11;18
+2020;Canadá;Feminino;81;516
+2020;Canadá;Masculino;91;582
+2020;Cazaquistão;Feminino;38;341
+2020;Cazaquistão;Masculino;51;292
+2020;Chade;Feminino;0;0
+2020;Chade;Masculino;0;2
+2020;Chile;Feminino;40;181
+2020;Chile;Masculino;40;158
+2020;China;Feminino;750;13021
+2020;China;Masculino;628;13053
+2020;Chipre;Feminino;5;42
+2020;Chipre;Masculino;14;60
+2020;Colômbia;Feminino;169;891
+2020;Colômbia;Masculino;137;575
+2020;Comores;Feminino;0;1
+2020;Comores;Masculino;0;0
+2020;Congo;Feminino;4;53
+2020;Congo;Masculino;2;35
+2020;Coreia do Sul;Feminino;25;130
+2020;Coreia do Sul;Masculino;29;98
+2020;Costa Rica;Feminino;3;41
+2020;Costa Rica;Masculino;8;37
+2020;Costa do Marfim;Feminino;11;73
+2020;Costa do Marfim;Masculino;15;118
+2020;Croácia;Feminino;35;197
+2020;Croácia;Masculino;33;202
+2020;Cuba;Feminino;52;659
+2020;Cuba;Masculino;62;540
+2020;Desconhecido;Feminino;5;14
+2020;Desconhecido;Masculino;4;15
+2020;Dinamarca;Feminino;106;540
+2020;Dinamarca;Masculino;145;793
+2020;Djibuti;Feminino;0;2
+2020;Djibuti;Masculino;0;3
+2020;Dominica;Feminino;1;5
+2020;Dominica;Masculino;7;14
+2020;Egipto;Feminino;56;225
+2020;Egipto;Masculino;67;324
+2020;El Salvador;Feminino;4;22
+2020;El Salvador;Masculino;2;28
+2020;Emiratos Árabes Unidos;Feminino;5;12
+2020;Emiratos Árabes Unidos;Masculino;7;24
+2020;Equador;Feminino;46;211
+2020;Equador;Masculino;48;203
+2020;Eritreia;Feminino;1;52
+2020;Eritreia;Masculino;0;161
+2020;Eslováquia;Feminino;24;223
+2020;Eslováquia;Masculino;16;101
+2020;Eslovénia;Feminino;35;130
+2020;Eslovénia;Masculino;17;79
+2020;Espanha;Feminino;1361;8276
+2020;Espanha;Masculino;1476;8705
+2020;Essuatíni;Feminino;1;5
+2020;Essuatíni;Masculino;1;2
+2020;Estados Unidos da América;Feminino;548;2407
+2020;Estados Unidos da América;Masculino;567;2361
+2020;Estónia;Feminino;29;199
+2020;Estónia;Masculino;21;91
+2020;Etiópia;Feminino;6;35
+2020;Etiópia;Masculino;5;23
+2020;Filipinas;Feminino;79;780
+2020;Filipinas;Masculino;39;292
+2020;Finlândia;Feminino;83;608
+2020;Finlândia;Masculino;80;544
+2020;França;Feminino;1956;11769
+2020;França;Masculino;2116;13166
+2020;Gabão;Feminino;2;17
+2020;Gabão;Masculino;0;13
+2020;Gana;Feminino;8;51
+2020;Gana;Masculino;26;134
+2020;Geórgia;Feminino;25;220
+2020;Geórgia;Masculino;19;227
+2020;Granada;Feminino;0;2
+2020;Granada;Masculino;0;1
+2020;Grécia;Feminino;62;338
+2020;Grécia;Masculino;53;341
+2020;Guatemala;Feminino;4;38
+2020;Guatemala;Masculino;10;33
+2020;Guiana;Feminino;1;5
+2020;Guiana;Masculino;1;6
+2020;Guiné;Feminino;66;454
+2020;Guiné;Masculino;95;948
+2020;Guiné Equatorial;Feminino;1;27
+2020;Guiné Equatorial;Masculino;1;17
+2020;Guiné-Bissau;Feminino;1505;9267
+2020;Guiné-Bissau;Masculino;1873;10413
+2020;Gâmbia;Feminino;6;46
+2020;Gâmbia;Masculino;65;193
+2020;Haiti;Feminino;0;1
+2020;Haiti;Masculino;2;9
+2020;Honduras;Feminino;2;32
+2020;Honduras;Masculino;3;16
+2020;Hong Kong;Feminino;17;32
+2020;Hong Kong;Masculino;19;32
+2020;Hungria;Feminino;98;606
+2020;Hungria;Masculino;58;340
+2020;Ilhas Fiji;Feminino;0;1
+2020;Ilhas Fiji;Masculino;0;2
+2020;Ilhas Marshall;Feminino;0;0
+2020;Ilhas Marshall;Masculino;0;1
+2020;Ilhas Maurícias;Feminino;2;16
+2020;Ilhas Maurícias;Masculino;5;16
+2020;Indonésia;Feminino;25;128
+2020;Indonésia;Masculino;109;381
+2020;Iraque;Feminino;52;229
+2020;Iraque;Masculino;45;257
+2020;Irlanda;Feminino;247;1114
+2020;Irlanda;Masculino;313;1516
+2020;Irão;Feminino;177;583
+2020;Irão;Masculino;196;698
+2020;Islândia;Feminino;8;53
+2020;Islândia;Masculino;14;66
+2020;Israel;Feminino;35;152
+2020;Israel;Masculino;45;185
+2020;Itália;Feminino;1982;11758
+2020;Itália;Masculino;2497;16401
+2020;Iémen;Feminino;8;16
+2020;Iémen;Masculino;8;24
+2020;Jamaica;Feminino;0;5
+2020;Jamaica;Masculino;0;9
+2020;Japão;Feminino;24;270
+2020;Japão;Masculino;22;171
+2020;Jordânia;Feminino;35;212
+2020;Jordânia;Masculino;37;247
+2020;Kosovo;Feminino;3;20
+2020;Kosovo;Masculino;1;15
+2020;Kuwait;Feminino;6;19
+2020;Kuwait;Masculino;5;24
+2020;Laos;Feminino;1;4
+2020;Laos;Masculino;0;1
+2020;Lesoto;Feminino;0;2
+2020;Lesoto;Masculino;0;0
+2020;Letónia;Feminino;43;365
+2020;Letónia;Masculino;33;153
+2020;Libéria;Feminino;0;3
+2020;Libéria;Masculino;0;13
+2020;Liechtenstein;Feminino;2;5
+2020;Liechtenstein;Masculino;1;5
+2020;Lituânia;Feminino;84;629
+2020;Lituânia;Masculino;34;262
+2020;Luxemburgo;Feminino;44;173
+2020;Luxemburgo;Masculino;66;214
+2020;Líbano;Feminino;43;276
+2020;Líbano;Masculino;53;331
+2020;Líbia;Feminino;9;79
+2020;Líbia;Masculino;7;84
+2020;Macau;Feminino;0;2
+2020;Macau;Masculino;0;0
+2020;Macedónia do Norte;Feminino;5;32
+2020;Macedónia do Norte;Masculino;0;18
+2020;Madagáscar;Feminino;1;10
+2020;Madagáscar;Masculino;3;4
+2020;Maldivas;Feminino;0;5
+2020;Maldivas;Masculino;0;2
+2020;Mali;Feminino;3;9
+2020;Mali;Masculino;13;66
+2020;Malta;Feminino;15;39
+2020;Malta;Masculino;13;46
+2020;Malásia;Feminino;17;68
+2020;Malásia;Masculino;9;39
+2020;Maláui;Feminino;2;13
+2020;Maláui;Masculino;0;4
+2020;Marrocos;Feminino;181;918
+2020;Marrocos;Masculino;237;1018
+2020;Mauritânia;Feminino;0;3
+2020;Mauritânia;Masculino;2;21
+2020;Mianmar;Feminino;0;0
+2020;Mianmar;Masculino;0;3
+2020;Moldávia;Feminino;232;2805
+2020;Moldávia;Masculino;284;2378
+2020;Mongólia;Feminino;1;17
+2020;Mongólia;Masculino;0;5
+2020;Montenegro;Feminino;0;8
+2020;Montenegro;Masculino;0;7
+2020;Moçambique;Feminino;391;2192
+2020;Moçambique;Masculino;290;1486
+2020;México;Feminino;69;399
+2020;México;Masculino;37;241
+2020;Namíbia;Feminino;2;21
+2020;Namíbia;Masculino;2;11
+2020;Nepal;Feminino;1447;7676
+2020;Nepal;Masculino;2433;13339
+2020;Nicarágua;Feminino;2;21
+2020;Nicarágua;Masculino;7;17
+2020;Nigéria;Feminino;41;248
+2020;Nigéria;Masculino;94;510
+2020;Noruega;Feminino;63;413
+2020;Noruega;Masculino;97;552
+2020;Nova Zelândia;Feminino;7;45
+2020;Nova Zelândia;Masculino;12;37
+2020;Níger;Feminino;0;1
+2020;Níger;Masculino;0;1
+2020;Omã;Feminino;1;3
+2020;Omã;Masculino;0;5
+2020;Palestina;Feminino;6;38
+2020;Palestina;Masculino;6;48
+2020;Panamá;Feminino;7;46
+2020;Panamá;Masculino;8;21
+2020;Paquistão;Feminino;430;1858
+2020;Paquistão;Masculino;913;4523
+2020;Paraguai;Feminino;9;99
+2020;Paraguai;Masculino;6;35
+2020;Países Baixos;Feminino;582;4812
+2020;Países Baixos;Masculino;669;5580
+2020;Peru;Feminino;44;245
+2020;Peru;Masculino;26;130
+2020;Polónia;Feminino;361;2068
+2020;Polónia;Masculino;193;993
+2020;Qatar;Feminino;3;4
+2020;Qatar;Masculino;6;7
+2020;Quirguistão;Feminino;5;21
+2020;Quirguistão;Masculino;3;15
+2020;Quénia;Feminino;15;69
+2020;Quénia;Masculino;5;37
+2020;Reino Unido;Feminino;5376;20631
+2020;Reino Unido;Masculino;7780;25615
+2020;República Centro-Africana;Feminino;0;4
+2020;República Centro-Africana;Masculino;0;4
+2020;República Checa;Feminino;65;356
+2020;República Checa;Masculino;32;185
+2020;República Democrática do Congo;Feminino;8;119
+2020;República Democrática do Congo;Masculino;6;134
+2020;República Dominicana;Feminino;14;110
+2020;República Dominicana;Masculino;5;62
+2020;Roménia;Feminino;429;13924
+2020;Roménia;Masculino;554;16128
+2020;Ruanda;Feminino;1;19
+2020;Ruanda;Masculino;1;10
+2020;Rússia;Feminino;362;3252
+2020;Rússia;Masculino;211;1851
+2020;Samoa;Feminino;0;1
+2020;Samoa;Masculino;0;0
+2020;Santa Lúcia;Feminino;2;2
+2020;Santa Lúcia;Masculino;0;0
+2020;Senegal;Feminino;47;437
+2020;Senegal;Masculino;170;1100
+2020;Serra Leoa;Feminino;4;37
+2020;Serra Leoa;Masculino;7;58
+2020;Seychelles;Feminino;1;4
+2020;Seychelles;Masculino;2;7
+2020;Singapura;Feminino;14;54
+2020;Singapura;Masculino;9;23
+2020;Somália;Feminino;0;20
+2020;Somália;Masculino;1;43
+2020;Sri Lanka;Feminino;6;38
+2020;Sri Lanka;Masculino;9;64
+2020;Sudão;Feminino;4;58
+2020;Sudão;Masculino;12;81
+2020;Sudão do Sul;Feminino;4;28
+2020;Sudão do Sul;Masculino;9;25
+2020;Suriname;Feminino;0;1
+2020;Suriname;Masculino;2;2
+2020;Suécia;Feminino;320;2338
+2020;Suécia;Masculino;414;2843
+2020;Suíça;Feminino;239;1370
+2020;Suíça;Masculino;258;1507
+2020;São Cristóvão e Nevis;Feminino;0;19
+2020;São Cristóvão e Nevis;Masculino;0;27
+2020;São Tomé e Príncipe;Feminino;830;5912
+2020;São Tomé e Príncipe;Masculino;750;4794
+2020;São Vicente e Granadinas;Feminino;0;0
+2020;São Vicente e Granadinas;Masculino;0;1
+2020;Sérvia;Feminino;19;139
+2020;Sérvia;Masculino;19;95
+2020;Síria;Feminino;56;495
+2020;Síria;Masculino;67;613
+2020;Tailândia;Feminino;28;649
+2020;Tailândia;Masculino;4;1074
+2020;Taiwan;Feminino;7;28
+2020;Taiwan;Masculino;5;14
+2020;Tajiquistão;Feminino;3;20
+2020;Tajiquistão;Masculino;0;12
+2020;Tanzânia;Feminino;1;10
+2020;Tanzânia;Masculino;1;19
+2020;Timor-Leste;Feminino;63;164
+2020;Timor-Leste;Masculino;36;127
+2020;Togo;Feminino;1;13
+2020;Togo;Masculino;1;24
+2020;Trindade e Tobago;Feminino;0;4
+2020;Trindade e Tobago;Masculino;3;12
+2020;Tunísia;Feminino;77;200
+2020;Tunísia;Masculino;76;261
+2020;Turquemenistão;Feminino;2;7
+2020;Turquemenistão;Masculino;1;6
+2020;Turquia;Feminino;145;761
+2020;Turquia;Masculino;162;757
+2020;Ucrânia;Feminino;662;15743
+2020;Ucrânia;Masculino;554;12886
+2020;Uganda;Feminino;7;19
+2020;Uganda;Masculino;4;18
+2020;Uruguai;Feminino;7;95
+2020;Uruguai;Masculino;15;96
+2020;Uzbequistão;Feminino;30;474
+2020;Uzbequistão;Masculino;44;663
+2020;Vanuatu;Feminino;0;0
+2020;Vanuatu;Masculino;1;3
+2020;Venezuela;Feminino;821;4607
+2020;Venezuela;Masculino;591;3134
+2020;Vietname;Feminino;153;356
+2020;Vietname;Masculino;152;330
+2020;Zimbabwe;Feminino;4;37
+2020;Zimbabwe;Masculino;4;30
+2020;Zâmbia;Feminino;6;15
+2020;Zâmbia;Masculino;1;6
+2020;África do Sul;Feminino;176;852
+2020;África do Sul;Masculino;187;788
+2020;Áustria;Feminino;91;654
+2020;Áustria;Masculino;99;718
+2020;Índia;Feminino;1188;5451
+2020;Índia;Masculino;5984;19099
+2021;Afeganistão;Feminino;269;283
+2021;Afeganistão;Masculino;257;315
+2021;Albânia;Feminino;2;40
+2021;Albânia;Masculino;4;51
+2021;Alemanha;Feminino;1807;8620
+2021;Alemanha;Masculino;2128;9720
+2021;Andorra;Feminino;2;5
+2021;Andorra;Masculino;0;6
+2021;Angola;Feminino;2500;14672
+2021;Angola;Masculino;2097;11130
+2021;Antígua e Barbuda;Feminino;0;5
+2021;Antígua e Barbuda;Masculino;1;7
+2021;Apátrida;Feminino;0;11
+2021;Apátrida;Masculino;0;13
+2021;Argentina;Feminino;105;426
+2021;Argentina;Masculino;107;387
+2021;Argélia;Feminino;50;285
+2021;Argélia;Masculino;122;465
+2021;Arménia;Feminino;10;52
+2021;Arménia;Masculino;4;30
+2021;Arábia Saudita;Feminino;4;39
+2021;Arábia Saudita;Masculino;7;58
+2021;Austrália;Feminino;22;237
+2021;Austrália;Masculino;58;311
+2021;Azerbaijão;Feminino;5;30
+2021;Azerbaijão;Masculino;7;22
+2021;Bahamas;Feminino;2;2
+2021;Bahamas;Masculino;2;2
+2021;Bahrein;Feminino;0;4
+2021;Bahrein;Masculino;3;8
+2021;Bangladesh;Feminino;394;2390
+2021;Bangladesh;Masculino;1738;8546
+2021;Barbados;Feminino;0;2
+2021;Barbados;Masculino;0;2
+2021;Belize;Feminino;0;3
+2021;Belize;Masculino;0;1
+2021;Benin;Feminino;1;1
+2021;Benin;Masculino;3;13
+2021;Bermudas;Feminino;0;1
+2021;Bermudas;Masculino;1;1
+2021;Bielorrússia;Feminino;47;393
+2021;Bielorrússia;Masculino;35;201
+2021;Bolívia;Feminino;12;92
+2021;Bolívia;Masculino;7;45
+2021;Botswana;Feminino;4;8
+2021;Botswana;Masculino;1;4
+2021;Brasil;Feminino;20556;111986
+2021;Brasil;Masculino;18900;92708
+2021;Brunei;Feminino;0;3
+2021;Brunei;Masculino;1;2
+2021;Bulgária;Feminino;127;3292
+2021;Bulgária;Masculino;109;3199
+2021;Burkina Faso;Feminino;0;7
+2021;Burkina Faso;Masculino;0;20
+2021;Burundi;Feminino;0;6
+2021;Burundi;Masculino;0;4
+2021;Butão;Feminino;1;4
+2021;Butão;Masculino;0;3
+2021;Bélgica;Feminino;413;2510
+2021;Bélgica;Masculino;546;3147
+2021;Bósnia e Herzegovina;Feminino;6;42
+2021;Bósnia e Herzegovina;Masculino;2;19
+2021;Cabo Verde;Feminino;2114;17638
+2021;Cabo Verde;Masculino;1775;16455
+2021;Camarões;Feminino;19;95
+2021;Camarões;Masculino;44;154
+2021;Camboja;Feminino;4;28
+2021;Camboja;Masculino;2;18
+2021;Canadá;Feminino;116;593
+2021;Canadá;Masculino;129;678
+2021;Cazaquistão;Feminino;45;363
+2021;Cazaquistão;Masculino;55;346
+2021;Chade;Feminino;1;1
+2021;Chade;Masculino;1;2
+2021;Chile;Feminino;48;214
+2021;Chile;Masculino;48;195
+2021;China;Feminino;702;11287
+2021;China;Masculino;654;11495
+2021;Chipre;Feminino;20;52
+2021;Chipre;Masculino;24;74
+2021;Colômbia;Feminino;163;947
+2021;Colômbia;Masculino;232;743
+2021;Comores;Feminino;1;2
+2021;Comores;Masculino;1;1
+2021;Congo;Feminino;8;52
+2021;Congo;Masculino;5;31
+2021;Coreia do Sul;Feminino;16;136
+2021;Coreia do Sul;Masculino;15;90
+2021;Costa Rica;Feminino;15;52
+2021;Costa Rica;Masculino;10;42
+2021;Costa do Marfim;Feminino;10;71
+2021;Costa do Marfim;Masculino;18;118
+2021;Croácia;Feminino;48;220
+2021;Croácia;Masculino;32;209
+2021;Cuba;Feminino;75;668
+2021;Cuba;Masculino;125;596
+2021;Desconhecido;Feminino;0;9
+2021;Desconhecido;Masculino;1;13
+2021;Dinamarca;Feminino;146;624
+2021;Dinamarca;Masculino;197;904
+2021;Djibuti;Feminino;0;0
+2021;Djibuti;Masculino;1;3
+2021;Dominica;Feminino;2;6
+2021;Dominica;Masculino;1;14
+2021;Egipto;Feminino;40;236
+2021;Egipto;Masculino;70;337
+2021;El Salvador;Feminino;4;24
+2021;El Salvador;Masculino;8;31
+2021;Emiratos Árabes Unidos;Feminino;0;7
+2021;Emiratos Árabes Unidos;Masculino;2;13
+2021;Equador;Feminino;77;239
+2021;Equador;Masculino;99;230
+2021;Eritreia;Feminino;7;50
+2021;Eritreia;Masculino;5;159
+2021;Eslováquia;Feminino;74;269
+2021;Eslováquia;Masculino;43;124
+2021;Eslovénia;Feminino;44;151
+2021;Eslovénia;Masculino;31;100
+2021;Espanha;Feminino;1706;9079
+2021;Espanha;Masculino;1877;9467
+2021;Essuatíni;Feminino;2;5
+2021;Essuatíni;Masculino;3;5
+2021;Estados Unidos da América;Feminino;1296;3534
+2021;Estados Unidos da América;Masculino;1179;3351
+2021;Estónia;Feminino;46;211
+2021;Estónia;Masculino;24;105
+2021;Etiópia;Feminino;7;33
+2021;Etiópia;Masculino;11;27
+2021;Filipinas;Feminino;103;814
+2021;Filipinas;Masculino;34;293
+2021;Finlândia;Feminino;95;615
+2021;Finlândia;Masculino;98;542
+2021;França;Feminino;2321;12653
+2021;França;Masculino;2433;14066
+2021;Gabão;Feminino;3;15
+2021;Gabão;Masculino;0;12
+2021;Gana;Feminino;18;60
+2021;Gana;Masculino;36;152
+2021;Geórgia;Feminino;21;221
+2021;Geórgia;Masculino;50;246
+2021;Granada;Feminino;0;0
+2021;Granada;Masculino;1;2
+2021;Grécia;Feminino;88;384
+2021;Grécia;Masculino;115;410
+2021;Guatemala;Feminino;10;41
+2021;Guatemala;Masculino;9;38
+2021;Guiana;Feminino;2;5
+2021;Guiana;Masculino;0;6
+2021;Guiné;Feminino;31;379
+2021;Guiné;Masculino;81;825
+2021;Guiné Equatorial;Feminino;6;27
+2021;Guiné Equatorial;Masculino;4;17
+2021;Guiné-Bissau;Feminino;1587;9469
+2021;Guiné-Bissau;Masculino;2159;10888
+2021;Gâmbia;Feminino;7;46
+2021;Gâmbia;Masculino;63;228
+2021;Haiti;Feminino;1;2
+2021;Haiti;Masculino;4;12
+2021;Honduras;Feminino;8;33
+2021;Honduras;Masculino;12;25
+2021;Hong Kong;Feminino;68;104
+2021;Hong Kong;Masculino;54;90
+2021;Hungria;Feminino;115;660
+2021;Hungria;Masculino;102;399
+2021;Ilhas Fiji;Feminino;0;1
+2021;Ilhas Fiji;Masculino;1;2
+2021;Ilhas Maurícias;Feminino;5;15
+2021;Ilhas Maurícias;Masculino;5;12
+2021;Indonésia;Feminino;30;146
+2021;Indonésia;Masculino;187;571
+2021;Iraque;Feminino;45;272
+2021;Iraque;Masculino;51;306
+2021;Irlanda;Feminino;358;1392
+2021;Irlanda;Masculino;517;1935
+2021;Irão;Feminino;151;632
+2021;Irão;Masculino;187;799
+2021;Islândia;Feminino;11;58
+2021;Islândia;Masculino;18;76
+2021;Israel;Feminino;51;185
+2021;Israel;Masculino;60;216
+2021;Itália;Feminino;2453;13177
+2021;Itália;Masculino;2849;17642
+2021;Iémen;Feminino;0;17
+2021;Iémen;Masculino;2;27
+2021;Jamaica;Feminino;2;8
+2021;Jamaica;Masculino;1;9
+2021;Japão;Feminino;49;289
+2021;Japão;Masculino;41;194
+2021;Jordânia;Feminino;19;186
+2021;Jordânia;Masculino;25;199
+2021;Kosovo;Feminino;1;13
+2021;Kosovo;Masculino;2;13
+2021;Kuwait;Feminino;3;13
+2021;Kuwait;Masculino;2;20
+2021;Laos;Feminino;0;2
+2021;Laos;Masculino;0;0
+2021;Lesoto;Feminino;0;2
+2021;Lesoto;Masculino;0;0
+2021;Letónia;Feminino;65;402
+2021;Letónia;Masculino;57;190
+2021;Libéria;Feminino;0;3
+2021;Libéria;Masculino;2;12
+2021;Liechtenstein;Feminino;1;4
+2021;Liechtenstein;Masculino;2;4
+2021;Lituânia;Feminino;106;631
+2021;Lituânia;Masculino;62;265
+2021;Luxemburgo;Feminino;59;215
+2021;Luxemburgo;Masculino;63;257
+2021;Líbano;Feminino;45;250
+2021;Líbano;Masculino;66;317
+2021;Líbia;Feminino;4;67
+2021;Líbia;Masculino;9;73
+2021;Macau;Feminino;1;3
+2021;Macau;Masculino;0;0
+2021;Macedónia do Norte;Feminino;6;37
+2021;Macedónia do Norte;Masculino;4;20
+2021;Madagáscar;Feminino;3;12
+2021;Madagáscar;Masculino;1;4
+2021;Maldivas;Feminino;1;6
+2021;Maldivas;Masculino;0;1
+2021;Mali;Feminino;1;8
+2021;Mali;Masculino;5;57
+2021;Malta;Feminino;16;50
+2021;Malta;Masculino;16;59
+2021;Malásia;Feminino;11;69
+2021;Malásia;Masculino;5;36
+2021;Maláui;Feminino;1;13
+2021;Maláui;Masculino;4;7
+2021;Marrocos;Feminino;152;930
+2021;Marrocos;Masculino;277;1206
+2021;Mauritânia;Feminino;0;2
+2021;Mauritânia;Masculino;3;21
+2021;Mianmar;Feminino;4;4
+2021;Mianmar;Masculino;1;2
+2021;Moldávia;Feminino;242;2747
+2021;Moldávia;Masculino;296;2430
+2021;Mongólia;Feminino;3;19
+2021;Mongólia;Masculino;0;5
+2021;Montenegro;Feminino;1;8
+2021;Montenegro;Masculino;3;11
+2021;Moçambique;Feminino;390;2195
+2021;Moçambique;Masculino;360;1608
+2021;México;Feminino;79;410
+2021;México;Masculino;69;289
+2021;Namíbia;Feminino;4;22
+2021;Namíbia;Masculino;3;12
+2021;Nepal;Feminino;939;7938
+2021;Nepal;Masculino;1820;13607
+2021;Nicarágua;Feminino;10;29
+2021;Nicarágua;Masculino;5;19
+2021;Nigéria;Feminino;56;275
+2021;Nigéria;Masculino;130;591
+2021;Noruega;Feminino;69;429
+2021;Noruega;Masculino;117;623
+2021;Nova Zelândia;Feminino;8;52
+2021;Nova Zelândia;Masculino;13;52
+2021;Níger;Feminino;2;2
+2021;Níger;Masculino;5;6
+2021;Omã;Feminino;0;3
+2021;Omã;Masculino;0;5
+2021;Palestina;Feminino;3;25
+2021;Palestina;Masculino;7;36
+2021;Panamá;Feminino;4;46
+2021;Panamá;Masculino;4;18
+2021;Paquistão;Feminino;555;2158
+2021;Paquistão;Masculino;1451;5341
+2021;Paraguai;Feminino;13;109
+2021;Paraguai;Masculino;8;40
+2021;Países Baixos;Feminino;877;5138
+2021;Países Baixos;Masculino;973;5875
+2021;Peru;Feminino;54;289
+2021;Peru;Masculino;59;177
+2021;Polónia;Feminino;570;2414
+2021;Polónia;Masculino;380;1237
+2021;Qatar;Feminino;0;0
+2021;Qatar;Masculino;0;1
+2021;Quirguistão;Feminino;0;20
+2021;Quirguistão;Masculino;2;13
+2021;Quénia;Feminino;15;66
+2021;Quénia;Masculino;6;41
+2021;Reino Unido;Feminino;178;18627
+2021;Reino Unido;Masculino;243;23317
+2021;República Centro-Africana;Feminino;0;4
+2021;República Centro-Africana;Masculino;0;4
+2021;República Checa;Feminino;76;381
+2021;República Checa;Masculino;68;239
+2021;República Democrática do Congo;Feminino;12;117
+2021;República Democrática do Congo;Masculino;11;130
+2021;República Dominicana;Feminino;17;114
+2021;República Dominicana;Masculino;11;57
+2021;Roménia;Feminino;470;13488
+2021;Roménia;Masculino;569;15423
+2021;Ruanda;Feminino;0;17
+2021;Ruanda;Masculino;3;10
+2021;Rússia;Feminino;329;3205
+2021;Rússia;Masculino;279;1951
+2021;Santa Lúcia;Feminino;0;2
+2021;Santa Lúcia;Masculino;1;1
+2021;Senegal;Feminino;67;451
+2021;Senegal;Masculino;233;1222
+2021;Serra Leoa;Feminino;3;37
+2021;Serra Leoa;Masculino;14;69
+2021;Seychelles;Feminino;0;3
+2021;Seychelles;Masculino;0;5
+2021;Singapura;Feminino;13;61
+2021;Singapura;Masculino;9;32
+2021;Somália;Feminino;0;16
+2021;Somália;Masculino;7;45
+2021;Sri Lanka;Feminino;10;42
+2021;Sri Lanka;Masculino;21;64
+2021;Sudão;Feminino;16;73
+2021;Sudão;Masculino;19;98
+2021;Sudão do Sul;Feminino;5;33
+2021;Sudão do Sul;Masculino;6;31
+2021;Suriname;Feminino;0;1
+2021;Suriname;Masculino;0;3
+2021;Suécia;Feminino;348;2468
+2021;Suécia;Masculino;463;3018
+2021;Suíça;Feminino;281;1520
+2021;Suíça;Masculino;295;1659
+2021;São Cristóvão e Nevis;Feminino;3;16
+2021;São Cristóvão e Nevis;Masculino;8;30
+2021;São Tomé e Príncipe;Feminino;1025;6130
+2021;São Tomé e Príncipe;Masculino;955;5104
+2021;Sérvia;Feminino;28;156
+2021;Sérvia;Masculino;28;118
+2021;Síria;Feminino;75;526
+2021;Síria;Masculino;109;665
+2021;Tailândia;Feminino;83;706
+2021;Tailândia;Masculino;101;1089
+2021;Taiwan;Feminino;8;31
+2021;Taiwan;Masculino;2;15
+2021;Tajiquistão;Feminino;2;21
+2021;Tajiquistão;Masculino;2;13
+2021;Tanzânia;Feminino;5;17
+2021;Tanzânia;Masculino;3;20
+2021;Timor-Leste;Feminino;28;136
+2021;Timor-Leste;Masculino;25;98
+2021;Togo;Feminino;5;15
+2021;Togo;Masculino;11;35
+2021;Trindade e Tobago;Feminino;1;4
+2021;Trindade e Tobago;Masculino;3;13
+2021;Tunísia;Feminino;65;243
+2021;Tunísia;Masculino;83;307
+2021;Turquemenistão;Feminino;1;7
+2021;Turquemenistão;Masculino;0;6
+2021;Turquia;Feminino;109;682
+2021;Turquia;Masculino;106;681
+2021;Ucrânia;Feminino;592;14788
+2021;Ucrânia;Masculino;566;12407
+2021;Uganda;Feminino;3;21
+2021;Uganda;Masculino;6;22
+2021;Uruguai;Feminino;16;104
+2021;Uruguai;Masculino;34;122
+2021;Uzbequistão;Feminino;31;472
+2021;Uzbequistão;Masculino;90;729
+2021;Vanuatu;Feminino;0;0
+2021;Vanuatu;Masculino;1;4
+2021;Venezuela;Feminino;658;4856
+2021;Venezuela;Masculino;573;3440
+2021;Vietname;Feminino;54;337
+2021;Vietname;Masculino;44;303
+2021;Zimbabwe;Feminino;5;41
+2021;Zimbabwe;Masculino;5;31
+2021;Zâmbia;Feminino;2;17
+2021;Zâmbia;Masculino;6;12
+2021;África do Sul;Feminino;186;883
+2021;África do Sul;Masculino;219;865
+2021;Áustria;Feminino;134;699
+2021;Áustria;Masculino;148;768
+2021;Índia;Feminino;1255;6074
+2021;Índia;Masculino;6152;24177
+2022;Afeganistão;Feminino;82;335
+2022;Afeganistão;Masculino;178;440
+2022;Albânia;Feminino;10;43
+2022;Albânia;Masculino;12;56
+2022;Alemanha;Feminino;1899;9714
+2022;Alemanha;Masculino;2120;10786
+2022;Andorra;Feminino;2;9
+2022;Andorra;Masculino;4;10
+2022;Angola;Feminino;3583;17616
+2022;Angola;Masculino;3356;14145
+2022;Antígua e Barbuda;Feminino;0;2
+2022;Antígua e Barbuda;Masculino;3;5
+2022;Apátrida;Feminino;1;9
+2022;Apátrida;Masculino;0;11
+2022;Argentina;Feminino;161;548
+2022;Argentina;Masculino;159;531
+2022;Argélia;Feminino;97;345
+2022;Argélia;Masculino;256;670
+2022;Arménia;Feminino;18;65
+2022;Arménia;Masculino;10;33
+2022;Arábia Saudita;Feminino;8;22
+2022;Arábia Saudita;Masculino;14;37
+2022;Austrália;Feminino;83;293
+2022;Austrália;Masculino;106;380
+2022;Azerbaijão;Feminino;9;38
+2022;Azerbaijão;Masculino;10;30
+2022;Bahamas;Feminino;0;2
+2022;Bahamas;Masculino;0;2
+2022;Bahrein;Feminino;3;6
+2022;Bahrein;Masculino;3;7
+2022;Bangladesh;Feminino;913;3001
+2022;Bangladesh;Masculino;5240;13467
+2022;Barbados;Feminino;0;1
+2022;Barbados;Masculino;1;3
+2022;Belize;Feminino;0;2
+2022;Belize;Masculino;1;2
+2022;Benin;Feminino;3;4
+2022;Benin;Masculino;7;19
+2022;Bermudas;Feminino;2;3
+2022;Bermudas;Masculino;0;1
+2022;Bielorrússia;Feminino;96;458
+2022;Bielorrússia;Masculino;82;273
+2022;Bolívia;Feminino;13;101
+2022;Bolívia;Masculino;10;53
+2022;Botswana;Feminino;4;11
+2022;Botswana;Masculino;3;7
+2022;Brasil;Feminino;25005;128998
+2022;Brasil;Masculino;23308;110746
+2022;Brunei;Feminino;0;2
+2022;Brunei;Masculino;0;1
+2022;Bulgária;Feminino;120;2610
+2022;Bulgária;Masculino;158;2529
+2022;Burkina Faso;Feminino;1;6
+2022;Burkina Faso;Masculino;5;21
+2022;Burundi;Feminino;0;3
+2022;Burundi;Masculino;0;2
+2022;Butão;Feminino;1;5
+2022;Butão;Masculino;2;5
+2022;Bélgica;Feminino;465;2692
+2022;Bélgica;Masculino;632;3396
+2022;Bósnia e Herzegovina;Feminino;5;45
+2022;Bósnia e Herzegovina;Masculino;5;18
+2022;Cabo Verde;Feminino;2407;18828
+2022;Cabo Verde;Masculino;2322;17920
+2022;Camarões;Feminino;21;116
+2022;Camarões;Masculino;40;190
+2022;Camboja;Feminino;11;25
+2022;Camboja;Masculino;16;23
+2022;Canadá;Feminino;203;768
+2022;Canadá;Masculino;239;856
+2022;Cazaquistão;Feminino;48;386
+2022;Cazaquistão;Masculino;58;374
+2022;Chade;Feminino;0;1
+2022;Chade;Masculino;0;2
+2022;Chile;Feminino;104;302
+2022;Chile;Masculino;96;284
+2022;China;Feminino;576;10862
+2022;China;Masculino;539;11138
+2022;Chipre;Feminino;27;72
+2022;Chipre;Masculino;38;103
+2022;Colômbia;Feminino;261;1122
+2022;Colômbia;Masculino;322;1013
+2022;Comores;Feminino;0;1
+2022;Comores;Masculino;1;2
+2022;Congo;Feminino;7;54
+2022;Congo;Masculino;6;29
+2022;Coreia do Sul;Feminino;34;159
+2022;Coreia do Sul;Masculino;28;112
+2022;Costa Rica;Feminino;8;59
+2022;Costa Rica;Masculino;9;42
+2022;Costa do Marfim;Feminino;11;65
+2022;Costa do Marfim;Masculino;17;128
+2022;Croácia;Feminino;74;262
+2022;Croácia;Masculino;54;202
+2022;Cuba;Feminino;127;737
+2022;Cuba;Masculino;196;746
+2022;Desconhecido;Feminino;3;9
+2022;Desconhecido;Masculino;2;14
+2022;Dinamarca;Feminino;123;655
+2022;Dinamarca;Masculino;207;928
+2022;Djibuti;Feminino;0;0
+2022;Djibuti;Masculino;0;4
+2022;Dominica;Feminino;0;4
+2022;Dominica;Masculino;8;11
+2022;Egipto;Feminino;54;238
+2022;Egipto;Masculino;115;398
+2022;El Salvador;Feminino;9;32
+2022;El Salvador;Masculino;17;47
+2022;Emiratos Árabes Unidos;Feminino;1;4
+2022;Emiratos Árabes Unidos;Masculino;0;6
+2022;Equador;Feminino;95;317
+2022;Equador;Masculino;73;298
+2022;Eritreia;Feminino;0;46
+2022;Eritreia;Masculino;1;132
+2022;Eslováquia;Feminino;91;324
+2022;Eslováquia;Masculino;64;167
+2022;Eslovénia;Feminino;40;169
+2022;Eslovénia;Masculino;31;121
+2022;Espanha;Feminino;1676;9527
+2022;Espanha;Masculino;1923;9981
+2022;Essuatíni;Feminino;1;6
+2022;Essuatíni;Masculino;2;7
+2022;Estados Unidos da América;Feminino;1622;4950
+2022;Estados Unidos da América;Masculino;1666;4844
+2022;Estónia;Feminino;47;231
+2022;Estónia;Masculino;49;142
+2022;Etiópia;Feminino;4;32
+2022;Etiópia;Masculino;10;36
+2022;Filipinas;Feminino;143;899
+2022;Filipinas;Masculino;56;309
+2022;Finlândia;Feminino;127;635
+2022;Finlândia;Masculino;107;575
+2022;França;Feminino;2150;12964
+2022;França;Masculino;2541;14548
+2022;Gabão;Feminino;3;18
+2022;Gabão;Masculino;3;15
+2022;Gana;Feminino;13;62
+2022;Gana;Masculino;44;189
+2022;Geórgia;Feminino;25;221
+2022;Geórgia;Masculino;46;269
+2022;Granada;Feminino;2;2
+2022;Granada;Masculino;2;3
+2022;Grécia;Feminino;103;422
+2022;Grécia;Masculino;218;557
+2022;Guatemala;Feminino;9;47
+2022;Guatemala;Masculino;9;47
+2022;Guiana;Feminino;0;4
+2022;Guiana;Masculino;0;4
+2022;Guiné;Feminino;63;365
+2022;Guiné;Masculino;117;817
+2022;Guiné Equatorial;Feminino;4;27
+2022;Guiné Equatorial;Masculino;2;18
+2022;Guiné-Bissau;Feminino;1575;10514
+2022;Guiné-Bissau;Masculino;2660;13223
+2022;Gâmbia;Feminino;11;51
+2022;Gâmbia;Masculino;195;413
+2022;Haiti;Feminino;4;6
+2022;Haiti;Masculino;5;16
+2022;Honduras;Feminino;3;35
+2022;Honduras;Masculino;5;29
+2022;Hong Kong;Feminino;35;124
+2022;Hong Kong;Masculino;38;103
+2022;Hungria;Feminino;146;728
+2022;Hungria;Masculino;155;502
+2022;Ilhas Fiji;Feminino;0;0
+2022;Ilhas Fiji;Masculino;0;1
+2022;Ilhas Maurícias;Feminino;2;15
+2022;Ilhas Maurícias;Masculino;6;22
+2022;Indonésia;Feminino;29;166
+2022;Indonésia;Masculino;200;726
+2022;Iraque;Feminino;25;253
+2022;Iraque;Masculino;30;302
+2022;Irlanda;Feminino;467;1727
+2022;Irlanda;Masculino;654;2432
+2022;Irão;Feminino;272;834
+2022;Irão;Masculino;280;963
+2022;Islândia;Feminino;17;73
+2022;Islândia;Masculino;25;92
+2022;Israel;Feminino;98;268
+2022;Israel;Masculino;99;301
+2022;Itália;Feminino;3115;14754
+2022;Itália;Masculino;3862;19285
+2022;Iémen;Feminino;3;11
+2022;Iémen;Masculino;4;23
+2022;Jamaica;Feminino;1;8
+2022;Jamaica;Masculino;1;9
+2022;Japão;Feminino;53;332
+2022;Japão;Masculino;44;236
+2022;Jordânia;Feminino;24;139
+2022;Jordânia;Masculino;35;174
+2022;Kosovo;Feminino;1;13
+2022;Kosovo;Masculino;1;14
+2022;Kuwait;Feminino;7;13
+2022;Kuwait;Masculino;4;12
+2022;Laos;Feminino;1;2
+2022;Laos;Masculino;0;0
+2022;Lesoto;Feminino;0;2
+2022;Lesoto;Masculino;0;0
+2022;Letónia;Feminino;128;475
+2022;Letónia;Masculino;109;274
+2022;Libéria;Feminino;2;5
+2022;Libéria;Masculino;1;14
+2022;Liechtenstein;Feminino;0;4
+2022;Liechtenstein;Masculino;1;5
+2022;Lituânia;Feminino;119;692
+2022;Lituânia;Masculino;74;314
+2022;Luxemburgo;Feminino;82;271
+2022;Luxemburgo;Masculino;102;334
+2022;Líbano;Feminino;83;240
+2022;Líbano;Masculino;157;364
+2022;Líbia;Feminino;4;64
+2022;Líbia;Masculino;7;63
+2022;Macau;Feminino;1;3
+2022;Macau;Masculino;0;0
+2022;Macedónia do Norte;Feminino;9;40
+2022;Macedónia do Norte;Masculino;8;26
+2022;Madagáscar;Feminino;2;12
+2022;Madagáscar;Masculino;0;3
+2022;Maldivas;Feminino;1;7
+2022;Maldivas;Masculino;0;1
+2022;Mali;Feminino;3;9
+2022;Mali;Masculino;11;73
+2022;Malta;Feminino;21;68
+2022;Malta;Masculino;26;78
+2022;Malásia;Feminino;15;79
+2022;Malásia;Masculino;10;41
+2022;Maláui;Feminino;0;12
+2022;Maláui;Masculino;1;7
+2022;Marrocos;Feminino;205;1026
+2022;Marrocos;Masculino;446;1549
+2022;Mauritânia;Feminino;2;4
+2022;Mauritânia;Masculino;2;25
+2022;Mianmar;Feminino;3;4
+2022;Mianmar;Masculino;1;4
+2022;Moldávia;Feminino;229;2743
+2022;Moldávia;Masculino;272;2500
+2022;Mongólia;Feminino;4;20
+2022;Mongólia;Masculino;0;5
+2022;Montenegro;Feminino;1;7
+2022;Montenegro;Masculino;5;14
+2022;Moçambique;Feminino;602;2666
+2022;Moçambique;Masculino;589;2119
+2022;México;Feminino;126;495
+2022;México;Masculino;84;331
+2022;Namíbia;Feminino;4;27
+2022;Namíbia;Masculino;4;14
+2022;Nepal;Feminino;1531;8817
+2022;Nepal;Masculino;2327;15022
+2022;Nicarágua;Feminino;6;34
+2022;Nicarágua;Masculino;8;27
+2022;Nigéria;Feminino;71;318
+2022;Nigéria;Masculino;186;732
+2022;Noruega;Feminino;81;428
+2022;Noruega;Masculino;119;658
+2022;Nova Zelândia;Feminino;16;67
+2022;Nova Zelândia;Masculino;30;83
+2022;Níger;Feminino;1;3
+2022;Níger;Masculino;1;6
+2022;Omã;Feminino;0;1
+2022;Omã;Masculino;1;3
+2022;Palestina;Feminino;3;29
+2022;Palestina;Masculino;6;37
+2022;Panamá;Feminino;7;57
+2022;Panamá;Masculino;8;34
+2022;Paquistão;Feminino;842;2706
+2022;Paquistão;Masculino;3155;8122
+2022;Paraguai;Feminino;16;115
+2022;Paraguai;Masculino;15;52
+2022;Países Baixos;Feminino;977;5605
+2022;Países Baixos;Masculino;1231;6461
+2022;Peru;Feminino;83;341
+2022;Peru;Masculino;115;276
+2022;Polónia;Feminino;619;2746
+2022;Polónia;Masculino;482;1580
+2022;Qatar;Feminino;1;2
+2022;Qatar;Masculino;3;5
+2022;Quirguistão;Feminino;6;22
+2022;Quirguistão;Masculino;3;14
+2022;Quénia;Feminino;16;69
+2022;Quénia;Masculino;12;42
+2022;Reino Unido;Feminino;1289;20129
+2022;Reino Unido;Masculino;1743;25136
+2022;República Centro-Africana;Feminino;0;4
+2022;República Centro-Africana;Masculino;0;4
+2022;República Checa;Feminino;125;434
+2022;República Checa;Masculino;117;302
+2022;República Democrática do Congo;Feminino;17;142
+2022;República Democrática do Congo;Masculino;11;137
+2022;República Dominicana;Feminino;19;123
+2022;República Dominicana;Masculino;16;58
+2022;Roménia;Feminino;564;11097
+2022;Roménia;Masculino;604;12296
+2022;Ruanda;Feminino;4;19
+2022;Ruanda;Masculino;3;12
+2022;Rússia;Feminino;695;3577
+2022;Rússia;Masculino;759;2498
+2022;Samoa;Feminino;0;1
+2022;Samoa;Masculino;1;1
+2022;Santa Lúcia;Feminino;0;2
+2022;Santa Lúcia;Masculino;0;1
+2022;Senegal;Feminino;78;462
+2022;Senegal;Masculino;414;1552
+2022;Serra Leoa;Feminino;8;43
+2022;Serra Leoa;Masculino;40;109
+2022;Seychelles;Feminino;3;3
+2022;Seychelles;Masculino;0;2
+2022;Singapura;Feminino;14;68
+2022;Singapura;Masculino;12;41
+2022;Somália;Feminino;6;21
+2022;Somália;Masculino;6;49
+2022;Sri Lanka;Feminino;11;49
+2022;Sri Lanka;Masculino;17;80
+2022;Sudão;Feminino;8;75
+2022;Sudão;Masculino;13;102
+2022;Sudão do Sul;Feminino;4;38
+2022;Sudão do Sul;Masculino;1;32
+2022;Suriname;Feminino;2;3
+2022;Suriname;Masculino;0;2
+2022;Suécia;Feminino;385;2569
+2022;Suécia;Masculino;422;3084
+2022;Suíça;Feminino;287;1697
+2022;Suíça;Masculino;303;1804
+2022;São Cristóvão e Nevis;Feminino;2;20
+2022;São Cristóvão e Nevis;Masculino;3;36
+2022;São Tomé e Príncipe;Feminino;1428;6982
+2022;São Tomé e Príncipe;Masculino;1348;6095
+2022;São Vicente e Granadinas;Feminino;0;0
+2022;São Vicente e Granadinas;Masculino;0;1
+2022;Sérvia;Feminino;29;175
+2022;Sérvia;Masculino;25;136
+2022;Síria;Feminino;61;540
+2022;Síria;Masculino;67;653
+2022;Tailândia;Feminino;94;782
+2022;Tailândia;Masculino;77;1195
+2022;Taiwan;Feminino;11;38
+2022;Taiwan;Masculino;8;20
+2022;Tajiquistão;Feminino;1;22
+2022;Tajiquistão;Masculino;3;17
+2022;Tanzânia;Feminino;5;20
+2022;Tanzânia;Masculino;8;28
+2022;Timor-Leste;Feminino;57;216
+2022;Timor-Leste;Masculino;44;145
+2022;Togo;Feminino;3;19
+2022;Togo;Masculino;9;48
+2022;Trindade e Tobago;Feminino;1;6
+2022;Trindade e Tobago;Masculino;3;13
+2022;Tunísia;Feminino;104;317
+2022;Tunísia;Masculino;143;414
+2022;Turquemenistão;Feminino;1;8
+2022;Turquemenistão;Masculino;0;4
+2022;Turquia;Feminino;158;659
+2022;Turquia;Masculino;203;708
+2022;Ucrânia;Feminino;618;13819
+2022;Ucrânia;Masculino;507;11626
+2022;Uganda;Feminino;2;20
+2022;Uganda;Masculino;9;26
+2022;Uruguai;Feminino;20;119
+2022;Uruguai;Masculino;19;136
+2022;Uzbequistão;Feminino;38;489
+2022;Uzbequistão;Masculino;102;808
+2022;Vanuatu;Feminino;0;0
+2022;Vanuatu;Masculino;1;3
+2022;Venezuela;Feminino;903;5216
+2022;Venezuela;Masculino;659;3720
+2022;Vietname;Feminino;58;229
+2022;Vietname;Masculino;94;244
+2022;Zimbabwe;Feminino;9;49
+2022;Zimbabwe;Masculino;14;40
+2022;Zâmbia;Feminino;0;16
+2022;Zâmbia;Masculino;1;13
+2022;África do Sul;Feminino;363;1093
+2022;África do Sul;Masculino;354;1069
+2022;Áustria;Feminino;202;798
+2022;Áustria;Masculino;181;845
+2022;Índia;Feminino;1523;6765
+2022;Índia;Masculino;5891;28651
+2023;Afeganistão;Feminino;133;413
+2023;Afeganistão;Masculino;199;557
+2023;Albânia;Feminino;17;56
+2023;Albânia;Masculino;13;64
+2023;Alemanha;Feminino;2589;10890
+2023;Alemanha;Masculino;2894;11968
+2023;Andorra;Feminino;1;7
+2023;Andorra;Masculino;2;10
+2023;Angola;Feminino;13109;30380
+2023;Angola;Masculino;11265;25209
+2023;Antígua e Barbuda;Feminino;1;8
+2023;Antígua e Barbuda;Masculino;2;12
+2023;Apátrida;Feminino;0;6
+2023;Apátrida;Masculino;0;6
+2023;Argentina;Feminino;301;797
+2023;Argentina;Masculino;337;836
+2023;Argélia;Feminino;182;552
+2023;Argélia;Masculino;760;1471
+2023;Arménia;Feminino;34;96
+2023;Arménia;Masculino;22;52
+2023;Arábia Saudita;Feminino;1;87
+2023;Arábia Saudita;Masculino;6;116
+2023;Austrália;Feminino;117;399
+2023;Austrália;Masculino;141;505
+2023;Azerbaijão;Feminino;6;49
+2023;Azerbaijão;Masculino;13;58
+2023;Bahamas;Feminino;0;1
+2023;Bahamas;Masculino;0;2
+2023;Bahrein;Feminino;1;10
+2023;Bahrein;Masculino;1;13
+2023;Bangladesh;Feminino;2585;5271
+2023;Bangladesh;Masculino;7492;20395
+2023;Barbados;Feminino;0;0
+2023;Barbados;Masculino;1;4
+2023;Belize;Feminino;0;3
+2023;Belize;Masculino;0;4
+2023;Benin;Feminino;3;7
+2023;Benin;Masculino;7;22
+2023;Bermudas;Feminino;1;4
+2023;Bermudas;Masculino;2;3
+2023;Bielorrússia;Feminino;192;636
+2023;Bielorrússia;Masculino;178;441
+2023;Bolívia;Feminino;20;111
+2023;Bolívia;Masculino;18;74
+2023;Botswana;Feminino;2;12
+2023;Botswana;Masculino;0;4
+2023;Brasil;Feminino;68253;187376
+2023;Brasil;Masculino;79009;181073
+2023;Brunei;Feminino;0;2
+2023;Brunei;Masculino;1;2
+2023;Bulgária;Feminino;126;2347
+2023;Bulgária;Masculino;134;2218
+2023;Burkina Faso;Feminino;3;8
+2023;Burkina Faso;Masculino;3;24
+2023;Burundi;Feminino;0;6
+2023;Burundi;Masculino;1;6
+2023;Butão;Feminino;1;7
+2023;Butão;Masculino;1;6
+2023;Bélgica;Feminino;667;2941
+2023;Bélgica;Masculino;956;3782
+2023;Bósnia e Herzegovina;Feminino;3;41
+2023;Bósnia e Herzegovina;Masculino;4;25
+2023;Cabo Verde;Feminino;7362;25157
+2023;Cabo Verde;Masculino;7261;23728
+2023;Camarões;Feminino;19;136
+2023;Camarões;Masculino;39;220
+2023;Camboja;Feminino;8;51
+2023;Camboja;Masculino;9;47
+2023;Canadá;Feminino;320;1052
+2023;Canadá;Masculino;318;1148
+2023;Cazaquistão;Feminino;55;409
+2023;Cazaquistão;Masculino;52;406
+2023;Chade;Feminino;0;1
+2023;Chade;Masculino;0;1
+2023;Chile;Feminino;186;451
+2023;Chile;Masculino;195;444
+2023;China;Feminino;792;14008
+2023;China;Masculino;623;13865
+2023;Chipre;Feminino;34;90
+2023;Chipre;Masculino;43;129
+2023;Colômbia;Feminino;483;1545
+2023;Colômbia;Masculino;608;1547
+2023;Comores;Feminino;1;2
+2023;Comores;Masculino;0;1
+2023;Congo;Feminino;11;59
+2023;Congo;Masculino;10;42
+2023;Coreia do Sul;Feminino;57;214
+2023;Coreia do Sul;Masculino;43;151
+2023;Costa Rica;Feminino;18;70
+2023;Costa Rica;Masculino;21;61
+2023;Costa do Marfim;Feminino;18;83
+2023;Costa do Marfim;Masculino;44;157
+2023;Croácia;Feminino;87;305
+2023;Croácia;Masculino;58;211
+2023;Cuba;Feminino;205;892
+2023;Cuba;Masculino;231;915
+2023;Desconhecido;Feminino;0;7
+2023;Desconhecido;Masculino;2;13
+2023;Dinamarca;Feminino;149;725
+2023;Dinamarca;Masculino;275;1075
+2023;Djibuti;Feminino;0;2
+2023;Djibuti;Masculino;0;5
+2023;Dominica;Feminino;1;3
+2023;Dominica;Masculino;4;24
+2023;Egipto;Feminino;93;390
+2023;Egipto;Masculino;171;617
+2023;El Salvador;Feminino;10;44
+2023;El Salvador;Masculino;22;59
+2023;Emiratos Árabes Unidos;Feminino;3;14
+2023;Emiratos Árabes Unidos;Masculino;1;17
+2023;Equador;Feminino;185;553
+2023;Equador;Masculino;206;593
+2023;Eritreia;Feminino;2;39
+2023;Eritreia;Masculino;7;115
+2023;Eslováquia;Feminino;98;363
+2023;Eslováquia;Masculino;83;216
+2023;Eslovénia;Feminino;51;187
+2023;Eslovénia;Masculino;42;140
+2023;Espanha;Feminino;1941;9880
+2023;Espanha;Masculino;2341;10693
+2023;Essuatíni;Feminino;3;9
+2023;Essuatíni;Masculino;3;9
+2023;Estados Unidos da América;Feminino;2441;7088
+2023;Estados Unidos da América;Masculino;2382;7038
+2023;Estónia;Feminino;70;265
+2023;Estónia;Masculino;54;174
+2023;Etiópia;Feminino;12;45
+2023;Etiópia;Masculino;17;49
+2023;Filipinas;Feminino;262;1128
+2023;Filipinas;Masculino;115;407
+2023;Finlândia;Feminino;171;691
+2023;Finlândia;Masculino;109;609
+2023;França;Feminino;2312;12974
+2023;França;Masculino;2826;14575
+2023;Gabão;Feminino;1;14
+2023;Gabão;Masculino;2;14
+2023;Gana;Feminino;20;90
+2023;Gana;Masculino;66;259
+2023;Geórgia;Feminino;40;229
+2023;Geórgia;Masculino;54;278
+2023;Granada;Feminino;1;3
+2023;Granada;Masculino;3;6
+2023;Grécia;Feminino;103;439
+2023;Grécia;Masculino;213;695
+2023;Guatemala;Feminino;9;55
+2023;Guatemala;Masculino;13;57
+2023;Guiana;Feminino;1;5
+2023;Guiana;Masculino;0;5
+2023;Guiné;Feminino;126;426
+2023;Guiné;Masculino;218;899
+2023;Guiné Equatorial;Feminino;4;30
+2023;Guiné Equatorial;Masculino;4;25
+2023;Guiné-Bissau;Feminino;4034;13864
+2023;Guiné-Bissau;Masculino;6286;18671
+2023;Gâmbia;Feminino;21;68
+2023;Gâmbia;Masculino;256;648
+2023;Haiti;Feminino;0;4
+2023;Haiti;Masculino;3;16
+2023;Honduras;Feminino;11;45
+2023;Honduras;Masculino;5;31
+2023;Hong Kong;Feminino;17;130
+2023;Hong Kong;Masculino;21;120
+2023;Hungria;Feminino;232;842
+2023;Hungria;Masculino;192;614
+2023;Ilhas Fiji;Feminino;0;1
+2023;Ilhas Fiji;Masculino;2;2
+2023;Ilhas Marshall;Feminino;0;0
+2023;Ilhas Marshall;Masculino;0;1
+2023;Ilhas Maurícias;Feminino;6;26
+2023;Ilhas Maurícias;Masculino;4;29
+2023;Indonésia;Feminino;36;197
+2023;Indonésia;Masculino;228;834
+2023;Iraque;Feminino;50;348
+2023;Iraque;Masculino;37;369
+2023;Irlanda;Feminino;748;2230
+2023;Irlanda;Masculino;1127;3220
+2023;Irão;Feminino;220;1133
+2023;Irão;Masculino;266;1323
+2023;Islândia;Feminino;30;92
+2023;Islândia;Masculino;44;121
+2023;Israel;Feminino;185;437
+2023;Israel;Masculino;195;485
+2023;Itália;Feminino;3804;15680
+2023;Itália;Masculino;5000;20547
+2023;Iémen;Feminino;2;16
+2023;Iémen;Masculino;6;36
+2023;Jamaica;Feminino;2;11
+2023;Jamaica;Masculino;1;8
+2023;Japão;Feminino;83;384
+2023;Japão;Masculino;51;265
+2023;Jordânia;Feminino;19;259
+2023;Jordânia;Masculino;34;322
+2023;Kiribati;Feminino;0;0
+2023;Kiribati;Masculino;0;1
+2023;Kosovo;Feminino;3;17
+2023;Kosovo;Masculino;5;15
+2023;Kuwait;Feminino;3;41
+2023;Kuwait;Masculino;5;44
+2023;Laos;Feminino;0;3
+2023;Laos;Masculino;0;0
+2023;Lesoto;Feminino;0;1
+2023;Lesoto;Masculino;0;0
+2023;Letónia;Feminino;145;553
+2023;Letónia;Masculino;111;343
+2023;Libéria;Feminino;2;7
+2023;Libéria;Masculino;2;16
+2023;Liechtenstein;Feminino;2;6
+2023;Liechtenstein;Masculino;1;6
+2023;Lituânia;Feminino;155;752
+2023;Lituânia;Masculino;105;382
+2023;Luxemburgo;Feminino;101;331
+2023;Luxemburgo;Masculino;120;395
+2023;Líbano;Feminino;97;461
+2023;Líbano;Masculino;158;655
+2023;Líbia;Feminino;1;74
+2023;Líbia;Masculino;10;86
+2023;Macau;Feminino;1;4
+2023;Macau;Masculino;0;0
+2023;Macedónia do Norte;Feminino;17;55
+2023;Macedónia do Norte;Masculino;5;30
+2023;Madagáscar;Feminino;7;18
+2023;Madagáscar;Masculino;6;9
+2023;Maldivas;Feminino;0;7
+2023;Maldivas;Masculino;0;1
+2023;Mali;Feminino;2;12
+2023;Mali;Masculino;16;76
+2023;Malta;Feminino;21;80
+2023;Malta;Masculino;40;104
+2023;Malásia;Feminino;20;108
+2023;Malásia;Masculino;17;62
+2023;Maláui;Feminino;6;18
+2023;Maláui;Masculino;2;9
+2023;Marrocos;Feminino;282;1313
+2023;Marrocos;Masculino;908;2426
+2023;Mauritânia;Feminino;1;4
+2023;Mauritânia;Masculino;7;27
+2023;Mianmar;Feminino;2;12
+2023;Mianmar;Masculino;3;5
+2023;Moldávia;Feminino;239;2666
+2023;Moldávia;Masculino;270;2490
+2023;Mongólia;Feminino;3;24
+2023;Mongólia;Masculino;1;5
+2023;Montenegro;Feminino;3;9
+2023;Montenegro;Masculino;1;14
+2023;Moçambique;Feminino;1635;4213
+2023;Moçambique;Masculino;1842;3914
+2023;México;Feminino;125;576
+2023;México;Masculino;100;419
+2023;Namíbia;Feminino;6;30
+2023;Namíbia;Masculino;4;18
+2023;Nepal;Feminino;3969;12036
+2023;Nepal;Masculino;3868;17936
+2023;Nicarágua;Feminino;10;39
+2023;Nicarágua;Masculino;6;27
+2023;Nigéria;Feminino;149;461
+2023;Nigéria;Masculino;332;1017
+2023;Noruega;Feminino;112;478
+2023;Noruega;Masculino;156;718
+2023;Nova Zelândia;Feminino;26;86
+2023;Nova Zelândia;Masculino;44;121
+2023;Níger;Feminino;1;3
+2023;Níger;Masculino;2;8
+2023;Omã;Feminino;1;4
+2023;Omã;Masculino;1;4
+2023;Palestina;Feminino;6;38
+2023;Palestina;Masculino;6;53
+2023;Panamá;Feminino;10;64
+2023;Panamá;Masculino;7;35
+2023;Papua-Nova Guiné;Feminino;0;1
+2023;Papua-Nova Guiné;Masculino;0;1
+2023;Paquistão;Feminino;1355;3882
+2023;Paquistão;Masculino;5514;13266
+2023;Paraguai;Feminino;32;140
+2023;Paraguai;Masculino;22;66
+2023;Países Baixos;Feminino;1451;6309
+2023;Países Baixos;Masculino;1726;7283
+2023;Peru;Feminino;116;435
+2023;Peru;Masculino;222;488
+2023;Polónia;Feminino;822;3073
+2023;Polónia;Masculino;551;1858
+2023;Qatar;Feminino;0;3
+2023;Qatar;Masculino;2;10
+2023;Quirguistão;Feminino;3;23
+2023;Quirguistão;Masculino;7;21
+2023;Quénia;Feminino;22;103
+2023;Quénia;Masculino;23;73
+2023;Reino Unido;Feminino;3284;21221
+2023;Reino Unido;Masculino;4113;26264
+2023;República Centro-Africana;Feminino;0;2
+2023;República Centro-Africana;Masculino;1;3
+2023;República Checa;Feminino;126;495
+2023;República Checa;Masculino;114;343
+2023;República Democrática do Congo;Feminino;21;157
+2023;República Democrática do Congo;Masculino;20;160
+2023;República Dominicana;Feminino;22;142
+2023;República Dominicana;Masculino;26;88
+2023;Roménia;Feminino;584;10202
+2023;Roménia;Masculino;671;10679
+2023;Ruanda;Feminino;5;20
+2023;Ruanda;Masculino;13;22
+2023;Rússia;Feminino;2452;5951
+2023;Rússia;Masculino;2441;4950
+2023;Samoa;Feminino;0;1
+2023;Samoa;Masculino;0;1
+2023;Santa Lúcia;Feminino;0;2
+2023;Santa Lúcia;Masculino;1;2
+2023;Senegal;Feminino;94;515
+2023;Senegal;Masculino;619;2056
+2023;Serra Leoa;Feminino;1;37
+2023;Serra Leoa;Masculino;19;118
+2023;Seychelles;Feminino;1;6
+2023;Seychelles;Masculino;0;2
+2023;Singapura;Feminino;27;95
+2023;Singapura;Masculino;17;61
+2023;Somália;Feminino;3;20
+2023;Somália;Masculino;19;67
+2023;Sri Lanka;Feminino;17;68
+2023;Sri Lanka;Masculino;61;135
+2023;Sudão;Feminino;9;85
+2023;Sudão;Masculino;18;118
+2023;Sudão do Sul;Feminino;1;39
+2023;Sudão do Sul;Masculino;3;35
+2023;Suriname;Feminino;2;5
+2023;Suriname;Masculino;1;3
+2023;Suécia;Feminino;504;2719
+2023;Suécia;Masculino;625;3351
+2023;Suíça;Feminino;370;1827
+2023;Suíça;Masculino;438;2009
+2023;São Cristóvão e Nevis;Feminino;4;29
+2023;São Cristóvão e Nevis;Masculino;6;48
+2023;São Tomé e Príncipe;Feminino;7118;13560
+2023;São Tomé e Príncipe;Masculino;7386;12928
+2023;São Vicente e Granadinas;Feminino;0;0
+2023;São Vicente e Granadinas;Masculino;0;1
+2023;Sérvia;Feminino;38;194
+2023;Sérvia;Masculino;28;145
+2023;Síria;Feminino;88;654
+2023;Síria;Masculino;85;780
+2023;Tailândia;Feminino;172;897
+2023;Tailândia;Masculino;192;1247
+2023;Taiwan;Feminino;10;46
+2023;Taiwan;Masculino;7;28
+2023;Tajiquistão;Feminino;4;24
+2023;Tajiquistão;Masculino;6;22
+2023;Tanzânia;Feminino;2;25
+2023;Tanzânia;Masculino;6;30
+2023;Timor-Leste;Feminino;224;421
+2023;Timor-Leste;Masculino;640;778
+2023;Togo;Feminino;1;19
+2023;Togo;Masculino;6;49
+2023;Trindade e Tobago;Feminino;3;9
+2023;Trindade e Tobago;Masculino;5;17
+2023;Tunísia;Feminino;125;465
+2023;Tunísia;Masculino;269;707
+2023;Turquemenistão;Feminino;0;8
+2023;Turquemenistão;Masculino;0;6
+2023;Turquia;Feminino;253;1219
+2023;Turquia;Masculino;301;1336
+2023;Ucrânia;Feminino;582;12918
+2023;Ucrânia;Masculino;597;10581
+2023;Uganda;Feminino;7;30
+2023;Uganda;Masculino;4;30
+2023;Uruguai;Feminino;15;127
+2023;Uruguai;Masculino;28;140
+2023;Uzbequistão;Feminino;60;505
+2023;Uzbequistão;Masculino;86;828
+2023;Vanuatu;Feminino;1;1
+2023;Vanuatu;Masculino;3;8
+2023;Venezuela;Feminino;784;5394
+2023;Venezuela;Masculino;662;3906
+2023;Vietname;Feminino;75;515
+2023;Vietname;Masculino;84;537
+2023;Zimbabwe;Feminino;12;64
+2023;Zimbabwe;Masculino;16;54
+2023;Zâmbia;Feminino;3;15
+2023;Zâmbia;Masculino;2;13
+2023;África do Sul;Feminino;389;1669
+2023;África do Sul;Masculino;384;1656
+2023;Áustria;Feminino;250;900
+2023;Áustria;Masculino;214;910
+2023;Índia;Feminino;4257;10238
+2023;Índia;Masculino;7928;33813
+2024;Afeganistão;Feminino;100;503
+2024;Afeganistão;Masculino;119;728
+2024;Albânia;Feminino;8;62
+2024;Albânia;Masculino;7;85
+2024;Alemanha;Feminino;1845;11972
+2024;Alemanha;Masculino;1846;12896
+2024;Andorra;Feminino;4;10
+2024;Andorra;Masculino;4;14
+2024;Angola;Feminino;16720;48495
+2024;Angola;Masculino;17106;43853
+2024;Anguila;Feminino;0;1
+2024;Anguila;Masculino;0;0
+2024;Antígua e Barbuda;Feminino;3;11
+2024;Antígua e Barbuda;Masculino;6;17
+2024;Apátrida;Feminino;0;5
+2024;Apátrida;Masculino;0;7
+2024;Argentina;Feminino;453;3513
+2024;Argentina;Masculino;518;4255
+2024;Argélia;Feminino;225;1352
+2024;Argélia;Masculino;1811;12477
+2024;Arménia;Feminino;47;156
+2024;Arménia;Masculino;55;131
+2024;Arábia Saudita;Feminino;5;89
+2024;Arábia Saudita;Masculino;9;122
+2024;Austrália;Feminino;118;515
+2024;Austrália;Masculino;134;646
+2024;Azerbaijão;Feminino;13;64
+2024;Azerbaijão;Masculino;13;93
+2024;Bahamas;Feminino;0;1
+2024;Bahamas;Masculino;1;4
+2024;Bahrein;Feminino;2;10
+2024;Bahrein;Masculino;2;20
+2024;Bangladesh;Feminino;1608;7071
+2024;Bangladesh;Masculino;9240;48128
+2024;Barbados;Feminino;1;1
+2024;Barbados;Masculino;2;5
+2024;Belize;Feminino;0;4
+2024;Belize;Masculino;1;4
+2024;Benin;Feminino;3;12
+2024;Benin;Masculino;13;52
+2024;Bermudas;Feminino;1;5
+2024;Bermudas;Masculino;0;3
+2024;Bielorrússia;Feminino;264;1177
+2024;Bielorrússia;Masculino;237;972
+2024;Bolívia;Feminino;24;140
+2024;Bolívia;Masculino;24;98
+2024;Botswana;Feminino;4;15
+2024;Botswana;Masculino;5;10
+2024;Brasil;Feminino;19015;247013
+2024;Brasil;Masculino;19698;237583
+2024;Brunei;Feminino;0;4
+2024;Brunei;Masculino;0;3
+2024;Bulgária;Feminino;89;2070
+2024;Bulgária;Masculino;84;1880
+2024;Burkina Faso;Feminino;0;11
+2024;Burkina Faso;Masculino;6;40
+2024;Burundi;Feminino;0;6
+2024;Burundi;Masculino;0;7
+2024;Butão;Feminino;1;15
+2024;Butão;Masculino;0;7
+2024;Bélgica;Feminino;431;3197
+2024;Bélgica;Masculino;550;4089
+2024;Bósnia e Herzegovina;Feminino;4;43
+2024;Bósnia e Herzegovina;Masculino;3;29
+2024;Cabo Verde;Feminino;7407;33303
+2024;Cabo Verde;Masculino;7605;32204
+2024;Camarões;Feminino;28;216
+2024;Camarões;Masculino;66;503
+2024;Camboja;Feminino;8;54
+2024;Camboja;Masculino;6;47
+2024;Canadá;Feminino;307;1368
+2024;Canadá;Masculino;325;1508
+2024;Cazaquistão;Feminino;63;496
+2024;Cazaquistão;Masculino;53;483
+2024;Chade;Feminino;5;6
+2024;Chade;Masculino;0;2
+2024;Checoslováquia;Feminino;1;1
+2024;Checoslováquia;Masculino;0;0
+2024;Chile;Feminino;212;862
+2024;Chile;Masculino;199;846
+2024;China;Feminino;1078;15459
+2024;China;Masculino;913;15275
+2024;Chipre;Feminino;22;109
+2024;Chipre;Masculino;23;136
+2024;Colômbia;Feminino;687;4770
+2024;Colômbia;Masculino;1064;7209
+2024;Comores;Feminino;1;4
+2024;Comores;Masculino;2;2
+2024;Congo;Feminino;6;80
+2024;Congo;Masculino;17;95
+2024;Coreia do Sul;Feminino;71;280
+2024;Coreia do Sul;Masculino;54;213
+2024;Costa Rica;Feminino;20;97
+2024;Costa Rica;Masculino;27;124
+2024;Costa do Marfim;Feminino;14;103
+2024;Costa do Marfim;Masculino;18;254
+2024;Croácia;Feminino;64;344
+2024;Croácia;Masculino;62;254
+2024;Cuba;Feminino;209;1265
+2024;Cuba;Masculino;228;1373
+2024;Dinamarca;Feminino;99;775
+2024;Dinamarca;Masculino;161;1171
+2024;Djibuti;Feminino;0;2
+2024;Djibuti;Masculino;0;6
+2024;Dominica;Feminino;7;13
+2024;Dominica;Masculino;13;44
+2024;Egipto;Feminino;116;520
+2024;Egipto;Masculino;421;2218
+2024;El Salvador;Feminino;17;120
+2024;El Salvador;Masculino;15;152
+2024;Emiratos Árabes Unidos;Feminino;3;19
+2024;Emiratos Árabes Unidos;Masculino;0;22
+2024;Equador;Feminino;169;752
+2024;Equador;Masculino;205;832
+2024;Eritreia;Feminino;4;30
+2024;Eritreia;Masculino;3;96
+2024;Eslováquia;Feminino;73;419
+2024;Eslováquia;Masculino;69;282
+2024;Eslovénia;Feminino;37;208
+2024;Eslovénia;Masculino;30;157
+2024;Espanha;Feminino;1620;10673
+2024;Espanha;Masculino;1684;11457
+2024;Essuatíni;Feminino;3;31
+2024;Essuatíni;Masculino;0;11
+2024;Estados Unidos da América;Feminino;2449;9611
+2024;Estados Unidos da América;Masculino;2492;9647
+2024;Estónia;Feminino;48;306
+2024;Estónia;Masculino;35;201
+2024;Etiópia;Feminino;5;52
+2024;Etiópia;Masculino;12;59
+2024;Filipinas;Feminino;224;1601
+2024;Filipinas;Masculino;138;592
+2024;Finlândia;Feminino;106;757
+2024;Finlândia;Masculino;92;667
+2024;França;Feminino;1747;13659
+2024;França;Masculino;1903;15350
+2024;Gabão;Feminino;2;19
+2024;Gabão;Masculino;5;22
+2024;Gana;Feminino;17;270
+2024;Gana;Masculino;63;704
+2024;Geórgia;Feminino;35;293
+2024;Geórgia;Masculino;54;436
+2024;Granada;Feminino;3;6
+2024;Granada;Masculino;3;9
+2024;Grécia;Feminino;117;513
+2024;Grécia;Masculino;84;727
+2024;Guatemala;Feminino;14;101
+2024;Guatemala;Masculino;13;115
+2024;Guiana;Feminino;1;7
+2024;Guiana;Masculino;0;8
+2024;Guiné;Feminino;40;427
+2024;Guiné;Masculino;160;1337
+2024;Guiné Equatorial;Feminino;2;34
+2024;Guiné Equatorial;Masculino;1;24
+2024;Guiné-Bissau;Feminino;4291;18820
+2024;Guiné-Bissau;Masculino;7348;28432
+2024;Gâmbia;Feminino;15;115
+2024;Gâmbia;Masculino;311;1684
+2024;Haiti;Feminino;4;10
+2024;Haiti;Masculino;2;24
+2024;Honduras;Feminino;12;73
+2024;Honduras;Masculino;9;67
+2024;Hong Kong;Feminino;39;170
+2024;Hong Kong;Masculino;32;146
+2024;Hungria;Feminino;187;977
+2024;Hungria;Masculino;139;715
+2024;Ilhas Fiji;Feminino;1;2
+2024;Ilhas Fiji;Masculino;1;3
+2024;Ilhas Marshall;Feminino;0;0
+2024;Ilhas Marshall;Masculino;0;1
+2024;Ilhas Maurícias;Feminino;3;35
+2024;Ilhas Maurícias;Masculino;4;39
+2024;Ilhas Salomão;Feminino;0;0
+2024;Ilhas Salomão;Masculino;0;1
+2024;Indonésia;Feminino;40;241
+2024;Indonésia;Masculino;160;997
+2024;Iraque;Feminino;12;341
+2024;Iraque;Masculino;32;445
+2024;Irlanda;Feminino;397;2519
+2024;Irlanda;Masculino;527;3562
+2024;Irão;Feminino;230;1356
+2024;Irão;Masculino;203;1578
+2024;Islândia;Feminino;19;104
+2024;Islândia;Masculino;27;137
+2024;Israel;Feminino;259;740
+2024;Israel;Masculino;318;888
+2024;Itália;Feminino;2837;17429
+2024;Itália;Masculino;3584;22592
+2024;Iémen;Feminino;9;25
+2024;Iémen;Masculino;12;53
+2024;Jamaica;Feminino;2;19
+2024;Jamaica;Masculino;3;14
+2024;Japão;Feminino;63;451
+2024;Japão;Masculino;50;309
+2024;Jordânia;Feminino;31;281
+2024;Jordânia;Masculino;60;420
+2024;Jugoslávia;Feminino;0;1
+2024;Jugoslávia;Masculino;0;0
+2024;Kosovo;Feminino;8;25
+2024;Kosovo;Masculino;1;20
+2024;Kuwait;Feminino;0;39
+2024;Kuwait;Masculino;5;50
+2024;Laos;Feminino;3;7
+2024;Laos;Masculino;1;1
+2024;Lesoto;Feminino;0;3
+2024;Lesoto;Masculino;0;1
+2024;Letónia;Feminino;93;609
+2024;Letónia;Masculino;93;422
+2024;Libéria;Feminino;2;18
+2024;Libéria;Masculino;6;38
+2024;Liechtenstein;Feminino;0;6
+2024;Liechtenstein;Masculino;0;5
+2024;Lituânia;Feminino;116;817
+2024;Lituânia;Masculino;98;457
+2024;Luxemburgo;Feminino;59;370
+2024;Luxemburgo;Masculino;95;460
+2024;Líbano;Feminino;153;597
+2024;Líbano;Masculino;176;852
+2024;Líbia;Feminino;9;69
+2024;Líbia;Masculino;16;125
+2024;Macau;Feminino;2;8
+2024;Macau;Masculino;1;3
+2024;Macedónia do Norte;Feminino;15;70
+2024;Macedónia do Norte;Masculino;1;29
+2024;Madagáscar;Feminino;6;25
+2024;Madagáscar;Masculino;1;16
+2024;Maldivas;Feminino;0;8
+2024;Maldivas;Masculino;1;1
+2024;Mali;Feminino;5;15
+2024;Mali;Masculino;18;125
+2024;Malta;Feminino;16;93
+2024;Malta;Masculino;16;115
+2024;Malásia;Feminino;25;129
+2024;Malásia;Masculino;13;74
+2024;Maláui;Feminino;1;23
+2024;Maláui;Masculino;1;14
+2024;Marrocos;Feminino;420;2373
+2024;Marrocos;Masculino;1927;10087
+2024;Mauritânia;Feminino;0;4
+2024;Mauritânia;Masculino;10;58
+2024;Mianmar;Feminino;6;20
+2024;Mianmar;Masculino;2;10
+2024;Moldávia;Feminino;117;2818
+2024;Moldávia;Masculino;171;3137
+2024;Mongólia;Feminino;7;40
+2024;Mongólia;Masculino;4;13
+2024;Montenegro;Feminino;2;15
+2024;Montenegro;Masculino;4;18
+2024;Moçambique;Feminino;2207;6860
+2024;Moçambique;Masculino;2466;6844
+2024;México;Feminino;126;812
+2024;México;Masculino;113;680
+2024;Namíbia;Feminino;4;48
+2024;Namíbia;Masculino;7;32
+2024;Nauru;Feminino;0;0
+2024;Nauru;Masculino;0;1
+2024;Nepal;Feminino;2528;20382
+2024;Nepal;Masculino;3563;37704
+2024;Nicarágua;Feminino;16;81
+2024;Nicarágua;Masculino;6;77
+2024;Nigéria;Feminino;223;1503
+2024;Nigéria;Masculino;545;3766
+2024;Noruega;Feminino;104;556
+2024;Noruega;Masculino;139;800
+2024;Nova Zelândia;Feminino;35;122
+2024;Nova Zelândia;Masculino;32;148
+2024;Níger;Feminino;2;4
+2024;Níger;Masculino;6;22
+2024;Omã;Feminino;5;9
+2024;Omã;Masculino;3;6
+2024;Palau;Feminino;0;0
+2024;Palau;Masculino;0;1
+2024;Palestina;Feminino;11;45
+2024;Palestina;Masculino;13;78
+2024;Panamá;Feminino;14;87
+2024;Panamá;Masculino;15;73
+2024;Papua-Nova Guiné;Feminino;0;1
+2024;Papua-Nova Guiné;Masculino;0;1
+2024;Paquistão;Feminino;1234;5565
+2024;Paquistão;Masculino;5949;35943
+2024;Paraguai;Feminino;20;258
+2024;Paraguai;Masculino;37;237
+2024;Países Baixos;Feminino;1090;6984
+2024;Países Baixos;Masculino;1262;8055
+2024;Peru;Feminino;107;918
+2024;Peru;Masculino;410;2418
+2024;Polónia;Feminino;600;3489
+2024;Polónia;Masculino;400;2190
+2024;Qatar;Feminino;0;4
+2024;Qatar;Masculino;0;9
+2024;Quirguistão;Feminino;10;37
+2024;Quirguistão;Masculino;14;39
+2024;Quénia;Feminino;27;145
+2024;Quénia;Masculino;26;114
+2024;Reino Unido;Feminino;1257;21545
+2024;Reino Unido;Masculino;1647;26773
+2024;República Centro-Africana;Feminino;0;2
+2024;República Centro-Africana;Masculino;0;1
+2024;República Checa;Feminino;138;596
+2024;República Checa;Masculino;94;418
+2024;República Democrática do Congo;Feminino;15;195
+2024;República Democrática do Congo;Masculino;27;254
+2024;República Dominicana;Feminino;23;155
+2024;República Dominicana;Masculino;28;125
+2024;Roménia;Feminino;461;9135
+2024;Roménia;Masculino;544;9460
+2024;Ruanda;Feminino;4;33
+2024;Ruanda;Masculino;6;29
+2024;Rússia;Feminino;2979;9856
+2024;Rússia;Masculino;2600;8653
+2024;Samoa;Feminino;0;1
+2024;Samoa;Masculino;0;1
+2024;Santa Lúcia;Feminino;0;2
+2024;Santa Lúcia;Masculino;1;4
+2024;Senegal;Feminino;53;651
+2024;Senegal;Masculino;668;4605
+2024;Serra Leoa;Feminino;8;48
+2024;Serra Leoa;Masculino;30;189
+2024;Seychelles;Feminino;1;7
+2024;Seychelles;Masculino;1;3
+2024;Singapura;Feminino;15;111
+2024;Singapura;Masculino;23;86
+2024;Somália;Feminino;3;23
+2024;Somália;Masculino;5;71
+2024;Sri Lanka;Feminino;61;186
+2024;Sri Lanka;Masculino;131;551
+2024;Sudão;Feminino;11;99
+2024;Sudão;Masculino;15;132
+2024;Sudão do Sul;Feminino;3;36
+2024;Sudão do Sul;Masculino;2;35
+2024;Suriname;Feminino;0;11
+2024;Suriname;Masculino;2;14
+2024;Suécia;Feminino;309;2905
+2024;Suécia;Masculino;314;3477
+2024;Suíça;Feminino;220;1930
+2024;Suíça;Masculino;221;2128
+2024;São Cristóvão e Nevis;Feminino;4;31
+2024;São Cristóvão e Nevis;Masculino;10;54
+2024;São Tomé e Príncipe;Feminino;6111;20327
+2024;São Tomé e Príncipe;Masculino;5747;19785
+2024;São Vicente e Granadinas;Feminino;0;0
+2024;São Vicente e Granadinas;Masculino;1;2
+2024;Sérvia;Feminino;30;229
+2024;Sérvia;Masculino;35;196
+2024;Síria;Feminino;29;621
+2024;Síria;Masculino;42;741
+2024;Tailândia;Feminino;150;1677
+2024;Tailândia;Masculino;100;1801
+2024;Taiwan;Feminino;29;77
+2024;Taiwan;Masculino;22;51
+2024;Tajiquistão;Feminino;2;30
+2024;Tajiquistão;Masculino;4;35
+2024;Tanzânia;Feminino;3;37
+2024;Tanzânia;Masculino;4;35
+2024;Timor-Leste;Feminino;101;620
+2024;Timor-Leste;Masculino;88;1225
+2024;Togo;Feminino;4;21
+2024;Togo;Masculino;8;84
+2024;Trindade e Tobago;Feminino;5;16
+2024;Trindade e Tobago;Masculino;2;20
+2024;Tunísia;Feminino;220;789
+2024;Tunísia;Masculino;540;3267
+2024;Turquemenistão;Feminino;1;13
+2024;Turquemenistão;Masculino;5;20
+2024;Turquia;Feminino;379;1617
+2024;Turquia;Masculino;420;1872
+2024;URSS;Feminino;0;4
+2024;URSS;Masculino;0;1
+2024;Ucrânia;Feminino;833;47961
+2024;Ucrânia;Masculino;882;31271
+2024;Uganda;Feminino;5;45
+2024;Uganda;Masculino;4;41
+2024;Uruguai;Feminino;32;216
+2024;Uruguai;Masculino;32;238
+2024;Uzbequistão;Feminino;37;543
+2024;Uzbequistão;Masculino;53;1146
+2024;Vanuatu;Feminino;2;4
+2024;Vanuatu;Masculino;4;14
+2024;Venezuela;Feminino;812;8506
+2024;Venezuela;Masculino;791;7661
+2024;Vietname;Feminino;86;622
+2024;Vietname;Masculino;86;644
+2024;Zimbabwe;Feminino;12;110
+2024;Zimbabwe;Masculino;19;94
+2024;Zâmbia;Feminino;1;35
+2024;Zâmbia;Masculino;1;19
+2024;África do Sul;Feminino;373;2016
+2024;África do Sul;Masculino;379;2076
+2024;Áustria;Feminino;174;1015
+2024;Áustria;Masculino;148;964
+2024;Índia;Feminino;2919;15709
+2024;Índia;Masculino;8302;82907
