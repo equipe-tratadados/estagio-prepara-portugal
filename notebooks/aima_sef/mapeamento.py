@@ -15,20 +15,20 @@ PORDATA_MAPPING = {
     "País": "country",
     "Países": "country",
     "Total de estrangeiros": "resident_foreign_population",
-    "Taxa bruta de imigração": "immigration_rate",  # Usando a versão curta sugerida
+    "Taxa bruta de imigração": "immigration_rate"
 }
 
-# 2. INE (Instituto Nacional de Estatística)
+# 2. INE (INSTITUTO NACIONAL DE ESTATÍSTICA)
 INE_MAPPING = {
     "Ano de referência": "year",
     "País de nacionalidade": "country",
     "País de nascimento": "country_of_birth",
     "População residente (N.º)": "resident_count",
     "Produto interno bruto (PIB)": "gdp",
-    "Nível de escolaridade completo": "education_level",
+    "Nível de escolaridade completo": "education_level"
 }
 
-# 3. AIMA / SEF
+# 3. AIMA / EX-SEF
 AIMA_MAPPING = {
     "Período": "year",
     "Nacionalidade": "nationality",
@@ -39,31 +39,26 @@ AIMA_MAPPING = {
     "Aquisição de nacionalidade": "naturalization_count",
     "Recusas de entrada": "entry_refusals",
     "Afastamentos": "deportations",
-    "Total": "resident_count",
+    "Total": "resident_count"
 }
 
-# 4. Termos Geográficos e Administrativos Comuns
+# 4. TERMOS GEOGRÁFICOS E ADMINISTRATIVOS COMUNS
 GEOGRAPHY_MAPPING = {
     "Concelho": "municipality",
     "Distrito": "district",
     "Região": "region",
     "Região Autónoma": "region",
-    "Divisão Administrativa": "region",  # Usando a alternativa curta para divisões mistas
-    "Continente": "continent",
+    "Divisão Administrativa": "region",
+    "Continente": "continent"
 }
 
-# 5. Dados Económicos, Trabalho e Segurança Social
+# 5. DADOS ECONÓMICOS, TRABALHO E SEGURANÇA SOCIAL
 ECONOMY_MAPPING = {
     "Setor de atividade": "economic_sector",
     "Estatuto profissional": "employment_status",
     "Valor de contribuições": "social_security_contributions",
     "N.º de contribuintes": "social_security_contributors",
-    "Beneficiários": "social_security_beneficiaries",
-
-    "Ano de chegada": "arrival_year",
-    "País de residência anterior": "previous_country_of_residence",
-    "Reagrupamento familiar": "family_reunification",
-    "Estatuto de refugiado": "refugee_status"
+    "Beneficiários": "social_security_beneficiaries"
 }
 
 # 6. Dados de Migração — Fluxos Migratórios e Demografia
@@ -113,7 +108,7 @@ MIGRATION_MAPPING = {
 }
     
 # ==============================================================================
-# DICIONÁRIO MASTER UNIFICADO
+# DICIONÁRIO UNIFICADO
 # ==============================================================================
 # Combina todos os dicionários acima. O Pandas usará este mapa global.
 MAPA_GLOBAL_COLUNAS = {
