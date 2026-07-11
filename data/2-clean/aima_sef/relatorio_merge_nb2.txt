@@ -1,0 +1,152 @@
+================================================================================
+RELATÓRIO DE MERGE E TRANSFORMAÇÃO — NOTEBOOK 2
+Data: 2026-07-10 13:19:50
+Pipeline: CSVs padronizados → Merge por fonte → Merge RMA+RIFA → Melt/Pivot
+================================================================================
+
+📁 FICHEIROS FONTE (por conjunto de origem)
+────────────────────────────────────────────────────────────────────────────────
+
+  📂 RMA (AIMA) — 2 ficheiro(s):
+       - rma_2023_pg36_residents_by_nationality_gender.csv
+           Ano: 2023   Linhas: 192   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      553,965
+               resident_count_female               soma:      490,641
+               permits_granted_male                soma:      180,401
+               permits_granted_female              soma:      148,577
+       - rma_2024_pg37_residents_by_nationality_gender.csv
+           Ano: 2024   Linhas: 197   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      865,881
+               resident_count_female               soma:      677,816
+               permits_granted_male                soma:      124,389
+               permits_granted_female              soma:       93,943
+
+       → Após merge interno: 389 linhas totais
+         Anos cobertos:        [np.int64(2023), np.int64(2024)]
+         Colunas (incl. year): ['year', 'nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+
+  📂 RIFA (SEF) — 8 ficheiro(s):
+       - rifa_2015_pg65_residents_by_nationality_gender.csv
+           Ano: 2015   Linhas: 185   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      188,645
+               resident_count_female               soma:      200,086
+               permits_granted_male                soma:       19,655
+               permits_granted_female              soma:       18,196
+       - rifa_2016_pg71_residents_by_nationality_gender.csv
+           Ano: 2016   Linhas: 187   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      192,801
+               resident_count_female               soma:      204,930
+               permits_granted_male                soma:       23,977
+               permits_granted_female              soma:       22,944
+       - rifa_2017_pg71_residents_by_nationality_gender.csv
+           Ano: 2017   Linhas: 185   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      205,868
+               resident_count_female               soma:      215,843
+               permits_granted_male                soma:       31,674
+               permits_granted_female              soma:       29,739
+       - rifa_2018_pg81_residents_by_nationality_gender.csv
+           Ano: 2018   Linhas: 187   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      237,463
+               resident_count_female               soma:      242,837
+               permits_granted_male                soma:       49,612
+               permits_granted_female              soma:       43,542
+       - rifa_2019_pg84_residents_by_nationality_gender.csv
+           Ano: 2019   Linhas: 191   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      296,417
+               resident_count_female               soma:      293,931
+               permits_granted_male                soma:       68,363
+               permits_granted_female              soma:       60,792
+       - rifa_2020_pg86_residents_by_nationality_gender.csv
+           Ano: 2020   Linhas: 190   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      336,123
+               resident_count_female               soma:      325,972
+               permits_granted_male                soma:       63,100
+               permits_granted_female              soma:       55,024
+       - rifa_2021_pg96_residents_by_nationality_gender.csv
+           Ano: 2021   Linhas: 187   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      359,862
+               resident_count_female               soma:      339,025
+               permits_granted_male                soma:       59,885
+               permits_granted_female              soma:       51,426
+       - rifa_2022_pg56_residents_by_nationality_gender.csv
+           Ano: 2022   Linhas: 189   Colunas (5): ['nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+               resident_count_male                 soma:      409,523
+               resident_count_female               soma:      372,392
+               permits_granted_male                soma:       79,149
+               permits_granted_female              soma:       63,932
+
+       → Após merge interno: 1,501 linhas totais
+         Anos cobertos:        [np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022)]
+         Colunas (incl. year): ['year', 'nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+
+────────────────────────────────────────────────────────────────────────────────
+🔄 MERGE RMA + RIFA → DATASET COMBINADO
+────────────────────────────────────────────────────────────────────────────────
+  Linhas RMA                                      389
+  Linhas RIFA                                   1,501
+  Total combinado                               1,890
+  Anos cobertos                              [np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]
+  Nacionalidades distintas                        201
+  Colunas                                    ['year', 'nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+  Ficheiro guardado                          residents_and_permits_by_nationality_2015_2024.csv
+
+  Linhas por ano:
+       2015     185 linhas
+       2016     187 linhas
+       2017     185 linhas
+       2018     187 linhas
+       2019     191 linhas
+       2020     190 linhas
+       2021     187 linhas
+       2022     189 linhas
+       2023     192 linhas
+       2024     197 linhas
+
+────────────────────────────────────────────────────────────────────────────────
+📐 TRANSFORMAÇÃO ANALÍTICA (Melt + Pivot)
+────────────────────────────────────────────────────────────────────────────────
+
+  Formato WIDE (entrada — df_combinado):
+       Linhas:       1,890
+       Colunas:      ['year', 'nationality', 'resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female']
+
+  Operações aplicadas:
+       1. melt()         → colunas ['resident_count_male', 'resident_count_female', 'permits_granted_male', 'permits_granted_female'] → 'metrica_genero' + 'valor'
+       2. rsplit('_', 1) → separa 'metrica' de 'genero'
+       3. map()          → male→Masculino, female→Feminino
+       4. pivot_table()  → uma coluna por métrica, linhas por género
+
+  Formato LONGO (saída — df_analitico):
+       Linhas:       3,760
+       Colunas:      ['year', 'nationality', 'genero', 'permits_granted', 'resident_count']
+       Géneros:      ['Feminino', 'Masculino']
+       Anos:         [np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]
+       Ficheiro:     demographics_by_gender_clean.csv
+
+  📊 Totais por ano e género:
+                permits_granted  resident_count
+year genero                                    
+2015 Feminino             18196          200086
+     Masculino            19655          188645
+2016 Feminino             22944          204930
+     Masculino            23977          192801
+2017 Feminino             29739          215843
+     Masculino            31674          205868
+2018 Feminino             43542          242837
+     Masculino            49612          237463
+2019 Feminino             60792          293931
+     Masculino            68363          296417
+2020 Feminino             55024          325972
+     Masculino            63100          336123
+2021 Feminino             51426          339025
+     Masculino            59885          359862
+2022 Feminino             63932          372392
+     Masculino            79149          409523
+2023 Feminino            148577          490641
+     Masculino           180401          553965
+2024 Feminino             93943          677816
+     Masculino           124389          865881
+
+================================================================================
+FIM DO RELATÓRIO — NOTEBOOK 2
+================================================================================
