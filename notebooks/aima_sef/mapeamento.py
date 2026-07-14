@@ -61,32 +61,50 @@ ECONOMY_MAPPING = {
     "Beneficiários": "social_security_beneficiaries"
 }
 
-# 6. DADOS DE MIGRAÇÃO, FLUXOS MIGRATÓRIOS E DEMOGRAFIA
+# 6. Dados de Migração — Fluxos Migratórios e Demografia
+#
+# Equivalências entre fontes:
+#   SEF "Stock" ←→ AIMA "População Residente"   → total acumulado com título válido (a 31-dez)
+#   SEF "Fluxo" ←→ AIMA "Concessão de Títulos"  → novos títulos emitidos no ano civil
+#
+# Nota AIMA (2023-2024): "Concessão de Títulos" pode incluir decisões sobre processos
+# pendentes de anos anteriores (ex-Manifestações de Interesse), pelo que não equivale
+# necessariamente a entradas físicas nesse ano.
+
 MIGRATION_MAPPING = {
-    # Termos Gerais e Demográficos
-    "Masculino": "male",
-    "Feminino": "female",
-    "Género": "gender",
-    "Sexo": "gender",
-    "Estado civil": "marital_status",
-    
-    # UNIFICADO: População Residente / Stock (Estado Atual)
-    "Stock_Homens": "resident_count_male",
-    "Stock_Mulheres": "resident_count_female",
-    "Pop_Residente_Masculino": "resident_count_male",
-    "Pop_Residente_Feminino": "resident_count_female",
-    
-    # FLUXOS: Entradas e Concessões de Títulos (Eventos)
-    "Fluxos_Homens": "flow_male",
-    "Fluxos_Mulheres": "flow_female",
-    "Concessao_Masculino": "permit_grant_male",
-    "Concessao_Feminino": "permit_grant_female",
-    
-    # Metadados Administrativos (AIMA / Percurso Migratório)
-    "Ano de chegada": "arrival_year",
-    "País de residência anterior": "previous_country_of_residence",
-    "Reagrupamento familiar": "family_reunification",
-    "Estatuto de refugiado": "refugee_status"
+
+    # ── Termos Gerais e Demográficos ─────────────────────────────────────────
+    "Masculino":                        "male",
+    "Feminino":                         "female",
+    "Género":                           "gender",
+    "Sexo":                             "gender",
+    "Estado civil":                     "marital_status",
+
+    # ── STOCK / POPULAÇÃO RESIDENTE ──────────────────────────────────────────
+    # Total acumulado de cidadãos estrangeiros com título válido.
+    # SEF usa "Stock"; AIMA usa "População Residente". Mesmo indicador.
+    "Stock":                            "resident_count",
+    "Stock_Homens":                     "resident_count_male",
+    "Stock_Mulheres":                   "resident_count_female",
+    "Pop_Residente":                    "resident_count",          # alias AIMA
+    "Pop_Residente_Masculino":          "resident_count_male",     # alias AIMA
+    "Pop_Residente_Feminino":           "resident_count_female",   # alias AIMA
+
+    # ── FLUXO / CONCESSÃO DE TÍTULOS ─────────────────────────────────────────
+    # Novos títulos de residência emitidos no ano civil.
+    # SEF usa "Fluxo"; AIMA usa "Concessão de Títulos". Mesmo indicador.
+    "Fluxo":                            "permits_granted",
+    "Fluxos_Homens":                    "permits_granted_male",
+    "Fluxos_Mulheres":                  "permits_granted_female",
+    "Concessao":                        "permits_granted",         # alias AIMA
+    "Concessao_Masculino":              "permits_granted_male",    # alias AIMA
+    "Concessao_Feminino":               "permits_granted_female",  # alias AIMA
+
+    # ── Metadados Administrativos ─────────────────────────────────────────────
+    "Ano de chegada":                   "arrival_year",
+    "País de residência anterior":      "previous_country_of_residence",
+    "Reagrupamento familiar":           "family_reunification",
+    "Estatuto de refugiado":            "refugee_status",
 }
     
 # ==============================================================================
