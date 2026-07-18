@@ -1,8 +1,8 @@
 # Documentação de Entrega — Dados INE/PORDATA para o Dashboard de Imigração
-## **Parte 2 de [N] — x arquivos**
+## **Parte 2 de [N] — 8 arquivos**
 **Guia de Integração e Dicionário de Dados**
 
-Este documento serve como guia de suporte para o Grupo 2 no desenvolvimento do Dashboard de Imigração. Contém as especificações técnicas, limitações conhecidas e a estrutura de colunas para os **X ficheiros** de dados tratados incluídos nesta entrega.
+Este documento serve como guia de suporte para o Grupo 2 no desenvolvimento do Dashboard de Imigração. Contém as especificações técnicas, limitações conhecidas e a estrutura de colunas para os **8 ficheiros** de dados tratados incluídos nesta entrega.
 
 ---
 
