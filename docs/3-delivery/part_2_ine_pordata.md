@@ -288,6 +288,7 @@ Este documento serve como guia de suporte para o Grupo 2 no desenvolvimento do D
 #### Especificações Técnicas
 
 * **Formato:** CSV | **Separador:** `;` | **Codificação:** UTF-8
+* **Volume:** 1024 linhas (um país x ano por linha)
 * **Identificadores de Controlo:** Fonte Id: `F009` | Dados Id: `D073`
 
 #### Dicionário de Colunas
