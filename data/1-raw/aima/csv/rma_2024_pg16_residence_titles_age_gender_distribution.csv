@@ -1,0 +1,15 @@
+Age Group,Gender,Value,source
+≥65,Masculino,3167,annotated
+≥65,Feminino,3717,annotated
+55-64,Masculino,5141,annotated
+55-64,Feminino,5849,annotated
+45-54,Masculino,11954,annotated
+45-54,Feminino,9061,annotated
+35-44,Masculino,30304,annotated
+35-44,Feminino,19028,annotated
+18-34,Masculino,60553,annotated
+18-34,Feminino,43759,annotated
+10-17,Masculino,7103,annotated
+10-17,Feminino,6528,annotated
+0-9,Masculino,6167,annotated
+0-9,Feminino,6001,annotated

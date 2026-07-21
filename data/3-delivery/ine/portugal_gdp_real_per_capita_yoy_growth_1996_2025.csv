@@ -1,0 +1,31 @@
+year;country;gdp_real_pc_yoy_growth_pct;unit;price_basis;data_flag;notes;source_id;source
+1996;PT;3.1;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+1997;PT;3.9;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+1998;PT;4.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+1999;PT;3.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2000;PT;3.1;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2001;PT;1.2;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2002;PT;0.2;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2003;PT;-1.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2004;PT;1.5;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2005;PT;0.6;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2006;PT;1.4;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2007;PT;2.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2008;PT;0.2;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2009;PT;-3.2;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2010;PT;1.7;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2011;PT;-1.7;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2012;PT;-3.7;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2013;PT;-0.4;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2014;PT;1.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2015;PT;2.0;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2016;PT;2.3;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2017;PT;3.5;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2018;PT;3.0;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2019;PT;2.5;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2020;PT;-8.5;percentage;chain_volume_2021;;Impacto COVID-19 — maior queda registada;F007;INE - Instituto Nacional de Estatística
+2021;PT;5.3;percentage;chain_volume_2021;;Recuperacao pos-COVID;F007;INE - Instituto Nacional de Estatística
+2022;PT;6.4;percentage;chain_volume_2021;;Crescimento real forte pos-pandemia;F007;INE - Instituto Nacional de Estatística
+2023;PT;2.0;percentage;chain_volume_2021;;;F007;INE - Instituto Nacional de Estatística
+2024;PT;1.1;percentage;chain_volume_2021;coef_variacao_elevado;;F007;INE - Instituto Nacional de Estatística
+2025;PT;0.8;percentage;chain_volume_2021;nao_aplicavel;;F007;INE - Instituto Nacional de Estatística

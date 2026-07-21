@@ -1,0 +1,309 @@
+district;municipality;resident_foreign_population;source_id;source
+Aveiro;Águeda;4937;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Albergaria-a-Velha;1982;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Anadia;2395;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Arouca;521;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Aveiro;13968;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Castelo de Paiva;434;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Espinho;1813;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Estarreja;1762;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Ílhavo;4062;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Mealhada;1049;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Murtosa;485;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Oliveira de Azeméis;3316;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Oliveira do Bairro;2669;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Ovar;2827;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Santa Maria da Feira;4676;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;São João da Madeira;2568;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Sever do Vouga;927;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Vagos;2256;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Aveiro;Vale de Cambra;1263;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Aljustrel;623;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Almodôvar;649;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Alvito;137;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Barrancos;32;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Beja;6846;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Castro Verde;434;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Cuba;428;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Ferreira do Alentejo;2365;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Mértola;316;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Moura;455;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Odemira;23269;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Ourique;596;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Serpa;1325;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Beja;Vidigueira;403;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Amares;1081;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Barcelos;6285;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Braga;28538;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Cabeceiras de Basto;437;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Celorico de Basto;311;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Esposende;2959;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Fafe;1608;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Guimarães;8548;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Póvoa de Lanhoso;1092;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Terras de Bouro;189;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Vieira do Minho;331;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Vila Nova de Famalicão;8553;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Vila Verde;2458;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Braga;Vizela;841;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Alfandega da Fé;207;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Bragança;5670;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Carrazeda de Ansiães;246;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Freixo Espada à Cinta;164;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Macedo de Cavaleiros;599;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Miranda do Douro;284;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Mirandela;1170;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Mogadouro;257;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Torre de Moncorvo;154;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Vila Flor;304;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Vimioso;96;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Bragança;Vinhais;87;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Belmonte;254;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Castelo Branco;5832;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Covilhã;5324;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Fundão;2744;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Idanha-a-Nova;1087;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Oleiros;308;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Penamacor;491;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Proença-a-Nova;435;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Sertã;1276;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Vila de Rei;222;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Castelo Branco;Vila Velha de Rodão;392;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Arganil;1190;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Cantanhede;1944;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Coimbra;20765;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Condeixa-a-Nova;864;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Figueira da Foz;7880;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Góis;363;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Lousã;1234;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Mira;997;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Miranda do Corvo;698;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Montemor-o-Velho;968;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Oliveira do Hospital;1558;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Pampilhosa da Serra;118;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Penacova;461;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Penela;706;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Soure;800;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Tábua;1021;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Coimbra;Vila Nova de Poiares;750;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Alandroal;207;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Arraiolos;255;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Borba;174;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Estremoz;664;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Évora;5621;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Montemor-o-Novo;1330;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Mora;124;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Mourão;149;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Portel;221;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Redondo;260;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Reguengos de Monsaraz;710;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Vendas Novas;1540;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Viana do Alentejo;208;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Évora;Vila Viçosa;291;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Albufeira;26906;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Alcoutim;341;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Aljezur;3199;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Castro Marim;1510;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Faro;17986;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Lagoa (Algarve);7552;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Lagos;16234;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Loulé;29578;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Monchique;1149;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Olhão;7641;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Portimão;22728;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;São Brás de Alportel;2258;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Silves;11701;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Tavira;10671;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Vila do Bispo;3092;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Faro;Vila Real de Santo António;4775;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Aguiar da Beira;122;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Almeida;265;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Celorico da Beira;302;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Figueira de Castelo Rodrigo;85;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Fornos de Algodres;152;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Gouveia;469;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Guarda;2559;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Manteigas;151;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Meda;165;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Pinhel;266;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Sabugal;316;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Seia;1074;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Trancoso;304;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Guarda;Vila Nova de Foz Coa;391;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Alcobaça;7384;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Alvaiázere;727;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Ansião;899;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Batalha;1565;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Bombarral;1898;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Caldas da Rainha;9997;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Castanheira de Pêra;216;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Figueiró dos Vinhos;439;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Leiria;18805;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Marinha Grande;7366;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Nazaré;2862;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Óbidos;2097;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Pedrógão Grande;876;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Peniche;3839;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Pombal;5165;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Leiria;Porto de Mós;2317;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Alenquer;7444;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Amadora;55573;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Arruda dos Vinhos;1394;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Azambuja;2729;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Cadaval;986;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Cascais;56185;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Lisboa;202430;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Loures;51834;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Lourinhã;3819;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Mafra;12643;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Odivelas;51032;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Oeiras;27649;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Sintra;96587;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Sobral de Monte Agraço;1128;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Torres Vedras;13784;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Lisboa;Vila Franca de Xira;20962;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Alter do Chão;175;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Arronches;93;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Avis;109;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Campo Maior;285;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Castelo de Vide;200;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Crato;147;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Elvas;1402;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Fronteira;121;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Gavião;35;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Marvão;281;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Monforte;88;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Nisa;200;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Ponte de Sor;865;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Portalegre;1927;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Portalegre;Sousel;242;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Amarante;1486;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Baião;377;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Felgueiras;1980;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Gondomar;9334;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Lousada;1684;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Maia;9530;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Marco de Canaveses;1942;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Matosinhos;15630;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Paços de Ferreira;1679;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Paredes;3331;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Penafiel;2281;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Porto;58161;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Póvoa de Varzim;7166;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Santo Tirso;2125;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Trofa;3286;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Valongo;4777;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Vila do Conde;5947;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Porto;Vila Nova de Gaia;27513;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Abrantes;2197;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Alcanena;1180;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Almeirim;2033;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Alpiarça;694;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Benavente;4598;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Cartaxo;2208;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Chamusca;360;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Constância;144;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Coruche;941;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Entroncamento;4768;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Ferreira do Zêzere;745;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Golegã;367;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Mação;351;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Ourém;6533;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Rio Maior;4891;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Salvaterra de Magos;1235;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Santarém;11836;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Sardoal;197;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Tomar;2707;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Torres Novas;2060;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Santarém;Vila Nova da Barquinha;284;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Alcácer do Sal;1072;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Alcochete;2299;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Almada;38237;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Barreiro;16908;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Grândola;2269;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Moita;13251;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Montijo;15689;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Palmela;8425;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Santiago do Cacém;3189;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Seixal;34959;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Sesimbra;6559;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Setúbal;22912;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Setúbal;Sines;3172;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Arcos de Valdevez;912;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Caminha;1606;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Melgaço;385;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Monção;1947;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Paredes de Coura;470;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Ponte da Barca;369;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Ponte de Lima;1917;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Valença;2886;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Viana do Castelo;8088;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viana do Castelo;Vila Nova de Cerveira;1610;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Alijó;206;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Boticas;125;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Chaves;1776;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Mesão Frio;48;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Mondim de Basto;125;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Montalegre;208;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Murça;113;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Peso da Régua;283;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Ribeira de Pena;229;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Sabrosa;107;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Santa Marta de Penaguião;89;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Valpaços;265;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Vila Pouca de Aguiar;403;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Vila Real;Vila Real;3283;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Armamar;336;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Carregal do Sal;666;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Castro Daire;409;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Cinfães;712;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Lamego;900;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Mangualde;1169;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Moimenta da Beira;498;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Mortágua;702;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Nelas;951;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Oliveira de Frades;1117;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Penalva do Castelo;201;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Penedono;99;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Resende;113;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Santa Comba Dão;832;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;São João da Pesqueira;184;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;São Pedro do Sul;1141;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Sátão;389;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Sernancelhe;235;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Tabuaço;168;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Tarouca;261;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Tondela;1595;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Vila Nova de Paiva;160;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Viseu;8917;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Viseu;Vouzela;416;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Santa Cruz da Graciosa;94;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Lajes das Flores;137;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Santa Cruz das Flores;63;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Vila do Porto;299;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Calheta (São Jorge);94;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Velas;171;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Lagoa (São Miguel);280;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Nordeste;114;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Ponta Delgada;2827;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Povoação;160;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Ribeira Grande;497;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Vila Franca do Campo;172;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Corvo;17;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Horta;1081;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Lajes do Pico;256;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Madalena;454;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;São Roque do Pico;249;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Angra do Heroísmo;798;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Açores;Praia da Vitória;434;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Calheta (Madeira);1559;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Câmara de Lobos;904;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Funchal;10346;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Machico;931;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Ponta do Sol;687;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Porto Moniz;163;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Ribeira Brava;645;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Santa Cruz;2389;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Santana;319;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;São Vicente;357;F002;AIMA - Agência para a Integração, Migrações e Asilo
+Madeira;Porto Santo;644;F002;AIMA - Agência para a Integração, Migrações e Asilo

@@ -1,0 +1,85 @@
+================================================================================
+RELATÓRIO DE LIMPEZA DE DADOS — NOTEBOOK 1
+Data: 2026-07-10 13:05:44
+Pipeline: RAW → Limpeza → Padronização Colunas → Padronização Países
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rma_2023_pg36_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            192
+  Linhas após limpeza                         192   (removidas: 0 | 0.0%)
+  Linhas após padronização países             192
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Pop_Residente_Total                     # coluna de total
+       - Concessao_Total                         # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Pop_Residente_Masculino                → resident_count_male
+       Pop_Residente_Feminino                 → resident_count_female
+       Concessao_Masculino                    → permits_granted_male
+       Concessao_Feminino                     → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      180 registos
+       custom                          8 registos
+       coco                            4 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      553,965   nulos:    3
+       resident_count_female                   soma:      490,641   nulos:    4
+       permits_granted_male                    soma:      180,401   nulos:   19
+       permits_granted_female                  soma:      148,577   nulos:   23
+
+────────────────────────────────────────────────────────────────────────────────
+📄 ARQUIVO: rma_2024_pg37_residents_by_nationality_gender.csv
+────────────────────────────────────────────────────────────────────────────────
+  Linhas originais                            197
+  Linhas após limpeza                         197   (removidas: 0 | 0.0%)
+  Linhas após padronização países             197
+  Colunas originais                             7
+  Colunas finais                                5
+
+  🗑️  Colunas removidas (2):
+       - Pop_Residente_Total                     # coluna de total
+       - Concessao_Total                         # coluna de total
+
+  🔤 Colunas renomeadas (5) [PT → EN snake_case]:
+       Nacionalidade                          → nationality
+       Pop_Residente_Masculino                → resident_count_male
+       Pop_Residente_Feminino                 → resident_count_female
+       Concessao_Masculino                    → permits_granted_male
+       Concessao_Feminino                     → permits_granted_female
+
+  🌍 Padronização de países:
+       canonico                      171 registos
+       custom                         17 registos
+       coco                            9 registos
+
+  📊 Estatísticas numéricas (pós-padronização):
+       resident_count_male                     soma:      865,881   nulos:    3
+       resident_count_female                   soma:      677,816   nulos:    5
+       permits_granted_male                    soma:      124,389   nulos:   24
+       permits_granted_female                  soma:       93,943   nulos:   26
+
+================================================================================
+📊 SUMÁRIO GERAL
+────────────────────────────────────────────────────────────────────────────────
+  Arquivos processados                     2
+  Total linhas originais                   389
+  Total linhas após limpeza                389
+  Total linhas padronizadas                389
+  Total linhas removidas                   0  (0.0%)
+
+  🌍 Métodos de padronização (todos os ficheiros):
+       canonico                       351
+       custom                          25
+       coco                            13
+
+================================================================================
+FIM DO RELATÓRIO — NOTEBOOK 1
+================================================================================
