@@ -76,3 +76,6 @@
 | F013 | D127 | [ss_employees_base_remuneration_by_district_2010_2025.csv](https://github.com/[seu-repositorio]/data/2-clean/seg-social/ss_employees_base_remuneration_by_district_2010_2025.csv) | Segurança Social/MTSSS | 2010-2025 | year, month, district, base_remuneration, average_base_remuneration | 🟡 Em revisão | [Ana Claudia Aquino](https://github.com/Anaclaudiasevalho_creator) |
 | F013 | D128 | [ss_self_employed_by_district_2010_2025.csv](https://github.com/[seu-repositorio]/data/2-clean/seg-social/ss_self_employed_by_district_2010_2025.csv) | Segurança Social/MTSSS | 2010-2025 | year, month, district, self_employed_workers | 🟡 Em revisão | [Ana Claudia Aquino](https://github.com/Anaclaudiasevalho_creator) |
 | F013 | D129 | [ss_self_employed_contribution_amounts_by_district_2010_2025.csv](https://github.com/[seu-repositorio]/data/2-clean/seg-social/ss_self_employed_contribution_amounts_by_district_2010_2025.csv) | Segurança Social/MTSSS | 2010-2025 | year, month, district, contribution_amounts | 🟡 Em revisão | [Ana Claudia Aquino](https://github.com/Anaclaudiasevalho_creator) |
+| F18 | D083 | [number_immigrants_arriving_country.txt](data/2-clean/eurostat/number_immigrants_arriving_country_clean_txt.csv) | Eurostat | 2013-2023 | country, year, number_of_immigrants | [Nubia Almeida](https://github.com/asalmenubia) |
+
+
