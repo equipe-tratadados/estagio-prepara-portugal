@@ -1,0 +1,337 @@
+year;district;self_employed_contribution_amount;source_id;source
+2010;Aveiro;50127178.44;F014;Segurança Social
+2011;Aveiro;47379223.02;F014;Segurança Social
+2012;Aveiro;43767834.87;F014;Segurança Social
+2013;Aveiro;39764035.34;F014;Segurança Social
+2014;Aveiro;36961739.34;F014;Segurança Social
+2015;Aveiro;32009780.01;F014;Segurança Social
+2016;Aveiro;31497792.29;F014;Segurança Social
+2017;Aveiro;32342132.88;F014;Segurança Social
+2018;Aveiro;32619431.84;F014;Segurança Social
+2019;Aveiro;36187124.1;F014;Segurança Social
+2020;Aveiro;33246251.9;F014;Segurança Social
+2021;Aveiro;35498646.81;F014;Segurança Social
+2022;Aveiro;39419937.51;F014;Segurança Social
+2023;Aveiro;42555010.69;F014;Segurança Social
+2024;Aveiro;45224315.2;F014;Segurança Social
+2025;Aveiro;46619834.42;F014;Segurança Social
+2010;Beja;14485852.2;F014;Segurança Social
+2011;Beja;13593254.19;F014;Segurança Social
+2012;Beja;11944094.72;F014;Segurança Social
+2013;Beja;11138073.9;F014;Segurança Social
+2014;Beja;10007128.09;F014;Segurança Social
+2015;Beja;8464714.65;F014;Segurança Social
+2016;Beja;8166560.69;F014;Segurança Social
+2017;Beja;8311862.63;F014;Segurança Social
+2018;Beja;8459872.51;F014;Segurança Social
+2019;Beja;9167192.58;F014;Segurança Social
+2020;Beja;8715338.61;F014;Segurança Social
+2021;Beja;8746338.68;F014;Segurança Social
+2022;Beja;9723714.44;F014;Segurança Social
+2023;Beja;10035596.74;F014;Segurança Social
+2024;Beja;10574062.38;F014;Segurança Social
+2025;Beja;10387415.48;F014;Segurança Social
+2010;Braga;52439159.0;F014;Segurança Social
+2011;Braga;50646791.02;F014;Segurança Social
+2012;Braga;46114941.94;F014;Segurança Social
+2013;Braga;43001878.49;F014;Segurança Social
+2014;Braga;39440327.81;F014;Segurança Social
+2015;Braga;33802556.46;F014;Segurança Social
+2016;Braga;33894894.34;F014;Segurança Social
+2017;Braga;35240372.77;F014;Segurança Social
+2018;Braga;36305532.41;F014;Segurança Social
+2019;Braga;40975418.33;F014;Segurança Social
+2020;Braga;37991654.31;F014;Segurança Social
+2021;Braga;40252766.58;F014;Segurança Social
+2022;Braga;45706108.84;F014;Segurança Social
+2023;Braga;49431436.79;F014;Segurança Social
+2024;Braga;53164001.25;F014;Segurança Social
+2025;Braga;56260097.08;F014;Segurança Social
+2010;Bragança;13160610.66;F014;Segurança Social
+2011;Bragança;12320195.52;F014;Segurança Social
+2012;Bragança;10926520.25;F014;Segurança Social
+2013;Bragança;11006692.84;F014;Segurança Social
+2014;Bragança;9935735.11;F014;Segurança Social
+2015;Bragança;8029731.79;F014;Segurança Social
+2016;Bragança;7751635.74;F014;Segurança Social
+2017;Bragança;7500914.59;F014;Segurança Social
+2018;Bragança;7624227.89;F014;Segurança Social
+2019;Bragança;7595064.89;F014;Segurança Social
+2020;Bragança;7043549.42;F014;Segurança Social
+2021;Bragança;7244588.99;F014;Segurança Social
+2022;Bragança;8057328.81;F014;Segurança Social
+2023;Bragança;8053982.86;F014;Segurança Social
+2024;Bragança;8292507.32;F014;Segurança Social
+2025;Bragança;8556309.76;F014;Segurança Social
+2010;Castelo Branco;14550656.6;F014;Segurança Social
+2011;Castelo Branco;13904621.73;F014;Segurança Social
+2012;Castelo Branco;12813222.4;F014;Segurança Social
+2013;Castelo Branco;11716736.26;F014;Segurança Social
+2014;Castelo Branco;10504698.73;F014;Segurança Social
+2015;Castelo Branco;8827854.39;F014;Segurança Social
+2016;Castelo Branco;8641778.31;F014;Segurança Social
+2017;Castelo Branco;8624980.93;F014;Segurança Social
+2018;Castelo Branco;8642425.22;F014;Segurança Social
+2019;Castelo Branco;9022105.04;F014;Segurança Social
+2020;Castelo Branco;8265769.63;F014;Segurança Social
+2021;Castelo Branco;8628828.83;F014;Segurança Social
+2022;Castelo Branco;9443334.78;F014;Segurança Social
+2023;Castelo Branco;9961725.97;F014;Segurança Social
+2024;Castelo Branco;10738200.26;F014;Segurança Social
+2025;Castelo Branco;10946873.73;F014;Segurança Social
+2010;Coimbra;31150909.85;F014;Segurança Social
+2011;Coimbra;29902462.9;F014;Segurança Social
+2012;Coimbra;27588689.03;F014;Segurança Social
+2013;Coimbra;25043339.1;F014;Segurança Social
+2014;Coimbra;22773581.88;F014;Segurança Social
+2015;Coimbra;19365404.44;F014;Segurança Social
+2016;Coimbra;18998083.84;F014;Segurança Social
+2017;Coimbra;19485884.97;F014;Segurança Social
+2018;Coimbra;19598187.87;F014;Segurança Social
+2019;Coimbra;22013882.97;F014;Segurança Social
+2020;Coimbra;20411619.8;F014;Segurança Social
+2021;Coimbra;21264939.13;F014;Segurança Social
+2022;Coimbra;22987734.58;F014;Segurança Social
+2023;Coimbra;25136901.29;F014;Segurança Social
+2024;Coimbra;26879425.32;F014;Segurança Social
+2025;Coimbra;28120784.4;F014;Segurança Social
+2010;Évora;12769170.43;F014;Segurança Social
+2011;Évora;12089299.78;F014;Segurança Social
+2012;Évora;11009182.91;F014;Segurança Social
+2013;Évora;10357633.47;F014;Segurança Social
+2014;Évora;9504933.19;F014;Segurança Social
+2015;Évora;8049758.37;F014;Segurança Social
+2016;Évora;7887766.23;F014;Segurança Social
+2017;Évora;7975784.82;F014;Segurança Social
+2018;Évora;7840470.96;F014;Segurança Social
+2019;Évora;8813080.58;F014;Segurança Social
+2020;Évora;8062038.11;F014;Segurança Social
+2021;Évora;8142447.14;F014;Segurança Social
+2022;Évora;8830423.42;F014;Segurança Social
+2023;Évora;9294770.89;F014;Segurança Social
+2024;Évora;9565204.36;F014;Segurança Social
+2025;Évora;9542749.47;F014;Segurança Social
+2010;Faro;41550063.95;F014;Segurança Social
+2011;Faro;39784169.8;F014;Segurança Social
+2012;Faro;35744973.52;F014;Segurança Social
+2013;Faro;32457877.94;F014;Segurança Social
+2014;Faro;30083343.1;F014;Segurança Social
+2015;Faro;26078687.08;F014;Segurança Social
+2016;Faro;26995590.24;F014;Segurança Social
+2017;Faro;29124003.15;F014;Segurança Social
+2018;Faro;30704630.45;F014;Segurança Social
+2019;Faro;37567562.05;F014;Segurança Social
+2020;Faro;33016100.04;F014;Segurança Social
+2021;Faro;35529975.56;F014;Segurança Social
+2022;Faro;41846409.29;F014;Segurança Social
+2023;Faro;46790293.11;F014;Segurança Social
+2024;Faro;52025009.74;F014;Segurança Social
+2025;Faro;55073989.42;F014;Segurança Social
+2010;Guarda;14307395.27;F014;Segurança Social
+2011;Guarda;13247640.65;F014;Segurança Social
+2012;Guarda;11900747.19;F014;Segurança Social
+2013;Guarda;11467875.56;F014;Segurança Social
+2014;Guarda;10216498.47;F014;Segurança Social
+2015;Guarda;8518752.99;F014;Segurança Social
+2016;Guarda;8227410.85;F014;Segurança Social
+2017;Guarda;8077013.92;F014;Segurança Social
+2018;Guarda;8017920.4;F014;Segurança Social
+2019;Guarda;7755205.43;F014;Segurança Social
+2020;Guarda;7140369.4;F014;Segurança Social
+2021;Guarda;7132092.04;F014;Segurança Social
+2022;Guarda;7890371.07;F014;Segurança Social
+2023;Guarda;8308423.34;F014;Segurança Social
+2024;Guarda;8549885.29;F014;Segurança Social
+2025;Guarda;8888181.55;F014;Segurança Social
+2010;Leiria;37920437.62;F014;Segurança Social
+2011;Leiria;35837991.25;F014;Segurança Social
+2012;Leiria;32974745.74;F014;Segurança Social
+2013;Leiria;29053054.43;F014;Segurança Social
+2014;Leiria;26812107.9;F014;Segurança Social
+2015;Leiria;23289336.53;F014;Segurança Social
+2016;Leiria;22898309.0;F014;Segurança Social
+2017;Leiria;23548740.89;F014;Segurança Social
+2018;Leiria;23649379.41;F014;Segurança Social
+2019;Leiria;26199126.37;F014;Segurança Social
+2020;Leiria;24421864.87;F014;Segurança Social
+2021;Leiria;25851536.52;F014;Segurança Social
+2022;Leiria;28515024.14;F014;Segurança Social
+2023;Leiria;31240816.53;F014;Segurança Social
+2024;Leiria;33989315.07;F014;Segurança Social
+2025;Leiria;36206037.19;F014;Segurança Social
+2010;Lisboa;128457176.85;F014;Segurança Social
+2011;Lisboa;134891859.0;F014;Segurança Social
+2012;Lisboa;126498857.84;F014;Segurança Social
+2013;Lisboa;111632495.5;F014;Segurança Social
+2014;Lisboa;104446123.95;F014;Segurança Social
+2015;Lisboa;94260946.91;F014;Segurança Social
+2016;Lisboa;96050608.61;F014;Segurança Social
+2017;Lisboa;101208824.51;F014;Segurança Social
+2018;Lisboa;104185753.23;F014;Segurança Social
+2019;Lisboa;122918299.33;F014;Segurança Social
+2020;Lisboa;115156327.23;F014;Segurança Social
+2021;Lisboa;124694244.67;F014;Segurança Social
+2022;Lisboa;139579642.19;F014;Segurança Social
+2023;Lisboa;154703647.12;F014;Segurança Social
+2024;Lisboa;175505826.28;F014;Segurança Social
+2025;Lisboa;187769305.28;F014;Segurança Social
+2010;Outro;732334.09;F014;Segurança Social
+2011;Outro;731995.34;F014;Segurança Social
+2012;Outro;785991.11;F014;Segurança Social
+2013;Outro;974967.61;F014;Segurança Social
+2014;Outro;1631043.37;F014;Segurança Social
+2015;Outro;2415232.45;F014;Segurança Social
+2016;Outro;2888576.61;F014;Segurança Social
+2017;Outro;3124446.13;F014;Segurança Social
+2018;Outro;3524371.93;F014;Segurança Social
+2019;Outro;3964849.36;F014;Segurança Social
+2020;Outro;3817398.85;F014;Segurança Social
+2021;Outro;3988201.95;F014;Segurança Social
+2022;Outro;4378687.79;F014;Segurança Social
+2023;Outro;5036507.25;F014;Segurança Social
+2024;Outro;5838101.3;F014;Segurança Social
+2025;Outro;6395326.4;F014;Segurança Social
+2010;Portalegre;8772662.54;F014;Segurança Social
+2011;Portalegre;8478526.3;F014;Segurança Social
+2012;Portalegre;7630401.27;F014;Segurança Social
+2013;Portalegre;7070373.78;F014;Segurança Social
+2014;Portalegre;6384434.34;F014;Segurança Social
+2015;Portalegre;5465169.67;F014;Segurança Social
+2016;Portalegre;5320073.48;F014;Segurança Social
+2017;Portalegre;5365600.65;F014;Segurança Social
+2018;Portalegre;5388618.84;F014;Segurança Social
+2019;Portalegre;6020052.82;F014;Segurança Social
+2020;Portalegre;5567257.83;F014;Segurança Social
+2021;Portalegre;5675885.55;F014;Segurança Social
+2022;Portalegre;6159021.53;F014;Segurança Social
+2023;Portalegre;6334533.1;F014;Segurança Social
+2024;Portalegre;6727239.91;F014;Segurança Social
+2025;Portalegre;6796449.95;F014;Segurança Social
+2010;Porto;104775946.06;F014;Segurança Social
+2011;Porto;100432336.16;F014;Segurança Social
+2012;Porto;93046686.46;F014;Segurança Social
+2013;Porto;84945267.91;F014;Segurança Social
+2014;Porto;78144586.8;F014;Segurança Social
+2015;Porto;67217447.53;F014;Segurança Social
+2016;Porto;67025978.87;F014;Segurança Social
+2017;Porto;69322874.64;F014;Segurança Social
+2018;Porto;70485591.45;F014;Segurança Social
+2019;Porto;82607148.48;F014;Segurança Social
+2020;Porto;75451935.32;F014;Segurança Social
+2021;Porto;81356626.03;F014;Segurança Social
+2022;Porto;92098791.9;F014;Segurança Social
+2023;Porto;101227004.42;F014;Segurança Social
+2024;Porto;112386745.29;F014;Segurança Social
+2025;Porto;121701283.09;F014;Segurança Social
+2010;Região Autónoma dos Açores;16405877.19;F014;Segurança Social
+2011;Região Autónoma dos Açores;17109701.48;F014;Segurança Social
+2012;Região Autónoma dos Açores;15808931.32;F014;Segurança Social
+2013;Região Autónoma dos Açores;14697445.05;F014;Segurança Social
+2014;Região Autónoma dos Açores;13663104.81;F014;Segurança Social
+2015;Região Autónoma dos Açores;12333294.07;F014;Segurança Social
+2016;Região Autónoma dos Açores;12178471.37;F014;Segurança Social
+2017;Região Autónoma dos Açores;12567205.22;F014;Segurança Social
+2018;Região Autónoma dos Açores;12799496.58;F014;Segurança Social
+2019;Região Autónoma dos Açores;14770380.98;F014;Segurança Social
+2020;Região Autónoma dos Açores;13811795.6;F014;Segurança Social
+2021;Região Autónoma dos Açores;14448694.8;F014;Segurança Social
+2022;Região Autónoma dos Açores;15228836.73;F014;Segurança Social
+2023;Região Autónoma dos Açores;16940801.86;F014;Segurança Social
+2024;Região Autónoma dos Açores;18168385.57;F014;Segurança Social
+2025;Região Autónoma dos Açores;18981165.18;F014;Segurança Social
+2010;Região Autónoma da Madeira;11473610.54;F014;Segurança Social
+2011;Região Autónoma da Madeira;9902816.79;F014;Segurança Social
+2012;Região Autónoma da Madeira;9377489.0;F014;Segurança Social
+2013;Região Autónoma da Madeira;8521641.29;F014;Segurança Social
+2014;Região Autónoma da Madeira;7957725.04;F014;Segurança Social
+2015;Região Autónoma da Madeira;7180273.74;F014;Segurança Social
+2016;Região Autónoma da Madeira;7269126.66;F014;Segurança Social
+2017;Região Autónoma da Madeira;7637808.96;F014;Segurança Social
+2018;Região Autónoma da Madeira;7883188.65;F014;Segurança Social
+2019;Região Autónoma da Madeira;9161993.05;F014;Segurança Social
+2020;Região Autónoma da Madeira;8232881.48;F014;Segurança Social
+2021;Região Autónoma da Madeira;8712581.21;F014;Segurança Social
+2022;Região Autónoma da Madeira;9646834.16;F014;Segurança Social
+2023;Região Autónoma da Madeira;10894888.41;F014;Segurança Social
+2024;Região Autónoma da Madeira;12446251.89;F014;Segurança Social
+2025;Região Autónoma da Madeira;13178452.64;F014;Segurança Social
+2010;Santarém;29407058.17;F014;Segurança Social
+2011;Santarém;28023809.51;F014;Segurança Social
+2012;Santarém;26031433.68;F014;Segurança Social
+2013;Santarém;23030440.27;F014;Segurança Social
+2014;Santarém;20932833.41;F014;Segurança Social
+2015;Santarém;17979589.7;F014;Segurança Social
+2016;Santarém;17591540.87;F014;Segurança Social
+2017;Santarém;18000017.1;F014;Segurança Social
+2018;Santarém;18141890.59;F014;Segurança Social
+2019;Santarém;20222258.78;F014;Segurança Social
+2020;Santarém;18758909.4;F014;Segurança Social
+2021;Santarém;19604716.02;F014;Segurança Social
+2022;Santarém;21343555.46;F014;Segurança Social
+2023;Santarém;23002526.19;F014;Segurança Social
+2024;Santarém;24308747.96;F014;Segurança Social
+2025;Santarém;25331366.03;F014;Segurança Social
+2010;Setúbal;45036194.85;F014;Segurança Social
+2011;Setúbal;46389748.16;F014;Segurança Social
+2012;Setúbal;42605984.2;F014;Segurança Social
+2013;Setúbal;37726480.26;F014;Segurança Social
+2014;Setúbal;34720923.24;F014;Segurança Social
+2015;Setúbal;30104517.96;F014;Segurança Social
+2016;Setúbal;30290625.5;F014;Segurança Social
+2017;Setúbal;31594183.35;F014;Segurança Social
+2018;Setúbal;32391699.63;F014;Segurança Social
+2019;Setúbal;38849744.17;F014;Segurança Social
+2020;Setúbal;36772530.74;F014;Segurança Social
+2021;Setúbal;39890833.44;F014;Segurança Social
+2022;Setúbal;44603365.27;F014;Segurança Social
+2023;Setúbal;48197542.1;F014;Segurança Social
+2024;Setúbal;53999340.86;F014;Segurança Social
+2025;Setúbal;58195798.85;F014;Segurança Social
+2010;Viana do Castelo;20048629.37;F014;Segurança Social
+2011;Viana do Castelo;19439191.68;F014;Segurança Social
+2012;Viana do Castelo;17606718.16;F014;Segurança Social
+2013;Viana do Castelo;16448094.63;F014;Segurança Social
+2014;Viana do Castelo;15080769.82;F014;Segurança Social
+2015;Viana do Castelo;12983914.35;F014;Segurança Social
+2016;Viana do Castelo;12833538.79;F014;Segurança Social
+2017;Viana do Castelo;13024216.82;F014;Segurança Social
+2018;Viana do Castelo;13295289.61;F014;Segurança Social
+2019;Viana do Castelo;14027749.64;F014;Segurança Social
+2020;Viana do Castelo;12765517.88;F014;Segurança Social
+2021;Viana do Castelo;13197192.24;F014;Segurança Social
+2022;Viana do Castelo;14662089.75;F014;Segurança Social
+2023;Viana do Castelo;15833073.94;F014;Segurança Social
+2024;Viana do Castelo;16913949.04;F014;Segurança Social
+2025;Viana do Castelo;17917433.82;F014;Segurança Social
+2010;Vila Real;16209538.75;F014;Segurança Social
+2011;Vila Real;15127934.25;F014;Segurança Social
+2012;Vila Real;13574658.9;F014;Segurança Social
+2013;Vila Real;13319235.17;F014;Segurança Social
+2014;Vila Real;12061113.07;F014;Segurança Social
+2015;Vila Real;10030624.6;F014;Segurança Social
+2016;Vila Real;9951215.44;F014;Segurança Social
+2017;Vila Real;9933230.16;F014;Segurança Social
+2018;Vila Real;10111543.39;F014;Segurança Social
+2019;Vila Real;10250078.07;F014;Segurança Social
+2020;Vila Real;9504150.77;F014;Segurança Social
+2021;Vila Real;9534325.35;F014;Segurança Social
+2022;Vila Real;10369194.97;F014;Segurança Social
+2023;Vila Real;10640809.11;F014;Segurança Social
+2024;Vila Real;11276543.12;F014;Segurança Social
+2025;Vila Real;11809339.97;F014;Segurança Social
+2010;Viseu;26479403.13;F014;Segurança Social
+2011;Viseu;24686146.88;F014;Segurança Social
+2012;Viseu;22590120.98;F014;Segurança Social
+2013;Viseu;21372088.14;F014;Segurança Social
+2014;Viseu;19405549.18;F014;Segurança Social
+2015;Viseu;16611468.63;F014;Segurança Social
+2016;Viseu;16161501.72;F014;Segurança Social
+2017;Viseu;16282509.31;F014;Segurança Social
+2018;Viseu;16274200.17;F014;Segurança Social
+2019;Viseu;17318581.24;F014;Segurança Social
+2020;Viseu;16113695.72;F014;Segurança Social
+2021;Viseu;16390323.44;F014;Segurança Social
+2022;Viseu;17858381.39;F014;Segurança Social
+2023;Viseu;19180296.66;F014;Segurança Social
+2024;Viseu;20236438.78;F014;Segurança Social
+2025;Viseu;21088649.92;F014;Segurança Social

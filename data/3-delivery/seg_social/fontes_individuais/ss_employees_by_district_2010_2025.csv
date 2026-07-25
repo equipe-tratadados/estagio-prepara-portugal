@@ -1,0 +1,337 @@
+year;district;employees_count;source_id;source
+2010;Aveiro;267332;F014;Segurança Social
+2011;Aveiro;267601;F014;Segurança Social
+2012;Aveiro;256934;F014;Segurança Social
+2013;Aveiro;251193;F014;Segurança Social
+2014;Aveiro;255852;F014;Segurança Social
+2015;Aveiro;262825;F014;Segurança Social
+2016;Aveiro;269825;F014;Segurança Social
+2017;Aveiro;279522;F014;Segurança Social
+2018;Aveiro;290226;F014;Segurança Social
+2019;Aveiro;298046;F014;Segurança Social
+2020;Aveiro;296531;F014;Segurança Social
+2021;Aveiro;303316;F014;Segurança Social
+2022;Aveiro;318483;F014;Segurança Social
+2023;Aveiro;328254;F014;Segurança Social
+2024;Aveiro;331921;F014;Segurança Social
+2025;Aveiro;335902;F014;Segurança Social
+2010;Beja;47761;F014;Segurança Social
+2011;Beja;48507;F014;Segurança Social
+2012;Beja;46288;F014;Segurança Social
+2013;Beja;46072;F014;Segurança Social
+2014;Beja;47284;F014;Segurança Social
+2015;Beja;48728;F014;Segurança Social
+2016;Beja;49924;F014;Segurança Social
+2017;Beja;52832;F014;Segurança Social
+2018;Beja;57463;F014;Segurança Social
+2019;Beja;63667;F014;Segurança Social
+2020;Beja;64978;F014;Segurança Social
+2021;Beja;69303;F014;Segurança Social
+2022;Beja;85141;F014;Segurança Social
+2023;Beja;94581;F014;Segurança Social
+2024;Beja;86853;F014;Segurança Social
+2025;Beja;82196;F014;Segurança Social
+2010;Braga;309613;F014;Segurança Social
+2011;Braga;309946;F014;Segurança Social
+2012;Braga;297771;F014;Segurança Social
+2013;Braga;292075;F014;Segurança Social
+2014;Braga;300267;F014;Segurança Social
+2015;Braga;310256;F014;Segurança Social
+2016;Braga;321036;F014;Segurança Social
+2017;Braga;334304;F014;Segurança Social
+2018;Braga;347058;F014;Segurança Social
+2019;Braga;357571;F014;Segurança Social
+2020;Braga;356228;F014;Segurança Social
+2021;Braga;364863;F014;Segurança Social
+2022;Braga;385018;F014;Segurança Social
+2023;Braga;396465;F014;Segurança Social
+2024;Braga;400968;F014;Segurança Social
+2025;Braga;408747;F014;Segurança Social
+2010;Bragança;30730;F014;Segurança Social
+2011;Bragança;31220;F014;Segurança Social
+2012;Bragança;29952;F014;Segurança Social
+2013;Bragança;29193;F014;Segurança Social
+2014;Bragança;29430;F014;Segurança Social
+2015;Bragança;30170;F014;Segurança Social
+2016;Bragança;30498;F014;Segurança Social
+2017;Bragança;31369;F014;Segurança Social
+2018;Bragança;32440;F014;Segurança Social
+2019;Bragança;33609;F014;Segurança Social
+2020;Bragança;33446;F014;Segurança Social
+2021;Bragança;34728;F014;Segurança Social
+2022;Bragança;36406;F014;Segurança Social
+2023;Bragança;37805;F014;Segurança Social
+2024;Bragança;38812;F014;Segurança Social
+2025;Bragança;39739;F014;Segurança Social
+2010;Castelo Branco;57082;F014;Segurança Social
+2011;Castelo Branco;57369;F014;Segurança Social
+2012;Castelo Branco;55109;F014;Segurança Social
+2013;Castelo Branco;53269;F014;Segurança Social
+2014;Castelo Branco;53300;F014;Segurança Social
+2015;Castelo Branco;54419;F014;Segurança Social
+2016;Castelo Branco;55155;F014;Segurança Social
+2017;Castelo Branco;56631;F014;Segurança Social
+2018;Castelo Branco;58314;F014;Segurança Social
+2019;Castelo Branco;59861;F014;Segurança Social
+2020;Castelo Branco;59441;F014;Segurança Social
+2021;Castelo Branco;61280;F014;Segurança Social
+2022;Castelo Branco;65194;F014;Segurança Social
+2023;Castelo Branco;68632;F014;Segurança Social
+2024;Castelo Branco;69565;F014;Segurança Social
+2025;Castelo Branco;71064;F014;Segurança Social
+2010;Coimbra;138591;F014;Segurança Social
+2011;Coimbra;137955;F014;Segurança Social
+2012;Coimbra;131412;F014;Segurança Social
+2013;Coimbra;127405;F014;Segurança Social
+2014;Coimbra;128827;F014;Segurança Social
+2015;Coimbra;132802;F014;Segurança Social
+2016;Coimbra;135636;F014;Segurança Social
+2017;Coimbra;139982;F014;Segurança Social
+2018;Coimbra;144936;F014;Segurança Social
+2019;Coimbra;149479;F014;Segurança Social
+2020;Coimbra;148619;F014;Segurança Social
+2021;Coimbra;152843;F014;Segurança Social
+2022;Coimbra;161390;F014;Segurança Social
+2023;Coimbra;167921;F014;Segurança Social
+2024;Coimbra;171469;F014;Segurança Social
+2025;Coimbra;174929;F014;Segurança Social
+2010;Faro;178329;F014;Segurança Social
+2011;Faro;175149;F014;Segurança Social
+2012;Faro;163235;F014;Segurança Social
+2013;Faro;158742;F014;Segurança Social
+2014;Faro;163834;F014;Segurança Social
+2015;Faro;171072;F014;Segurança Social
+2016;Faro;178137;F014;Segurança Social
+2017;Faro;189666;F014;Segurança Social
+2018;Faro;202678;F014;Segurança Social
+2019;Faro;214894;F014;Segurança Social
+2020;Faro;204948;F014;Segurança Social
+2021;Faro;212653;F014;Segurança Social
+2022;Faro;238783;F014;Segurança Social
+2023;Faro;249712;F014;Segurança Social
+2024;Faro;258244;F014;Segurança Social
+2025;Faro;261212;F014;Segurança Social
+2010;Guarda;42825;F014;Segurança Social
+2011;Guarda;42263;F014;Segurança Social
+2012;Guarda;40444;F014;Segurança Social
+2013;Guarda;39764;F014;Segurança Social
+2014;Guarda;39971;F014;Segurança Social
+2015;Guarda;40624;F014;Segurança Social
+2016;Guarda;41237;F014;Segurança Social
+2017;Guarda;42390;F014;Segurança Social
+2018;Guarda;43170;F014;Segurança Social
+2019;Guarda;43943;F014;Segurança Social
+2020;Guarda;43675;F014;Segurança Social
+2021;Guarda;44381;F014;Segurança Social
+2022;Guarda;45874;F014;Segurança Social
+2023;Guarda;47456;F014;Segurança Social
+2024;Guarda;48342;F014;Segurança Social
+2025;Guarda;48720;F014;Segurança Social
+2010;Leiria;173146;F014;Segurança Social
+2011;Leiria;171674;F014;Segurança Social
+2012;Leiria;162934;F014;Segurança Social
+2013;Leiria;158035;F014;Segurança Social
+2014;Leiria;160686;F014;Segurança Social
+2015;Leiria;166032;F014;Segurança Social
+2016;Leiria;170016;F014;Segurança Social
+2017;Leiria;176424;F014;Segurança Social
+2018;Leiria;182219;F014;Segurança Social
+2019;Leiria;188434;F014;Segurança Social
+2020;Leiria;188231;F014;Segurança Social
+2021;Leiria;194357;F014;Segurança Social
+2022;Leiria;207362;F014;Segurança Social
+2023;Leiria;218557;F014;Segurança Social
+2024;Leiria;225111;F014;Segurança Social
+2025;Leiria;228220;F014;Segurança Social
+2010;Lisboa;878511;F014;Segurança Social
+2011;Lisboa;875683;F014;Segurança Social
+2012;Lisboa;825010;F014;Segurança Social
+2013;Lisboa;794833;F014;Segurança Social
+2014;Lisboa;806657;F014;Segurança Social
+2015;Lisboa;837556;F014;Segurança Social
+2016;Lisboa;866685;F014;Segurança Social
+2017;Lisboa;905942;F014;Segurança Social
+2018;Lisboa;955601;F014;Segurança Social
+2019;Lisboa;1005773;F014;Segurança Social
+2020;Lisboa;999719;F014;Segurança Social
+2021;Lisboa;1017470;F014;Segurança Social
+2022;Lisboa;1105428;F014;Segurança Social
+2023;Lisboa;1156667;F014;Segurança Social
+2024;Lisboa;1186122;F014;Segurança Social
+2025;Lisboa;1206516;F014;Segurança Social
+2010;Outro;3391;F014;Segurança Social
+2011;Outro;3755;F014;Segurança Social
+2012;Outro;4051;F014;Segurança Social
+2013;Outro;4949;F014;Segurança Social
+2014;Outro;8101;F014;Segurança Social
+2015;Outro;10548;F014;Segurança Social
+2016;Outro;12429;F014;Segurança Social
+2017;Outro;14772;F014;Segurança Social
+2018;Outro;16977;F014;Segurança Social
+2019;Outro;16943;F014;Segurança Social
+2020;Outro;15808;F014;Segurança Social
+2021;Outro;16294;F014;Segurança Social
+2022;Outro;16880;F014;Segurança Social
+2023;Outro;22602;F014;Segurança Social
+2024;Outro;25647;F014;Segurança Social
+2025;Outro;22652;F014;Segurança Social
+2010;Portalegre;34876;F014;Segurança Social
+2011;Portalegre;34468;F014;Segurança Social
+2012;Portalegre;32691;F014;Segurança Social
+2013;Portalegre;32632;F014;Segurança Social
+2014;Portalegre;33351;F014;Segurança Social
+2015;Portalegre;33900;F014;Segurança Social
+2016;Portalegre;34250;F014;Segurança Social
+2017;Portalegre;35179;F014;Segurança Social
+2018;Portalegre;35897;F014;Segurança Social
+2019;Portalegre;36680;F014;Segurança Social
+2020;Portalegre;36222;F014;Segurança Social
+2021;Portalegre;37062;F014;Segurança Social
+2022;Portalegre;38887;F014;Segurança Social
+2023;Portalegre;40738;F014;Segurança Social
+2024;Portalegre;42073;F014;Segurança Social
+2025;Portalegre;41934;F014;Segurança Social
+2010;Porto;660314;F014;Segurança Social
+2011;Porto;657148;F014;Segurança Social
+2012;Porto;624176;F014;Segurança Social
+2013;Porto;606393;F014;Segurança Social
+2014;Porto;618843;F014;Segurança Social
+2015;Porto;642524;F014;Segurança Social
+2016;Porto;663007;F014;Segurança Social
+2017;Porto;689434;F014;Segurança Social
+2018;Porto;717692;F014;Segurança Social
+2019;Porto;742528;F014;Segurança Social
+2020;Porto;737094;F014;Segurança Social
+2021;Porto;750502;F014;Segurança Social
+2022;Porto;795308;F014;Segurança Social
+2023;Porto;825565;F014;Segurança Social
+2024;Porto;841313;F014;Segurança Social
+2025;Porto;852415;F014;Segurança Social
+2010;Região Autónoma dos Açores;76012;F014;Segurança Social
+2011;Região Autónoma dos Açores;75152;F014;Segurança Social
+2012;Região Autónoma dos Açores;71812;F014;Segurança Social
+2013;Região Autónoma dos Açores;70068;F014;Segurança Social
+2014;Região Autónoma dos Açores;71710;F014;Segurança Social
+2015;Região Autónoma dos Açores;74989;F014;Segurança Social
+2016;Região Autónoma dos Açores;77757;F014;Segurança Social
+2017;Região Autónoma dos Açores;80352;F014;Segurança Social
+2018;Região Autónoma dos Açores;83161;F014;Segurança Social
+2019;Região Autónoma dos Açores;85854;F014;Segurança Social
+2020;Região Autónoma dos Açores;85141;F014;Segurança Social
+2021;Região Autónoma dos Açores;89948;F014;Segurança Social
+2022;Região Autónoma dos Açores;94738;F014;Segurança Social
+2023;Região Autónoma dos Açores;98185;F014;Segurança Social
+2024;Região Autónoma dos Açores;100573;F014;Segurança Social
+2025;Região Autónoma dos Açores;102255;F014;Segurança Social
+2010;Região Autónoma da Madeira;86274;F014;Segurança Social
+2011;Região Autónoma da Madeira;83745;F014;Segurança Social
+2012;Região Autónoma da Madeira;77945;F014;Segurança Social
+2013;Região Autónoma da Madeira;74074;F014;Segurança Social
+2014;Região Autónoma da Madeira;74708;F014;Segurança Social
+2015;Região Autónoma da Madeira;75679;F014;Segurança Social
+2016;Região Autónoma da Madeira;77978;F014;Segurança Social
+2017;Região Autónoma da Madeira;81629;F014;Segurança Social
+2018;Região Autónoma da Madeira;84808;F014;Segurança Social
+2019;Região Autónoma da Madeira;88014;F014;Segurança Social
+2020;Região Autónoma da Madeira;86272;F014;Segurança Social
+2021;Região Autónoma da Madeira;90238;F014;Segurança Social
+2022;Região Autónoma da Madeira;97317;F014;Segurança Social
+2023;Região Autónoma da Madeira;102932;F014;Segurança Social
+2024;Região Autónoma da Madeira;106739;F014;Segurança Social
+2025;Região Autónoma da Madeira;110252;F014;Segurança Social
+2010;Santarém;157604;F014;Segurança Social
+2011;Santarém;155681;F014;Segurança Social
+2012;Santarém;146951;F014;Segurança Social
+2013;Santarém;141491;F014;Segurança Social
+2014;Santarém;143015;F014;Segurança Social
+2015;Santarém;146469;F014;Segurança Social
+2016;Santarém;149153;F014;Segurança Social
+2017;Santarém;153091;F014;Segurança Social
+2018;Santarém;157536;F014;Segurança Social
+2019;Santarém;162760;F014;Segurança Social
+2020;Santarém;162275;F014;Segurança Social
+2021;Santarém;167306;F014;Segurança Social
+2022;Santarém;177668;F014;Segurança Social
+2023;Santarém;187532;F014;Segurança Social
+2024;Santarém;194146;F014;Segurança Social
+2025;Santarém;199322;F014;Segurança Social
+2010;Setúbal;312151;F014;Segurança Social
+2011;Setúbal;310358;F014;Segurança Social
+2012;Setúbal;291360;F014;Segurança Social
+2013;Setúbal;278628;F014;Segurança Social
+2014;Setúbal;282371;F014;Segurança Social
+2015;Setúbal;290310;F014;Segurança Social
+2016;Setúbal;298601;F014;Segurança Social
+2017;Setúbal;313453;F014;Segurança Social
+2018;Setúbal;330763;F014;Segurança Social
+2019;Setúbal;348538;F014;Segurança Social
+2020;Setúbal;349894;F014;Segurança Social
+2021;Setúbal;359734;F014;Segurança Social
+2022;Setúbal;389278;F014;Segurança Social
+2023;Setúbal;412510;F014;Segurança Social
+2024;Setúbal;432237;F014;Segurança Social
+2025;Setúbal;449387;F014;Segurança Social
+2010;Viana do Castelo;71641;F014;Segurança Social
+2011;Viana do Castelo;71374;F014;Segurança Social
+2012;Viana do Castelo;68685;F014;Segurança Social
+2013;Viana do Castelo;67655;F014;Segurança Social
+2014;Viana do Castelo;69068;F014;Segurança Social
+2015;Viana do Castelo;70743;F014;Segurança Social
+2016;Viana do Castelo;72964;F014;Segurança Social
+2017;Viana do Castelo;76288;F014;Segurança Social
+2018;Viana do Castelo;79070;F014;Segurança Social
+2019;Viana do Castelo;82178;F014;Segurança Social
+2020;Viana do Castelo;81800;F014;Segurança Social
+2021;Viana do Castelo;83605;F014;Segurança Social
+2022;Viana do Castelo;89661;F014;Segurança Social
+2023;Viana do Castelo;93950;F014;Segurança Social
+2024;Viana do Castelo;95247;F014;Segurança Social
+2025;Viana do Castelo;96130;F014;Segurança Social
+2010;Vila Real;50892;F014;Segurança Social
+2011;Vila Real;50214;F014;Segurança Social
+2012;Vila Real;47597;F014;Segurança Social
+2013;Vila Real;45726;F014;Segurança Social
+2014;Vila Real;45823;F014;Segurança Social
+2015;Vila Real;46940;F014;Segurança Social
+2016;Vila Real;47536;F014;Segurança Social
+2017;Vila Real;49297;F014;Segurança Social
+2018;Vila Real;51069;F014;Segurança Social
+2019;Vila Real;52650;F014;Segurança Social
+2020;Vila Real;52603;F014;Segurança Social
+2021;Vila Real;54161;F014;Segurança Social
+2022;Vila Real;56852;F014;Segurança Social
+2023;Vila Real;59483;F014;Segurança Social
+2024;Vila Real;60477;F014;Segurança Social
+2025;Vila Real;62187;F014;Segurança Social
+2010;Viseu;110204;F014;Segurança Social
+2011;Viseu;109411;F014;Segurança Social
+2012;Viseu;104221;F014;Segurança Social
+2013;Viseu;101381;F014;Segurança Social
+2014;Viseu;101902;F014;Segurança Social
+2015;Viseu;104400;F014;Segurança Social
+2016;Viseu;106349;F014;Segurança Social
+2017;Viseu;110309;F014;Segurança Social
+2018;Viseu;113984;F014;Segurança Social
+2019;Viseu;118044;F014;Segurança Social
+2020;Viseu;117455;F014;Segurança Social
+2021;Viseu;120691;F014;Segurança Social
+2022;Viseu;127852;F014;Segurança Social
+2023;Viseu;133605;F014;Segurança Social
+2024;Viseu;136902;F014;Segurança Social
+2025;Viseu;140948;F014;Segurança Social
+2010;Évora;55317;F014;Segurança Social
+2011;Évora;55200;F014;Segurança Social
+2012;Évora;52596;F014;Segurança Social
+2013;Évora;51300;F014;Segurança Social
+2014;Évora;52133;F014;Segurança Social
+2015;Évora;53292;F014;Segurança Social
+2016;Évora;53928;F014;Segurança Social
+2017;Évora;55402;F014;Segurança Social
+2018;Évora;56946;F014;Segurança Social
+2019;Évora;58875;F014;Segurança Social
+2020;Évora;58020;F014;Segurança Social
+2021;Évora;59747;F014;Segurança Social
+2022;Évora;63004;F014;Segurança Social
+2023;Évora;66584;F014;Segurança Social
+2024;Évora;67452;F014;Segurança Social
+2025;Évora;67731;F014;Segurança Social
