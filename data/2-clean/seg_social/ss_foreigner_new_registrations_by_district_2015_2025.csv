@@ -1,232 +1,232 @@
-year;district;new_registrations_count
-2015;AVEIRO;702
-2015;BEJA;2672
-2015;BRAGA;811
-2015;BRAGANCA;389
-2015;CASTELO BRANCO;246
-2015;COIMBRA;854
-2015;FARO;5793
-2015;GUARDA;194
-2015;LEIRIA;1222
-2015;LISBOA;22555
-2015;OUTRO;8699
-2015;PORTALEGRE;165
-2015;PORTO;2874
-2015;RA ACORES;301
-2015;RA MADEIRA;499
-2015;SANTAREM;805
-2015;SETUBAL;2634
-2015;VIANA DO CASTELO;395
-2015;VILA REAL;191
-2015;VISEU;462
-2015;EVORA;217
-2016;AVEIRO;860
-2016;BEJA;2673
-2016;BRAGA;871
-2016;BRAGANCA;373
-2016;CASTELO BRANCO;293
-2016;COIMBRA;772
-2016;FARO;6644
-2016;GUARDA;172
-2016;LEIRIA;1092
-2016;LISBOA;20940
-2016;OUTRO;3952
-2016;PORTALEGRE;181
-2016;PORTO;3221
-2016;RA ACORES;320
-2016;RA MADEIRA;451
-2016;SANTAREM;826
-2016;SETUBAL;3104
-2016;VIANA DO CASTELO;314
-2016;VILA REAL;158
-2016;VISEU;344
-2016;EVORA;203
-2017;AVEIRO;1480
-2017;BEJA;3068
-2017;BRAGA;1544
-2017;BRAGANCA;458
-2017;CASTELO BRANCO;515
-2017;COIMBRA;1093
-2017;FARO;8613
-2017;GUARDA;231
-2017;LEIRIA;1387
-2017;LISBOA;28262
-2017;OUTRO;4473
-2017;PORTALEGRE;210
-2017;PORTO;5478
-2017;RA ACORES;294
-2017;RA MADEIRA;621
-2017;SANTAREM;1139
-2017;SETUBAL;4925
-2017;VIANA DO CASTELO;383
-2017;VILA REAL;258
-2017;VISEU;435
-2017;EVORA;228
-2018;AVEIRO;3699
-2018;BEJA;6643
-2018;BRAGA;3514
-2018;BRAGANCA;664
-2018;CASTELO BRANCO;892
-2018;COIMBRA;2072
-2018;FARO;14188
-2018;GUARDA;382
-2018;LEIRIA;3145
-2018;LISBOA;46731
-2018;OUTRO;4623
-2018;PORTALEGRE;271
-2018;PORTO;11254
-2018;RA ACORES;430
-2018;RA MADEIRA;1217
-2018;SANTAREM;2571
-2018;SETUBAL;7403
-2018;VIANA DO CASTELO;935
-2018;VILA REAL;364
-2018;VISEU;829
-2018;EVORA;541
-2019;AVEIRO;6166
-2019;BEJA;10915
-2019;BRAGA;5908
-2019;BRAGANCA;1062
-2019;CASTELO BRANCO;1397
-2019;COIMBRA;2773
-2019;FARO;17833
-2019;GUARDA;487
-2019;LEIRIA;5391
-2019;LISBOA;66316
-2019;OUTRO;4150
-2019;PORTALEGRE;406
-2019;PORTO;15570
-2019;RA ACORES;499
-2019;RA MADEIRA;1190
-2019;SANTAREM;4895
-2019;SETUBAL;14531
-2019;VIANA DO CASTELO;1737
-2019;VILA REAL;618
-2019;VISEU;1879
-2019;EVORA;1267
-2020;AVEIRO;3977
-2020;BEJA;9584
-2020;BRAGA;4596
-2020;BRAGANCA;712
-2020;CASTELO BRANCO;1262
-2020;COIMBRA;2535
-2020;FARO;15327
-2020;GUARDA;326
-2020;LEIRIA;4325
-2020;LISBOA;64752
-2020;OUTRO;3275
-2020;PORTALEGRE;362
-2020;PORTO;12733
-2020;RA ACORES;360
-2020;RA MADEIRA;779
-2020;SANTAREM;3382
-2020;SETUBAL;16656
-2020;VIANA DO CASTELO;1116
-2020;VILA REAL;384
-2020;VISEU;1519
-2020;EVORA;771
-2021;AVEIRO;4025
-2021;BEJA;9007
-2021;BRAGA;4628
-2021;BRAGANCA;949
-2021;CASTELO BRANCO;1517
-2021;COIMBRA;1993
-2021;FARO;15718
-2021;GUARDA;412
-2021;LEIRIA;3907
-2021;LISBOA;46336
-2021;OUTRO;3711
-2021;PORTALEGRE;374
-2021;PORTO;11630
-2021;RA ACORES;414
-2021;RA MADEIRA;798
-2021;SANTAREM;3224
-2021;SETUBAL;10717
-2021;VIANA DO CASTELO;1359
-2021;VILA REAL;434
-2021;VISEU;1544
-2021;EVORA;967
-2022;AVEIRO;21250
-2022;BEJA;35503
-2022;BRAGA;24280
-2022;BRAGANCA;3047
-2022;CASTELO BRANCO;5947
-2022;COIMBRA;14153
-2022;FARO;41673
-2022;GUARDA;2060
-2022;LEIRIA;23121
-2022;LISBOA;172056
-2022;OUTRO;4281
-2022;PORTALEGRE;1816
-2022;PORTO;57537
-2022;RA ACORES;1489
-2022;RA MADEIRA;3549
-2022;SANTAREM;14910
-2022;SETUBAL;45269
-2022;VIANA DO CASTELO;7872
-2022;VILA REAL;2976
-2022;VISEU;8601
-2022;EVORA;3983
-2023;AVEIRO;19153
-2023;BEJA;24832
-2023;BRAGA;16030
-2023;BRAGANCA;2385
-2023;CASTELO BRANCO;6629
-2023;COIMBRA;13315
-2023;FARO;30166
-2023;GUARDA;2259
-2023;LEIRIA;25652
-2023;LISBOA;117203
-2023;OUTRO;42955
-2023;PORTALEGRE;5938
-2023;PORTO;53000
-2023;RA ACORES;1702
-2023;RA MADEIRA;4628
-2023;SANTAREM;16763
-2023;SETUBAL;44211
-2023;VIANA DO CASTELO;7273
-2023;VILA REAL;3941
-2023;VISEU;7776
-2023;EVORA;8375
-2024;AVEIRO;10051
-2024;BEJA;9949
-2024;BRAGA;9157
-2024;BRAGANCA;1430
-2024;CASTELO BRANCO;3792
-2024;COIMBRA;6915
-2024;FARO;21553
-2024;GUARDA;2276
-2024;LEIRIA;14849
-2024;LISBOA;65984
-2024;OUTRO;25076
-2024;PORTALEGRE;3950
-2024;PORTO;33332
-2024;RA ACORES;1291
-2024;RA MADEIRA;2656
-2024;SANTAREM;11426
-2024;SETUBAL;23423
-2024;VIANA DO CASTELO;4275
-2024;VILA REAL;2575
-2024;VISEU;4535
-2024;EVORA;6715
-2025;AVEIRO;5094
-2025;BEJA;3065
-2025;BRAGA;5778
-2025;BRAGANCA;1503
-2025;CASTELO BRANCO;1822
-2025;COIMBRA;2891
-2025;FARO;9608
-2025;GUARDA;3540
-2025;LEIRIA;4777
-2025;LISBOA;56269
-2025;OUTRO;5138
-2025;PORTALEGRE;768
-2025;PORTO;19499
-2025;RA ACORES;1356
-2025;RA MADEIRA;1858
-2025;SANTAREM;9105
-2025;SETUBAL;14825
-2025;VIANA DO CASTELO;2048
-2025;VILA REAL;1380
-2025;VISEU;3912
-2025;EVORA;3388
+year;district;new_registrations_count;source_id;source
+2015;Aveiro;702;F014;Segurança Social
+2015;Beja;2672;F014;Segurança Social
+2015;Braga;811;F014;Segurança Social
+2015;Bragança;389;F014;Segurança Social
+2015;Castelo Branco;246;F014;Segurança Social
+2015;Coimbra;854;F014;Segurança Social
+2015;Faro;5793;F014;Segurança Social
+2015;Guarda;194;F014;Segurança Social
+2015;Leiria;1222;F014;Segurança Social
+2015;Lisboa;22555;F014;Segurança Social
+2015;Outro;8699;F014;Segurança Social
+2015;Portalegre;165;F014;Segurança Social
+2015;Porto;2874;F014;Segurança Social
+2015;Região Autónoma dos Açores;301;F014;Segurança Social
+2015;Região Autónoma da Madeira;499;F014;Segurança Social
+2015;Santarém;805;F014;Segurança Social
+2015;Setúbal;2634;F014;Segurança Social
+2015;Viana do Castelo;395;F014;Segurança Social
+2015;Vila Real;191;F014;Segurança Social
+2015;Viseu;462;F014;Segurança Social
+2015;Évora;217;F014;Segurança Social
+2016;Aveiro;860;F014;Segurança Social
+2016;Beja;2673;F014;Segurança Social
+2016;Braga;871;F014;Segurança Social
+2016;Bragança;373;F014;Segurança Social
+2016;Castelo Branco;293;F014;Segurança Social
+2016;Coimbra;772;F014;Segurança Social
+2016;Faro;6644;F014;Segurança Social
+2016;Guarda;172;F014;Segurança Social
+2016;Leiria;1092;F014;Segurança Social
+2016;Lisboa;20940;F014;Segurança Social
+2016;Outro;3952;F014;Segurança Social
+2016;Portalegre;181;F014;Segurança Social
+2016;Porto;3221;F014;Segurança Social
+2016;Região Autónoma dos Açores;320;F014;Segurança Social
+2016;Região Autónoma da Madeira;451;F014;Segurança Social
+2016;Santarém;826;F014;Segurança Social
+2016;Setúbal;3104;F014;Segurança Social
+2016;Viana do Castelo;314;F014;Segurança Social
+2016;Vila Real;158;F014;Segurança Social
+2016;Viseu;344;F014;Segurança Social
+2016;Évora;203;F014;Segurança Social
+2017;Aveiro;1480;F014;Segurança Social
+2017;Beja;3068;F014;Segurança Social
+2017;Braga;1544;F014;Segurança Social
+2017;Bragança;458;F014;Segurança Social
+2017;Castelo Branco;515;F014;Segurança Social
+2017;Coimbra;1093;F014;Segurança Social
+2017;Faro;8613;F014;Segurança Social
+2017;Guarda;231;F014;Segurança Social
+2017;Leiria;1387;F014;Segurança Social
+2017;Lisboa;28262;F014;Segurança Social
+2017;Outro;4473;F014;Segurança Social
+2017;Portalegre;210;F014;Segurança Social
+2017;Porto;5478;F014;Segurança Social
+2017;Região Autónoma dos Açores;294;F014;Segurança Social
+2017;Região Autónoma da Madeira;621;F014;Segurança Social
+2017;Santarém;1139;F014;Segurança Social
+2017;Setúbal;4925;F014;Segurança Social
+2017;Viana do Castelo;383;F014;Segurança Social
+2017;Vila Real;258;F014;Segurança Social
+2017;Viseu;435;F014;Segurança Social
+2017;Évora;228;F014;Segurança Social
+2018;Aveiro;3699;F014;Segurança Social
+2018;Beja;6643;F014;Segurança Social
+2018;Braga;3514;F014;Segurança Social
+2018;Bragança;664;F014;Segurança Social
+2018;Castelo Branco;892;F014;Segurança Social
+2018;Coimbra;2072;F014;Segurança Social
+2018;Faro;14188;F014;Segurança Social
+2018;Guarda;382;F014;Segurança Social
+2018;Leiria;3145;F014;Segurança Social
+2018;Lisboa;46731;F014;Segurança Social
+2018;Outro;4623;F014;Segurança Social
+2018;Portalegre;271;F014;Segurança Social
+2018;Porto;11254;F014;Segurança Social
+2018;Região Autónoma dos Açores;430;F014;Segurança Social
+2018;Região Autónoma da Madeira;1217;F014;Segurança Social
+2018;Santarém;2571;F014;Segurança Social
+2018;Setúbal;7403;F014;Segurança Social
+2018;Viana do Castelo;935;F014;Segurança Social
+2018;Vila Real;364;F014;Segurança Social
+2018;Viseu;829;F014;Segurança Social
+2018;Évora;541;F014;Segurança Social
+2019;Aveiro;6166;F014;Segurança Social
+2019;Beja;10915;F014;Segurança Social
+2019;Braga;5908;F014;Segurança Social
+2019;Bragança;1062;F014;Segurança Social
+2019;Castelo Branco;1397;F014;Segurança Social
+2019;Coimbra;2773;F014;Segurança Social
+2019;Faro;17833;F014;Segurança Social
+2019;Guarda;487;F014;Segurança Social
+2019;Leiria;5391;F014;Segurança Social
+2019;Lisboa;66316;F014;Segurança Social
+2019;Outro;4150;F014;Segurança Social
+2019;Portalegre;406;F014;Segurança Social
+2019;Porto;15570;F014;Segurança Social
+2019;Região Autónoma dos Açores;499;F014;Segurança Social
+2019;Região Autónoma da Madeira;1190;F014;Segurança Social
+2019;Santarém;4895;F014;Segurança Social
+2019;Setúbal;14531;F014;Segurança Social
+2019;Viana do Castelo;1737;F014;Segurança Social
+2019;Vila Real;618;F014;Segurança Social
+2019;Viseu;1879;F014;Segurança Social
+2019;Évora;1267;F014;Segurança Social
+2020;Aveiro;3977;F014;Segurança Social
+2020;Beja;9584;F014;Segurança Social
+2020;Braga;4596;F014;Segurança Social
+2020;Bragança;712;F014;Segurança Social
+2020;Castelo Branco;1262;F014;Segurança Social
+2020;Coimbra;2535;F014;Segurança Social
+2020;Faro;15327;F014;Segurança Social
+2020;Guarda;326;F014;Segurança Social
+2020;Leiria;4325;F014;Segurança Social
+2020;Lisboa;64752;F014;Segurança Social
+2020;Outro;3275;F014;Segurança Social
+2020;Portalegre;362;F014;Segurança Social
+2020;Porto;12733;F014;Segurança Social
+2020;Região Autónoma dos Açores;360;F014;Segurança Social
+2020;Região Autónoma da Madeira;779;F014;Segurança Social
+2020;Santarém;3382;F014;Segurança Social
+2020;Setúbal;16656;F014;Segurança Social
+2020;Viana do Castelo;1116;F014;Segurança Social
+2020;Vila Real;384;F014;Segurança Social
+2020;Viseu;1519;F014;Segurança Social
+2020;Évora;771;F014;Segurança Social
+2021;Aveiro;4025;F014;Segurança Social
+2021;Beja;9007;F014;Segurança Social
+2021;Braga;4628;F014;Segurança Social
+2021;Bragança;949;F014;Segurança Social
+2021;Castelo Branco;1517;F014;Segurança Social
+2021;Coimbra;1993;F014;Segurança Social
+2021;Faro;15718;F014;Segurança Social
+2021;Guarda;412;F014;Segurança Social
+2021;Leiria;3907;F014;Segurança Social
+2021;Lisboa;46336;F014;Segurança Social
+2021;Outro;3711;F014;Segurança Social
+2021;Portalegre;374;F014;Segurança Social
+2021;Porto;11630;F014;Segurança Social
+2021;Região Autónoma dos Açores;414;F014;Segurança Social
+2021;Região Autónoma da Madeira;798;F014;Segurança Social
+2021;Santarém;3224;F014;Segurança Social
+2021;Setúbal;10717;F014;Segurança Social
+2021;Viana do Castelo;1359;F014;Segurança Social
+2021;Vila Real;434;F014;Segurança Social
+2021;Viseu;1544;F014;Segurança Social
+2021;Évora;967;F014;Segurança Social
+2022;Aveiro;21250;F014;Segurança Social
+2022;Beja;35503;F014;Segurança Social
+2022;Braga;24280;F014;Segurança Social
+2022;Bragança;3047;F014;Segurança Social
+2022;Castelo Branco;5947;F014;Segurança Social
+2022;Coimbra;14153;F014;Segurança Social
+2022;Faro;41673;F014;Segurança Social
+2022;Guarda;2060;F014;Segurança Social
+2022;Leiria;23121;F014;Segurança Social
+2022;Lisboa;172056;F014;Segurança Social
+2022;Outro;4281;F014;Segurança Social
+2022;Portalegre;1816;F014;Segurança Social
+2022;Porto;57537;F014;Segurança Social
+2022;Região Autónoma dos Açores;1489;F014;Segurança Social
+2022;Região Autónoma da Madeira;3549;F014;Segurança Social
+2022;Santarém;14910;F014;Segurança Social
+2022;Setúbal;45269;F014;Segurança Social
+2022;Viana do Castelo;7872;F014;Segurança Social
+2022;Vila Real;2976;F014;Segurança Social
+2022;Viseu;8601;F014;Segurança Social
+2022;Évora;3983;F014;Segurança Social
+2023;Aveiro;19153;F014;Segurança Social
+2023;Beja;24832;F014;Segurança Social
+2023;Braga;16030;F014;Segurança Social
+2023;Bragança;2385;F014;Segurança Social
+2023;Castelo Branco;6629;F014;Segurança Social
+2023;Coimbra;13315;F014;Segurança Social
+2023;Faro;30166;F014;Segurança Social
+2023;Guarda;2259;F014;Segurança Social
+2023;Leiria;25652;F014;Segurança Social
+2023;Lisboa;117203;F014;Segurança Social
+2023;Outro;42955;F014;Segurança Social
+2023;Portalegre;5938;F014;Segurança Social
+2023;Porto;53000;F014;Segurança Social
+2023;Região Autónoma dos Açores;1702;F014;Segurança Social
+2023;Região Autónoma da Madeira;4628;F014;Segurança Social
+2023;Santarém;16763;F014;Segurança Social
+2023;Setúbal;44211;F014;Segurança Social
+2023;Viana do Castelo;7273;F014;Segurança Social
+2023;Vila Real;3941;F014;Segurança Social
+2023;Viseu;7776;F014;Segurança Social
+2023;Évora;8375;F014;Segurança Social
+2024;Aveiro;10051;F014;Segurança Social
+2024;Beja;9949;F014;Segurança Social
+2024;Braga;9157;F014;Segurança Social
+2024;Bragança;1430;F014;Segurança Social
+2024;Castelo Branco;3792;F014;Segurança Social
+2024;Coimbra;6915;F014;Segurança Social
+2024;Faro;21553;F014;Segurança Social
+2024;Guarda;2276;F014;Segurança Social
+2024;Leiria;14849;F014;Segurança Social
+2024;Lisboa;65984;F014;Segurança Social
+2024;Outro;25076;F014;Segurança Social
+2024;Portalegre;3950;F014;Segurança Social
+2024;Porto;33332;F014;Segurança Social
+2024;Região Autónoma dos Açores;1291;F014;Segurança Social
+2024;Região Autónoma da Madeira;2656;F014;Segurança Social
+2024;Santarém;11426;F014;Segurança Social
+2024;Setúbal;23423;F014;Segurança Social
+2024;Viana do Castelo;4275;F014;Segurança Social
+2024;Vila Real;2575;F014;Segurança Social
+2024;Viseu;4535;F014;Segurança Social
+2024;Évora;6715;F014;Segurança Social
+2025;Aveiro;5094;F014;Segurança Social
+2025;Beja;3065;F014;Segurança Social
+2025;Braga;5778;F014;Segurança Social
+2025;Bragança;1503;F014;Segurança Social
+2025;Castelo Branco;1822;F014;Segurança Social
+2025;Coimbra;2891;F014;Segurança Social
+2025;Faro;9608;F014;Segurança Social
+2025;Guarda;3540;F014;Segurança Social
+2025;Leiria;4777;F014;Segurança Social
+2025;Lisboa;56269;F014;Segurança Social
+2025;Outro;5138;F014;Segurança Social
+2025;Portalegre;768;F014;Segurança Social
+2025;Porto;19499;F014;Segurança Social
+2025;Região Autónoma dos Açores;1356;F014;Segurança Social
+2025;Região Autónoma da Madeira;1858;F014;Segurança Social
+2025;Santarém;9105;F014;Segurança Social
+2025;Setúbal;14825;F014;Segurança Social
+2025;Viana do Castelo;2048;F014;Segurança Social
+2025;Vila Real;1380;F014;Segurança Social
+2025;Viseu;3912;F014;Segurança Social
+2025;Évora;3388;F014;Segurança Social

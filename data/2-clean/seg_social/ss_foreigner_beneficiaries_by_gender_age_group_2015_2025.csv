@@ -1,133 +1,133 @@
-gender;age_group;year;beneficiaries_count
-feminino;60+;2015;2068
-feminino;60+;2016;2160
-feminino;60+;2017;2351
-feminino;60+;2018;2497
-feminino;60+;2019;2654
-feminino;60+;2020;3512
-feminino;60+;2021;3864
-feminino;60+;2022;10665
-feminino;60+;2023;7899
-feminino;60+;2024;6835
-feminino;60+;2025;7291
-feminino;menos - 20;2015;318
-feminino;menos - 20;2016;310
-feminino;menos - 20;2017;337
-feminino;menos - 20;2018;365
-feminino;menos - 20;2019;484
-feminino;menos - 20;2020;539
-feminino;menos - 20;2021;622
-feminino;menos - 20;2022;3079
-feminino;menos - 20;2023;924
-feminino;menos - 20;2024;1100
-feminino;menos - 20;2025;971
-feminino;20 - 29;2015;12017
-feminino;20 - 29;2016;11114
-feminino;20 - 29;2017;11061
-feminino;20 - 29;2018;11597
-feminino;20 - 29;2019;13327
-feminino;20 - 29;2020;20178
-feminino;20 - 29;2021;23323
-feminino;20 - 29;2022;55114
-feminino;20 - 29;2023;31956
-feminino;20 - 29;2024;36644
-feminino;20 - 29;2025;40289
-feminino;30 - 39;2015;21323
-feminino;30 - 39;2016;19978
-feminino;30 - 39;2017;19953
-feminino;30 - 39;2018;21066
-feminino;30 - 39;2019;24553
-feminino;30 - 39;2020;34719
-feminino;30 - 39;2021;39057
-feminino;30 - 39;2022;73186
-feminino;30 - 39;2023;56287
-feminino;30 - 39;2024;63598
-feminino;30 - 39;2025;72180
-feminino;40 - 49;2015;12703
-feminino;40 - 49;2016;12143
-feminino;40 - 49;2017;12312
-feminino;40 - 49;2018;13013
-feminino;40 - 49;2019;14765
-feminino;40 - 49;2020;22276
-feminino;40 - 49;2021;25030
-feminino;40 - 49;2022;48545
-feminino;40 - 49;2023;36643
-feminino;40 - 49;2024;39877
-feminino;40 - 49;2025;45131
-feminino;50 - 59;2015;4801
-feminino;50 - 59;2016;4711
-feminino;50 - 59;2017;4772
-feminino;50 - 59;2018;5123
-feminino;50 - 59;2019;5482
-feminino;50 - 59;2020;8959
-feminino;50 - 59;2021;10037
-feminino;50 - 59;2022;21203
-feminino;50 - 59;2023;14367
-feminino;50 - 59;2024;14695
-feminino;50 - 59;2025;16204
-masculino;60+;2015;2281
-masculino;60+;2016;2257
-masculino;60+;2017;2286
-masculino;60+;2018;2431
-masculino;60+;2019;2449
-masculino;60+;2020;3354
-masculino;60+;2021;3537
-masculino;60+;2022;8536
-masculino;60+;2023;5581
-masculino;60+;2024;5030
-masculino;60+;2025;5409
-masculino;menos - 20;2015;154
-masculino;menos - 20;2016;141
-masculino;menos - 20;2017;195
-masculino;menos - 20;2018;228
-masculino;menos - 20;2019;302
-masculino;menos - 20;2020;370
-masculino;menos - 20;2021;418
-masculino;menos - 20;2022;3182
-masculino;menos - 20;2023;706
-masculino;menos - 20;2024;812
-masculino;menos - 20;2025;821
-masculino;20 - 29;2015;4793
-masculino;20 - 29;2016;4716
-masculino;20 - 29;2017;4804
-masculino;20 - 29;2018;5594
-masculino;20 - 29;2019;7260
-masculino;20 - 29;2020;16636
-masculino;20 - 29;2021;20044
-masculino;20 - 29;2022;67325
-masculino;20 - 29;2023;24763
-masculino;20 - 29;2024;27829
-masculino;20 - 29;2025;29331
-masculino;30 - 39;2015;9895
-masculino;30 - 39;2016;8690
-masculino;30 - 39;2017;8686
-masculino;30 - 39;2018;9842
-masculino;30 - 39;2019;12602
-masculino;30 - 39;2020;25096
-masculino;30 - 39;2021;30531
-masculino;30 - 39;2022;78458
-masculino;30 - 39;2023;46324
-masculino;30 - 39;2024;52529
-masculino;30 - 39;2025;57992
-masculino;40 - 49;2015;8605
-masculino;40 - 49;2016;7686
-masculino;40 - 49;2017;7171
-masculino;40 - 49;2018;7576
-masculino;40 - 49;2019;8856
-masculino;40 - 49;2020;15976
-masculino;40 - 49;2021;18527
-masculino;40 - 49;2022;44029
-masculino;40 - 49;2023;29468
-masculino;40 - 49;2024;32765
-masculino;40 - 49;2025;36513
-masculino;50 - 59;2015;5087
-masculino;50 - 59;2016;4392
-masculino;50 - 59;2017;4018
-masculino;50 - 59;2018;4000
-masculino;50 - 59;2019;4105
-masculino;50 - 59;2020;7300
-masculino;50 - 59;2021;7970
-masculino;50 - 59;2022;17216
-masculino;50 - 59;2023;10979
-masculino;50 - 59;2024;11374
-masculino;50 - 59;2025;12487
+year;gender;age_group;beneficiaries_count;source_id;source
+2015;Feminino;60+;2068;F014;Segurança Social
+2016;Feminino;60+;2160;F014;Segurança Social
+2017;Feminino;60+;2351;F014;Segurança Social
+2018;Feminino;60+;2497;F014;Segurança Social
+2019;Feminino;60+;2654;F014;Segurança Social
+2020;Feminino;60+;3512;F014;Segurança Social
+2021;Feminino;60+;3864;F014;Segurança Social
+2022;Feminino;60+;10665;F014;Segurança Social
+2023;Feminino;60+;7899;F014;Segurança Social
+2024;Feminino;60+;6835;F014;Segurança Social
+2025;Feminino;60+;7291;F014;Segurança Social
+2015;Feminino;<20;318;F014;Segurança Social
+2016;Feminino;<20;310;F014;Segurança Social
+2017;Feminino;<20;337;F014;Segurança Social
+2018;Feminino;<20;365;F014;Segurança Social
+2019;Feminino;<20;484;F014;Segurança Social
+2020;Feminino;<20;539;F014;Segurança Social
+2021;Feminino;<20;622;F014;Segurança Social
+2022;Feminino;<20;3079;F014;Segurança Social
+2023;Feminino;<20;924;F014;Segurança Social
+2024;Feminino;<20;1100;F014;Segurança Social
+2025;Feminino;<20;971;F014;Segurança Social
+2015;Feminino;20-29;12017;F014;Segurança Social
+2016;Feminino;20-29;11114;F014;Segurança Social
+2017;Feminino;20-29;11061;F014;Segurança Social
+2018;Feminino;20-29;11597;F014;Segurança Social
+2019;Feminino;20-29;13327;F014;Segurança Social
+2020;Feminino;20-29;20178;F014;Segurança Social
+2021;Feminino;20-29;23323;F014;Segurança Social
+2022;Feminino;20-29;55114;F014;Segurança Social
+2023;Feminino;20-29;31956;F014;Segurança Social
+2024;Feminino;20-29;36644;F014;Segurança Social
+2025;Feminino;20-29;40289;F014;Segurança Social
+2015;Feminino;30-39;21323;F014;Segurança Social
+2016;Feminino;30-39;19978;F014;Segurança Social
+2017;Feminino;30-39;19953;F014;Segurança Social
+2018;Feminino;30-39;21066;F014;Segurança Social
+2019;Feminino;30-39;24553;F014;Segurança Social
+2020;Feminino;30-39;34719;F014;Segurança Social
+2021;Feminino;30-39;39057;F014;Segurança Social
+2022;Feminino;30-39;73186;F014;Segurança Social
+2023;Feminino;30-39;56287;F014;Segurança Social
+2024;Feminino;30-39;63598;F014;Segurança Social
+2025;Feminino;30-39;72180;F014;Segurança Social
+2015;Feminino;40-49;12703;F014;Segurança Social
+2016;Feminino;40-49;12143;F014;Segurança Social
+2017;Feminino;40-49;12312;F014;Segurança Social
+2018;Feminino;40-49;13013;F014;Segurança Social
+2019;Feminino;40-49;14765;F014;Segurança Social
+2020;Feminino;40-49;22276;F014;Segurança Social
+2021;Feminino;40-49;25030;F014;Segurança Social
+2022;Feminino;40-49;48545;F014;Segurança Social
+2023;Feminino;40-49;36643;F014;Segurança Social
+2024;Feminino;40-49;39877;F014;Segurança Social
+2025;Feminino;40-49;45131;F014;Segurança Social
+2015;Feminino;50-59;4801;F014;Segurança Social
+2016;Feminino;50-59;4711;F014;Segurança Social
+2017;Feminino;50-59;4772;F014;Segurança Social
+2018;Feminino;50-59;5123;F014;Segurança Social
+2019;Feminino;50-59;5482;F014;Segurança Social
+2020;Feminino;50-59;8959;F014;Segurança Social
+2021;Feminino;50-59;10037;F014;Segurança Social
+2022;Feminino;50-59;21203;F014;Segurança Social
+2023;Feminino;50-59;14367;F014;Segurança Social
+2024;Feminino;50-59;14695;F014;Segurança Social
+2025;Feminino;50-59;16204;F014;Segurança Social
+2015;Masculino;60+;2281;F014;Segurança Social
+2016;Masculino;60+;2257;F014;Segurança Social
+2017;Masculino;60+;2286;F014;Segurança Social
+2018;Masculino;60+;2431;F014;Segurança Social
+2019;Masculino;60+;2449;F014;Segurança Social
+2020;Masculino;60+;3354;F014;Segurança Social
+2021;Masculino;60+;3537;F014;Segurança Social
+2022;Masculino;60+;8536;F014;Segurança Social
+2023;Masculino;60+;5581;F014;Segurança Social
+2024;Masculino;60+;5030;F014;Segurança Social
+2025;Masculino;60+;5409;F014;Segurança Social
+2015;Masculino;<20;154;F014;Segurança Social
+2016;Masculino;<20;141;F014;Segurança Social
+2017;Masculino;<20;195;F014;Segurança Social
+2018;Masculino;<20;228;F014;Segurança Social
+2019;Masculino;<20;302;F014;Segurança Social
+2020;Masculino;<20;370;F014;Segurança Social
+2021;Masculino;<20;418;F014;Segurança Social
+2022;Masculino;<20;3182;F014;Segurança Social
+2023;Masculino;<20;706;F014;Segurança Social
+2024;Masculino;<20;812;F014;Segurança Social
+2025;Masculino;<20;821;F014;Segurança Social
+2015;Masculino;20-29;4793;F014;Segurança Social
+2016;Masculino;20-29;4716;F014;Segurança Social
+2017;Masculino;20-29;4804;F014;Segurança Social
+2018;Masculino;20-29;5594;F014;Segurança Social
+2019;Masculino;20-29;7260;F014;Segurança Social
+2020;Masculino;20-29;16636;F014;Segurança Social
+2021;Masculino;20-29;20044;F014;Segurança Social
+2022;Masculino;20-29;67325;F014;Segurança Social
+2023;Masculino;20-29;24763;F014;Segurança Social
+2024;Masculino;20-29;27829;F014;Segurança Social
+2025;Masculino;20-29;29331;F014;Segurança Social
+2015;Masculino;30-39;9895;F014;Segurança Social
+2016;Masculino;30-39;8690;F014;Segurança Social
+2017;Masculino;30-39;8686;F014;Segurança Social
+2018;Masculino;30-39;9842;F014;Segurança Social
+2019;Masculino;30-39;12602;F014;Segurança Social
+2020;Masculino;30-39;25096;F014;Segurança Social
+2021;Masculino;30-39;30531;F014;Segurança Social
+2022;Masculino;30-39;78458;F014;Segurança Social
+2023;Masculino;30-39;46324;F014;Segurança Social
+2024;Masculino;30-39;52529;F014;Segurança Social
+2025;Masculino;30-39;57992;F014;Segurança Social
+2015;Masculino;40-49;8605;F014;Segurança Social
+2016;Masculino;40-49;7686;F014;Segurança Social
+2017;Masculino;40-49;7171;F014;Segurança Social
+2018;Masculino;40-49;7576;F014;Segurança Social
+2019;Masculino;40-49;8856;F014;Segurança Social
+2020;Masculino;40-49;15976;F014;Segurança Social
+2021;Masculino;40-49;18527;F014;Segurança Social
+2022;Masculino;40-49;44029;F014;Segurança Social
+2023;Masculino;40-49;29468;F014;Segurança Social
+2024;Masculino;40-49;32765;F014;Segurança Social
+2025;Masculino;40-49;36513;F014;Segurança Social
+2015;Masculino;50-59;5087;F014;Segurança Social
+2016;Masculino;50-59;4392;F014;Segurança Social
+2017;Masculino;50-59;4018;F014;Segurança Social
+2018;Masculino;50-59;4000;F014;Segurança Social
+2019;Masculino;50-59;4105;F014;Segurança Social
+2020;Masculino;50-59;7300;F014;Segurança Social
+2021;Masculino;50-59;7970;F014;Segurança Social
+2022;Masculino;50-59;17216;F014;Segurança Social
+2023;Masculino;50-59;10979;F014;Segurança Social
+2024;Masculino;50-59;11374;F014;Segurança Social
+2025;Masculino;50-59;12487;F014;Segurança Social
