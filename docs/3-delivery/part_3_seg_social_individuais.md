@@ -15,9 +15,9 @@ Este documento serve como guia de suporte para o Grupo 2 no desenvolvimento do D
 * **Propriedades comuns:** `source_id = F014` | `source = "Segurança Social"` | Granularidade anual.
 * **Regra de utilização:** Estes ficheiros estão disponíveis para contexto, auditoria e validação. **Não utilizar diretamente no dashboard** — usar os ficheiros merged da raiz.
 
-**Responsáveis por todos os ficheiros individuais:**
-Coleta e limpeza: Ana Cláudia Aquino
-Padronização (distritos, género, age_group, colunas `source_id` e `source`): Tabata Zardi
+**Responsáveis por todos os ficheiros individuais:**<br>
+**Coleta e limpeza:** Ana Cláudia Aquino<br>
+**Padronização adicional**(distritos, género, age_group, colunas `source_id` e `source`): Tabata Zardi
 
 ---
 
