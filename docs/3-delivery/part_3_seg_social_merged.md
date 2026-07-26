@@ -65,9 +65,9 @@ Os três ficheiros foram desenhados para funcionar em conjunto via *data blendin
 - **Campos calculados:** `net_balance`, `avg_contribution_per_contributor`, `avg_benefit_per_beneficiary` e `contribution_benefit_ratio` foram calculados durante o processo de merge e não constavam na fonte original. Para recalcular, utilizar o script `build_ss_datasets.py` e os 14 arquivos individuais.
 - **Grain district × year:** Este ficheiro não permite análise demográfica por género ou faixa etária — utilizar o Ficheiro 2 para essa dimensão.
 
-**Responsáveis: 
-Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino
-M**erge, modelagem e campos calculados:** Tabata Zardi
+**Responsáveis: <br>
+Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino<br>
+**Merge, modelagem e campos calculados:** Tabata Zardi
 
 ---
 
@@ -101,9 +101,9 @@ M**erge, modelagem e campos calculados:** Tabata Zardi
 - **Sem desagregação por nacionalidade de origem:** Cobre todos os trabalhadores estrangeiros em conjunto.
 - **Dados de 2025 potencialmente parciais:** Mesma ressalva que o Ficheiro 1.
 
-**Responsáveis: 
-Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino
-M**erge, modelagem e campos calculados:** Tabata Zardi
+**Responsáveis: <br>
+Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino<br>
+**Merge, modelagem e campos calculados:** Tabata Zardi
 
 ---
 
@@ -143,8 +143,8 @@ M**erge, modelagem e campos calculados:** Tabata Zardi
 - **Cobertura temporal mais longa (2010–2025):** O período 2010–2014 só existe neste ficheiro e não tem equivalente nos dados de estrangeiros (Ficheiro 1 começa em 2015).
 - **Campos calculados:** `total_workers` e `total_contribution_amount` foram calculados durante o merge e não constavam na fonte original.
 
-**Responsáveis: 
-Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino
+**Responsáveis: <br>
+Coleta e limpeza dos ficheiros individuais:** Ana Cláudia Aquino<br>
 **Merge, modelagem e campos calculados:** Tabata Zardi
 
 ---
