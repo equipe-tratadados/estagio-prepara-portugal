@@ -1,0 +1,243 @@
+size_band;gender;year;avg_monthly_wage_eur
+1-4 pessoas;masculino;2014;734.19
+1-4 pessoas;masculino;2015;733.24
+1-4 pessoas;masculino;2016;748.98
+1-4 pessoas;masculino;2017;771.32
+1-4 pessoas;masculino;2018;796.38
+1-4 pessoas;masculino;2019;828.72
+1-4 pessoas;masculino;2020;865.07
+1-4 pessoas;masculino;2021;905.46
+1-4 pessoas;masculino;2022;955.23
+1-4 pessoas;masculino;2023;1022.88
+1-4 pessoas;masculino;2024;1100.01
+1-4 pessoas;feminino;2014;658.71
+1-4 pessoas;feminino;2015;658.01
+1-4 pessoas;feminino;2016;677.99
+1-4 pessoas;feminino;2017;699.8
+1-4 pessoas;feminino;2018;723.93
+1-4 pessoas;feminino;2019;752.31
+1-4 pessoas;feminino;2020;786.91
+1-4 pessoas;feminino;2021;821.89
+1-4 pessoas;feminino;2022;867.35
+1-4 pessoas;feminino;2023;935.22
+1-4 pessoas;feminino;2024;1004.12
+5-9 pessoas;masculino;2014;825.8
+5-9 pessoas;masculino;2015;821.42
+5-9 pessoas;masculino;2016;829.27
+5-9 pessoas;masculino;2017;841.69
+5-9 pessoas;masculino;2018;865.63
+5-9 pessoas;masculino;2019;887.47
+5-9 pessoas;masculino;2020;923.87
+5-9 pessoas;masculino;2021;958.76
+5-9 pessoas;masculino;2022;1007.55
+5-9 pessoas;masculino;2023;1071.22
+5-9 pessoas;masculino;2024;1137.44
+5-9 pessoas;feminino;2014;749.43
+5-9 pessoas;feminino;2015;750.43
+5-9 pessoas;feminino;2016;760.95
+5-9 pessoas;feminino;2017;778.07
+5-9 pessoas;feminino;2018;798.79
+5-9 pessoas;feminino;2019;822.06
+5-9 pessoas;feminino;2020;859.95
+5-9 pessoas;feminino;2021;893.49
+5-9 pessoas;feminino;2022;935.49
+5-9 pessoas;feminino;2023;998.37
+5-9 pessoas;feminino;2024;1063.52
+10-19 pessoas;masculino;2014;888.5
+10-19 pessoas;masculino;2015;888.6
+10-19 pessoas;masculino;2016;891.34
+10-19 pessoas;masculino;2017;905.07
+10-19 pessoas;masculino;2018;925.08
+10-19 pessoas;masculino;2019;952.55
+10-19 pessoas;masculino;2020;992.62
+10-19 pessoas;masculino;2021;1026.97
+10-19 pessoas;masculino;2022;1075.83
+10-19 pessoas;masculino;2023;1137.39
+10-19 pessoas;masculino;2024;1210.95
+10-19 pessoas;feminino;2014;774.14
+10-19 pessoas;feminino;2015;772.94
+10-19 pessoas;feminino;2016;786.44
+10-19 pessoas;feminino;2017;806.2
+10-19 pessoas;feminino;2018;830.19
+10-19 pessoas;feminino;2019;852.82
+10-19 pessoas;feminino;2020;897.43
+10-19 pessoas;feminino;2021;927.52
+10-19 pessoas;feminino;2022;973.23
+10-19 pessoas;feminino;2023;1041.17
+10-19 pessoas;feminino;2024;1110.58
+20-49 pessoas;masculino;2014;989.39
+20-49 pessoas;masculino;2015;985.06
+20-49 pessoas;masculino;2016;987.49
+20-49 pessoas;masculino;2017;994.57
+20-49 pessoas;masculino;2018;1014.74
+20-49 pessoas;masculino;2019;1044.2
+20-49 pessoas;masculino;2020;1086.75
+20-49 pessoas;masculino;2021;1124.78
+20-49 pessoas;masculino;2022;1169.52
+20-49 pessoas;masculino;2023;1247.47
+20-49 pessoas;masculino;2024;1317.27
+20-49 pessoas;feminino;2014;803.03
+20-49 pessoas;feminino;2015;809.18
+20-49 pessoas;feminino;2016;819.84
+20-49 pessoas;feminino;2017;837.14
+20-49 pessoas;feminino;2018;865.33
+20-49 pessoas;feminino;2019;894.09
+20-49 pessoas;feminino;2020;930.69
+20-49 pessoas;feminino;2021;964.76
+20-49 pessoas;feminino;2022;1009.12
+20-49 pessoas;feminino;2023;1084.4
+20-49 pessoas;feminino;2024;1155.65
+50-99 pessoas;masculino;2014;1060.06
+50-99 pessoas;masculino;2015;1064.98
+50-99 pessoas;masculino;2016;1062.98
+50-99 pessoas;masculino;2017;1080.41
+50-99 pessoas;masculino;2018;1106.89
+50-99 pessoas;masculino;2019;1136.51
+50-99 pessoas;masculino;2020;1173.38
+50-99 pessoas;masculino;2021;1231.87
+50-99 pessoas;masculino;2022;1276.74
+50-99 pessoas;masculino;2023;1348.73
+50-99 pessoas;masculino;2024;1432.91
+50-99 pessoas;feminino;2014;831.36
+50-99 pessoas;feminino;2015;838.95
+50-99 pessoas;feminino;2016;850.09
+50-99 pessoas;feminino;2017;873.11
+50-99 pessoas;feminino;2018;896.68
+50-99 pessoas;feminino;2019;930.59
+50-99 pessoas;feminino;2020;968.45
+50-99 pessoas;feminino;2021;1012.22
+50-99 pessoas;feminino;2022;1060.06
+50-99 pessoas;feminino;2023;1139.9
+50-99 pessoas;feminino;2024;1218.57
+100-149 pessoas;masculino;2014;1163.11
+100-149 pessoas;masculino;2015;1167.39
+100-149 pessoas;masculino;2016;1179.16
+100-149 pessoas;masculino;2017;1137.29
+100-149 pessoas;masculino;2018;1162.06
+100-149 pessoas;masculino;2019;1203.04
+100-149 pessoas;masculino;2020;1233.14
+100-149 pessoas;masculino;2021;1275.34
+100-149 pessoas;masculino;2022;1365.35
+100-149 pessoas;masculino;2023;1452.46
+100-149 pessoas;masculino;2024;1528.26
+100-149 pessoas;feminino;2014;938.07
+100-149 pessoas;feminino;2015;937.35
+100-149 pessoas;feminino;2016;947.41
+100-149 pessoas;feminino;2017;955.36
+100-149 pessoas;feminino;2018;996.1
+100-149 pessoas;feminino;2019;1039.75
+100-149 pessoas;feminino;2020;1066.71
+100-149 pessoas;feminino;2021;1102.06
+100-149 pessoas;feminino;2022;1178.24
+100-149 pessoas;feminino;2023;1249.79
+100-149 pessoas;feminino;2024;1337.23
+150-199 pessoas;masculino;2014;1269.47
+150-199 pessoas;masculino;2015;1202.91
+150-199 pessoas;masculino;2016;1320.46
+150-199 pessoas;masculino;2017;1263.27
+150-199 pessoas;masculino;2018;1272.71
+150-199 pessoas;masculino;2019;1200
+150-199 pessoas;masculino;2020;1252.37
+150-199 pessoas;masculino;2021;1287.61
+150-199 pessoas;masculino;2022;1367.03
+150-199 pessoas;masculino;2023;1465.63
+150-199 pessoas;masculino;2024;1541.31
+150-199 pessoas;feminino;2014;988.94
+150-199 pessoas;feminino;2015;980.29
+150-199 pessoas;feminino;2016;992.04
+150-199 pessoas;feminino;2017;993.43
+150-199 pessoas;feminino;2018;1030.51
+150-199 pessoas;feminino;2019;1043.67
+150-199 pessoas;feminino;2020;1135.66
+150-199 pessoas;feminino;2021;1141.72
+150-199 pessoas;feminino;2022;1207.15
+150-199 pessoas;feminino;2023;1307.88
+150-199 pessoas;feminino;2024;1396.05
+200-249 pessoas;masculino;2014;1221.75
+200-249 pessoas;masculino;2015;1374.84
+200-249 pessoas;masculino;2016;1219.85
+200-249 pessoas;masculino;2017;1410.31
+200-249 pessoas;masculino;2018;1442.88
+200-249 pessoas;masculino;2019;1542.57
+200-249 pessoas;masculino;2020;1617.74
+200-249 pessoas;masculino;2021;1495.84
+200-249 pessoas;masculino;2022;1497.44
+200-249 pessoas;masculino;2023;1531.7
+200-249 pessoas;masculino;2024;1526.34
+200-249 pessoas;feminino;2014;999.46
+200-249 pessoas;feminino;2015;1047.96
+200-249 pessoas;feminino;2016;1027.58
+200-249 pessoas;feminino;2017;997.44
+200-249 pessoas;feminino;2018;1030.94
+200-249 pessoas;feminino;2019;1077.26
+200-249 pessoas;feminino;2020;1128.6
+200-249 pessoas;feminino;2021;1191.15
+200-249 pessoas;feminino;2022;1234.11
+200-249 pessoas;feminino;2023;1272.61
+200-249 pessoas;feminino;2024;1380.85
+250-499 pessoas;masculino;2014;1181.64
+250-499 pessoas;masculino;2015;1193.47
+250-499 pessoas;masculino;2016;1223.47
+250-499 pessoas;masculino;2017;1248.28
+250-499 pessoas;masculino;2018;1247.98
+250-499 pessoas;masculino;2019;1263.12
+250-499 pessoas;masculino;2020;1329.87
+250-499 pessoas;masculino;2021;1416.71
+250-499 pessoas;masculino;2022;1473.34
+250-499 pessoas;masculino;2023;1596.8
+250-499 pessoas;masculino;2024;1734.07
+250-499 pessoas;feminino;2014;998.27
+250-499 pessoas;feminino;2015;994.81
+250-499 pessoas;feminino;2016;1041.36
+250-499 pessoas;feminino;2017;1089.52
+250-499 pessoas;feminino;2018;1107.15
+250-499 pessoas;feminino;2019;1107.43
+250-499 pessoas;feminino;2020;1157.77
+250-499 pessoas;feminino;2021;1192.02
+250-499 pessoas;feminino;2022;1241.33
+250-499 pessoas;feminino;2023;1350.62
+250-499 pessoas;feminino;2024;1450.31
+500-999 pessoas;masculino;2014;1234.33
+500-999 pessoas;masculino;2015;1221.46
+500-999 pessoas;masculino;2016;1215.42
+500-999 pessoas;masculino;2017;1177.68
+500-999 pessoas;masculino;2018;1237.74
+500-999 pessoas;masculino;2019;1338.61
+500-999 pessoas;masculino;2020;1346.59
+500-999 pessoas;masculino;2021;1386.46
+500-999 pessoas;masculino;2022;1477.34
+500-999 pessoas;masculino;2023;1551.09
+500-999 pessoas;masculino;2024;1657.29
+500-999 pessoas;feminino;2014;1063.48
+500-999 pessoas;feminino;2015;1061.69
+500-999 pessoas;feminino;2016;1068.59
+500-999 pessoas;feminino;2017;1047.38
+500-999 pessoas;feminino;2018;1066.85
+500-999 pessoas;feminino;2019;1155.71
+500-999 pessoas;feminino;2020;1153.23
+500-999 pessoas;feminino;2021;1206.52
+500-999 pessoas;feminino;2022;1319.36
+500-999 pessoas;feminino;2023;1416.39
+500-999 pessoas;feminino;2024;1543.89
+1 000 e + pessoas;masculino;2014;1075.68
+1 000 e + pessoas;masculino;2015;1106.82
+1 000 e + pessoas;masculino;2016;1107.86
+1 000 e + pessoas;masculino;2017;1112.99
+1 000 e + pessoas;masculino;2018;1165.62
+1 000 e + pessoas;masculino;2019;1232.67
+1 000 e + pessoas;masculino;2020;1180.98
+1 000 e + pessoas;masculino;2021;1275.42
+1 000 e + pessoas;masculino;2022;1445.56
+1 000 e + pessoas;masculino;2023;1522.18
+1 000 e + pessoas;masculino;2024;1687.78
+1 000 e + pessoas;feminino;2014;902.85
+1 000 e + pessoas;feminino;2015;921.23
+1 000 e + pessoas;feminino;2016;937.91
+1 000 e + pessoas;feminino;2017;971.03
+1 000 e + pessoas;feminino;2018;1008.24
+1 000 e + pessoas;feminino;2019;1052.75
+1 000 e + pessoas;feminino;2020;1053.36
+1 000 e + pessoas;feminino;2021;1127.64
+1 000 e + pessoas;feminino;2022;1189.99
+1 000 e + pessoas;feminino;2023;1253.51
+1 000 e + pessoas;feminino;2024;1409.71

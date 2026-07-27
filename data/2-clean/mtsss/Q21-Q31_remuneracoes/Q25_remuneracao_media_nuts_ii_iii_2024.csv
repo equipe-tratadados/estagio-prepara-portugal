@@ -1,0 +1,309 @@
+region;year;avg_monthly_wage_eur
+Norte;2014;812.01
+Norte;2015;820.07
+Norte;2016;834.01
+Norte;2017;854.76
+Norte;2018;887.44
+Norte;2019;924.5
+Norte;2020;965.76
+Norte;2021;1006.75
+Norte;2022;1063.21
+Norte;2023;1137.22
+Norte;2024;1233.09
+Alto Minho;2014;729.89
+Alto Minho;2015;741.65
+Alto Minho;2016;746.72
+Alto Minho;2017;782.27
+Alto Minho;2018;802.92
+Alto Minho;2019;834.97
+Alto Minho;2020;865.76
+Alto Minho;2021;907.38
+Alto Minho;2022;955.67
+Alto Minho;2023;1022.16
+Alto Minho;2024;1098.82
+Cavado;2014;759.84
+Cavado;2015;761.41
+Cavado;2016;779.14
+Cavado;2017;804.2
+Cavado;2018;837.41
+Cavado;2019;882.73
+Cavado;2020;926.11
+Cavado;2021;973.97
+Cavado;2022;1014.07
+Cavado;2023;1092.31
+Cavado;2024;1183.58
+Ave;2014;721.62
+Ave;2015;730.34
+Ave;2016;747.36
+Ave;2017;775.08
+Ave;2018;802.78
+Ave;2019;830.45
+Ave;2020;871.56
+Ave;2021;916.46
+Ave;2022;964.07
+Ave;2023;1028.49
+Ave;2024;1109.23
+Area Metropolitana do Porto;2014;899.59
+Area Metropolitana do Porto;2015;909.44
+Area Metropolitana do Porto;2016;922.09
+Area Metropolitana do Porto;2017;937.69
+Area Metropolitana do Porto;2018;975.29
+Area Metropolitana do Porto;2019;1012.56
+Area Metropolitana do Porto;2020;1057.66
+Area Metropolitana do Porto;2021;1099.93
+Area Metropolitana do Porto;2022;1165.44
+Area Metropolitana do Porto;2023;1242.23
+Area Metropolitana do Porto;2024;1351.51
+Alto Tamega e Barroso;2014;689.68
+Alto Tamega e Barroso;2015;689.75
+Alto Tamega e Barroso;2016;723.25
+Alto Tamega e Barroso;2017;757.29
+Alto Tamega e Barroso;2018;779.47
+Alto Tamega e Barroso;2019;802.55
+Alto Tamega e Barroso;2020;831.23
+Alto Tamega e Barroso;2021;852.76
+Alto Tamega e Barroso;2022;892.27
+Alto Tamega e Barroso;2023;964
+Alto Tamega e Barroso;2024;1024.34
+Tamega e Sousa;2014;661.46
+Tamega e Sousa;2015;668.83
+Tamega e Sousa;2016;685.64
+Tamega e Sousa;2017;704.33
+Tamega e Sousa;2018;733.18
+Tamega e Sousa;2019;764.65
+Tamega e Sousa;2020;802.58
+Tamega e Sousa;2021;845.09
+Tamega e Sousa;2022;885.57
+Tamega e Sousa;2023;949.32
+Tamega e Sousa;2024;1026.48
+Douro;2014;745.33
+Douro;2015;747.62
+Douro;2016;750.66
+Douro;2017;766.74
+Douro;2018;789.36
+Douro;2019;816.21
+Douro;2020;838.94
+Douro;2021;872.95
+Douro;2022;922.59
+Douro;2023;988.16
+Douro;2024;1059.61
+Terras de Tras-os-Montes;2014;702.36
+Terras de Tras-os-Montes;2015;711.04
+Terras de Tras-os-Montes;2016;732.9
+Terras de Tras-os-Montes;2017;751.28
+Terras de Tras-os-Montes;2018;770.98
+Terras de Tras-os-Montes;2019;799.16
+Terras de Tras-os-Montes;2020;833.66
+Terras de Tras-os-Montes;2021;864.26
+Terras de Tras-os-Montes;2022;899.68
+Terras de Tras-os-Montes;2023;965.83
+Terras de Tras-os-Montes;2024;1033.23
+Centro;2014;791.69
+Centro;2015;797.26
+Centro;2016;811.52
+Centro;2017;830.13
+Centro;2018;859.11
+Centro;2019;891.47
+Centro;2020;920.01
+Centro;2021;961.02
+Centro;2022;1007.64
+Centro;2023;1075.43
+Centro;2024;1150.98
+Regiao de Aveiro;2014;840.87
+Regiao de Aveiro;2015;850.11
+Regiao de Aveiro;2016;860.22
+Regiao de Aveiro;2017;876.7
+Regiao de Aveiro;2018;907.62
+Regiao de Aveiro;2019;947.58
+Regiao de Aveiro;2020;970.59
+Regiao de Aveiro;2021;1011.7
+Regiao de Aveiro;2022;1065.41
+Regiao de Aveiro;2023;1142.06
+Regiao de Aveiro;2024;1223.23
+Regiao de Coimbra;2014;798.25
+Regiao de Coimbra;2015;798.23
+Regiao de Coimbra;2016;813.19
+Regiao de Coimbra;2017;831.44
+Regiao de Coimbra;2018;860.34
+Regiao de Coimbra;2019;892.77
+Regiao de Coimbra;2020;921.46
+Regiao de Coimbra;2021;964.52
+Regiao de Coimbra;2022;1011.46
+Regiao de Coimbra;2023;1081.05
+Regiao de Coimbra;2024;1154.15
+Regiao de Leiria;2014;816.84
+Regiao de Leiria;2015;825.07
+Regiao de Leiria;2016;839.81
+Regiao de Leiria;2017;859.07
+Regiao de Leiria;2018;894
+Regiao de Leiria;2019;921.39
+Regiao de Leiria;2020;947.75
+Regiao de Leiria;2021;986.61
+Regiao de Leiria;2022;1034.09
+Regiao de Leiria;2023;1096.77
+Regiao de Leiria;2024;1171.59
+Viseu Dao Lafoes;2014;742.83
+Viseu Dao Lafoes;2015;745.16
+Viseu Dao Lafoes;2016;757.72
+Viseu Dao Lafoes;2017;777.17
+Viseu Dao Lafoes;2018;802.22
+Viseu Dao Lafoes;2019;830.2
+Viseu Dao Lafoes;2020;862.87
+Viseu Dao Lafoes;2021;906.83
+Viseu Dao Lafoes;2022;944.07
+Viseu Dao Lafoes;2023;1009.72
+Viseu Dao Lafoes;2024;1078.24
+Beira Baixa;2014;726.57
+Beira Baixa;2015;730.63
+Beira Baixa;2016;750.33
+Beira Baixa;2017;767.59
+Beira Baixa;2018;786.68
+Beira Baixa;2019;812.51
+Beira Baixa;2020;851.68
+Beira Baixa;2021;894.93
+Beira Baixa;2022;926.52
+Beira Baixa;2023;990.62
+Beira Baixa;2024;1063.88
+Beiras e Serra da Estrela;2014;706.7
+Beiras e Serra da Estrela;2015;713.67
+Beiras e Serra da Estrela;2016;731.12
+Beiras e Serra da Estrela;2017;752.07
+Beiras e Serra da Estrela;2018;776.5
+Beiras e Serra da Estrela;2019;807.38
+Beiras e Serra da Estrela;2020;841.02
+Beiras e Serra da Estrela;2021;877.51
+Beiras e Serra da Estrela;2022;921.32
+Beiras e Serra da Estrela;2023;979.61
+Beiras e Serra da Estrela;2024;1058.19
+Oeste e Vale do Tejo;2014;784.39
+Oeste e Vale do Tejo;2015;787.42
+Oeste e Vale do Tejo;2016;795.81
+Oeste e Vale do Tejo;2017;813.34
+Oeste e Vale do Tejo;2018;833.08
+Oeste e Vale do Tejo;2019;857.96
+Oeste e Vale do Tejo;2020;892.06
+Oeste e Vale do Tejo;2021;929.27
+Oeste e Vale do Tejo;2022;969.17
+Oeste e Vale do Tejo;2023;1035.09
+Oeste e Vale do Tejo;2024;1103.6
+Oeste;2014;771.78
+Oeste;2015;770.07
+Oeste;2016;785.59
+Oeste;2017;801.29
+Oeste;2018;821.95
+Oeste;2019;848.7
+Oeste;2020;884.55
+Oeste;2021;926.96
+Oeste;2022;966.4
+Oeste;2023;1033.98
+Oeste;2024;1100.16
+Medio Tejo;2014;785.86
+Medio Tejo;2015;791.65
+Medio Tejo;2016;795.89
+Medio Tejo;2017;823.17
+Medio Tejo;2018;843.09
+Medio Tejo;2019;873.51
+Medio Tejo;2020;905.27
+Medio Tejo;2021;935.38
+Medio Tejo;2022;969.05
+Medio Tejo;2023;1035.39
+Medio Tejo;2024;1108.57
+Leziria do Tejo;2014;802.58
+Leziria do Tejo;2015;810.85
+Leziria do Tejo;2016;811.7
+Leziria do Tejo;2017;823.12
+Leziria do Tejo;2018;841.64
+Leziria do Tejo;2019;858.78
+Leziria do Tejo;2020;892.52
+Leziria do Tejo;2021;927.76
+Leziria do Tejo;2022;973.65
+Leziria do Tejo;2023;1036.59
+Leziria do Tejo;2024;1104.77
+Grande Lisboa;2014;1174.23
+Grande Lisboa;2015;1175.57
+Grande Lisboa;2016;1179.78
+Grande Lisboa;2017;1197.4
+Grande Lisboa;2018;1219.74
+Grande Lisboa;2019;1255.78
+Grande Lisboa;2020;1293.07
+Grande Lisboa;2021;1339.8
+Grande Lisboa;2022;1418.39
+Grande Lisboa;2023;1505.99
+Grande Lisboa;2024;1600.02
+Peninsula de Setubal;2014;942.29
+Peninsula de Setubal;2015;958.82
+Peninsula de Setubal;2016;981.55
+Peninsula de Setubal;2017;991.49
+Peninsula de Setubal;2018;1000.7
+Peninsula de Setubal;2019;1025.87
+Peninsula de Setubal;2020;1059.86
+Peninsula de Setubal;2021;1079.49
+Peninsula de Setubal;2022;1126.71
+Peninsula de Setubal;2023;1188.27
+Peninsula de Setubal;2024;1275.49
+Alentejo;2014;805.21
+Alentejo;2015;807.44
+Alentejo;2016;813.39
+Alentejo;2017;830.83
+Alentejo;2018;854.15
+Alentejo;2019;874.15
+Alentejo;2020;908.53
+Alentejo;2021;942.08
+Alentejo;2022;988.91
+Alentejo;2023;1053.06
+Alentejo;2024;1127.48
+Alentejo Litoral;2014;893.32
+Alentejo Litoral;2015;884.28
+Alentejo Litoral;2016;882.81
+Alentejo Litoral;2017;894.34
+Alentejo Litoral;2018;914.74
+Alentejo Litoral;2019;916.54
+Alentejo Litoral;2020;952
+Alentejo Litoral;2021;976.17
+Alentejo Litoral;2022;1023.18
+Alentejo Litoral;2023;1108.18
+Alentejo Litoral;2024;1180.01
+Baixo Alentejo;2014;786.13
+Baixo Alentejo;2015;793.32
+Baixo Alentejo;2016;797.44
+Baixo Alentejo;2017;822.89
+Baixo Alentejo;2018;852.59
+Baixo Alentejo;2019;885.25
+Baixo Alentejo;2020;911.63
+Baixo Alentejo;2021;950.68
+Baixo Alentejo;2022;994.2
+Baixo Alentejo;2023;1044.58
+Baixo Alentejo;2024;1119.75
+Alto Alentejo;2014;754.22
+Alto Alentejo;2015;755.71
+Alto Alentejo;2016;767.83
+Alto Alentejo;2017;783.59
+Alto Alentejo;2018;805.96
+Alto Alentejo;2019;828.76
+Alto Alentejo;2020;863.38
+Alto Alentejo;2021;899.36
+Alto Alentejo;2022;939.13
+Alto Alentejo;2023;990.36
+Alto Alentejo;2024;1064.08
+Alentejo Central;2014;791.91
+Alentejo Central;2015;796.55
+Alentejo Central;2016;804.02
+Alentejo Central;2017;819.6
+Alentejo Central;2018;839.16
+Alentejo Central;2019;861.13
+Alentejo Central;2020;898.01
+Alentejo Central;2021;931.83
+Alentejo Central;2022;984.11
+Alentejo Central;2023;1049.85
+Alentejo Central;2024;1125.55
+Algarve;2014;780.52
+Algarve;2015;781.12
+Algarve;2016;793.76
+Algarve;2017;810.99
+Algarve;2018;836.09
+Algarve;2019;861.15
+Algarve;2020;897.18
+Algarve;2021;928.44
+Algarve;2022;965.83
+Algarve;2023;1031.25
+Algarve;2024;1095.01

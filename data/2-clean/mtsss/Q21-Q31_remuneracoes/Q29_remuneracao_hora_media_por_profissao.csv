@@ -1,0 +1,540 @@
+profession_code;profession_description;year;avg_hourly_wage_eur
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2014;12.03
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2015;12.14
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2016;12.33
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2017;12.52
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2018;12.82
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2019;13.15
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2020;13.57
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2021;14
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2022;14.63
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2023;15.43
+1;Repres. poder leg. e de orgaos exec., dirig., diret. e gestores executivos;2024;16.54
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2014;16.36
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2015;16.35
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2016;16.31
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2017;17.17
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2018;17.42
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2019;18.03
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2020;18.48
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2021;18.71
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2022;19.24
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2023;20.43
+11;Repres.poder legisl.e de org. exec.,dirig. super.adm. pub.,org.espec.,diret.e gest. empresas;2024;21.91
+12;Diret.de serv.adm. e comerciais;2014;13.98
+12;Diret.de serv.adm. e comerciais;2015;14.06
+12;Diret.de serv.adm. e comerciais;2016;14.16
+12;Diret.de serv.adm. e comerciais;2017;14.22
+12;Diret.de serv.adm. e comerciais;2018;14.67
+12;Diret.de serv.adm. e comerciais;2019;14.75
+12;Diret.de serv.adm. e comerciais;2020;15.12
+12;Diret.de serv.adm. e comerciais;2021;15.54
+12;Diret.de serv.adm. e comerciais;2022;16.45
+12;Diret.de serv.adm. e comerciais;2023;17.22
+12;Diret.de serv.adm. e comerciais;2024;18.29
+13;Diret.de prod.e de servicos espec.;2014;11.99
+13;Diret.de prod.e de servicos espec.;2015;12.16
+13;Diret.de prod.e de servicos espec.;2016;12.22
+13;Diret.de prod.e de servicos espec.;2017;12.42
+13;Diret.de prod.e de servicos espec.;2018;12.76
+13;Diret.de prod.e de servicos espec.;2019;13.04
+13;Diret.de prod.e de servicos espec.;2020;13.45
+13;Diret.de prod.e de servicos espec.;2021;13.82
+13;Diret.de prod.e de servicos espec.;2022;14.57
+13;Diret.de prod.e de servicos espec.;2023;15.45
+13;Diret.de prod.e de servicos espec.;2024;16.47
+14;Diret.de hot.,restaur.e de out.servicos;2014;7.57
+14;Diret.de hot.,restaur.e de out.servicos;2015;7.71
+14;Diret.de hot.,restaur.e de out.servicos;2016;8.1
+14;Diret.de hot.,restaur.e de out.servicos;2017;7.92
+14;Diret.de hot.,restaur.e de out.servicos;2018;8.05
+14;Diret.de hot.,restaur.e de out.servicos;2019;8.66
+14;Diret.de hot.,restaur.e de out.servicos;2020;8.93
+14;Diret.de hot.,restaur.e de out.servicos;2021;9.41
+14;Diret.de hot.,restaur.e de out.servicos;2022;9.74
+14;Diret.de hot.,restaur.e de out.servicos;2023;10.45
+14;Diret.de hot.,restaur.e de out.servicos;2024;11.32
+2;Especial.das ativ.intelet.e cientif.;2014;9.26
+2;Especial.das ativ.intelet.e cientif.;2015;9.22
+2;Especial.das ativ.intelet.e cientif.;2016;9.3
+2;Especial.das ativ.intelet.e cientif.;2017;9.34
+2;Especial.das ativ.intelet.e cientif.;2018;9.5
+2;Especial.das ativ.intelet.e cientif.;2019;9.69
+2;Especial.das ativ.intelet.e cientif.;2020;9.9
+2;Especial.das ativ.intelet.e cientif.;2021;10.21
+2;Especial.das ativ.intelet.e cientif.;2022;10.7
+2;Especial.das ativ.intelet.e cientif.;2023;11.33
+2;Especial.das ativ.intelet.e cientif.;2024;12.04
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2014;9.53
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2015;9.45
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2016;9.44
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2017;9.33
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2018;9.5
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2019;9.79
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2020;10.03
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2021;10.29
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2022;10.78
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2023;11.38
+21;Especial. das ciencias fisicas, matem., engen. e tecn. afins;2024;12.15
+22;Profissionais de saude;2014;8.53
+22;Profissionais de saude;2015;8.56
+22;Profissionais de saude;2016;8.79
+22;Profissionais de saude;2017;8.73
+22;Profissionais de saude;2018;9.06
+22;Profissionais de saude;2019;9.22
+22;Profissionais de saude;2020;9.27
+22;Profissionais de saude;2021;9.51
+22;Profissionais de saude;2022;9.67
+22;Profissionais de saude;2023;10.18
+22;Profissionais de saude;2024;10.9
+23;Professores;2014;9.87
+23;Professores;2015;9.86
+23;Professores;2016;9.87
+23;Professores;2017;9.92
+23;Professores;2018;9.97
+23;Professores;2019;9.99
+23;Professores;2020;10.17
+23;Professores;2021;10.29
+23;Professores;2022;10.61
+23;Professores;2023;11.14
+23;Professores;2024;11.65
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2014;9.5
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2015;9.51
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2016;9.55
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2017;9.83
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2018;9.83
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2019;9.89
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2020;9.99
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2021;10.32
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2022;10.6
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2023;11.2
+24;Espec. financas,contab., organizacao adm., relacoes publicas e comerciais;2024;11.75
+25;Especial. em tecn. de inform. e comunicacao (TIC);2014;9.13
+25;Especial. em tecn. de inform. e comunicacao (TIC);2015;9.08
+25;Especial. em tecn. de inform. e comunicacao (TIC);2016;9.26
+25;Especial. em tecn. de inform. e comunicacao (TIC);2017;9.34
+25;Especial. em tecn. de inform. e comunicacao (TIC);2018;9.58
+25;Especial. em tecn. de inform. e comunicacao (TIC);2019;10
+25;Especial. em tecn. de inform. e comunicacao (TIC);2020;10.46
+25;Especial. em tecn. de inform. e comunicacao (TIC);2021;11.06
+25;Especial. em tecn. de inform. e comunicacao (TIC);2022;12.19
+25;Especial. em tecn. de inform. e comunicacao (TIC);2023;13.09
+25;Especial. em tecn. de inform. e comunicacao (TIC);2024;13.97
+26;Especial. em assuntos jurid., soc., artist. e culturais;2014;8.85
+26;Especial. em assuntos jurid., soc., artist. e culturais;2015;8.74
+26;Especial. em assuntos jurid., soc., artist. e culturais;2016;8.83
+26;Especial. em assuntos jurid., soc., artist. e culturais;2017;8.76
+26;Especial. em assuntos jurid., soc., artist. e culturais;2018;8.81
+26;Especial. em assuntos jurid., soc., artist. e culturais;2019;8.98
+26;Especial. em assuntos jurid., soc., artist. e culturais;2020;9.21
+26;Especial. em assuntos jurid., soc., artist. e culturais;2021;9.32
+26;Especial. em assuntos jurid., soc., artist. e culturais;2022;9.38
+26;Especial. em assuntos jurid., soc., artist. e culturais;2023;9.85
+26;Especial. em assuntos jurid., soc., artist. e culturais;2024;10.29
+3;Tecn. e prof. de nivel intermedio;2014;6.96
+3;Tecn. e prof. de nivel intermedio;2015;7.07
+3;Tecn. e prof. de nivel intermedio;2016;7.12
+3;Tecn. e prof. de nivel intermedio;2017;7.21
+3;Tecn. e prof. de nivel intermedio;2018;7.34
+3;Tecn. e prof. de nivel intermedio;2019;7.52
+3;Tecn. e prof. de nivel intermedio;2020;7.69
+3;Tecn. e prof. de nivel intermedio;2021;7.78
+3;Tecn. e prof. de nivel intermedio;2022;8.17
+3;Tecn. e prof. de nivel intermedio;2023;8.7
+3;Tecn. e prof. de nivel intermedio;2024;9.17
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2014;6.77
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2015;6.88
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2016;6.92
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2017;7.01
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2018;7.19
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2019;7.43
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2020;7.49
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2021;7.49
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2022;8.09
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2023;8.67
+31;Tecnicos e profissoes das ciencias e eng., de nivel intermedio;2024;9.13
+32;Tecnicos e prof., nivel int.da saude;2014;5.21
+32;Tecnicos e prof., nivel int.da saude;2015;5.17
+32;Tecnicos e prof., nivel int.da saude;2016;5.23
+32;Tecnicos e prof., nivel int.da saude;2017;5.32
+32;Tecnicos e prof., nivel int.da saude;2018;5.39
+32;Tecnicos e prof., nivel int.da saude;2019;5.59
+32;Tecnicos e prof., nivel int.da saude;2020;5.73
+32;Tecnicos e prof., nivel int.da saude;2021;5.84
+32;Tecnicos e prof., nivel int.da saude;2022;6.07
+32;Tecnicos e prof., nivel int.da saude;2023;6.45
+32;Tecnicos e prof., nivel int.da saude;2024;6.91
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2014;7.43
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2015;7.43
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2016;7.46
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2017;7.47
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2018;7.58
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2019;7.74
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2020;7.93
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2021;8.06
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2022;8.37
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2023;8.85
+33;Tec.de nivel intermedio, das areas financ., admin. e dos negocios;2024;9.29
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2014;8.79
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2015;10.06
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2016;10.42
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2017;11.02
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2018;11.12
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2019;11.49
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2020;11.99
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2021;12.22
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2022;12.11
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2023;13.07
+34;Tec. de nivel interm. dos serv. juridicos, sociais, desp., culturais e sim.;2024;13.32
+35;Tec. das tecno. de informacao e comunicacao;2014;6.72
+35;Tec. das tecno. de informacao e comunicacao;2015;6.75
+35;Tec. das tecno. de informacao e comunicacao;2016;6.83
+35;Tec. das tecno. de informacao e comunicacao;2017;7
+35;Tec. das tecno. de informacao e comunicacao;2018;7.16
+35;Tec. das tecno. de informacao e comunicacao;2019;7.07
+35;Tec. das tecno. de informacao e comunicacao;2020;7.42
+35;Tec. das tecno. de informacao e comunicacao;2021;7.59
+35;Tec. das tecno. de informacao e comunicacao;2022;7.9
+35;Tec. das tecno. de informacao e comunicacao;2023;8.46
+35;Tec. das tecno. de informacao e comunicacao;2024;9.13
+4;Pessoal administrativo;2014;4.94
+4;Pessoal administrativo;2015;4.92
+4;Pessoal administrativo;2016;4.95
+4;Pessoal administrativo;2017;5.03
+4;Pessoal administrativo;2018;5.14
+4;Pessoal administrativo;2019;5.26
+4;Pessoal administrativo;2020;5.45
+4;Pessoal administrativo;2021;5.61
+4;Pessoal administrativo;2022;5.81
+4;Pessoal administrativo;2023;6.18
+4;Pessoal administrativo;2024;6.56
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2014;5.06
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2015;5.07
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2016;5.15
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2017;5.26
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2018;5.39
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2019;5.57
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2020;5.75
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2021;5.94
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2022;6.14
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2023;6.57
+41;Emp. escritorio, secretarios em geral e operadores de proc. de dados;2024;7.06
+42;Pessoal de apoio direto a clientes;2014;4.73
+42;Pessoal de apoio direto a clientes;2015;4.66
+42;Pessoal de apoio direto a clientes;2016;4.67
+42;Pessoal de apoio direto a clientes;2017;4.76
+42;Pessoal de apoio direto a clientes;2018;4.84
+42;Pessoal de apoio direto a clientes;2019;4.83
+42;Pessoal de apoio direto a clientes;2020;5.04
+42;Pessoal de apoio direto a clientes;2021;5.15
+42;Pessoal de apoio direto a clientes;2022;5.34
+42;Pessoal de apoio direto a clientes;2023;5.66
+42;Pessoal de apoio direto a clientes;2024;6.03
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2014;4.82
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2015;4.79
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2016;4.82
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2017;4.86
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2018;4.97
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2019;5.1
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2020;5.29
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2021;5.47
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2022;5.68
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2023;6.09
+43;Oper. de dados, de contab., estatistica, de serv. financ. e relac. com o registo;2024;6.31
+44;Outro pessoal de apoio de tipo adm.;2014;5.25
+44;Outro pessoal de apoio de tipo adm.;2015;5.28
+44;Outro pessoal de apoio de tipo adm.;2016;5.25
+44;Outro pessoal de apoio de tipo adm.;2017;5.26
+44;Outro pessoal de apoio de tipo adm.;2018;5.36
+44;Outro pessoal de apoio de tipo adm.;2019;5.53
+44;Outro pessoal de apoio de tipo adm.;2020;5.67
+44;Outro pessoal de apoio de tipo adm.;2021;5.87
+44;Outro pessoal de apoio de tipo adm.;2022;6.1
+44;Outro pessoal de apoio de tipo adm.;2023;6.43
+44;Outro pessoal de apoio de tipo adm.;2024;6.82
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2014;3.7
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2015;3.73
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2016;3.81
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2017;3.91
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2018;4.04
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2019;4.21
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2020;4.39
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2021;4.54
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2022;4.81
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2023;5.18
+5;Trab.dos serv.pessoais, de prot.e segur.e vendedores;2024;5.57
+51;Trabalhadores dos servicos pessoais;2014;3.64
+51;Trabalhadores dos servicos pessoais;2015;3.65
+51;Trabalhadores dos servicos pessoais;2016;3.74
+51;Trabalhadores dos servicos pessoais;2017;3.88
+51;Trabalhadores dos servicos pessoais;2018;4.04
+51;Trabalhadores dos servicos pessoais;2019;4.19
+51;Trabalhadores dos servicos pessoais;2020;4.35
+51;Trabalhadores dos servicos pessoais;2021;4.45
+51;Trabalhadores dos servicos pessoais;2022;4.79
+51;Trabalhadores dos servicos pessoais;2023;5.13
+51;Trabalhadores dos servicos pessoais;2024;5.54
+52;Vendedores;2014;3.82
+52;Vendedores;2015;3.85
+52;Vendedores;2016;3.94
+52;Vendedores;2017;4.02
+52;Vendedores;2018;4.14
+52;Vendedores;2019;4.3
+52;Vendedores;2020;4.5
+52;Vendedores;2021;4.66
+52;Vendedores;2022;4.94
+52;Vendedores;2023;5.33
+52;Vendedores;2024;5.72
+53;Trab.dos cuidados pessoais e similares;2014;3.37
+53;Trab.dos cuidados pessoais e similares;2015;3.4
+53;Trab.dos cuidados pessoais e similares;2016;3.47
+53;Trab.dos cuidados pessoais e similares;2017;3.59
+53;Trab.dos cuidados pessoais e similares;2018;3.75
+53;Trab.dos cuidados pessoais e similares;2019;3.89
+53;Trab.dos cuidados pessoais e similares;2020;4.03
+53;Trab.dos cuidados pessoais e similares;2021;4.22
+53;Trab.dos cuidados pessoais e similares;2022;4.45
+53;Trab.dos cuidados pessoais e similares;2023;4.84
+53;Trab.dos cuidados pessoais e similares;2024;5.23
+54;Pessoal dos serv.de protecao e seg.;2014;3.87
+54;Pessoal dos serv.de protecao e seg.;2015;3.92
+54;Pessoal dos serv.de protecao e seg.;2016;3.95
+54;Pessoal dos serv.de protecao e seg.;2017;3.97
+54;Pessoal dos serv.de protecao e seg.;2018;4.06
+54;Pessoal dos serv.de protecao e seg.;2019;4.35
+54;Pessoal dos serv.de protecao e seg.;2020;4.66
+54;Pessoal dos serv.de protecao e seg.;2021;4.72
+54;Pessoal dos serv.de protecao e seg.;2022;4.82
+54;Pessoal dos serv.de protecao e seg.;2023;5.16
+54;Pessoal dos serv.de protecao e seg.;2024;5.45
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2014;3.53
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2015;3.64
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2016;3.81
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2017;3.85
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2018;4.04
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2019;4.24
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2020;4.21
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2021;4.41
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2022;4.69
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2023;5
+6;Agric.e trab.qualif.da agric.,da pesca e da floresta;2024;5.48
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2014;3.44
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2015;3.46
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2016;3.57
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2017;3.69
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2018;3.82
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2019;3.94
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2020;4.09
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2021;4.29
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2022;4.57
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2023;4.91
+61;Agricult.e trab.qualif.da agricult.e prod.animal, orient.para o mercado;2024;5.26
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2014;3.91
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2015;4.34
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2016;4.78
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2017;4.5
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2018;4.99
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2019;5.53
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2020;4.77
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2021;5.03
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2022;5.32
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2023;5.45
+62;Trab. qualificados da floresta, pesca e caca, orientados para o mercado;2024;6.58
+7;Trab.qualif.da ind.,constr.e artific.;2014;3.95
+7;Trab.qualif.da ind.,constr.e artific.;2015;3.99
+7;Trab.qualif.da ind.,constr.e artific.;2016;4.06
+7;Trab.qualif.da ind.,constr.e artific.;2017;4.16
+7;Trab.qualif.da ind.,constr.e artific.;2018;4.31
+7;Trab.qualif.da ind.,constr.e artific.;2019;4.46
+7;Trab.qualif.da ind.,constr.e artific.;2020;4.62
+7;Trab.qualif.da ind.,constr.e artific.;2021;4.81
+7;Trab.qualif.da ind.,constr.e artific.;2022;5.06
+7;Trab.qualif.da ind.,constr.e artific.;2023;5.41
+7;Trab.qualif.da ind.,constr.e artific.;2024;5.8
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2014;3.72
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2015;3.76
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2016;3.8
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2017;3.86
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2018;4
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2019;4.15
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2020;4.32
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2021;4.56
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2022;4.76
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2023;5.11
+71;Trab. Qualif. da construcao e sim., exceto eletricista;2024;5.53
+72;Trab. qualificados da metal., metalomecanica e sim.;2014;4.49
+72;Trab. qualificados da metal., metalomecanica e sim.;2015;4.52
+72;Trab. qualificados da metal., metalomecanica e sim.;2016;4.59
+72;Trab. qualificados da metal., metalomecanica e sim.;2017;4.71
+72;Trab. qualificados da metal., metalomecanica e sim.;2018;4.87
+72;Trab. qualificados da metal., metalomecanica e sim.;2019;5.03
+72;Trab. qualificados da metal., metalomecanica e sim.;2020;5.16
+72;Trab. qualificados da metal., metalomecanica e sim.;2021;5.31
+72;Trab. qualificados da metal., metalomecanica e sim.;2022;5.6
+72;Trab. qualificados da metal., metalomecanica e sim.;2023;5.96
+72;Trab. qualificados da metal., metalomecanica e sim.;2024;6.33
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2014;3.89
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2015;3.92
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2016;3.98
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2017;4.09
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2018;4.2
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2019;4.26
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2020;4.41
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2021;4.62
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2022;4.8
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2023;5.16
+73;Trab. qualif.da impressao, fabrico instr. precisao, joalheiros, artesaos e sim.;2024;5.5
+74;Trab. qualificados eletricidade e eletronica;2014;4.73
+74;Trab. qualificados eletricidade e eletronica;2015;4.78
+74;Trab. qualificados eletricidade e eletronica;2016;4.86
+74;Trab. qualificados eletricidade e eletronica;2017;4.93
+74;Trab. qualificados eletricidade e eletronica;2018;5.05
+74;Trab. qualificados eletricidade e eletronica;2019;5.18
+74;Trab. qualificados eletricidade e eletronica;2020;5.31
+74;Trab. qualificados eletricidade e eletronica;2021;5.48
+74;Trab. qualificados eletricidade e eletronica;2022;5.74
+74;Trab. qualificados eletricidade e eletronica;2023;6.07
+74;Trab. qualificados eletricidade e eletronica;2024;6.47
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2014;3.44
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2015;3.48
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2016;3.57
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2017;3.71
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2018;3.85
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2019;4
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2020;4.2
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2021;4.37
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2022;4.64
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2023;5
+75;Trab. da transf. alim., mad., vest. e outras ind. e artes.;2024;5.35
+8;Oper.de inst.e maq.e trab.mont.;2014;3.74
+8;Oper.de inst.e maq.e trab.mont.;2015;3.77
+8;Oper.de inst.e maq.e trab.mont.;2016;3.84
+8;Oper.de inst.e maq.e trab.mont.;2017;3.95
+8;Oper.de inst.e maq.e trab.mont.;2018;4.11
+8;Oper.de inst.e maq.e trab.mont.;2019;4.28
+8;Oper.de inst.e maq.e trab.mont.;2020;4.5
+8;Oper.de inst.e maq.e trab.mont.;2021;4.67
+8;Oper.de inst.e maq.e trab.mont.;2022;4.95
+8;Oper.de inst.e maq.e trab.mont.;2023;5.33
+8;Oper.de inst.e maq.e trab.mont.;2024;5.72
+81;Operadores de instal.fixas e maq.;2014;3.54
+81;Operadores de instal.fixas e maq.;2015;3.59
+81;Operadores de instal.fixas e maq.;2016;3.69
+81;Operadores de instal.fixas e maq.;2017;3.83
+81;Operadores de instal.fixas e maq.;2018;3.96
+81;Operadores de instal.fixas e maq.;2019;4.12
+81;Operadores de instal.fixas e maq.;2020;4.31
+81;Operadores de instal.fixas e maq.;2021;4.49
+81;Operadores de instal.fixas e maq.;2022;4.75
+81;Operadores de instal.fixas e maq.;2023;5.11
+81;Operadores de instal.fixas e maq.;2024;5.49
+82;Trabalhadores da montagem;2014;4.17
+82;Trabalhadores da montagem;2015;4.21
+82;Trabalhadores da montagem;2016;4.22
+82;Trabalhadores da montagem;2017;4.3
+82;Trabalhadores da montagem;2018;4.41
+82;Trabalhadores da montagem;2019;4.58
+82;Trabalhadores da montagem;2020;4.78
+82;Trabalhadores da montagem;2021;4.79
+82;Trabalhadores da montagem;2022;5.2
+82;Trabalhadores da montagem;2023;5.55
+82;Trabalhadores da montagem;2024;5.97
+83;Condut.de veiculos e oper.equip.moveis;2014;3.89
+83;Condut.de veiculos e oper.equip.moveis;2015;3.9
+83;Condut.de veiculos e oper.equip.moveis;2016;3.95
+83;Condut.de veiculos e oper.equip.moveis;2017;4.02
+83;Condut.de veiculos e oper.equip.moveis;2018;4.22
+83;Condut.de veiculos e oper.equip.moveis;2019;4.38
+83;Condut.de veiculos e oper.equip.moveis;2020;4.63
+83;Condut.de veiculos e oper.equip.moveis;2021;4.83
+83;Condut.de veiculos e oper.equip.moveis;2022;5.11
+83;Condut.de veiculos e oper.equip.moveis;2023;5.51
+83;Condut.de veiculos e oper.equip.moveis;2024;5.89
+9;Trabalhadores nao qualificados;2014;3.3
+9;Trabalhadores nao qualificados;2015;3.34
+9;Trabalhadores nao qualificados;2016;3.45
+9;Trabalhadores nao qualificados;2017;3.59
+9;Trabalhadores nao qualificados;2018;3.76
+9;Trabalhadores nao qualificados;2019;3.92
+9;Trabalhadores nao qualificados;2020;4.11
+9;Trabalhadores nao qualificados;2021;4.32
+9;Trabalhadores nao qualificados;2022;4.56
+9;Trabalhadores nao qualificados;2023;4.86
+9;Trabalhadores nao qualificados;2024;5.12
+91;Trabalhadores de limpeza;2014;3.12
+91;Trabalhadores de limpeza;2015;3.14
+91;Trabalhadores de limpeza;2016;3.25
+91;Trabalhadores de limpeza;2017;3.39
+91;Trabalhadores de limpeza;2018;3.53
+91;Trabalhadores de limpeza;2019;3.64
+91;Trabalhadores de limpeza;2020;3.84
+91;Trabalhadores de limpeza;2021;4
+91;Trabalhadores de limpeza;2022;4.24
+91;Trabalhadores de limpeza;2023;4.58
+91;Trabalhadores de limpeza;2024;4.93
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2014;3.2
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2015;3.21
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2016;3.31
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2017;3.46
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2018;3.62
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2019;3.75
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2020;3.93
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2021;4.12
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2022;4.33
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2023;4.62
+92;Trab.n/qualif.agricult., prod.animal, pesca e flor.;2024;4.94
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2014;3.39
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2015;3.39
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2016;3.48
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2017;3.61
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2018;3.75
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2019;3.9
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2020;4.08
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2021;4.26
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2022;4.47
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2023;4.78
+93;Trab.n/qualif. da indust.ext., construc., indust. transf.e transp.;2024;5.13
+94;Assistentes na prep.de refeicoes;2014;3.13
+94;Assistentes na prep.de refeicoes;2015;3.15
+94;Assistentes na prep.de refeicoes;2016;3.25
+94;Assistentes na prep.de refeicoes;2017;3.41
+94;Assistentes na prep.de refeicoes;2018;3.55
+94;Assistentes na prep.de refeicoes;2019;3.68
+94;Assistentes na prep.de refeicoes;2020;3.87
+94;Assistentes na prep.de refeicoes;2021;4.03
+94;Assistentes na prep.de refeicoes;2022;4.28
+94;Assistentes na prep.de refeicoes;2023;4.58
+94;Assistentes na prep.de refeicoes;2024;4.93
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2014;4.12
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2015;4.25
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2016;4.38
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2017;4.55
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2018;4.63
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2019;4.79
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2020;5.06
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2021;5.26
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2022;5.73
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2023;5.97
+95;Vend.ambul.. (exc. de alim.) e prest.de serv. na rua;2024;6.36
+96;Trab.dos resid.de outros serv.element.;2014;3.58
+96;Trab.dos resid.de outros serv.element.;2015;3.66
+96;Trab.dos resid.de outros serv.element.;2016;3.76
+96;Trab.dos resid.de outros serv.element.;2017;3.91
+96;Trab.dos resid.de outros serv.element.;2018;4.14
+96;Trab.dos resid.de outros serv.element.;2019;4.36
+96;Trab.dos resid.de outros serv.element.;2020;4.56
+96;Trab.dos resid.de outros serv.element.;2021;4.82
+96;Trab.dos resid.de outros serv.element.;2022;5.14
+96;Trab.dos resid.de outros serv.element.;2023;5.45
+96;Trab.dos resid.de outros serv.element.;2024;5.48
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2014;9.48
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2015;11.05
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2016;10.43
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2017;11.29
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2018;9.69
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2019;11.13
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2020;12
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2021;12.53
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2022;13.29
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2023;16.69
+Trabalhadores sem profissao atribuida;Trabalhadores sem profissao atribuida;2024;18.2

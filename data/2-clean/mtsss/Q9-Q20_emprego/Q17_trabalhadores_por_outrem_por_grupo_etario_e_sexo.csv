@@ -1,0 +1,265 @@
+age_group;gender;year;employees_count
+menos - 18 anos;masculino;2014;378
+menos - 18 anos;masculino;2015;357
+menos - 18 anos;masculino;2016;497
+menos - 18 anos;masculino;2017;714
+menos - 18 anos;masculino;2018;775
+menos - 18 anos;masculino;2019;811
+menos - 18 anos;masculino;2020;404
+menos - 18 anos;masculino;2021;568
+menos - 18 anos;masculino;2022;802
+menos - 18 anos;masculino;2023;648
+menos - 18 anos;masculino;2024;548
+menos - 18 anos;feminino;2014;309
+menos - 18 anos;feminino;2015;319
+menos - 18 anos;feminino;2016;368
+menos - 18 anos;feminino;2017;556
+menos - 18 anos;feminino;2018;691
+menos - 18 anos;feminino;2019;733
+menos - 18 anos;feminino;2020;242
+menos - 18 anos;feminino;2021;427
+menos - 18 anos;feminino;2022;618
+menos - 18 anos;feminino;2023;484
+menos - 18 anos;feminino;2024;413
+18 - 24 anos;masculino;2014;96570
+18 - 24 anos;masculino;2015;103018
+18 - 24 anos;masculino;2016;112378
+18 - 24 anos;masculino;2017;126226
+18 - 24 anos;masculino;2018;137590
+18 - 24 anos;masculino;2019;143662
+18 - 24 anos;masculino;2020;130505
+18 - 24 anos;masculino;2021;131787
+18 - 24 anos;masculino;2022;146876
+18 - 24 anos;masculino;2023;154697
+18 - 24 anos;masculino;2024;154240
+18 - 24 anos;feminino;2014;85046
+18 - 24 anos;feminino;2015;91879
+18 - 24 anos;feminino;2016;98331
+18 - 24 anos;feminino;2017;109526
+18 - 24 anos;feminino;2018;116467
+18 - 24 anos;feminino;2019;121187
+18 - 24 anos;feminino;2020;106029
+18 - 24 anos;feminino;2021;111823
+18 - 24 anos;feminino;2022;124121
+18 - 24 anos;feminino;2023;126764
+18 - 24 anos;feminino;2024;124774
+25 - 29 anos;masculino;2014;143426
+25 - 29 anos;masculino;2015;145066
+25 - 29 anos;masculino;2016;152746
+25 - 29 anos;masculino;2017;161880
+25 - 29 anos;masculino;2018;171342
+25 - 29 anos;masculino;2019;178722
+25 - 29 anos;masculino;2020;177492
+25 - 29 anos;masculino;2021;178073
+25 - 29 anos;masculino;2022;198012
+25 - 29 anos;masculino;2023;213975
+25 - 29 anos;masculino;2024;224480
+25 - 29 anos;feminino;2014;139198
+25 - 29 anos;feminino;2015;141996
+25 - 29 anos;feminino;2016;147257
+25 - 29 anos;feminino;2017;153964
+25 - 29 anos;feminino;2018;161050
+25 - 29 anos;feminino;2019;164947
+25 - 29 anos;feminino;2020;158366
+25 - 29 anos;feminino;2021;159503
+25 - 29 anos;feminino;2022;173242
+25 - 29 anos;feminino;2023;180961
+25 - 29 anos;feminino;2024;186894
+30 - 34 anos;masculino;2014;184540
+30 - 34 anos;masculino;2015;180783
+30 - 34 anos;masculino;2016;181205
+30 - 34 anos;masculino;2017;182213
+30 - 34 anos;masculino;2018;184393
+30 - 34 anos;masculino;2019;187093
+30 - 34 anos;masculino;2020;187182
+30 - 34 anos;masculino;2021;188548
+30 - 34 anos;masculino;2022;208088
+30 - 34 anos;masculino;2023;222868
+30 - 34 anos;masculino;2024;232183
+30 - 34 anos;feminino;2014;179766
+30 - 34 anos;feminino;2015;177959
+30 - 34 anos;feminino;2016;176082
+30 - 34 anos;feminino;2017;174530
+30 - 34 anos;feminino;2018;173487
+30 - 34 anos;feminino;2019;172832
+30 - 34 anos;feminino;2020;168096
+30 - 34 anos;feminino;2021;168764
+30 - 34 anos;feminino;2022;182059
+30 - 34 anos;feminino;2023;190152
+30 - 34 anos;feminino;2024;193220
+35 - 39 anos;masculino;2014;205809
+35 - 39 anos;masculino;2015;204090
+35 - 39 anos;masculino;2016;202948
+35 - 39 anos;masculino;2017;203280
+35 - 39 anos;masculino;2018;205696
+35 - 39 anos;masculino;2019;205891
+35 - 39 anos;masculino;2020;201984
+35 - 39 anos;masculino;2021;196795
+35 - 39 anos;masculino;2022;207992
+35 - 39 anos;masculino;2023;217026
+35 - 39 anos;masculino;2024;221855
+35 - 39 anos;feminino;2014;197142
+35 - 39 anos;feminino;2015;199231
+35 - 39 anos;feminino;2016;198553
+35 - 39 anos;feminino;2017;198249
+35 - 39 anos;feminino;2018;198699
+35 - 39 anos;feminino;2019;197023
+35 - 39 anos;feminino;2020;188986
+35 - 39 anos;feminino;2021;183358
+35 - 39 anos;feminino;2022;190069
+35 - 39 anos;feminino;2023;192276
+35 - 39 anos;feminino;2024;191172
+40 - 44 anos;masculino;2014;189669
+40 - 44 anos;masculino;2015;197261
+40 - 44 anos;masculino;2016;205927
+40 - 44 anos;masculino;2017;214153
+40 - 44 anos;masculino;2018;218703
+40 - 44 anos;masculino;2019;218345
+40 - 44 anos;masculino;2020;216198
+40 - 44 anos;masculino;2021;208335
+40 - 44 anos;masculino;2022;216580
+40 - 44 anos;masculino;2023;223891
+40 - 44 anos;masculino;2024;225679
+40 - 44 anos;feminino;2014;178751
+40 - 44 anos;feminino;2015;188899
+40 - 44 anos;feminino;2016;198309
+40 - 44 anos;feminino;2017;206260
+40 - 44 anos;feminino;2018;210921
+40 - 44 anos;feminino;2019;209353
+40 - 44 anos;feminino;2020;205492
+40 - 44 anos;feminino;2021;199770
+40 - 44 anos;feminino;2022;206741
+40 - 44 anos;feminino;2023;210627
+40 - 44 anos;feminino;2024;208666
+45 - 49 anos;masculino;2014;161147
+45 - 49 anos;masculino;2015;165714
+45 - 49 anos;masculino;2016;174784
+45 - 49 anos;masculino;2017;184319
+45 - 49 anos;masculino;2018;193294
+45 - 49 anos;masculino;2019;197447
+45 - 49 anos;masculino;2020;203550
+45 - 49 anos;masculino;2021;205394
+45 - 49 anos;masculino;2022;218880
+45 - 49 anos;masculino;2023;225057
+45 - 49 anos;masculino;2024;225468
+45 - 49 anos;feminino;2014;149427
+45 - 49 anos;feminino;2015;156301
+45 - 49 anos;feminino;2016;165286
+45 - 49 anos;feminino;2017;173540
+45 - 49 anos;feminino;2018;182700
+45 - 49 anos;feminino;2019;187561
+45 - 49 anos;feminino;2020;191836
+45 - 49 anos;feminino;2021;196191
+45 - 49 anos;feminino;2022;210248
+45 - 49 anos;feminino;2023;216135
+45 - 49 anos;feminino;2024;215100
+50 - 54 anos;masculino;2014;134964
+50 - 54 anos;masculino;2015;141049
+50 - 54 anos;masculino;2016;149949
+50 - 54 anos;masculino;2017;157982
+50 - 54 anos;masculino;2018;165922
+50 - 54 anos;masculino;2019;166923
+50 - 54 anos;masculino;2020;169949
+50 - 54 anos;masculino;2021;171732
+50 - 54 anos;masculino;2022;183896
+50 - 54 anos;masculino;2023;192811
+50 - 54 anos;masculino;2024;197258
+50 - 54 anos;feminino;2014;119807
+50 - 54 anos;feminino;2015;127124
+50 - 54 anos;feminino;2016;135742
+50 - 54 anos;feminino;2017;143839
+50 - 54 anos;feminino;2018;150845
+50 - 54 anos;feminino;2019;154288
+50 - 54 anos;feminino;2020;156080
+50 - 54 anos;feminino;2021;160214
+50 - 54 anos;feminino;2022;173036
+50 - 54 anos;feminino;2023;182343
+50 - 54 anos;feminino;2024;187381
+55 - 59 anos;masculino;2014;100043
+55 - 59 anos;masculino;2015;106199
+55 - 59 anos;masculino;2016;113202
+55 - 59 anos;masculino;2017;122797
+55 - 59 anos;masculino;2018;131577
+55 - 59 anos;masculino;2019;134804
+55 - 59 anos;masculino;2020;139411
+55 - 59 anos;masculino;2021;141593
+55 - 59 anos;masculino;2022;150231
+55 - 59 anos;masculino;2023;157204
+55 - 59 anos;masculino;2024;159778
+55 - 59 anos;feminino;2014;81699
+55 - 59 anos;feminino;2015;88701
+55 - 59 anos;feminino;2016;95729
+55 - 59 anos;feminino;2017;103455
+55 - 59 anos;feminino;2018;111087
+55 - 59 anos;feminino;2019;115932
+55 - 59 anos;feminino;2020;120749
+55 - 59 anos;feminino;2021;124597
+55 - 59 anos;feminino;2022;135162
+55 - 59 anos;feminino;2023;142975
+55 - 59 anos;feminino;2024;145885
+60 - 64 anos;masculino;2014;48273
+60 - 64 anos;masculino;2015;52491
+60 - 64 anos;masculino;2016;56506
+60 - 64 anos;masculino;2017;64123
+60 - 64 anos;masculino;2018;67556
+60 - 64 anos;masculino;2019;70416
+60 - 64 anos;masculino;2020;73844
+60 - 64 anos;masculino;2021;79524
+60 - 64 anos;masculino;2022;90520
+60 - 64 anos;masculino;2023;99062
+60 - 64 anos;masculino;2024;102405
+60 - 64 anos;feminino;2014;38102
+60 - 64 anos;feminino;2015;41962
+60 - 64 anos;feminino;2016;45431
+60 - 64 anos;feminino;2017;51301
+60 - 64 anos;feminino;2018;55434
+60 - 64 anos;feminino;2019;59566
+60 - 64 anos;feminino;2020;62484
+60 - 64 anos;feminino;2021;67493
+60 - 64 anos;feminino;2022;76763
+60 - 64 anos;feminino;2023;85504
+60 - 64 anos;feminino;2024;89520
+65+ anos;masculino;2014;12687
+65+ anos;masculino;2015;14235
+65+ anos;masculino;2016;15954
+65+ anos;masculino;2017;18372
+65+ anos;masculino;2018;21276
+65+ anos;masculino;2019;24844
+65+ anos;masculino;2020;25548
+65+ anos;masculino;2021;27505
+65+ anos;masculino;2022;31840
+65+ anos;masculino;2023;36069
+65+ anos;masculino;2024;39491
+65+ anos;feminino;2014;9183
+65+ anos;feminino;2015;10667
+65+ anos;feminino;2016;12181
+65+ anos;feminino;2017;13559
+65+ anos;feminino;2018;15426
+65+ anos;feminino;2019;17310
+65+ anos;feminino;2020;17936
+65+ anos;feminino;2021;19391
+65+ anos;feminino;2022;21994
+65+ anos;feminino;2023;24598
+65+ anos;feminino;2024;26977
+Ignorado;masculino;2014;1415
+Ignorado;masculino;2015;1458
+Ignorado;masculino;2016;1609
+Ignorado;masculino;2017;1670
+Ignorado;masculino;2018;1869
+Ignorado;masculino;2019;318
+Ignorado;masculino;2020;230
+Ignorado;masculino;2021;386
+Ignorado;masculino;2022;200
+Ignorado;masculino;2023;3
+Ignorado;masculino;2024;327
+Ignorado;feminino;2014;812
+Ignorado;feminino;2015;894
+Ignorado;feminino;2016;945
+Ignorado;feminino;2017;1013
+Ignorado;feminino;2018;1118
+Ignorado;feminino;2019;474
+Ignorado;feminino;2020;232
+Ignorado;feminino;2021;572
+Ignorado;feminino;2022;177
+Ignorado;feminino;2023;4
+Ignorado;feminino;2024;422

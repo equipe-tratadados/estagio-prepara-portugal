@@ -1,0 +1,485 @@
+cae_code;activity_description;year;avg_monthly_wage_eur
+A;Agr., pr. animal, caca, flor. pesca;2014;687.92
+A;Agr., pr. animal, caca, flor. pesca;2015;701.34
+A;Agr., pr. animal, caca, flor. pesca;2016;726.49
+A;Agr., pr. animal, caca, flor. pesca;2017;738.39
+A;Agr., pr. animal, caca, flor. pesca;2018;773.22
+A;Agr., pr. animal, caca, flor. pesca;2019;823.08
+A;Agr., pr. animal, caca, flor. pesca;2020;823.12
+A;Agr., pr. animal, caca, flor. pesca;2021;872.68
+A;Agr., pr. animal, caca, flor. pesca;2022;916.19
+A;Agr., pr. animal, caca, flor. pesca;2023;969.65
+A;Agr., pr. animal, caca, flor. pesca;2024;1041.63
+B;Industrias extrativas;2014;934.74
+B;Industrias extrativas;2015;937.81
+B;Industrias extrativas;2016;958.1
+B;Industrias extrativas;2017;986.18
+B;Industrias extrativas;2018;1036.73
+B;Industrias extrativas;2019;1083.24
+B;Industrias extrativas;2020;1099.73
+B;Industrias extrativas;2021;1159.45
+B;Industrias extrativas;2022;1221.07
+B;Industrias extrativas;2023;1316.39
+B;Industrias extrativas;2024;1434.33
+C;Industrias transformadoras;2014;844.01
+C;Industrias transformadoras;2015;856.12
+C;Industrias transformadoras;2016;870.08
+C;Industrias transformadoras;2017;895.89
+C;Industrias transformadoras;2018;929.15
+C;Industrias transformadoras;2019;964.71
+C;Industrias transformadoras;2020;1003.21
+C;Industrias transformadoras;2021;1031.03
+C;Industrias transformadoras;2022;1095.17
+C;Industrias transformadoras;2023;1172.58
+C;Industrias transformadoras;2024;1262.53
+10;Industrias alimentares;2014;747.8
+10;Industrias alimentares;2015;760.19
+10;Industrias alimentares;2016;770.62
+10;Industrias alimentares;2017;796.38
+10;Industrias alimentares;2018;822.9
+10;Industrias alimentares;2019;849.91
+10;Industrias alimentares;2020;888.37
+10;Industrias alimentares;2021;926.13
+10;Industrias alimentares;2022;966.13
+10;Industrias alimentares;2023;1031.74
+10;Industrias alimentares;2024;1097.05
+11;Industria das bebidas;2014;1112.46
+11;Industria das bebidas;2015;1115.24
+11;Industria das bebidas;2016;1122.61
+11;Industria das bebidas;2017;1131.43
+11;Industria das bebidas;2018;1135.99
+11;Industria das bebidas;2019;1167.49
+11;Industria das bebidas;2020;1197.16
+11;Industria das bebidas;2021;1222.73
+11;Industria das bebidas;2022;1271.04
+11;Industria das bebidas;2023;1345.03
+11;Industria das bebidas;2024;1435.38
+12;Industria do tabaco;2014;1885.93
+12;Industria do tabaco;2015;1764.33
+12;Industria do tabaco;2016;1660.55
+12;Industria do tabaco;2017;1624.74
+12;Industria do tabaco;2018;1717.62
+12;Industria do tabaco;2019;1691.8
+12;Industria do tabaco;2020;1765.38
+12;Industria do tabaco;2021;1800.04
+12;Industria do tabaco;2022;1855.15
+12;Industria do tabaco;2023;2022.87
+12;Industria do tabaco;2024;2083.28
+13;Fabricacao de texteis;2014;696.68
+13;Fabricacao de texteis;2015;712.82
+13;Fabricacao de texteis;2016;732.98
+13;Fabricacao de texteis;2017;762.14
+13;Fabricacao de texteis;2018;794.24
+13;Fabricacao de texteis;2019;817.69
+13;Fabricacao de texteis;2020;854.64
+13;Fabricacao de texteis;2021;891.41
+13;Fabricacao de texteis;2022;952.77
+13;Fabricacao de texteis;2023;1020.11
+13;Fabricacao de texteis;2024;1093.39
+14;Industria do vestuario;2014;599.73
+14;Industria do vestuario;2015;608.8
+14;Industria do vestuario;2016;635.15
+14;Industria do vestuario;2017;666.45
+14;Industria do vestuario;2018;698.05
+14;Industria do vestuario;2019;728.51
+14;Industria do vestuario;2020;764.32
+14;Industria do vestuario;2021;802.15
+14;Industria do vestuario;2022;853.14
+14;Industria do vestuario;2023;922.78
+14;Industria do vestuario;2024;998.43
+15;Ind. couro e produtos do couro;2014;630.91
+15;Ind. couro e produtos do couro;2015;649.51
+15;Ind. couro e produtos do couro;2016;672.79
+15;Ind. couro e produtos do couro;2017;698.04
+15;Ind. couro e produtos do couro;2018;730.56
+15;Ind. couro e produtos do couro;2019;766.71
+15;Ind. couro e produtos do couro;2020;797.31
+15;Ind. couro e produtos do couro;2021;835.99
+15;Ind. couro e produtos do couro;2022;888.04
+15;Ind. couro e produtos do couro;2023;962.87
+15;Ind. couro e produtos do couro;2024;1035.57
+16;Ind. madeira. e cortica. e s. obras;2014;825.69
+16;Ind. madeira. e cortica. e s. obras;2015;833.74
+16;Ind. madeira. e cortica. e s. obras;2016;857.45
+16;Ind. madeira. e cortica. e s. obras;2017;875.61
+16;Ind. madeira. e cortica. e s. obras;2018;900.19
+16;Ind. madeira. e cortica. e s. obras;2019;932.61
+16;Ind. madeira. e cortica. e s. obras;2020;964.05
+16;Ind. madeira. e cortica. e s. obras;2021;1002.66
+16;Ind. madeira. e cortica. e s. obras;2022;1055.11
+16;Ind. madeira. e cortica. e s. obras;2023;1134.57
+16;Ind. madeira. e cortica. e s. obras;2024;1202.48
+17;Fab. pasta, papel, cartao e s. art.;2014;1117.38
+17;Fab. pasta, papel, cartao e s. art.;2015;1130.68
+17;Fab. pasta, papel, cartao e s. art.;2016;1110.49
+17;Fab. pasta, papel, cartao e s. art.;2017;1117.58
+17;Fab. pasta, papel, cartao e s. art.;2018;1125.7
+17;Fab. pasta, papel, cartao e s. art.;2019;1161.65
+17;Fab. pasta, papel, cartao e s. art.;2020;1197.77
+17;Fab. pasta, papel, cartao e s. art.;2021;1228.26
+17;Fab. pasta, papel, cartao e s. art.;2022;1265.78
+17;Fab. pasta, papel, cartao e s. art.;2023;1344.17
+17;Fab. pasta, papel, cartao e s. art.;2024;1427.71
+18;Impressao e rep. sup. gravados;2014;875.21
+18;Impressao e rep. sup. gravados;2015;877.75
+18;Impressao e rep. sup. gravados;2016;889.46
+18;Impressao e rep. sup. gravados;2017;901.84
+18;Impressao e rep. sup. gravados;2018;927.76
+18;Impressao e rep. sup. gravados;2019;956.11
+18;Impressao e rep. sup. gravados;2020;983.09
+18;Impressao e rep. sup. gravados;2021;1019.64
+18;Impressao e rep. sup. gravados;2022;1057.7
+18;Impressao e rep. sup. gravados;2023;1117.01
+18;Impressao e rep. sup. gravados;2024;1184.94
+19;Fabr. coque, pr. petr. refinados;2014;2533.43
+19;Fabr. coque, pr. petr. refinados;2015;2513.3
+19;Fabr. coque, pr. petr. refinados;2016;2545.6
+19;Fabr. coque, pr. petr. refinados;2017;2544.47
+19;Fabr. coque, pr. petr. refinados;2018;2515.46
+19;Fabr. coque, pr. petr. refinados;2019;2600.07
+19;Fabr. coque, pr. petr. refinados;2020;2574.19
+19;Fabr. coque, pr. petr. refinados;2021;2791.95
+19;Fabr. coque, pr. petr. refinados;2022;2786.06
+19;Fabr. coque, pr. petr. refinados;2023;2858.45
+19;Fabr. coque, pr. petr. refinados;2024;3128.37
+20;Fab. pr. quim. e fibras sint./artif.;2014;1300.85
+20;Fab. pr. quim. e fibras sint./artif.;2015;1306
+20;Fab. pr. quim. e fibras sint./artif.;2016;1318.49
+20;Fab. pr. quim. e fibras sint./artif.;2017;1323.61
+20;Fab. pr. quim. e fibras sint./artif.;2018;1352.62
+20;Fab. pr. quim. e fibras sint./artif.;2019;1414.33
+20;Fab. pr. quim. e fibras sint./artif.;2020;1437.44
+20;Fab. pr. quim. e fibras sint./artif.;2021;1451.02
+20;Fab. pr. quim. e fibras sint./artif.;2022;1520.71
+20;Fab. pr. quim. e fibras sint./artif.;2023;1556.82
+20;Fab. pr. quim. e fibras sint./artif.;2024;1681.26
+21;Fab. pr. farm.  base e  prep. farm.;2014;1544.24
+21;Fab. pr. farm.  base e  prep. farm.;2015;1572.81
+21;Fab. pr. farm.  base e  prep. farm.;2016;1549.65
+21;Fab. pr. farm.  base e  prep. farm.;2017;1591.88
+21;Fab. pr. farm.  base e  prep. farm.;2018;1623.52
+21;Fab. pr. farm.  base e  prep. farm.;2019;1723.91
+21;Fab. pr. farm.  base e  prep. farm.;2020;1677.7
+21;Fab. pr. farm.  base e  prep. farm.;2021;1735.63
+21;Fab. pr. farm.  base e  prep. farm.;2022;1813.09
+21;Fab. pr. farm.  base e  prep. farm.;2023;1917.83
+21;Fab. pr. farm.  base e  prep. farm.;2024;2000.17
+22;Fabr. art. borracha e mat. plasticas;2014;910.81
+22;Fabr. art. borracha e mat. plasticas;2015;914.2
+22;Fabr. art. borracha e mat. plasticas;2016;938
+22;Fabr. art. borracha e mat. plasticas;2017;950.37
+22;Fabr. art. borracha e mat. plasticas;2018;986.7
+22;Fabr. art. borracha e mat. plasticas;2019;1019.55
+22;Fabr. art. borracha e mat. plasticas;2020;1036.42
+22;Fabr. art. borracha e mat. plasticas;2021;1069.66
+22;Fabr. art. borracha e mat. plasticas;2022;1122.14
+22;Fabr. art. borracha e mat. plasticas;2023;1198.07
+22;Fabr. art. borracha e mat. plasticas;2024;1274.81
+23;Fabr.outros pr.min. n/ metalicos;2014;869.23
+23;Fabr.outros pr.min. n/ metalicos;2015;877.28
+23;Fabr.outros pr.min. n/ metalicos;2016;883.03
+23;Fabr.outros pr.min. n/ metalicos;2017;902.94
+23;Fabr.outros pr.min. n/ metalicos;2018;929.28
+23;Fabr.outros pr.min. n/ metalicos;2019;961.82
+23;Fabr.outros pr.min. n/ metalicos;2020;981.74
+23;Fabr.outros pr.min. n/ metalicos;2021;1022.36
+23;Fabr.outros pr.min. n/ metalicos;2022;1077.87
+23;Fabr.outros pr.min. n/ metalicos;2023;1151.89
+23;Fabr.outros pr.min. n/ metalicos;2024;1233.77
+24;Industrias metalurgicas de base;2014;996.46
+24;Industrias metalurgicas de base;2015;998.43
+24;Industrias metalurgicas de base;2016;1016.83
+24;Industrias metalurgicas de base;2017;1027.25
+24;Industrias metalurgicas de base;2018;1078.21
+24;Industrias metalurgicas de base;2019;1099.47
+24;Industrias metalurgicas de base;2020;1137.97
+24;Industrias metalurgicas de base;2021;1170.16
+24;Industrias metalurgicas de base;2022;1214.02
+24;Industrias metalurgicas de base;2023;1306.96
+24;Industrias metalurgicas de base;2024;1360.52
+25;Fabr. pr. metal., exc. maq. e eq.;2014;855.25
+25;Fabr. pr. metal., exc. maq. e eq.;2015;868.98
+25;Fabr. pr. metal., exc. maq. e eq.;2016;878.59
+25;Fabr. pr. metal., exc. maq. e eq.;2017;908.92
+25;Fabr. pr. metal., exc. maq. e eq.;2018;938.82
+25;Fabr. pr. metal., exc. maq. e eq.;2019;973
+25;Fabr. pr. metal., exc. maq. e eq.;2020;992.93
+25;Fabr. pr. metal., exc. maq. e eq.;2021;1023.45
+25;Fabr. pr. metal., exc. maq. e eq.;2022;1082.54
+25;Fabr. pr. metal., exc. maq. e eq.;2023;1151.11
+25;Fabr. pr. metal., exc. maq. e eq.;2024;1215.37
+26;Fab. equip. inf., equip. p/ com.;2014;1080.38
+26;Fab. equip. inf., equip. p/ com.;2015;1123.73
+26;Fab. equip. inf., equip. p/ com.;2016;1131.29
+26;Fab. equip. inf., equip. p/ com.;2017;1145.36
+26;Fab. equip. inf., equip. p/ com.;2018;1182.54
+26;Fab. equip. inf., equip. p/ com.;2019;1225.2
+26;Fab. equip. inf., equip. p/ com.;2020;1256.75
+26;Fab. equip. inf., equip. p/ com.;2021;1289.67
+26;Fab. equip. inf., equip. p/ com.;2022;1419.9
+26;Fab. equip. inf., equip. p/ com.;2023;1537.8
+26;Fab. equip. inf., equip. p/ com.;2024;1706.46
+27;Fab. equipamento eletrico;2014;1109.35
+27;Fab. equipamento eletrico;2015;1162.27
+27;Fab. equipamento eletrico;2016;1170.64
+27;Fab. equipamento eletrico;2017;1200.67
+27;Fab. equipamento eletrico;2018;1233.32
+27;Fab. equipamento eletrico;2019;1198.56
+27;Fab. equipamento eletrico;2020;1354.55
+27;Fab. equipamento eletrico;2021;1275.7
+27;Fab. equipamento eletrico;2022;1459.52
+27;Fab. equipamento eletrico;2023;1597.27
+27;Fab. equipamento eletrico;2024;1735.42
+28;Fab. maq. e equipamentos, n.e.;2014;954.11
+28;Fab. maq. e equipamentos, n.e.;2015;972.06
+28;Fab. maq. e equipamentos, n.e.;2016;980.19
+28;Fab. maq. e equipamentos, n.e.;2017;1003.41
+28;Fab. maq. e equipamentos, n.e.;2018;1029.41
+28;Fab. maq. e equipamentos, n.e.;2019;1068.52
+28;Fab. maq. e equipamentos, n.e.;2020;1092.08
+28;Fab. maq. e equipamentos, n.e.;2021;1136.22
+28;Fab. maq. e equipamentos, n.e.;2022;1190.89
+28;Fab. maq. e equipamentos, n.e.;2023;1281.75
+28;Fab. maq. e equipamentos, n.e.;2024;1374.25
+29;Fab. veic. autom., reb., s.-reb.;2014;1063.57
+29;Fab. veic. autom., reb., s.-reb.;2015;1073.57
+29;Fab. veic. autom., reb., s.-reb.;2016;1049.91
+29;Fab. veic. autom., reb., s.-reb.;2017;1054.67
+29;Fab. veic. autom., reb., s.-reb.;2018;1044.32
+29;Fab. veic. autom., reb., s.-reb.;2019;1086.77
+29;Fab. veic. autom., reb., s.-reb.;2020;1134.38
+29;Fab. veic. autom., reb., s.-reb.;2021;1142.07
+29;Fab. veic. autom., reb., s.-reb.;2022;1254.91
+29;Fab. veic. autom., reb., s.-reb.;2023;1274.82
+29;Fab. veic. autom., reb., s.-reb.;2024;1430.76
+30;Fabr. outro equip. transporte;2014;901.95
+30;Fabr. outro equip. transporte;2015;926.65
+30;Fabr. outro equip. transporte;2016;912.66
+30;Fabr. outro equip. transporte;2017;921.71
+30;Fabr. outro equip. transporte;2018;954.8
+30;Fabr. outro equip. transporte;2019;975.39
+30;Fabr. outro equip. transporte;2020;1012.45
+30;Fabr. outro equip. transporte;2021;1029.73
+30;Fabr. outro equip. transporte;2022;1083.55
+30;Fabr. outro equip. transporte;2023;1165.87
+30;Fabr. outro equip. transporte;2024;1215.07
+31;Fabr. mobiliario e de colchoes;2014;658.7
+31;Fabr. mobiliario e de colchoes;2015;664.91
+31;Fabr. mobiliario e de colchoes;2016;682.18
+31;Fabr. mobiliario e de colchoes;2017;708.06
+31;Fabr. mobiliario e de colchoes;2018;739.02
+31;Fabr. mobiliario e de colchoes;2019;765.8
+31;Fabr. mobiliario e de colchoes;2020;795.34
+31;Fabr. mobiliario e de colchoes;2021;827.91
+31;Fabr. mobiliario e de colchoes;2022;883.72
+31;Fabr. mobiliario e de colchoes;2023;953.9
+31;Fabr. mobiliario e de colchoes;2024;1030.95
+32;Outras ind. transformadoras;2014;805.15
+32;Outras ind. transformadoras;2015;806.95
+32;Outras ind. transformadoras;2016;836.75
+32;Outras ind. transformadoras;2017;853.78
+32;Outras ind. transformadoras;2018;885.17
+32;Outras ind. transformadoras;2019;927.34
+32;Outras ind. transformadoras;2020;948.2
+32;Outras ind. transformadoras;2021;983.09
+32;Outras ind. transformadoras;2022;1051.74
+32;Outras ind. transformadoras;2023;1126.27
+32;Outras ind. transformadoras;2024;1221.71
+33;Repar., manut. inst. maq. e equip.;2014;1037.41
+33;Repar., manut. inst. maq. e equip.;2015;1019.24
+33;Repar., manut. inst. maq. e equip.;2016;1023.93
+33;Repar., manut. inst. maq. e equip.;2017;1044.28
+33;Repar., manut. inst. maq. e equip.;2018;1080.93
+33;Repar., manut. inst. maq. e equip.;2019;1107.02
+33;Repar., manut. inst. maq. e equip.;2020;1124.99
+33;Repar., manut. inst. maq. e equip.;2021;1167.38
+33;Repar., manut. inst. maq. e equip.;2022;1210.11
+33;Repar., manut. inst. maq. e equip.;2023;1306.72
+33;Repar., manut. inst. maq. e equip.;2024;1388.65
+D;Eletr., gas, ag. quente/fria e ar frio;2014;2065.07
+D;Eletr., gas, ag. quente/fria e ar frio;2015;2091.5
+D;Eletr., gas, ag. quente/fria e ar frio;2016;2075.64
+D;Eletr., gas, ag. quente/fria e ar frio;2017;2070.14
+D;Eletr., gas, ag. quente/fria e ar frio;2018;2080.65
+D;Eletr., gas, ag. quente/fria e ar frio;2019;2086.9
+D;Eletr., gas, ag. quente/fria e ar frio;2020;2128.47
+D;Eletr., gas, ag. quente/fria e ar frio;2021;2156.69
+D;Eletr., gas, ag. quente/fria e ar frio;2022;2243.09
+D;Eletr., gas, ag. quente/fria e ar frio;2023;2384.2
+D;Eletr., gas, ag. quente/fria e ar frio;2024;2492.3
+E;"Capt., trat. e d. agua; san., resid.";2014;885.35
+E;"Capt., trat. e d. agua; san., resid.";2015;893.71
+E;"Capt., trat. e d. agua; san., resid.";2016;883.84
+E;"Capt., trat. e d. agua; san., resid.";2017;891.49
+E;"Capt., trat. e d. agua; san., resid.";2018;920.04
+E;"Capt., trat. e d. agua; san., resid.";2019;936.67
+E;"Capt., trat. e d. agua; san., resid.";2020;970.37
+E;"Capt., trat. e d. agua; san., resid.";2021;989.79
+E;"Capt., trat. e d. agua; san., resid.";2022;1034.78
+E;"Capt., trat. e d. agua; san., resid.";2023;1116.05
+E;"Capt., trat. e d. agua; san., resid.";2024;1175.59
+F;Construcao;2014;800.21
+F;Construcao;2015;796.22
+F;Construcao;2016;798.87
+F;Construcao;2017;808.62
+F;Construcao;2018;824.76
+F;Construcao;2019;853.92
+F;Construcao;2020;880.77
+F;Construcao;2021;934.51
+F;Construcao;2022;973.22
+F;Construcao;2023;1035.72
+F;Construcao;2024;1114.46
+G;"Com. grosso e ret.; r.v.aut./moto.";2014;862.67
+G;"Com. grosso e ret.; r.v.aut./moto.";2015;867.89
+G;"Com. grosso e ret.; r.v.aut./moto.";2016;881.9
+G;"Com. grosso e ret.; r.v.aut./moto.";2017;900.4
+G;"Com. grosso e ret.; r.v.aut./moto.";2018;924.91
+G;"Com. grosso e ret.; r.v.aut./moto.";2019;959.33
+G;"Com. grosso e ret.; r.v.aut./moto.";2020;989.91
+G;"Com. grosso e ret.; r.v.aut./moto.";2021;1031.85
+G;"Com. grosso e ret.; r.v.aut./moto.";2022;1075.6
+G;"Com. grosso e ret.; r.v.aut./moto.";2023;1146.85
+G;"Com. grosso e ret.; r.v.aut./moto.";2024;1222.95
+H;Transportes e armazenagem;2014;977.22
+H;Transportes e armazenagem;2015;988.25
+H;Transportes e armazenagem;2016;994.98
+H;Transportes e armazenagem;2017;1002.64
+H;Transportes e armazenagem;2018;1033.97
+H;Transportes e armazenagem;2019;1071.37
+H;Transportes e armazenagem;2020;1033.25
+H;Transportes e armazenagem;2021;1056.12
+H;Transportes e armazenagem;2022;1184.24
+H;Transportes e armazenagem;2023;1269.02
+H;Transportes e armazenagem;2024;1347.49
+I;Alojamento, restauracao e sim.;2014;669.99
+I;Alojamento, restauracao e sim.;2015;673.94
+I;Alojamento, restauracao e sim.;2016;690.54
+I;Alojamento, restauracao e sim.;2017;713.45
+I;Alojamento, restauracao e sim.;2018;739.37
+I;Alojamento, restauracao e sim.;2019;764.08
+I;Alojamento, restauracao e sim.;2020;780.14
+I;Alojamento, restauracao e sim.;2021;822.39
+I;Alojamento, restauracao e sim.;2022;872.72
+I;Alojamento, restauracao e sim.;2023;929.8
+I;Alojamento, restauracao e sim.;2024;994.57
+J;Ativ. Inform. e de comunicacao;2014;1500.69
+J;Ativ. Inform. e de comunicacao;2015;1488.73
+J;Ativ. Inform. e de comunicacao;2016;1520.09
+J;Ativ. Inform. e de comunicacao;2017;1522.79
+J;Ativ. Inform. e de comunicacao;2018;1562.86
+J;Ativ. Inform. e de comunicacao;2019;1614.97
+J;Ativ. Inform. e de comunicacao;2020;1668.12
+J;Ativ. Inform. e de comunicacao;2021;1748.11
+J;Ativ. Inform. e de comunicacao;2022;1915.45
+J;Ativ. Inform. e de comunicacao;2023;2022.39
+J;Ativ. Inform. e de comunicacao;2024;2199
+K;Ativ. financeiras e de seguros;2014;1572.96
+K;Ativ. financeiras e de seguros;2015;1571.12
+K;Ativ. financeiras e de seguros;2016;1585.29
+K;Ativ. financeiras e de seguros;2017;1592.44
+K;Ativ. financeiras e de seguros;2018;1601.12
+K;Ativ. financeiras e de seguros;2019;1632.26
+K;Ativ. financeiras e de seguros;2020;1651.3
+K;Ativ. financeiras e de seguros;2021;1674.12
+K;Ativ. financeiras e de seguros;2022;1705.23
+K;Ativ. financeiras e de seguros;2023;1801.31
+K;Ativ. financeiras e de seguros;2024;1896.55
+L;Atividades imobiliarias;2014;951.85
+L;Atividades imobiliarias;2015;945.14
+L;Atividades imobiliarias;2016;969.55
+L;Atividades imobiliarias;2017;978.99
+L;Atividades imobiliarias;2018;1001.04
+L;Atividades imobiliarias;2019;1045.96
+L;Atividades imobiliarias;2020;1091.64
+L;Atividades imobiliarias;2021;1129.19
+L;Atividades imobiliarias;2022;1185.33
+L;Atividades imobiliarias;2023;1267.88
+L;Atividades imobiliarias;2024;1328.45
+M;Ativ. consultoria, cient.,tec. e sim.;2014;1170.25
+M;Ativ. consultoria, cient.,tec. e sim.;2015;1171.06
+M;Ativ. consultoria, cient.,tec. e sim.;2016;1183.39
+M;Ativ. consultoria, cient.,tec. e sim.;2017;1225.58
+M;Ativ. consultoria, cient.,tec. e sim.;2018;1249.78
+M;Ativ. consultoria, cient.,tec. e sim.;2019;1288.09
+M;Ativ. consultoria, cient.,tec. e sim.;2020;1335.14
+M;Ativ. consultoria, cient.,tec. e sim.;2021;1403.13
+M;Ativ. consultoria, cient.,tec. e sim.;2022;1491.97
+M;Ativ. consultoria, cient.,tec. e sim.;2023;1607.85
+M;Ativ. consultoria, cient.,tec. e sim.;2024;1707.41
+N;Ativ. Adm. e servicos de apoio;2014;772.15
+N;Ativ. Adm. e servicos de apoio;2015;768.27
+N;Ativ. Adm. e servicos de apoio;2016;772.59
+N;Ativ. Adm. e servicos de apoio;2017;787.93
+N;Ativ. Adm. e servicos de apoio;2018;807.44
+N;Ativ. Adm. e servicos de apoio;2019;842.48
+N;Ativ. Adm. e servicos de apoio;2020;864.18
+N;Ativ. Adm. e servicos de apoio;2021;916.97
+N;Ativ. Adm. e servicos de apoio;2022;970.39
+N;Ativ. Adm. e servicos de apoio;2023;1056.28
+N;Ativ. Adm. e servicos de apoio;2024;1139.66
+O;"Adm. Pub. e defesa; seg. social";2014;880.99
+O;"Adm. Pub. e defesa; seg. social";2015;849.2
+O;"Adm. Pub. e defesa; seg. social";2016;848.71
+O;"Adm. Pub. e defesa; seg. social";2017;866.69
+O;"Adm. Pub. e defesa; seg. social";2018;895.16
+O;"Adm. Pub. e defesa; seg. social";2019;950.41
+O;"Adm. Pub. e defesa; seg. social";2020;990.79
+O;"Adm. Pub. e defesa; seg. social";2021;1027.51
+O;"Adm. Pub. e defesa; seg. social";2022;1035.5
+O;"Adm. Pub. e defesa; seg. social";2023;1098.71
+O;"Adm. Pub. e defesa; seg. social";2024;1162.82
+P;Educacao;2014;1119.54
+P;Educacao;2015;1118.44
+P;Educacao;2016;1121.57
+P;Educacao;2017;1136.27
+P;Educacao;2018;1161.14
+P;Educacao;2019;1219.79
+P;Educacao;2020;1259.28
+P;Educacao;2021;1296.72
+P;Educacao;2022;1348.73
+P;Educacao;2023;1435.78
+P;Educacao;2024;1511.69
+Q;Ativ. saude humana e apoio social;2014;821.86
+Q;Ativ. saude humana e apoio social;2015;833.44
+Q;Ativ. saude humana e apoio social;2016;851.36
+Q;Ativ. saude humana e apoio social;2017;871
+Q;Ativ. saude humana e apoio social;2018;891.94
+Q;Ativ. saude humana e apoio social;2019;923.59
+Q;Ativ. saude humana e apoio social;2020;942.71
+Q;Ativ. saude humana e apoio social;2021;974.58
+Q;Ativ. saude humana e apoio social;2022;1004.81
+Q;Ativ. saude humana e apoio social;2023;1055.5
+Q;Ativ. saude humana e apoio social;2024;1145.81
+R;Ativ. artist., espet., desp. e recr.;2014;1383.37
+R;Ativ. artist., espet., desp. e recr.;2015;1514.4
+R;Ativ. artist., espet., desp. e recr.;2016;1537.25
+R;Ativ. artist., espet., desp. e recr.;2017;1612.9
+R;Ativ. artist., espet., desp. e recr.;2018;1607.95
+R;Ativ. artist., espet., desp. e recr.;2019;1645.66
+R;Ativ. artist., espet., desp. e recr.;2020;1838.97
+R;Ativ. artist., espet., desp. e recr.;2021;1780.1
+R;Ativ. artist., espet., desp. e recr.;2022;1789.86
+R;Ativ. artist., espet., desp. e recr.;2023;1903.38
+R;Ativ. artist., espet., desp. e recr.;2024;1963.43
+S;Outras atividades de servicos;2014;847.6
+S;Outras atividades de servicos;2015;847.05
+S;Outras atividades de servicos;2016;857.44
+S;Outras atividades de servicos;2017;877.34
+S;Outras atividades de servicos;2018;901.62
+S;Outras atividades de servicos;2019;932.37
+S;Outras atividades de servicos;2020;987.51
+S;Outras atividades de servicos;2021;1012.59
+S;Outras atividades de servicos;2022;1053.43
+S;Outras atividades de servicos;2023;1105.46
+S;Outras atividades de servicos;2024;1180.2
+U;Ativ. org. int. e o. inst. extra-territ.;2014;1772.71
+U;Ativ. org. int. e o. inst. extra-territ.;2015;1910.54
+U;Ativ. org. int. e o. inst. extra-territ.;2016;2028.96
+U;Ativ. org. int. e o. inst. extra-territ.;2017;1986.43
+U;Ativ. org. int. e o. inst. extra-territ.;2018;2136.13
+U;Ativ. org. int. e o. inst. extra-territ.;2019;2160.36
+U;Ativ. org. int. e o. inst. extra-territ.;2020;1978.98
+U;Ativ. org. int. e o. inst. extra-territ.;2021;1886.51
+U;Ativ. org. int. e o. inst. extra-territ.;2022;3156.84
+U;Ativ. org. int. e o. inst. extra-territ.;2023;3347.61
+U;Ativ. org. int. e o. inst. extra-territ.;2024;3203.52

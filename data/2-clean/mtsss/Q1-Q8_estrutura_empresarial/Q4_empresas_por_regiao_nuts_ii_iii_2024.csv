@@ -1,0 +1,309 @@
+region;year;companies_count
+Norte;2014;104739
+Norte;2015;105959
+Norte;2016;107496
+Norte;2017;108796
+Norte;2018;109936
+Norte;2019;107137
+Norte;2020;107805
+Norte;2021;106036
+Norte;2022;110941
+Norte;2023;112986
+Norte;2024;111565
+Alto Minho;2014;7129
+Alto Minho;2015;7173
+Alto Minho;2016;7291
+Alto Minho;2017;7270
+Alto Minho;2018;7341
+Alto Minho;2019;7045
+Alto Minho;2020;7037
+Alto Minho;2021;6974
+Alto Minho;2022;7227
+Alto Minho;2023;7381
+Alto Minho;2024;7328
+Cavado;2014;13169
+Cavado;2015;13373
+Cavado;2016;13613
+Cavado;2017;13840
+Cavado;2018;13932
+Cavado;2019;13662
+Cavado;2020;13781
+Cavado;2021;13588
+Cavado;2022;14557
+Cavado;2023;15022
+Cavado;2024;15022
+Ave;2014;12761
+Ave;2015;12914
+Ave;2016;13247
+Ave;2017;13507
+Ave;2018;13505
+Ave;2019;13001
+Ave;2020;13164
+Ave;2021;12897
+Ave;2022;13716
+Ave;2023;13850
+Ave;2024;13685
+Area Metropolitana do Porto;2014;49118
+Area Metropolitana do Porto;2015;49590
+Area Metropolitana do Porto;2016;50179
+Area Metropolitana do Porto;2017;50743
+Area Metropolitana do Porto;2018;51437
+Area Metropolitana do Porto;2019;50377
+Area Metropolitana do Porto;2020;50550
+Area Metropolitana do Porto;2021;49104
+Area Metropolitana do Porto;2022;51243
+Area Metropolitana do Porto;2023;52107
+Area Metropolitana do Porto;2024;51191
+Alto Tamega e Barroso;2014;2147
+Alto Tamega e Barroso;2015;2205
+Alto Tamega e Barroso;2016;2256
+Alto Tamega e Barroso;2017;2272
+Alto Tamega e Barroso;2018;2316
+Alto Tamega e Barroso;2019;2252
+Alto Tamega e Barroso;2020;2299
+Alto Tamega e Barroso;2021;2298
+Alto Tamega e Barroso;2022;2409
+Alto Tamega e Barroso;2023;2397
+Alto Tamega e Barroso;2024;2432
+Tamega e Sousa;2014;12069
+Tamega e Sousa;2015;12343
+Tamega e Sousa;2016;12490
+Tamega e Sousa;2017;12646
+Tamega e Sousa;2018;12900
+Tamega e Sousa;2019;12658
+Tamega e Sousa;2020;12707
+Tamega e Sousa;2021;12875
+Tamega e Sousa;2022;13294
+Tamega e Sousa;2023;13558
+Tamega e Sousa;2024;13342
+Douro;2014;5153
+Douro;2015;5162
+Douro;2016;5182
+Douro;2017;5243
+Douro;2018;5223
+Douro;2019;5096
+Douro;2020;5195
+Douro;2021;5144
+Douro;2022;5301
+Douro;2023;5413
+Douro;2024;5377
+Terras de Tras-os-Montes;2014;3193
+Terras de Tras-os-Montes;2015;3199
+Terras de Tras-os-Montes;2016;3238
+Terras de Tras-os-Montes;2017;3275
+Terras de Tras-os-Montes;2018;3282
+Terras de Tras-os-Montes;2019;3046
+Terras de Tras-os-Montes;2020;3072
+Terras de Tras-os-Montes;2021;3156
+Terras de Tras-os-Montes;2022;3194
+Terras de Tras-os-Montes;2023;3258
+Terras de Tras-os-Montes;2024;3188
+Centro;2014;45766
+Centro;2015;46049
+Centro;2016;46552
+Centro;2017;46657
+Centro;2018;46766
+Centro;2019;45574
+Centro;2020;45616
+Centro;2021;44838
+Centro;2022;46520
+Centro;2023;47066
+Centro;2024;46607
+Regiao de Aveiro;2014;9205
+Regiao de Aveiro;2015;9320
+Regiao de Aveiro;2016;9561
+Regiao de Aveiro;2017;9662
+Regiao de Aveiro;2018;9814
+Regiao de Aveiro;2019;9682
+Regiao de Aveiro;2020;9658
+Regiao de Aveiro;2021;9380
+Regiao de Aveiro;2022;9676
+Regiao de Aveiro;2023;9766
+Regiao de Aveiro;2024;9773
+Regiao de Coimbra;2014;10830
+Regiao de Coimbra;2015;10841
+Regiao de Coimbra;2016;10913
+Regiao de Coimbra;2017;10920
+Regiao de Coimbra;2018;10935
+Regiao de Coimbra;2019;10620
+Regiao de Coimbra;2020;10718
+Regiao de Coimbra;2021;10509
+Regiao de Coimbra;2022;11014
+Regiao de Coimbra;2023;11048
+Regiao de Coimbra;2024;10899
+Regiao de Leiria;2014;10176
+Regiao de Leiria;2015;10214
+Regiao de Leiria;2016;10313
+Regiao de Leiria;2017;10330
+Regiao de Leiria;2018;10275
+Regiao de Leiria;2019;9997
+Regiao de Leiria;2020;9987
+Regiao de Leiria;2021;9844
+Regiao de Leiria;2022;10184
+Regiao de Leiria;2023;10426
+Regiao de Leiria;2024;10283
+Viseu Dao Lafoes;2014;6859
+Viseu Dao Lafoes;2015;6980
+Viseu Dao Lafoes;2016;7045
+Viseu Dao Lafoes;2017;7065
+Viseu Dao Lafoes;2018;7093
+Viseu Dao Lafoes;2019;6962
+Viseu Dao Lafoes;2020;6975
+Viseu Dao Lafoes;2021;6950
+Viseu Dao Lafoes;2022;7226
+Viseu Dao Lafoes;2023;7366
+Viseu Dao Lafoes;2024;7294
+Beira Baixa;2014;2688
+Beira Baixa;2015;2715
+Beira Baixa;2016;2717
+Beira Baixa;2017;2654
+Beira Baixa;2018;2682
+Beira Baixa;2019;2637
+Beira Baixa;2020;2619
+Beira Baixa;2021;2630
+Beira Baixa;2022;2733
+Beira Baixa;2023;2743
+Beira Baixa;2024;2682
+Beiras e Serra da Estrela;2014;6008
+Beiras e Serra da Estrela;2015;5979
+Beiras e Serra da Estrela;2016;6003
+Beiras e Serra da Estrela;2017;6026
+Beiras e Serra da Estrela;2018;5967
+Beiras e Serra da Estrela;2019;5676
+Beiras e Serra da Estrela;2020;5659
+Beiras e Serra da Estrela;2021;5525
+Beiras e Serra da Estrela;2022;5687
+Beiras e Serra da Estrela;2023;5717
+Beiras e Serra da Estrela;2024;5676
+Oeste e Vale do Tejo;2014;22795
+Oeste e Vale do Tejo;2015;23005
+Oeste e Vale do Tejo;2016;23120
+Oeste e Vale do Tejo;2017;23388
+Oeste e Vale do Tejo;2018;23374
+Oeste e Vale do Tejo;2019;22884
+Oeste e Vale do Tejo;2020;22898
+Oeste e Vale do Tejo;2021;22539
+Oeste e Vale do Tejo;2022;23397
+Oeste e Vale do Tejo;2023;23798
+Oeste e Vale do Tejo;2024;23734
+Oeste;2014;10433
+Oeste;2015;10563
+Oeste;2016;10676
+Oeste;2017;10940
+Oeste;2018;11025
+Oeste;2019;10864
+Oeste;2020;10952
+Oeste;2021;10812
+Oeste;2022;11295
+Oeste;2023;11504
+Oeste;2024;11570
+Medio Tejo;2014;6017
+Medio Tejo;2015;6079
+Medio Tejo;2016;6040
+Medio Tejo;2017;6030
+Medio Tejo;2018;5964
+Medio Tejo;2019;5812
+Medio Tejo;2020;5778
+Medio Tejo;2021;5770
+Medio Tejo;2022;5900
+Medio Tejo;2023;6010
+Medio Tejo;2024;5983
+Leziria do Tejo;2014;6345
+Leziria do Tejo;2015;6363
+Leziria do Tejo;2016;6404
+Leziria do Tejo;2017;6418
+Leziria do Tejo;2018;6385
+Leziria do Tejo;2019;6208
+Leziria do Tejo;2020;6168
+Leziria do Tejo;2021;5957
+Leziria do Tejo;2022;6202
+Leziria do Tejo;2023;6284
+Leziria do Tejo;2024;6181
+Grande Lisboa;2014;54415
+Grande Lisboa;2015;55029
+Grande Lisboa;2016;55354
+Grande Lisboa;2017;56108
+Grande Lisboa;2018;57209
+Grande Lisboa;2019;55559
+Grande Lisboa;2020;56643
+Grande Lisboa;2021;54793
+Grande Lisboa;2022;57854
+Grande Lisboa;2023;59573
+Grande Lisboa;2024;59232
+Peninsula de Setubal;2014;13124
+Peninsula de Setubal;2015;13250
+Peninsula de Setubal;2016;13484
+Peninsula de Setubal;2017;13666
+Peninsula de Setubal;2018;13850
+Peninsula de Setubal;2019;13653
+Peninsula de Setubal;2020;14047
+Peninsula de Setubal;2021;13853
+Peninsula de Setubal;2022;14699
+Peninsula de Setubal;2023;14910
+Peninsula de Setubal;2024;14916
+Alentejo;2014;13857
+Alentejo;2015;13937
+Alentejo;2016;14026
+Alentejo;2017;14095
+Alentejo;2018;14020
+Alentejo;2019;13753
+Alentejo;2020;13857
+Alentejo;2021;13418
+Alentejo;2022;14383
+Alentejo;2023;14682
+Alentejo;2024;14535
+Alentejo Litoral;2014;2495
+Alentejo Litoral;2015;2491
+Alentejo Litoral;2016;2550
+Alentejo Litoral;2017;2586
+Alentejo Litoral;2018;2592
+Alentejo Litoral;2019;2596
+Alentejo Litoral;2020;2681
+Alentejo Litoral;2021;2645
+Alentejo Litoral;2022;2804
+Alentejo Litoral;2023;2854
+Alentejo Litoral;2024;2837
+Baixo Alentejo;2014;3419
+Baixo Alentejo;2015;3475
+Baixo Alentejo;2016;3509
+Baixo Alentejo;2017;3574
+Baixo Alentejo;2018;3584
+Baixo Alentejo;2019;3505
+Baixo Alentejo;2020;3502
+Baixo Alentejo;2021;3499
+Baixo Alentejo;2022;3654
+Baixo Alentejo;2023;3856
+Baixo Alentejo;2024;3881
+Alto Alentejo;2014;2917
+Alto Alentejo;2015;2906
+Alto Alentejo;2016;2929
+Alto Alentejo;2017;2901
+Alto Alentejo;2018;2878
+Alto Alentejo;2019;2783
+Alto Alentejo;2020;2770
+Alto Alentejo;2021;2634
+Alto Alentejo;2022;2877
+Alto Alentejo;2023;2865
+Alto Alentejo;2024;2787
+Alentejo Central;2014;5026
+Alentejo Central;2015;5065
+Alentejo Central;2016;5038
+Alentejo Central;2017;5034
+Alentejo Central;2018;4966
+Alentejo Central;2019;4869
+Alentejo Central;2020;4904
+Alentejo Central;2021;4640
+Alentejo Central;2022;5048
+Alentejo Central;2023;5107
+Alentejo Central;2024;5030
+Algarve;2014;15485
+Algarve;2015;15831
+Algarve;2016;16300
+Algarve;2017;16481
+Algarve;2018;17081
+Algarve;2019;17191
+Algarve;2020;16775
+Algarve;2021;16329
+Algarve;2022;17066
+Algarve;2023;18237
+Algarve;2024;18174
