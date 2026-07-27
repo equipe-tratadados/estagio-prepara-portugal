@@ -1,0 +1,265 @@
+age_group;gender;year;avg_monthly_wage_eur
+menos - 18 anos;masculino;2014;751.18
+menos - 18 anos;masculino;2015;701.72
+menos - 18 anos;masculino;2016;744.59
+menos - 18 anos;masculino;2017;727.96
+menos - 18 anos;masculino;2018;733.3
+menos - 18 anos;masculino;2019;1031.66
+menos - 18 anos;masculino;2020;1255.6
+menos - 18 anos;masculino;2021;1222.71
+menos - 18 anos;masculino;2022;1184.37
+menos - 18 anos;masculino;2023;1204.42
+menos - 18 anos;masculino;2024;1446.9
+menos - 18 anos;feminino;2014;523.85
+menos - 18 anos;feminino;2015;525.66
+menos - 18 anos;feminino;2016;546.78
+menos - 18 anos;feminino;2017;564.61
+menos - 18 anos;feminino;2018;609.05
+menos - 18 anos;feminino;2019;698
+menos - 18 anos;feminino;2020;662.49
+menos - 18 anos;feminino;2021;686.48
+menos - 18 anos;feminino;2022;743.66
+menos - 18 anos;feminino;2023;801.79
+menos - 18 anos;feminino;2024;888.86
+18 - 24 anos;masculino;2014;629.14
+18 - 24 anos;masculino;2015;644.55
+18 - 24 anos;masculino;2016;660.61
+18 - 24 anos;masculino;2017;682.81
+18 - 24 anos;masculino;2018;713.13
+18 - 24 anos;masculino;2019;749.74
+18 - 24 anos;masculino;2020;781.78
+18 - 24 anos;masculino;2021;817.96
+18 - 24 anos;masculino;2022;881.22
+18 - 24 anos;masculino;2023;950.5
+18 - 24 anos;masculino;2024;1025.51
+18 - 24 anos;feminino;2014;579.35
+18 - 24 anos;feminino;2015;590.6
+18 - 24 anos;feminino;2016;612.13
+18 - 24 anos;feminino;2017;640.24
+18 - 24 anos;feminino;2018;667.73
+18 - 24 anos;feminino;2019;698.92
+18 - 24 anos;feminino;2020;734.65
+18 - 24 anos;feminino;2021;774.37
+18 - 24 anos;feminino;2022;827.2
+18 - 24 anos;feminino;2023;891.28
+18 - 24 anos;feminino;2024;956.09
+25 - 29 anos;masculino;2014;749.18
+25 - 29 anos;masculino;2015;763.39
+25 - 29 anos;masculino;2016;785.23
+25 - 29 anos;masculino;2017;819.22
+25 - 29 anos;masculino;2018;854.04
+25 - 29 anos;masculino;2019;896.09
+25 - 29 anos;masculino;2020;930.39
+25 - 29 anos;masculino;2021;984.62
+25 - 29 anos;masculino;2022;1055.55
+25 - 29 anos;masculino;2023;1111.71
+25 - 29 anos;masculino;2024;1188.71
+25 - 29 anos;feminino;2014;701.29
+25 - 29 anos;feminino;2015;704.39
+25 - 29 anos;feminino;2016;724.54
+25 - 29 anos;feminino;2017;753.87
+25 - 29 anos;feminino;2018;786.45
+25 - 29 anos;feminino;2019;827.03
+25 - 29 anos;feminino;2020;868.82
+25 - 29 anos;feminino;2021;912.5
+25 - 29 anos;feminino;2022;975.99
+25 - 29 anos;feminino;2023;1043.85
+25 - 29 anos;feminino;2024;1118.07
+30 - 34 anos;masculino;2014;857.08
+30 - 34 anos;masculino;2015;864.51
+30 - 34 anos;masculino;2016;873.35
+30 - 34 anos;masculino;2017;898.33
+30 - 34 anos;masculino;2018;942.25
+30 - 34 anos;masculino;2019;988.77
+30 - 34 anos;masculino;2020;1026.54
+30 - 34 anos;masculino;2021;1081.76
+30 - 34 anos;masculino;2022;1155.03
+30 - 34 anos;masculino;2023;1226.97
+30 - 34 anos;masculino;2024;1309.56
+30 - 34 anos;feminino;2014;799.66
+30 - 34 anos;feminino;2015;800.73
+30 - 34 anos;feminino;2016;813.95
+30 - 34 anos;feminino;2017;832.36
+30 - 34 anos;feminino;2018;856.99
+30 - 34 anos;feminino;2019;899.5
+30 - 34 anos;feminino;2020;938.62
+30 - 34 anos;feminino;2021;988.96
+30 - 34 anos;feminino;2022;1059.6
+30 - 34 anos;feminino;2023;1133.8
+30 - 34 anos;feminino;2024;1234.54
+35 - 39 anos;masculino;2014;993.54
+35 - 39 anos;masculino;2015;987.57
+35 - 39 anos;masculino;2016;992.66
+35 - 39 anos;masculino;2017;1003.76
+35 - 39 anos;masculino;2018;1027.18
+35 - 39 anos;masculino;2019;1066.02
+35 - 39 anos;masculino;2020;1097.29
+35 - 39 anos;masculino;2021;1149.93
+35 - 39 anos;masculino;2022;1230.61
+35 - 39 anos;masculino;2023;1309.3
+35 - 39 anos;masculino;2024;1403.82
+35 - 39 anos;feminino;2014;880.87
+35 - 39 anos;feminino;2015;879.09
+35 - 39 anos;feminino;2016;889.01
+35 - 39 anos;feminino;2017;903.49
+35 - 39 anos;feminino;2018;925.19
+35 - 39 anos;feminino;2019;959.68
+35 - 39 anos;feminino;2020;992.67
+35 - 39 anos;feminino;2021;1025.23
+35 - 39 anos;feminino;2022;1081.47
+35 - 39 anos;feminino;2023;1154.72
+35 - 39 anos;feminino;2024;1251.96
+40 - 44 anos;masculino;2014;1080.48
+40 - 44 anos;masculino;2015;1083.38
+40 - 44 anos;masculino;2016;1087.28
+40 - 44 anos;masculino;2017;1097.33
+40 - 44 anos;masculino;2018;1124.75
+40 - 44 anos;masculino;2019;1160.19
+40 - 44 anos;masculino;2020;1180.14
+40 - 44 anos;masculino;2021;1224.8
+40 - 44 anos;masculino;2022;1290.67
+40 - 44 anos;masculino;2023;1369.84
+40 - 44 anos;masculino;2024;1464.16
+40 - 44 anos;feminino;2014;897.33
+40 - 44 anos;feminino;2015;905.82
+40 - 44 anos;feminino;2016;923
+40 - 44 anos;feminino;2017;946.44
+40 - 44 anos;feminino;2018;973.68
+40 - 44 anos;feminino;2019;1005.91
+40 - 44 anos;feminino;2020;1036.09
+40 - 44 anos;feminino;2021;1072.97
+40 - 44 anos;feminino;2022;1124.06
+40 - 44 anos;feminino;2023;1199.78
+40 - 44 anos;feminino;2024;1286.46
+45 - 49 anos;masculino;2014;1076.23
+45 - 49 anos;masculino;2015;1082.27
+45 - 49 anos;masculino;2016;1093.83
+45 - 49 anos;masculino;2017;1116.73
+45 - 49 anos;masculino;2018;1150.45
+45 - 49 anos;masculino;2019;1199.77
+45 - 49 anos;masculino;2020;1236.26
+45 - 49 anos;masculino;2021;1275.57
+45 - 49 anos;masculino;2022;1340.51
+45 - 49 anos;masculino;2023;1429.47
+45 - 49 anos;masculino;2024;1521.25
+45 - 49 anos;feminino;2014;850.93
+45 - 49 anos;feminino;2015;860.36
+45 - 49 anos;feminino;2016;882.31
+45 - 49 anos;feminino;2017;912.79
+45 - 49 anos;feminino;2018;951.03
+45 - 49 anos;feminino;2019;994.55
+45 - 49 anos;feminino;2020;1033.07
+45 - 49 anos;feminino;2021;1074.32
+45 - 49 anos;feminino;2022;1133.06
+45 - 49 anos;feminino;2023;1218.12
+45 - 49 anos;feminino;2024;1304.58
+50 - 54 anos;masculino;2014;1098.48
+50 - 54 anos;masculino;2015;1097.54
+50 - 54 anos;masculino;2016;1097.47
+50 - 54 anos;masculino;2017;1104.9
+50 - 54 anos;masculino;2018;1126.51
+50 - 54 anos;masculino;2019;1153.17
+50 - 54 anos;masculino;2020;1187.74
+50 - 54 anos;masculino;2021;1230.9
+50 - 54 anos;masculino;2022;1309.68
+50 - 54 anos;masculino;2023;1407.92
+50 - 54 anos;masculino;2024;1520.37
+50 - 54 anos;feminino;2014;828.43
+50 - 54 anos;feminino;2015;834.62
+50 - 54 anos;feminino;2016;851.7
+50 - 54 anos;feminino;2017;871.22
+50 - 54 anos;feminino;2018;901.7
+50 - 54 anos;feminino;2019;934.28
+50 - 54 anos;feminino;2020;970.6
+50 - 54 anos;feminino;2021;1013.97
+50 - 54 anos;feminino;2022;1076.23
+50 - 54 anos;feminino;2023;1165.96
+50 - 54 anos;feminino;2024;1268.87
+55 - 59 anos;masculino;2014;1145.02
+55 - 59 anos;masculino;2015;1133.47
+55 - 59 anos;masculino;2016;1123.44
+55 - 59 anos;masculino;2017;1112.03
+55 - 59 anos;masculino;2018;1125.8
+55 - 59 anos;masculino;2019;1142.65
+55 - 59 anos;masculino;2020;1177.14
+55 - 59 anos;masculino;2021;1202.87
+55 - 59 anos;masculino;2022;1262.48
+55 - 59 anos;masculino;2023;1350.02
+55 - 59 anos;masculino;2024;1438.46
+55 - 59 anos;feminino;2014;843.61
+55 - 59 anos;feminino;2015;847.77
+55 - 59 anos;feminino;2016;852.56
+55 - 59 anos;feminino;2017;863
+55 - 59 anos;feminino;2018;881.97
+55 - 59 anos;feminino;2019;896.93
+55 - 59 anos;feminino;2020;931
+55 - 59 anos;feminino;2021;967.95
+55 - 59 anos;feminino;2022;1014.33
+55 - 59 anos;feminino;2023;1094.84
+55 - 59 anos;feminino;2024;1179.57
+60 - 64 anos;masculino;2014;1205.13
+60 - 64 anos;masculino;2015;1214.85
+60 - 64 anos;masculino;2016;1207.74
+60 - 64 anos;masculino;2017;1195.4
+60 - 64 anos;masculino;2018;1199.92
+60 - 64 anos;masculino;2019;1200.6
+60 - 64 anos;masculino;2020;1222.19
+60 - 64 anos;masculino;2021;1227.86
+60 - 64 anos;masculino;2022;1264.96
+60 - 64 anos;masculino;2023;1334.18
+60 - 64 anos;masculino;2024;1427.72
+60 - 64 anos;feminino;2014;821.21
+60 - 64 anos;feminino;2015;830.73
+60 - 64 anos;feminino;2016;843.02
+60 - 64 anos;feminino;2017;869.83
+60 - 64 anos;feminino;2018;900.03
+60 - 64 anos;feminino;2019;930.38
+60 - 64 anos;feminino;2020;960.84
+60 - 64 anos;feminino;2021;983.37
+60 - 64 anos;feminino;2022;1016.72
+60 - 64 anos;feminino;2023;1075.74
+60 - 64 anos;feminino;2024;1147.39
+65+ anos;masculino;2014;1342.71
+65+ anos;masculino;2015;1365.22
+65+ anos;masculino;2016;1356.01
+65+ anos;masculino;2017;1353.73
+65+ anos;masculino;2018;1329.78
+65+ anos;masculino;2019;1356.39
+65+ anos;masculino;2020;1428.29
+65+ anos;masculino;2021;1426.24
+65+ anos;masculino;2022;1419.42
+65+ anos;masculino;2023;1456.5
+65+ anos;masculino;2024;1519.75
+65+ anos;feminino;2014;875.04
+65+ anos;feminino;2015;894.55
+65+ anos;feminino;2016;909.95
+65+ anos;feminino;2017;899.85
+65+ anos;feminino;2018;929.87
+65+ anos;feminino;2019;982.74
+65+ anos;feminino;2020;1024.34
+65+ anos;feminino;2021;1065.13
+65+ anos;feminino;2022;1093.93
+65+ anos;feminino;2023;1157.69
+65+ anos;feminino;2024;1234.77
+Ignorado;masculino;2014;1670.25
+Ignorado;masculino;2015;1597.76
+Ignorado;masculino;2016;1632.89
+Ignorado;masculino;2017;1681.05
+Ignorado;masculino;2018;1715.21
+Ignorado;masculino;2019;937.33
+Ignorado;masculino;2020;1041.09
+Ignorado;masculino;2021;988.09
+Ignorado;masculino;2022;1133.52
+Ignorado;masculino;2023;765
+Ignorado;masculino;2024;1171.51
+Ignorado;feminino;2014;1081.3
+Ignorado;feminino;2015;1130.66
+Ignorado;feminino;2016;1108.42
+Ignorado;feminino;2017;1155.74
+Ignorado;feminino;2018;1159.85
+Ignorado;feminino;2019;904.54
+Ignorado;feminino;2020;988.36
+Ignorado;feminino;2021;934.2
+Ignorado;feminino;2022;1021.53
+Ignorado;feminino;2023;0
+Ignorado;feminino;2024;1079.61

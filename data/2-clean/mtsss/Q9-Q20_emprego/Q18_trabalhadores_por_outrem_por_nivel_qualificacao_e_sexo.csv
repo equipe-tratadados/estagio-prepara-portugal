@@ -1,0 +1,177 @@
+qualification_level;gender;year;employees_count
+Quadros superiores;masculino;2014;107935
+Quadros superiores;masculino;2015;110245
+Quadros superiores;masculino;2016;112923
+Quadros superiores;masculino;2017;116590
+Quadros superiores;masculino;2018;122652
+Quadros superiores;masculino;2019;129834
+Quadros superiores;masculino;2020;136643
+Quadros superiores;masculino;2021;142391
+Quadros superiores;masculino;2022;154897
+Quadros superiores;masculino;2023;162389
+Quadros superiores;masculino;2024;171641
+Quadros superiores;feminino;2014;90293
+Quadros superiores;feminino;2015;94721
+Quadros superiores;feminino;2016;99374
+Quadros superiores;feminino;2017;103531
+Quadros superiores;feminino;2018;110528
+Quadros superiores;feminino;2019;118071
+Quadros superiores;feminino;2020;125514
+Quadros superiores;feminino;2021;132879
+Quadros superiores;feminino;2022;142625
+Quadros superiores;feminino;2023;152799
+Quadros superiores;feminino;2024;161670
+Quadros medios;masculino;2014;72941
+Quadros medios;masculino;2015;74247
+Quadros medios;masculino;2016;76819
+Quadros medios;masculino;2017;81167
+Quadros medios;masculino;2018;84803
+Quadros medios;masculino;2019;83836
+Quadros medios;masculino;2020;87718
+Quadros medios;masculino;2021;89330
+Quadros medios;masculino;2022;97684
+Quadros medios;masculino;2023;100757
+Quadros medios;masculino;2024;101765
+Quadros medios;feminino;2014;66043
+Quadros medios;feminino;2015;68953
+Quadros medios;feminino;2016;72959
+Quadros medios;feminino;2017;76328
+Quadros medios;feminino;2018;80800
+Quadros medios;feminino;2019;81556
+Quadros medios;feminino;2020;85119
+Quadros medios;feminino;2021;87328
+Quadros medios;feminino;2022;94678
+Quadros medios;feminino;2023;96479
+Quadros medios;feminino;2024;97204
+Encar. contram. mest. e chefes;masculino;2014;77240
+Encar. contram. mest. e chefes;masculino;2015;77620
+Encar. contram. mest. e chefes;masculino;2016;80653
+Encar. contram. mest. e chefes;masculino;2017;83817
+Encar. contram. mest. e chefes;masculino;2018;87877
+Encar. contram. mest. e chefes;masculino;2019;85329
+Encar. contram. mest. e chefes;masculino;2020;83980
+Encar. contram. mest. e chefes;masculino;2021;86890
+Encar. contram. mest. e chefes;masculino;2022;94376
+Encar. contram. mest. e chefes;masculino;2023;101143
+Encar. contram. mest. e chefes;masculino;2024;96673
+Encar. contram. mest. e chefes;feminino;2014;44524
+Encar. contram. mest. e chefes;feminino;2015;45857
+Encar. contram. mest. e chefes;feminino;2016;49443
+Encar. contram. mest. e chefes;feminino;2017;53054
+Encar. contram. mest. e chefes;feminino;2018;56466
+Encar. contram. mest. e chefes;feminino;2019;52920
+Encar. contram. mest. e chefes;feminino;2020;51983
+Encar. contram. mest. e chefes;feminino;2021;55052
+Encar. contram. mest. e chefes;feminino;2022;61796
+Encar. contram. mest. e chefes;feminino;2023;68210
+Encar. contram. mest. e chefes;feminino;2024;63610
+Profissionais altam. qualificados;masculino;2014;91459
+Profissionais altam. qualificados;masculino;2015;93730
+Profissionais altam. qualificados;masculino;2016;99603
+Profissionais altam. qualificados;masculino;2017;106415
+Profissionais altam. qualificados;masculino;2018;110781
+Profissionais altam. qualificados;masculino;2019;121613
+Profissionais altam. qualificados;masculino;2020;125955
+Profissionais altam. qualificados;masculino;2021;129812
+Profissionais altam. qualificados;masculino;2022;141741
+Profissionais altam. qualificados;masculino;2023;149227
+Profissionais altam. qualificados;masculino;2024;158519
+Profissionais altam. qualificados;feminino;2014;91170
+Profissionais altam. qualificados;feminino;2015;95815
+Profissionais altam. qualificados;feminino;2016;102335
+Profissionais altam. qualificados;feminino;2017;107156
+Profissionais altam. qualificados;feminino;2018;112783
+Profissionais altam. qualificados;feminino;2019;121557
+Profissionais altam. qualificados;feminino;2020;128771
+Profissionais altam. qualificados;feminino;2021;133721
+Profissionais altam. qualificados;feminino;2022;143050
+Profissionais altam. qualificados;feminino;2023;147330
+Profissionais altam. qualificados;feminino;2024;155722
+Profissionais qualificados;masculino;2014;541440
+Profissionais qualificados;masculino;2015;558904
+Profissionais qualificados;masculino;2016;577377
+Profissionais qualificados;masculino;2017;623424
+Profissionais qualificados;masculino;2018;656464
+Profissionais qualificados;masculino;2019;631996
+Profissionais qualificados;masculino;2020;627429
+Profissionais qualificados;masculino;2021;617966
+Profissionais qualificados;masculino;2022;660462
+Profissionais qualificados;masculino;2023;686194
+Profissionais qualificados;masculino;2024;696010
+Profissionais qualificados;feminino;2014;386308
+Profissionais qualificados;feminino;2015;399801
+Profissionais qualificados;feminino;2016;416339
+Profissionais qualificados;feminino;2017;468834
+Profissionais qualificados;feminino;2018;492818
+Profissionais qualificados;feminino;2019;459477
+Profissionais qualificados;feminino;2020;445660
+Profissionais qualificados;feminino;2021;448264
+Profissionais qualificados;feminino;2022;480610
+Profissionais qualificados;feminino;2023;493181
+Profissionais qualificados;feminino;2024;492264
+Profissionais semi-qualificados;masculino;2014;233306
+Profissionais semi-qualificados;masculino;2015;237914
+Profissionais semi-qualificados;masculino;2016;254447
+Profissionais semi-qualificados;masculino;2017;248727
+Profissionais semi-qualificados;masculino;2018;255362
+Profissionais semi-qualificados;masculino;2019;257099
+Profissionais semi-qualificados;masculino;2020;251110
+Profissionais semi-qualificados;masculino;2021;240263
+Profissionais semi-qualificados;masculino;2022;260895
+Profissionais semi-qualificados;masculino;2023;289714
+Profissionais semi-qualificados;masculino;2024;300507
+Profissionais semi-qualificados;feminino;2014;302604
+Profissionais semi-qualificados;feminino;2015;317309
+Profissionais semi-qualificados;feminino;2016;330993
+Profissionais semi-qualificados;feminino;2017;320414
+Profissionais semi-qualificados;feminino;2018;327004
+Profissionais semi-qualificados;feminino;2019;337227
+Profissionais semi-qualificados;feminino;2020;324043
+Profissionais semi-qualificados;feminino;2021;315376
+Profissionais semi-qualificados;feminino;2022;341469
+Profissionais semi-qualificados;feminino;2023;375328
+Profissionais semi-qualificados;feminino;2024;384907
+Profissionais nao qualificados;masculino;2014;117350
+Profissionais nao qualificados;masculino;2015;120466
+Profissionais nao qualificados;masculino;2016;127061
+Profissionais nao qualificados;masculino;2017;136792
+Profissionais nao qualificados;masculino;2018;139286
+Profissionais nao qualificados;masculino;2019;175214
+Profissionais nao qualificados;masculino;2020;175948
+Profissionais nao qualificados;masculino;2021;183201
+Profissionais nao qualificados;masculino;2022;202071
+Profissionais nao qualificados;masculino;2023;210562
+Profissionais nao qualificados;masculino;2024;215398
+Profissionais nao qualificados;feminino;2014;159634
+Profissionais nao qualificados;feminino;2015;164339
+Profissionais nao qualificados;feminino;2016;164261
+Profissionais nao qualificados;feminino;2017;161046
+Profissionais nao qualificados;feminino;2018;157015
+Profissionais nao qualificados;feminino;2019;191141
+Profissionais nao qualificados;feminino;2020;185578
+Profissionais nao qualificados;feminino;2021;187921
+Profissionais nao qualificados;feminino;2022;194661
+Profissionais nao qualificados;feminino;2023;185755
+Profissionais nao qualificados;feminino;2024;183296
+Praticantes e aprendizes;masculino;2014;37250
+Praticantes e aprendizes;masculino;2015;38595
+Praticantes e aprendizes;masculino;2016;38822
+Praticantes e aprendizes;masculino;2017;40797
+Praticantes e aprendizes;masculino;2018;42768
+Praticantes e aprendizes;masculino;2019;44355
+Praticantes e aprendizes;masculino;2020;37514
+Praticantes e aprendizes;masculino;2021;40387
+Praticantes e aprendizes;masculino;2022;41791
+Praticantes e aprendizes;masculino;2023;43325
+Praticantes e aprendizes;masculino;2024;43199
+Praticantes e aprendizes;feminino;2014;38666
+Praticantes e aprendizes;feminino;2015;39137
+Praticantes e aprendizes;feminino;2016;38510
+Praticantes e aprendizes;feminino;2017;39429
+Praticantes e aprendizes;feminino;2018;40511
+Praticantes e aprendizes;feminino;2019;39257
+Praticantes e aprendizes;feminino;2020;29860
+Praticantes e aprendizes;feminino;2021;31562
+Praticantes e aprendizes;feminino;2022;35341
+Praticantes e aprendizes;feminino;2023;33741
+Praticantes e aprendizes;feminino;2024;31751

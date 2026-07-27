@@ -1,0 +1,199 @@
+district;year;avg_monthly_wage_eur
+Aveiro;2014;822.65
+Aveiro;2015;833.48
+Aveiro;2016;848.25
+Aveiro;2017;866.17
+Aveiro;2018;898.45
+Aveiro;2019;933.57
+Aveiro;2020;962.64
+Aveiro;2021;993.48
+Aveiro;2022;1052.8
+Aveiro;2023;1126.52
+Aveiro;2024;1204.63
+Beja;2014;766.65
+Beja;2015;771.56
+Beja;2016;774.75
+Beja;2017;798.43
+Beja;2018;825.41
+Beja;2019;846.78
+Beja;2020;870.72
+Beja;2021;905.26
+Beja;2022;947.74
+Beja;2023;1003.83
+Beja;2024;1076.04
+Braga;2014;739.18
+Braga;2015;743.72
+Braga;2016;761.02
+Braga;2017;787.65
+Braga;2018;818.11
+Braga;2019;855.14
+Braga;2020;897.25
+Braga;2021;943.61
+Braga;2022;988
+Braga;2023;1059.89
+Braga;2024;1146.02
+Braganca;2014;706.01
+Braganca;2015;708.23
+Braganca;2016;726.98
+Braganca;2017;745.83
+Braganca;2018;766.61
+Braganca;2019;793.8
+Braganca;2020;827.36
+Braganca;2021;858.77
+Braganca;2022;892.75
+Braganca;2023;958.36
+Braganca;2024;1026.18
+Castelo Branco;2014;720.73
+Castelo Branco;2015;727.47
+Castelo Branco;2016;746.22
+Castelo Branco;2017;764.32
+Castelo Branco;2018;784.68
+Castelo Branco;2019;816.49
+Castelo Branco;2020;854.55
+Castelo Branco;2021;893.36
+Castelo Branco;2022;932.85
+Castelo Branco;2023;991.05
+Castelo Branco;2024;1066.61
+Coimbra;2014;802.91
+Coimbra;2015;802.08
+Coimbra;2016;816.41
+Coimbra;2017;834.25
+Coimbra;2018;862.98
+Coimbra;2019;896.42
+Coimbra;2020;924.4
+Coimbra;2021;969.39
+Coimbra;2022;1016.07
+Coimbra;2023;1085.15
+Coimbra;2024;1158.92
+Evora;2014;791.91
+Evora;2015;796.55
+Evora;2016;804.02
+Evora;2017;819.6
+Evora;2018;839.16
+Evora;2019;861.13
+Evora;2020;898.01
+Evora;2021;931.83
+Evora;2022;984.11
+Evora;2023;1049.85
+Evora;2024;1125.55
+Faro;2014;780.52
+Faro;2015;781.12
+Faro;2016;793.76
+Faro;2017;810.99
+Faro;2018;836.09
+Faro;2019;861.15
+Faro;2020;897.18
+Faro;2021;928.44
+Faro;2022;965.83
+Faro;2023;1031.25
+Faro;2024;1095.01
+Guarda;2014;700.01
+Guarda;2015;704.55
+Guarda;2016;721.53
+Guarda;2017;744.13
+Guarda;2018;769.55
+Guarda;2019;795.04
+Guarda;2020;827
+Guarda;2021;864.42
+Guarda;2022;905.21
+Guarda;2023;966.87
+Guarda;2024;1045.71
+Leiria;2014;794.29
+Leiria;2015;799.95
+Leiria;2016;815.1
+Leiria;2017;833.68
+Leiria;2018;861.02
+Leiria;2019;887.38
+Leiria;2020;918.08
+Leiria;2021;961.21
+Leiria;2022;1007.35
+Leiria;2023;1070.77
+Leiria;2024;1144.1
+Lisboa;2014;1150.47
+Lisboa;2015;1151.64
+Lisboa;2016;1155.93
+Lisboa;2017;1171.88
+Lisboa;2018;1194.22
+Lisboa;2019;1230.13
+Lisboa;2020;1266.69
+Lisboa;2021;1312.07
+Lisboa;2022;1388.37
+Lisboa;2023;1474.84
+Lisboa;2024;1567.76
+Portalegre;2014;754.22
+Portalegre;2015;755.71
+Portalegre;2016;767.83
+Portalegre;2017;783.59
+Portalegre;2018;805.96
+Portalegre;2019;828.76
+Portalegre;2020;863.38
+Portalegre;2021;899.36
+Portalegre;2022;939.13
+Portalegre;2023;990.36
+Portalegre;2024;1064.08
+Porto;2014;870.08
+Porto;2015;879.09
+Porto;2016;891.71
+Porto;2017;908.25
+Porto;2018;944.92
+Porto;2019;983.5
+Porto;2020;1030.34
+Porto;2021;1072.16
+Porto;2022;1135.73
+Porto;2023;1212.5
+Porto;2024;1321.62
+Santarem;2014;786.64
+Santarem;2015;793.64
+Santarem;2016;799.15
+Santarem;2017;823.03
+Santarem;2018;842.95
+Santarem;2019;867.34
+Santarem;2020;899.19
+Santarem;2021;933.03
+Santarem;2022;975.12
+Santarem;2023;1038.85
+Santarem;2024;1107.74
+Setubal;2014;945.37
+Setubal;2015;958.98
+Setubal;2016;979.51
+Setubal;2017;989.54
+Setubal;2018;1000.04
+Setubal;2019;1024.46
+Setubal;2020;1059.24
+Setubal;2021;1079.74
+Setubal;2022;1127.39
+Setubal;2023;1192.61
+Setubal;2024;1278.47
+Viana do Castelo;2014;729.89
+Viana do Castelo;2015;741.65
+Viana do Castelo;2016;746.72
+Viana do Castelo;2017;782.27
+Viana do Castelo;2018;802.92
+Viana do Castelo;2019;834.97
+Viana do Castelo;2020;865.76
+Viana do Castelo;2021;907.38
+Viana do Castelo;2022;955.67
+Viana do Castelo;2023;1022.16
+Viana do Castelo;2024;1098.82
+Vila Real;2014;740.77
+Vila Real;2015;744.14
+Vila Real;2016;756.43
+Vila Real;2017;776.75
+Vila Real;2018;799.21
+Vila Real;2019;826.76
+Vila Real;2020;851.92
+Vila Real;2021;878.43
+Vila Real;2022;927.79
+Vila Real;2023;997.39
+Vila Real;2024;1064.34
+Viseu;2014;734.34
+Viseu;2015;737.12
+Viseu;2016;749.63
+Viseu;2017;768.57
+Viseu;2018;793.7
+Viseu;2019;822.97
+Viseu;2020;854.37
+Viseu;2021;902.63
+Viseu;2022;932.68
+Viseu;2023;998.93
+Viseu;2024;1067.41

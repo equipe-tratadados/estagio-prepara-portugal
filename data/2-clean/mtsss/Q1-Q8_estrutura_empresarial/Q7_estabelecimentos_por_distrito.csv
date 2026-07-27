@@ -1,0 +1,199 @@
+district;year;establishments_count
+Aveiro;2014;21970
+Aveiro;2015;22127
+Aveiro;2016;22400
+Aveiro;2017;22594
+Aveiro;2018;22863
+Aveiro;2019;22490
+Aveiro;2020;22462
+Aveiro;2021;21931
+Aveiro;2022;22628
+Aveiro;2023;22840
+Aveiro;2024;22673
+Beja;2014;4897
+Beja;2015;4930
+Beja;2016;5018
+Beja;2017;5102
+Beja;2018;5142
+Beja;2019;5061
+Beja;2020;5111
+Beja;2021;5088
+Beja;2022;5312
+Beja;2023;5600
+Beja;2024;5657
+Braga;2014;29605
+Braga;2015;29920
+Braga;2016;30520
+Braga;2017;30960
+Braga;2018;31136
+Braga;2019;30216
+Braga;2020;30496
+Braga;2021;29956
+Braga;2022;31910
+Braga;2023;32582
+Braga;2024;32426
+Braganca;2014;4203
+Braganca;2015;4211
+Braganca;2016;4240
+Braganca;2017;4267
+Braganca;2018;4280
+Braganca;2019;3997
+Braganca;2020;4025
+Braganca;2021;4148
+Braganca;2022;4210
+Braganca;2023;4314
+Braganca;2024;4180
+Castelo Branco;2014;5698
+Castelo Branco;2015;5686
+Castelo Branco;2016;5691
+Castelo Branco;2017;5612
+Castelo Branco;2018;5626
+Castelo Branco;2019;5451
+Castelo Branco;2020;5400
+Castelo Branco;2021;5369
+Castelo Branco;2022;5592
+Castelo Branco;2023;5606
+Castelo Branco;2024;5527
+Coimbra;2014;12323
+Coimbra;2015;12342
+Coimbra;2016;12392
+Coimbra;2017;12407
+Coimbra;2018;12372
+Coimbra;2019;11967
+Coimbra;2020;12128
+Coimbra;2021;11961
+Coimbra;2022;12457
+Coimbra;2023;12571
+Coimbra;2024;12400
+Evora;2014;6131
+Evora;2015;6132
+Evora;2016;6087
+Evora;2017;6073
+Evora;2018;6029
+Evora;2019;5879
+Evora;2020;5902
+Evora;2021;5608
+Evora;2022;6051
+Evora;2023;6137
+Evora;2024;6058
+Faro;2014;19056
+Faro;2015;19415
+Faro;2016;19902
+Faro;2017;20073
+Faro;2018;20768
+Faro;2019;20888
+Faro;2020;20366
+Faro;2021;19836
+Faro;2022;20699
+Faro;2023;22034
+Faro;2024;21959
+Guarda;2014;5076
+Guarda;2015;5042
+Guarda;2016;5051
+Guarda;2017;5078
+Guarda;2018;5030
+Guarda;2019;4836
+Guarda;2020;4831
+Guarda;2021;4694
+Guarda;2022;4760
+Guarda;2023;4814
+Guarda;2024;4818
+Leiria;2014;17991
+Leiria;2015;18146
+Leiria;2016;18317
+Leiria;2017;18481
+Leiria;2018;18423
+Leiria;2019;18034
+Leiria;2020;18042
+Leiria;2021;17743
+Leiria;2022;18449
+Leiria;2023;18854
+Leiria;2024;18700
+Lisboa;2014;71690
+Lisboa;2015;72246
+Lisboa;2016;72756
+Lisboa;2017;73389
+Lisboa;2018;74689
+Lisboa;2019;72677
+Lisboa;2020;73809
+Lisboa;2021;71616
+Lisboa;2022;75266
+Lisboa;2023;77253
+Lisboa;2024;77003
+Portalegre;2014;3518
+Portalegre;2015;3504
+Portalegre;2016;3523
+Portalegre;2017;3473
+Portalegre;2018;3444
+Portalegre;2019;3298
+Portalegre;2020;3302
+Portalegre;2021;3192
+Portalegre;2022;3433
+Portalegre;2023;3430
+Portalegre;2024;3351
+Porto;2014;58698
+Porto;2015;59308
+Porto;2016;60064
+Porto;2017;60629
+Porto;2018;61580
+Porto;2019;60330
+Porto;2020;60643
+Porto;2021;59433
+Porto;2022;61907
+Porto;2023;63252
+Porto;2024;62369
+Santarem;2014;14316
+Santarem;2015;14410
+Santarem;2016;14376
+Santarem;2017;14353
+Santarem;2018;14254
+Santarem;2019;13858
+Santarem;2020;13738
+Santarem;2021;13511
+Santarem;2022;13899
+Santarem;2023;14124
+Santarem;2024;13985
+Setubal;2014;18689
+Setubal;2015;18787
+Setubal;2016;18918
+Setubal;2017;19094
+Setubal;2018;19213
+Setubal;2019;18872
+Setubal;2020;19347
+Setubal;2021;19056
+Setubal;2022;20105
+Setubal;2023;20429
+Setubal;2024;20414
+Viana do Castelo;2014;8188
+Viana do Castelo;2015;8233
+Viana do Castelo;2016;8364
+Viana do Castelo;2017;8315
+Viana do Castelo;2018;8400
+Viana do Castelo;2019;8045
+Viana do Castelo;2020;8065
+Viana do Castelo;2021;7974
+Viana do Castelo;2022;8261
+Viana do Castelo;2023;8480
+Viana do Castelo;2024;8424
+Vila Real;2014;5912
+Vila Real;2015;5937
+Vila Real;2016;6002
+Vila Real;2017;6020
+Vila Real;2018;6022
+Vila Real;2019;5921
+Vila Real;2020;5994
+Vila Real;2021;5922
+Vila Real;2022;6063
+Vila Real;2023;6133
+Vila Real;2024;6174
+Viseu;2014;10925
+Viseu;2015;11124
+Viseu;2016;11312
+Viseu;2017;11375
+Viseu;2018;11397
+Viseu;2019;11158
+Viseu;2020;11298
+Viseu;2021;11216
+Viseu;2022;11681
+Viseu;2023;11911
+Viseu;2024;11908
