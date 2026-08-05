@@ -1,65 +1,55 @@
-﻿country;year;crude_immigration_rate
-Áustria;1998;9.1
-Áustria;2024;14
-Bélgica;1998;8.2
-Bélgica;2024;
+country;year;crude_immigration_rate
+Austria ;1998;9.1
+Austria ;2024;14
+Belgica;1998;8.2
+Belgica;2024;
 Bulgária;1998;
 Bulgária;2024;
-Suíça;1998;13.5
-Suíça;2024;23.6
 Chipre;1998;13
 Chipre;2024;41.6
-República Checa;1998;
-República Checa;2024;
+Republica Checa ;1998;
+Republica Checa ;2024;
 Alemanha;1998;9.8
 Alemanha;2024;12.9
 Dinamarca;1998;9.7
 Dinamarca;2024;17
-Estónia;1998;
-Estónia;2024;13.6
+Estonia;1998;
+Estonia;2024;13.6
 Espanha;1998;2
 Espanha;2024;
-Finlândia;1998;2.8
-Finlândia;2024;11.4
-França;1998;
-França;2024;6.4
-Grécia;1998;10.9
-Grécia;2024;12.7
-Croácia;1998;11.4
-Croácia;2024;18.2
+Finlandia ;1998;2.8
+Finlandia ;2024;11.4
+Franca;1998;
+Franca;2024;6.4
+Grecia;1998;10.9
+Grecia;2024;12.7
+Croacia;1998;11.4
+Croacia;2024;18.2
 Hungria;1998;1.7
 Hungria;2024;9.2
 Irlanda;1998;13
 Irlanda;2024;23.7
-Islândia;1998;16.6
-Islândia;2024;25.7
-Itália;1998;2.8
-Itália;2024;7.7
-Lituânia;1998;0.8
-Lituânia;2024;
+Italia;1998;2.8
+Italia;2024;7.7
+Lituania;1998;0.8
+Lituania;2024;
 Luxemburgo;1998;27.4
 Luxemburgo;2024;38
-Letónia;1998;1.3
-Letónia;2024;7.9
+Letonia;1998;1.3
+Letonia;2024;7.9
 Malta;1998;
 Malta;2024;59.8
-Países Baixos;1998;7.8
-Países Baixos;2024;14.3
-Noruega;1998;8.3
-Noruega;2024;11.9
-Polónia;1998;0.2
-Polónia;2024;
+Paises Baixos ;1998;7.8
+Paises Baixos ;2024;14.3
+Polonia;1998;0.2
+Polonia;2024;
 Portugal;1998;5.6
 Portugal;2024;
-Roménia;1998;
-Roménia;2024;
-Suécia;1998;5.6
-Suécia;2024;11
-Eslovénia;1998;2.3
-Eslovénia;2024;15.5
-Eslováquia;1998;0.4
-Eslováquia;2024;
-UE;1998;
-UE;2024;
-Reino Unido;1998;5.7
-Reino Unido;2024;
+Romenia;1998;
+Romenia;2024;
+Suecia;1998;5.6
+Suecia;2024;11
+Eslovenia ;1998;2.3
+Eslovenia ;2024;15.5
+Eslovaquia;1998;0.4
+Eslovaquia;2024;
