@@ -1,5 +1,5 @@
 # Documentação de Entrega — Dados SEF/AIMA para o Dashboard de Imigração
-## **Parte 1 de [N] — 3 arquivos**
+## **Parte 1 de [4] — 3 arquivos**
 **Guia de Integração e Dicionário de Dados**
 
 Este documento serve como guia de suporte para o Grupo 2 no desenvolvimento do Dashboard de Imigração. Contém as especificações técnicas, limitações conhecidas e a estrutura de colunas para os **3 ficheiros** de dados tratados incluídos nesta entrega.
