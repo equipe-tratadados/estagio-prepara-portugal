@@ -1,55 +1,865 @@
 country;year;crude_immigration_rate
-Austria ;1998;9.1
-Austria ;2024;14
-Belgica;1998;8.2
-Belgica;2024;
-Bulgária;1998;
-Bulgária;2024;
-Chipre;1998;13
-Chipre;2024;41.6
-Republica Checa ;1998;
-Republica Checa ;2024;
-Alemanha;1998;9.8
-Alemanha;2024;12.9
-Dinamarca;1998;9.7
-Dinamarca;2024;17
-Estonia;1998;
-Estonia;2024;13.6
-Espanha;1998;2
-Espanha;2024;
-Finlandia ;1998;2.8
-Finlandia ;2024;11.4
-Franca;1998;
-Franca;2024;6.4
-Grecia;1998;10.9
-Grecia;2024;12.7
-Croacia;1998;11.4
-Croacia;2024;18.2
-Hungria;1998;1.7
-Hungria;2024;9.2
-Irlanda;1998;13
-Irlanda;2024;23.7
-Italia;1998;2.8
-Italia;2024;7.7
-Lituania;1998;0.8
-Lituania;2024;
-Luxemburgo;1998;27.4
-Luxemburgo;2024;38
-Letonia;1998;1.3
-Letonia;2024;7.9
-Malta;1998;
-Malta;2024;59.8
-Paises Baixos ;1998;7.8
-Paises Baixos ;2024;14.3
-Polonia;1998;0.2
-Polonia;2024;
-Portugal;1998;5.6
-Portugal;2024;
-Romenia;1998;
-Romenia;2024;
-Suecia;1998;5.6
-Suecia;2024;11
-Eslovenia ;1998;2.3
-Eslovenia ;2024;15.5
-Eslovaquia;1998;0.4
-Eslovaquia;2024;
+1998;União Europeia 27 (desde 2020)
+1999;União Europeia 27 (desde 2020)
+2000;União Europeia 27 (desde 2020)
+2001;União Europeia 27 (desde 2020)
+2002;União Europeia 27 (desde 2020)
+2003;União Europeia 27 (desde 2020)
+2004;União Europeia 27 (desde 2020)
+2005;União Europeia 27 (desde 2020)
+2006;União Europeia 27 (desde 2020)
+2007;União Europeia 27 (desde 2020)
+2008;União Europeia 27 (desde 2020)
+2009;União Europeia 27 (desde 2020)
+2010;União Europeia 27 (desde 2020)
+2011;União Europeia 27 (desde 2020)
+2012;União Europeia 27 (desde 2020)
+2013;União Europeia 27 (desde 2020);6.6
+2014;União Europeia 27 (desde 2020);7.2
+2015;União Europeia 27 (desde 2020);9.2
+2016;União Europeia 27 (desde 2020);8.4
+2017;União Europeia 27 (desde 2020);8.5
+2018;União Europeia 27 (desde 2020);8.8
+2019;União Europeia 27 (desde 2020);9.4
+2020;União Europeia 27 (desde 2020);7.3
+2021;União Europeia 27 (desde 2020);9.2
+2022;União Europeia 27 (desde 2020);15.5
+2023;União Europeia 27 (desde 2020);13.3
+2024;União Europeia 27 (desde 2020)
+1998;Alemanha;9.8
+1999;Alemanha;10.6
+2000;Alemanha;10.2
+2001;Alemanha;10.7
+2002;Alemanha;10.2
+2003;Alemanha;9.3
+2004;Alemanha;9.5
+2005;Alemanha;8.6
+2006;Alemanha;8.0
+2007;Alemanha;8.3
+2008;Alemanha;8.3
+2009;Alemanha;4.2
+2010;Alemanha;5.0
+2011;Alemanha;6.1
+2012;Alemanha;7.4
+2013;Alemanha;8.6
+2014;Alemanha;11.1
+2015;Alemanha;19.5
+2016;Alemanha;12.7
+2017;Alemanha;10.9
+2018;Alemanha;10.3
+2019;Alemanha;10.0
+2020;Alemanha;8.0
+2021;Alemanha;9.6
+2022;Alemanha;23.8
+2023;Alemanha;15.6
+2024;Alemanha;12.9
+1998;Áustria;9.1
+1999;Áustria;10.8
+2000;Áustria;10.2
+2001;Áustria;11.2
+2002;Áustria;13.4
+2003;Áustria;13.8
+2004;Áustria;15.0
+2005;Áustria;13.9
+2006;Áustria;11.9
+2007;Áustria;8.8
+2008;Áustria;8.9
+2009;Áustria;8.3
+2010;Áustria;8.5
+2011;Áustria;9.8
+2012;Áustria;10.9
+2013;Áustria;12.0
+2014;Áustria;13.6
+2015;Áustria;19.2
+2016;Áustria;14.8
+2017;Áustria;12.7
+2018;Áustria;11.9
+2019;Áustria;12.3
+2020;Áustria;11.6
+2021;Áustria;13.2
+2022;Áustria;22.3
+2023;Áustria;16.2
+2024;Áustria;14.0
+1998;Bélgica;8.2
+1999;Bélgica;9.0
+2000;Bélgica;8.7
+2001;Bélgica;10.7
+2002;Bélgica;11.0
+2003;Bélgica;10.8
+2004;Bélgica;11.2
+2005;Bélgica;12.7
+2006;Bélgica;13.1
+2007;Bélgica;13.8
+2008;Bélgica
+2009;Bélgica
+2010;Bélgica;12.4
+2011;Bélgica;13.4
+2012;Bélgica;11.7
+2013;Bélgica;10.8
+2014;Bélgica;11.0
+2015;Bélgica;13.0
+2016;Bélgica;10.9
+2017;Bélgica;11.1
+2018;Bélgica;12.1
+2019;Bélgica;13.1
+2020;Bélgica;10.3
+2021;Bélgica;12.1
+2022;Bélgica;17.8
+2023;Bélgica;14.4
+2024;Bélgica
+1998;Bulgária
+1999;Bulgária
+2000;Bulgária
+2001;Bulgária
+2002;Bulgária
+2003;Bulgária
+2004;Bulgária
+2005;Bulgária
+2006;Bulgária
+2007;Bulgária;0.2
+2008;Bulgária
+2009;Bulgária
+2010;Bulgária
+2011;Bulgária
+2012;Bulgária;1.9
+2013;Bulgária;2.6
+2014;Bulgária;3.8
+2015;Bulgária;3.6
+2016;Bulgária;3.1
+2017;Bulgária;3.8
+2018;Bulgária;4.4
+2019;Bulgária;5.7
+2020;Bulgária;5.7
+2021;Bulgária;6.1
+2022;Bulgária;6.3
+2023;Bulgária;8.8
+2024;Bulgária
+1998;Chipre;13.0
+1999;Chipre;12.4
+2000;Chipre;18.4
+2001;Chipre;24.9
+2002;Chipre;9.8
+2003;Chipre;11.1
+2004;Chipre;12.4
+2005;Chipre;14.0
+2006;Chipre;17.4
+2007;Chipre;25.2
+2008;Chipre;26.8
+2009;Chipre;27.9
+2010;Chipre;24.4
+2011;Chipre;27.1
+2012;Chipre;18.7
+2013;Chipre;15.9
+2014;Chipre;15.1
+2015;Chipre;17.8
+2016;Chipre;21.4
+2017;Chipre;25.7
+2018;Chipre;29.1
+2019;Chipre;30.7
+2020;Chipre;25.2
+2021;Chipre;27.6
+2022;Chipre;40.0
+2023;Chipre;42.6
+2024;Chipre;41.5
+1998;Croácia;11.4
+1999;Croácia;7.3
+2000;Croácia
+2001;Croácia;5.7
+2002;Croácia;4.7
+2003;Croácia;4.3
+2004;Croácia;4.3
+2005;Croácia
+2006;Croácia;3.5
+2007;Croácia;3.4
+2008;Croácia;3.9
+2009;Croácia;3.1
+2010;Croácia;2.1
+2011;Croácia;2.0
+2012;Croácia;2.1
+2013;Croácia;2.5
+2014;Croácia;2.5
+2015;Croácia;2.8
+2016;Croácia;3.4
+2017;Croácia;3.8
+2018;Croácia;6.5
+2019;Croácia;9.5
+2020;Croácia;8.5
+2021;Croácia;9.3
+2022;Croácia;15.0
+2023;Croácia;18.0
+2024;Croácia;18.2
+1998;Dinamarca;9.7
+1999;Dinamarca;9.4
+2000;Dinamarca;9.9
+2001;Dinamarca;10.4
+2002;Dinamarca;9.8
+2003;Dinamarca;9.2
+2004;Dinamarca;9.2
+2005;Dinamarca;9.7
+2006;Dinamarca;10.4
+2007;Dinamarca;11.8
+2008;Dinamarca;10.4
+2009;Dinamarca;9.4
+2010;Dinamarca;9.4
+2011;Dinamarca;9.5
+2012;Dinamarca;9.7
+2013;Dinamarca;10.7
+2014;Dinamarca;12.1
+2015;Dinamarca;13.8
+2016;Dinamarca;13.0
+2017;Dinamarca;11.9
+2018;Dinamarca;11.2
+2019;Dinamarca;10.6
+2020;Dinamarca;9.8
+2021;Dinamarca;10.8
+2022;Dinamarca;20.5
+2023;Dinamarca;16.5
+2024;Dinamarca;17.0
+1998;Eslováquia;0.4
+1999;Eslováquia;0.4
+2000;Eslováquia;0.4
+2001;Eslováquia;0.4
+2002;Eslováquia;0.4
+2003;Eslováquia;0.5
+2004;Eslováquia;0.8
+2005;Eslováquia;1.0
+2006;Eslováquia;1.0
+2007;Eslováquia;1.6
+2008;Eslováquia;1.6
+2009;Eslováquia;1.2
+2010;Eslováquia;1.0
+2011;Eslováquia;0.9
+2012;Eslováquia;1
+2013;Eslováquia;1
+2014;Eslováquia;1
+2015;Eslováquia;1.3
+2016;Eslováquia;1.4
+2017;Eslováquia;1.3
+2018;Eslováquia;1.3
+2019;Eslováquia;1.3
+2020;Eslováquia;1.2
+2021;Eslováquia;1.1
+2022;Eslováquia;1.0
+2023;Eslováquia;1.1
+2024;Eslováquia
+1998;Eslovénia;2.3
+1999;Eslovénia;2.5
+2000;Eslovénia;3.1
+2001;Eslovénia;3.9
+2002;Eslovénia;4.6
+2003;Eslovénia;4.6
+2004;Eslovénia;5.1
+2005;Eslovénia;7.5
+2006;Eslovénia;10.0
+2007;Eslovénia;14.5
+2008;Eslovénia;15.2
+2009;Eslovénia;14.9
+2010;Eslovénia;7.5
+2011;Eslovénia;6.9
+2012;Eslovénia;7.3
+2013;Eslovénia;6.7
+2014;Eslovénia;6.7
+2015;Eslovénia;7.5
+2016;Eslovénia;8.0
+2017;Eslovénia;9.1
+2018;Eslovénia;13.7
+2019;Eslovénia;15.0
+2020;Eslovénia;17.2
+2021;Eslovénia;11.2
+2022;Eslovénia;16.9
+2023;Eslovénia;16.0
+2024;Eslovénia;15.5
+1998;Espanha;2.0
+1999;Espanha;3.2
+2000;Espanha;8.9
+2001;Espanha;10.2
+2002;Espanha;11.7
+2003;Espanha;11.1
+2004;Espanha;15.9
+2005;Espanha;16.5
+2006;Espanha;18.9
+2007;Espanha;21.2
+2008;Espanha;13.0
+2009;Espanha;8.5
+2010;Espanha;7.7
+2011;Espanha;7.9
+2012;Espanha;6.5
+2013;Espanha;6.0
+2014;Espanha;6.6
+2015;Espanha;7.4
+2016;Espanha;8.9
+2017;Espanha;11.4
+2018;Espanha;13.8
+2019;Espanha;15.9
+2020;Espanha;9.9
+2021;Espanha;18.7
+2022;Espanha;26.3
+2023;Espanha;25.9
+2024;Espanha
+1998;Estónia
+1999;Estónia
+2000;Estónia;0.0
+2001;Estónia;0.2
+2002;Estónia;0.4
+2003;Estónia;0.7
+2004;Estónia;0.8
+2005;Estónia;1.1
+2006;Estónia;1.7
+2007;Estónia;2.8
+2008;Estónia;2.7
+2009;Estónia;2.9
+2010;Estónia;2.1
+2011;Estónia;2.8
+2012;Estónia;2.0
+2013;Estónia;3.1
+2014;Estónia;3.0
+2015;Estónia;11.7
+2016;Estónia;11.3
+2017;Estónia;13.4
+2018;Estónia;13.3
+2019;Estónia;13.8
+2020;Estónia;12.2
+2021;Estónia;14.7
+2022;Estónia;36.6
+2023;Estónia;19.3
+2024;Estónia;13.6
+1998;Finlândia;2.8
+1999;Finlândia;2.9
+2000;Finlândia;3.3
+2001;Finlândia;3.7
+2002;Finlândia;3.5
+2003;Finlândia;3.4
+2004;Finlândia;3.9
+2005;Finlândia;4.1
+2006;Finlândia;4.3
+2007;Finlândia;4.9
+2008;Finlândia;5.5
+2009;Finlândia;5.0
+2010;Finlândia;4.8
+2011;Finlândia;5.5
+2012;Finlândia;5.8
+2013;Finlândia;5.9
+2014;Finlândia;5.8
+2015;Finlândia;5.2
+2016;Finlândia;6.4
+2017;Finlândia;5.8
+2018;Finlândia;5.6
+2019;Finlândia;5.9
+2020;Finlândia;5.9
+2021;Finlândia;6.6
+2022;Finlândia;9.0
+2023;Finlândia;13.1
+2024;Finlândia;11.4
+1998;França
+1999;França
+2000;França
+2001;França
+2002;França
+2003;França
+2004;França
+2005;França
+2006;França;4.8
+2007;França;4.6
+2008;França;4.6
+2009;França;4.6
+2010;França;4.7
+2011;França;4.9
+2012;França;5.0
+2013;França;5.1
+2014;França;5.1
+2015;França;5.5
+2016;França;5.7
+2017;França;5.5
+2018;França;5.8
+2019;França;5.7
+2020;França;4.9
+2021;França;5.0
+2022;França;6.3
+2023;França;6.1
+2024;França;6.4
+1998;Grécia;10.9
+1999;Grécia;7.9
+2000;Grécia;10.1
+2001;Grécia;9.1
+2002;Grécia;6.2
+2003;Grécia;5.8
+2004;Grécia;6.1
+2005;Grécia;6.5
+2006;Grécia;5.7
+2007;Grécia;5.7
+2008;Grécia;6.0
+2009;Grécia;5.3
+2010;Grécia;5.4
+2011;Grécia;5.4
+2012;Grécia;5.3
+2013;Grécia;5.3
+2014;Grécia;5.4
+2015;Grécia;6.0
+2016;Grécia;10.9
+2017;Grécia;10.5
+2018;Grécia;11.2
+2019;Grécia;12.2
+2020;Grécia;8.0
+2021;Grécia;5.4
+2022;Grécia;9.1
+2023;Grécia;11.2
+2024;Grécia;12.7
+1998;Hungria;1.7
+1999;Hungria;2.1
+2000;Hungria;2.1
+2001;Hungria;2.2
+2002;Hungria;2.0
+2003;Hungria;2.1
+2004;Hungria;2.4
+2005;Hungria;2.8
+2006;Hungria;2.6
+2007;Hungria;2.4
+2008;Hungria;3.8
+2009;Hungria;2.8
+2010;Hungria;2.6
+2011;Hungria;2.8
+2012;Hungria;3.4
+2013;Hungria;3.9
+2014;Hungria;5.6
+2015;Hungria;6.0
+2016;Hungria;5.5
+2017;Hungria;7.0
+2018;Hungria;8.5
+2019;Hungria;9.1
+2020;Hungria;7.8
+2021;Hungria;8.4
+2022;Hungria;9.8
+2023;Hungria;10.0
+2024;Hungria;9.2
+1998;Irlanda;13.0
+1999;Irlanda;13.8
+2000;Irlanda;15.1
+2001;Irlanda;16.8
+2002;Irlanda;15.7
+2003;Irlanda;14.7
+2004;Irlanda;19.2
+2005;Irlanda;24.5
+2006;Irlanda;32.6
+2007;Irlanda;27.8
+2008;Irlanda;18.4
+2009;Irlanda;11.2
+2010;Irlanda;11.5
+2011;Irlanda;12.5
+2012;Irlanda;13.3
+2013;Irlanda;14.2
+2014;Irlanda;15.8
+2015;Irlanda;17.2
+2016;Irlanda;19.6
+2017;Irlanda;17.6
+2018;Irlanda;21.6
+2019;Irlanda;19.4
+2020;Irlanda;16.3
+2021;Irlanda;16.4
+2022;Irlanda;30.2
+2023;Irlanda;25.5
+2024;Irlanda;23.7
+1998;Itália;2.8
+1999;Itália;3.3
+2000;Itália;4.0
+2001;Itália;3.7
+2002;Itália;3.7
+2003;Itália;7.7
+2004;Itália;7.2
+2005;Itália;5.2
+2006;Itália;4.8
+2007;Itália;9.0
+2008;Itália;9.0
+2009;Itália;7.4
+2010;Itália;7.7
+2011;Itália;6.4
+2012;Itália;5.8
+2013;Itália;5.1
+2014;Itália;4.6
+2015;Itália;4.7
+2016;Itália;5.0
+2017;Itália;5.7
+2018;Itália;5.6
+2019;Itália;5.6
+2020;Itália;4.2
+2021;Itália;5.4
+2022;Itália;7.0
+2023;Itália;7.5
+2024;Itália;7.7
+1998;Letónia;1.3
+1999;Letónia;0.8
+2000;Letónia;2.7
+2001;Letónia;2.3
+2002;Letónia;2.9
+2003;Letónia;1.8
+2004;Letónia;2.1
+2005;Letónia;3.0
+2006;Letónia;3.7
+2007;Letónia;3.4
+2008;Letónia;2.1
+2009;Letónia;1.7
+2010;Letónia;1.9
+2011;Letónia;5.0
+2012;Letónia;6.5
+2013;Letónia;4.1
+2014;Letónia;5.2
+2015;Letónia;4.8
+2016;Letónia;4.3
+2017;Letónia;5.1
+2018;Letónia;5.7
+2019;Letónia;5.9
+2020;Letónia;4.7
+2021;Letónia;6.7
+2022;Letónia;20.5
+2023;Letónia;9.9
+2024;Letónia;7.9
+1998;Lituânia;0.8
+1999;Lituânia;0.8
+2000;Lituânia;0.4
+2001;Lituânia;1.4
+2002;Lituânia;1.5
+2003;Lituânia;1.4
+2004;Lituânia;1.6
+2005;Lituânia;2.0
+2006;Lituânia;2.4
+2007;Lituânia;2.7
+2008;Lituânia;2.9
+2009;Lituânia;2.1
+2010;Lituânia;1.7
+2011;Lituânia;5.2
+2012;Lituânia;9.6
+2013;Lituânia;10.4
+2014;Lituânia;11.4
+2015;Lituânia;10.7
+2016;Lituânia;10.9
+2017;Lituânia;11.7
+2018;Lituânia;13.3
+2019;Lituânia;16.6
+2020;Lituânia;16.4
+2021;Lituânia;16.0
+2022;Lituânia;30.9
+2023;Lituânia;23.2
+2024;Lituânia
+1998;Luxemburgo;27.4
+1999;Luxemburgo;29.7
+2000;Luxemburgo;27.0
+2001;Luxemburgo;27.5
+2002;Luxemburgo;27.1
+2003;Luxemburgo;29.1
+2004;Luxemburgo;28.1
+2005;Luxemburgo;31.0
+2006;Luxemburgo;30.4
+2007;Luxemburgo;34.7
+2008;Luxemburgo;36.3
+2009;Luxemburgo;31.6
+2010;Luxemburgo;33.5
+2011;Luxemburgo;39.1
+2012;Luxemburgo;38.6
+2013;Luxemburgo;38.8
+2014;Luxemburgo;40.1
+2015;Luxemburgo;41.8
+2016;Luxemburgo;39.2
+2017;Luxemburgo;40.9
+2018;Luxemburgo;40.5
+2019;Luxemburgo;43.0
+2020;Luxemburgo;35.7
+2021;Luxemburgo;39.6
+2022;Luxemburgo;48.1
+2023;Luxemburgo;40.5
+2024;Luxemburgo;38.0
+1998;Malta
+1999;Malta
+2000;Malta
+2001;Malta
+2002;Malta
+2003;Malta
+2004;Malta
+2005;Malta;5.1
+2006;Malta;9.6
+2007;Malta;13.0
+2008;Malta;14.8
+2009;Malta;14.9
+2010;Malta;10.3
+2011;Malta;13.1
+2012;Malta;21.8
+2013;Malta;29.3
+2014;Malta;36.7
+2015;Malta;41.0
+2016;Malta;39.9
+2017;Malta;48.7
+2018;Malta;56.6
+2019;Malta;58.2
+2020;Malta;28.6
+2021;Malta;32.7
+2022;Malta;65.8
+2023;Malta;76.4
+2024;Malta;59.8
+1998;Países Baixos;7.8
+1999;Países Baixos;7.5
+2000;Países Baixos;8.3
+2001;Países Baixos;8.3
+2002;Países Baixos;7.5
+2003;Países Baixos;6.4
+2004;Países Baixos;5.8
+2005;Países Baixos;5.7
+2006;Países Baixos;6.2
+2007;Países Baixos;7.1
+2008;Países Baixos;8.7
+2009;Países Baixos;7.4
+2010;Países Baixos;7.6
+2011;Países Baixos;7.8
+2012;Países Baixos;7.4
+2013;Países Baixos;7.7
+2014;Países Baixos;8.6
+2015;Países Baixos;9.9
+2016;Países Baixos;11.1
+2017;Países Baixos;11.1
+2018;Países Baixos;11.3
+2019;Países Baixos;12.4
+2020;Países Baixos;10.4
+2021;Países Baixos;12.2
+2022;Países Baixos;18.5
+2023;Países Baixos;15.4
+2024;Países Baixos;14.3
+1998;Polónia;0.2
+1999;Polónia;0.2
+2000;Polónia;0.2
+2001;Polónia;0.2
+2002;Polónia;0.2
+2003;Polónia;0.2
+2004;Polónia;0.2
+2005;Polónia;0.2
+2006;Polónia;0.3
+2007;Polónia;0.4
+2008;Polónia;0.4
+2009;Polónia;5.0
+2010;Polónia;4.1
+2011;Polónia;4.1
+2012;Polónia;5.7
+2013;Polónia;5.8
+2014;Polónia;5.8
+2015;Polónia;5.7
+2016;Polónia;5.5
+2017;Polónia;5.5
+2018;Polónia;5.6
+2019;Polónia;6
+2020;Polónia;5.6
+2021;Polónia;6.5
+2022;Polónia;7.5
+2023;Polónia;8.3
+2024;Polónia
+1998;Portugal;5.6
+1999;Portugal;6.7
+2000;Portugal;7.6
+2001;Portugal;5.9
+2002;Portugal;4.9
+2003;Portugal;3.0
+2004;Portugal;2.0
+2005;Portugal;2.1
+2006;Portugal;2.2
+2007;Portugal;2.8
+2008;Portugal;2.8
+2009;Portugal;3.1
+2010;Portugal;2.6
+2011;Portugal;1.8
+2012;Portugal;1.4
+2013;Portugal;1.7
+2014;Portugal;2.2
+2015;Portugal;3.5
+2016;Portugal;3.6
+2017;Portugal;4.5
+2018;Portugal;5.4
+2019;Portugal;9.2
+2020;Portugal;8.1
+2021;Portugal;9.3
+2022;Portugal;15.5
+2023;Portugal;17.1
+2024;Portugal
+1998;República Checa
+1999;República Checa
+2000;República Checa
+2001;República Checa;1.3
+2002;República Checa;4.4
+2003;República Checa;5.9
+2004;República Checa;5.2
+2005;República Checa;5.9
+2006;República Checa;6.7
+2007;República Checa;10.1
+2008;República Checa;10.4
+2009;República Checa;7.2
+2010;República Checa;4.6
+2011;República Checa;2.6
+2012;República Checa;3.3
+2013;República Checa;2.9
+2014;República Checa;2.8
+2015;República Checa;2.8
+2016;República Checa;6.1
+2017;República Checa;4.9
+2018;República Checa;6.2
+2019;República Checa;9.9
+2020;República Checa;6.0
+2021;República Checa;6.6
+2022;República Checa;32.6
+2023;República Checa;13.1
+2024;República Checa
+1998;Roménia
+1999;Roménia
+2000;Roménia
+2001;Roménia
+2002;Roménia
+2003;Roménia
+2004;Roménia
+2005;Roménia
+2006;Roménia
+2007;Roménia
+2008;Roménia;6.8
+2009;Roménia;6.7
+2010;Roménia;7.4
+2011;Roménia;7.3
+2012;Roménia;8.3
+2013;Roménia;7.7
+2014;Roménia;6.8
+2015;Roménia;6.7
+2016;Roménia;7.0
+2017;Roménia;9.1
+2018;Roménia;8.9
+2019;Roménia;10.4
+2020;Roménia;7.6
+2021;Roménia;10.2
+2022;Roménia;15.4
+2023;Roménia;17.0
+2024;Roménia
+1998;Suécia;5.6
+1999;Suécia;5.6
+2000;Suécia;6.6
+2001;Suécia;6.8
+2002;Suécia;7.2
+2003;Suécia;7.1
+2004;Suécia;6.9
+2005;Suécia;7.2
+2006;Suécia;10.5
+2007;Suécia;10.9
+2008;Suécia;11.0
+2009;Suécia;11.0
+2010;Suécia;10.5
+2011;Suécia;10.2
+2012;Suécia;10.8
+2013;Suécia;12.1
+2014;Suécia;13.1
+2015;Suécia;13.7
+2016;Suécia;16.4
+2017;Suécia;14.4
+2018;Suécia;13.0
+2019;Suécia;11.3
+2020;Suécia;8.0
+2021;Suécia;8.7
+2022;Suécia;9.8
+2023;Suécia;9.0
+2024;Suécia;11.0
+1998;Islândia;16.6
+1999;Islândia;17.3
+2000;Islândia;18.5
+2001;Islândia;17.6
+2002;Islândia;14.7
+2003;Islândia;12.8
+2004;Islândia;18.3
+2005;Islândia;26.2
+2006;Islândia;32.4
+2007;Islândia;40.3
+2008;Islândia;32.4
+2009;Islândia;12.3
+2010;Islândia;12.4
+2011;Islândia;12.8
+2012;Islândia;15.5
+2013;Islândia;19.8
+2014;Islândia;16.4
+2015;Islândia;17.0
+2016;Islândia;26.0
+2017;Islândia;35.3
+2018;Islândia;33.5
+2019;Islândia;27.4
+2020;Islândia;23.3
+2021;Islândia;24.1
+2022;Islândia;38.9
+2023;Islândia;29.1
+2024;Islândia;25.7
+1998;Noruega;8.3
+1999;Noruega;9.4
+2000;Noruega;8.1
+2001;Noruega;7.6
+2002;Noruega;8.8
+2003;Noruega;7.9
+2004;Noruega;7.9
+2005;Noruega;8.7
+2006;Noruega;9.8
+2007;Noruega;13.1
+2008;Noruega;12.2
+2009;Noruega;11.6
+2010;Noruega;14.2
+2011;Noruega;14.2
+2012;Noruega;13.9
+2013;Noruega;13.4
+2014;Noruega;13.0
+2015;Noruega;11.7
+2016;Noruega;11.7
+2017;Noruega;10.1
+2018;Noruega;9.0
+2019;Noruega;9.1
+2020;Noruega;6.7
+2021;Noruega;10.0
+2022;Noruega;16.6
+2023;Noruega;15.7
+2024;Noruega;11.9
+1998;Reino Unido;5.7
+1999;Reino Unido;6.0
+2000;Reino Unido;6.2
+2001;Reino Unido;6.3
+2002;Reino Unido;6.5
+2003;Reino Unido;7.2
+2004;Reino Unido;8.6
+2005;Reino Unido
+2006;Reino Unido;8.7
+2007;Reino Unido;8.6
+2008;Reino Unido;9.5
+2009;Reino Unido;9.1
+2010;Reino Unido;9.4
+2011;Reino Unido;8.9
+2012;Reino Unido;7.8
+2013;Reino Unido;8.2
+2014;Reino Unido;9.8
+2015;Reino Unido;9.7
+2016;Reino Unido;9.0
+2017;Reino Unido;9.8
+2018;Reino Unido;9.1
+2019;Reino Unido;10.2
+2020;Reino Unido
+2021;Reino Unido
+2022;Reino Unido
+2023;Reino Unido
+2024;Reino Unido
+1998;Suíça;13.5
+1999;Suíça;15.1
+2000;Suíça;15.4
+2001;Suíça;17.2
+2002;Suíça;17.5
+2003;Suíça;16.3
+2004;Suíça;16.3
+2005;Suíça;15.9
+2006;Suíça;17.0
+2007;Suíça;21.9
+2008;Suíça;24.1
+2009;Suíça;20.7
+2010;Suíça;20.7
+2011;Suíça;18.8
+2012;Suíça;18.6
+2013;Suíça;19.8
+2014;Suíça;19.1
+2015;Suíça;18.5
+2016;Suíça;17.8
+2017;Suíça;17.0
+2018;Suíça;17.0
+2019;Suíça;16.9
+2020;Suíça;16.1
+2021;Suíça;16.6
+2022;Suíça;19.0
+2023;Suíça;29.6
+2024;Suíça;23.6
